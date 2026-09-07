@@ -1,0 +1,2079 @@
+{
+  "schemaVersion": 2,
+  "id": "EP006",
+  "slug": "vi-sao-giu-tui-vut-coc-v03",
+  "title": "Vì sao người ta vứt chiếc cốc nhưng lại giữ chiếc túi?",
+  "durationMs": 45770,
+  "assets": [
+    {
+      "id": "A01",
+      "src": "ep006/v03/generated/a01-discard-cup-alpha-v03.png",
+      "alt": "Bàn tay thả cốc rỗng xuống thùng rác",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A02",
+      "src": "ep006/v03/generated/a02-fold-bag-alpha-v03.png",
+      "alt": "Hai bàn tay kéo và gấp túi giấy",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A03",
+      "src": "ep006/v03/generated/a03-customer-cup-bag-alpha-v03.png",
+      "alt": "Khách cầm cốc và túi cạnh nhau",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A04",
+      "src": "ep006/v03/generated/a04-drawer-folded-bag-alpha-v03.png",
+      "alt": "Túi gấp trong ngăn kéo chờ lần dùng",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A05",
+      "src": "ep006/v03/generated/a05-pack-gift-bag-alpha-v03.png",
+      "alt": "Bàn tay mở túi và đặt hộp quà vào",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A06",
+      "src": "ep006/v03/generated/a06-gift-carrier-alpha-v03.png",
+      "alt": "Người trẻ mang túi quà tới cửa",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A07",
+      "src": "ep006/v03/generated/a07-gift-recipient-alpha-v03.png",
+      "alt": "Người nhận quan sát và hỏi mua ở đâu",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A08",
+      "src": "ep006/v03/generated/a08-shop-owner-audit-alpha-v03.png",
+      "alt": "Chủ shop trải các điểm chạm sau bán",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A09",
+      "src": "ep006/v03/generated/a09-touchpoints-sheet-alpha-v03.png",
+      "alt": "Bộ ba điểm chạm quà thiệp hóa đơn",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A10",
+      "src": "ep006/v03/generated/a10-crumple-wrapper-alpha-v03.png",
+      "alt": "Bàn tay vò giấy gói vô dụng",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A11",
+      "src": "ep006/v03/generated/a11-phone-audit-alpha-v03.png",
+      "alt": "Điện thoại chụp bàn điểm chạm",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    }
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "startMs": 0,
+      "endMs": 2367,
+      "purpose": "hook",
+      "focus": "both",
+      "headline": "familiarHook",
+      "body": "Cho người xem thấy nghịch lý đời thường ngay lập tức",
+      "assetIds": [
+        "A02"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B02",
+      "startMs": 2367,
+      "endMs": 7891,
+      "purpose": "curiosity",
+      "focus": "both",
+      "headline": "curiosityBuild",
+      "body": "Loại bỏ câu trả lời hời hợt và tạo câu hỏi về công việc tiếp theo của món đồ",
+      "assetIds": [
+        "A02"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B03",
+      "startMs": 7891,
+      "endMs": 14204,
+      "purpose": "perspective",
+      "focus": "both",
+      "headline": "perspectiveFlip",
+      "body": "Lật từ vẻ đẹp sang khả năng tiếp tục được dùng",
+      "assetIds": [
+        "A02"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B04",
+      "startMs": 14204,
+      "endMs": 24463,
+      "purpose": "marketing",
+      "focus": "both",
+      "headline": "marketingDecode",
+      "body": "Cho thấy lần xuất hiện thứ hai rồi mới gọi tên cơ chế marketing",
+      "assetIds": [
+        "A02"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B05",
+      "startMs": 24463,
+      "endMs": 33144,
+      "purpose": "proof",
+      "focus": "both",
+      "headline": "proof",
+      "body": "Chứng minh logo lớn không đủ và nêu ba lý do thực sự khiến món đồ được giữ",
+      "assetIds": [
+        "A02"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B06",
+      "startMs": 33144,
+      "endMs": 37089,
+      "purpose": "lesson",
+      "focus": "both",
+      "headline": "lesson",
+      "body": "Chốt đúng một bài học dễ nhớ",
+      "assetIds": [
+        "A02"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B07",
+      "startMs": 37089,
+      "endMs": 45770,
+      "purpose": "application",
+      "focus": "both",
+      "headline": "application",
+      "body": "Cho một bài test có thể làm ngay và một CTA",
+      "assetIds": [
+        "A02"
+      ],
+      "transition": "push"
+    }
+  ],
+  "audio": {
+    "voiceSrc": "audio/ep006-voice-cartesia-processed-v03.wav",
+    "voiceVolume": 1,
+    "musicSrc": "audio/background-music-v01.mp3",
+    "musicVolume": 0.08
+  },
+  "wordsSrc": "src/data/ep006-v03-words.json",
+  "motionGrammar": "continuous-stage-v1",
+  "visualGrammar": "subject-led-v1",
+  "visualCues": [
+    {
+      "id": "C01",
+      "wordIndex": 0,
+      "startMs": 0,
+      "endMs": 860,
+      "spokenAnchor": "Cốc",
+      "semanticIntent": "Cho thấy kết cục của chiếc cốc ngay khi voice nói vứt",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "items": [
+        {
+          "id": "discard-cup",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "hành động vứt cốc",
+          "motion": "track",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": -60,
+              "scale": 0.95,
+              "rotation": -4,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 30,
+              "scale": 1.05,
+              "rotation": 5,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 0
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "wordIndex": 3,
+      "startMs": 860,
+      "endMs": 1500,
+      "spokenAnchor": "Sao",
+      "semanticIntent": "Đảo hướng chú ý từ cốc sang chiếc túi được giữ",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "bag-hook",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "motif chiếc túi được giữ",
+          "motion": "slide",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": 3,
+              "opacity": 0
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 860
+        },
+        {
+          "id": "keep-label",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "GIỮ LẠI?",
+          "role": "câu hỏi mở",
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 210,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 200,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 860
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "wordIndex": 8,
+      "startMs": 1500,
+      "endMs": 2540,
+      "spokenAnchor": "gấp",
+      "semanticIntent": "Khóa nghịch lý bằng động tác gấp túi",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "follow",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "bag-hook",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "motif được gấp lại",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 860
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "wordIndex": 11,
+      "startMs": 2540,
+      "endMs": 4060,
+      "spokenAnchor": "Cùng",
+      "semanticIntent": "Đặt cốc và túi vào cùng một lần mua",
+      "composition": "compare",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "bag-hook",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "khách cầm cả cốc và túi",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 860
+        },
+        {
+          "id": "same-purchase-cup",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "chiếc cốc cùng lần mua",
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 40,
+              "scale": 0.78,
+              "rotation": 4,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.92,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 2540
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "wordIndex": 17,
+      "startMs": 4060,
+      "endMs": 5320,
+      "spokenAnchor": "Không",
+      "semanticIntent": "Phủ định câu trả lời chỉ dựa vào vẻ ngoài",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "bag-hook",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "chiếc túi đang được xem xét",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 860
+        },
+        {
+          "id": "beauty-question",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "CHỈ VÌ ĐẸP?",
+          "role": "giả thuyết bị nghi ngờ",
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 200,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 4060
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "wordIndex": 24,
+      "startMs": 5320,
+      "endMs": 6840,
+      "spokenAnchor": "mà",
+      "semanticIntent": "Hé lộ cơ chế chiếc túi còn công việc tiếp theo",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "bag-hook",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "túi chờ công việc mới",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 860
+        },
+        {
+          "id": "next-job",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "VIỆC TIẾP THEO",
+          "role": "cơ chế ẩn",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 200,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 5320
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "wordIndex": 33,
+      "startMs": 6840,
+      "endMs": 7860,
+      "spokenAnchor": "Hôm",
+      "semanticIntent": "Cho thấy công việc đầu tiên đã hoàn thành",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "follow",
+        "intensity": "subtle"
+      },
+      "transition": "cut",
+      "items": [
+        {
+          "id": "drink-now",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "khách dùng đồ uống hôm nay",
+          "motion": "track",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 40,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 6840
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "wordIndex": 38,
+      "startMs": 7860,
+      "endMs": 8420,
+      "spokenAnchor": "Ngày",
+      "semanticIntent": "Mở lần sử dụng thứ hai bằng match-cut túi gấp thành túi mở",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "bag-reuse",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "túi gấp bắt đầu lần dùng hai",
+          "motion": "scale",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 20,
+              "scale": 0.88,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.08,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 7860
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "wordIndex": 40,
+      "startMs": 8420,
+      "endMs": 9900,
+      "spokenAnchor": "nó",
+      "semanticIntent": "Đặt món quà vào chiếc túi bằng hành động thật",
+      "composition": "compare",
+      "exit": "replace",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "bag-reuse",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "túi mở nhận món quà",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 7860
+        },
+        {
+          "id": "gift-box",
+          "kind": "asset",
+          "assetId": "A09",
+          "role": "món quà được đặt vào",
+          "motion": "slide",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": -40,
+              "scale": 0.78,
+              "rotation": 3,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 8420
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "wordIndex": 48,
+      "startMs": 9900,
+      "endMs": 10980,
+      "spokenAnchor": "Khi",
+      "semanticIntent": "Theo người mang quà tới cửa để mở không gian câu chuyện",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "gift-carrier",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "người mang túi quà",
+          "motion": "track",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 20,
+              "scale": 0.88,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": -180,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 9900
+        },
+        {
+          "id": "door-mark",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "TỚI NHÀ BẠN",
+          "role": "bối cảnh giao quà",
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 210,
+              "y": 20,
+              "scale": 0.82,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.96,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 9900
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "wordIndex": 54,
+      "startMs": 10980,
+      "endMs": 11920,
+      "spokenAnchor": "họ",
+      "semanticIntent": "Chuyển điểm nhìn sang phản ứng của người nhận",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "gift-recipient-look",
+          "kind": "asset",
+          "assetId": "A07",
+          "role": "người nhận chú ý",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.9,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.06,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 10980
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "wordIndex": 58,
+      "startMs": 11920,
+      "endMs": 13360,
+      "spokenAnchor": "rồi",
+      "semanticIntent": "Biến sự chú ý thành câu hỏi truyền miệng",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "gift-recipient-ask",
+          "kind": "asset",
+          "assetId": "A07",
+          "role": "người nhận đặt câu hỏi",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 11920
+        },
+        {
+          "id": "where-question",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "MUA Ở ĐÂU VẬY?",
+          "role": "câu hỏi truyền miệng",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 11920
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "wordIndex": 64,
+      "startMs": 13360,
+      "endMs": 14760,
+      "spokenAnchor": "Thế",
+      "semanticIntent": "Cho thấy thương hiệu được gợi nhớ ở lần dùng thứ hai",
+      "composition": "process",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "purchase-node",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "LẦN MUA",
+          "role": "điểm bắt đầu",
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -200,
+              "y": 20,
+              "scale": 0.82,
+              "rotation": -1,
+              "opacity": 0
+            },
+            "to": {
+              "x": -200,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 13360
+        },
+        {
+          "id": "reuse-node",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "LẦN DÙNG HAI",
+          "role": "điểm xuất hiện thứ hai",
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.82,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 200,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 13360
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "wordIndex": 73,
+      "startMs": 14760,
+      "endMs": 16280,
+      "spokenAnchor": "dù",
+      "semanticIntent": "Nhấn rằng lần xuất hiện này không cần thêm quảng cáo",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "purchase-node",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "LẦN MUA",
+          "role": "điểm bắt đầu",
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -200,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -200,
+              "y": 0,
+              "scale": 0.88,
+              "rotation": 0,
+              "opacity": 0.65
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 13360
+        },
+        {
+          "id": "ad-off",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "KHÔNG THÊM QUẢNG CÁO",
+          "role": "trạng thái quảng cáo tắt",
+          "motion": "stamp",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 180,
+              "y": 20,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 170,
+              "y": 0,
+              "scale": 0.96,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 14760
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "wordIndex": 81,
+      "startMs": 16280,
+      "endMs": 17620,
+      "spokenAnchor": "Trong",
+      "semanticIntent": "Chỉ gọi tên marketing sau khi cơ chế đã được nhìn thấy",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "post-sale-term",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "ĐIỂM CHẠM SAU BÁN",
+          "role": "tên nguyên lý",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.08,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 16280
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "wordIndex": 88,
+      "startMs": 17620,
+      "endMs": 19160,
+      "spokenAnchor": "sống",
+      "semanticIntent": "Giải nghĩa nguyên lý bằng thời gian tồn tại",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "post-sale-term",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "SỐNG LÂU HƠN GIAO DỊCH",
+          "role": "giải nghĩa thời gian tồn tại",
+          "motion": "none",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.08,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.08,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 16280
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "wordIndex": 93,
+      "startMs": 19160,
+      "endMs": 21690,
+      "spokenAnchor": "Nhưng",
+      "semanticIntent": "Phủ định việc logo lớn tự tạo lý do giữ",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "items": [
+        {
+          "id": "giant-logo",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "LOGO THẬT LỚN ≠ LÝ DO GIỮ",
+          "role": "giả định logo lớn",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 19160
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "wordIndex": 104,
+      "startMs": 21690,
+      "endMs": 22860,
+      "spokenAnchor": "lại.",
+      "semanticIntent": "Đưa tiêu chí đầu tiên bằng hành động sử dụng",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "follow",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "useful-touchpoints",
+          "kind": "asset",
+          "assetId": "A09",
+          "role": "đồ vật có công dụng",
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.88,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 21690
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "wordIndex": 110,
+      "startMs": 22860,
+      "endMs": 23520,
+      "spokenAnchor": "đủ",
+      "semanticIntent": "Cho tiêu chí vẻ đẹp như một trải nghiệm thị giác",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "beautiful-card",
+          "kind": "asset",
+          "assetId": "A09",
+          "role": "điểm chạm đủ đẹp",
+          "motion": "scale",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 22860
+        },
+        {
+          "id": "beautiful-label",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "ĐỦ ĐẸP ĐỂ GIỮ",
+          "role": "tiêu chí vẻ đẹp",
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.96,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 22860
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "wordIndex": 112,
+      "startMs": 23520,
+      "endMs": 24920,
+      "spokenAnchor": "hoặc",
+      "semanticIntent": "Cho tiêu chí cảm xúc bằng phản ứng lưu giữ",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "memory-recipient",
+          "kind": "asset",
+          "assetId": "A07",
+          "role": "người nhận lưu kỷ niệm",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.88,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 23520
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "wordIndex": 118,
+      "startMs": 24920,
+      "endMs": 26320,
+      "spokenAnchor": "Còn",
+      "semanticIntent": "Đối chiếu bằng kết cục đi vào thùng rác",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "items": [
+        {
+          "id": "crumple-wrapper",
+          "kind": "asset",
+          "assetId": "A10",
+          "role": "bao bì vô dụng bị bỏ",
+          "motion": "track",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": -60,
+              "scale": 0.9,
+              "rotation": -3,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 40,
+              "scale": 1.02,
+              "rotation": 6,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 24920
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "wordIndex": 118,
+      "startMs": 26320,
+      "endMs": 28220,
+      "spokenAnchor": "đến",
+      "semanticIntent": "Đối chiếu bằng kết cục đi vào thùng rác",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "items": [
+        {
+          "id": "crumple-wrapper",
+          "kind": "asset",
+          "assetId": "A10",
+          "role": "bao bì vô dụng bị bỏ",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 40,
+              "scale": 1.02,
+              "rotation": 6,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 40,
+              "scale": 1.02,
+              "rotation": 6,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 24920
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "wordIndex": 133,
+      "startMs": 28220,
+      "endMs": 29620,
+      "spokenAnchor": "Bài",
+      "semanticIntent": "Chốt việc thiết kế sau lần mua thay vì chỉ khoảnh khắc thanh toán",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "lesson-timeline",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "MUA XONG → VẪN SỐNG TIẾP",
+          "role": "một bài học",
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": -1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 28220
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "wordIndex": 133,
+      "startMs": 29620,
+      "endMs": 31200,
+      "spokenAnchor": "thiết",
+      "semanticIntent": "Chốt việc thiết kế sau lần mua thay vì chỉ khoảnh khắc thanh toán",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "lesson-timeline",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "MUA XONG → VẪN SỐNG TIẾP",
+          "role": "một bài học",
+          "motion": "none",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 28220
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "wordIndex": 144,
+      "startMs": 31200,
+      "endMs": 33680,
+      "spokenAnchor": "Hãy",
+      "semanticIntent": "Đưa motif trở lại để gắn bài học với một vật cụ thể",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "bag-lesson-return",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "motif sống tiếp sau mua",
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 31200
+        },
+        {
+          "id": "live-on",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "CÓ LÝ DO SỐNG TIẾP",
+          "role": "kết luận dễ nhớ",
+          "motion": "stamp",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 200,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 31200
+        }
+      ]
+    },
+    {
+      "id": "C26",
+      "wordIndex": 158,
+      "startMs": 33680,
+      "endMs": 36320,
+      "spokenAnchor": "Thử",
+      "semanticIntent": "Bắt đầu bài test bằng thao tác trải các điểm chạm",
+      "composition": "sequence",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "bag-lesson-return",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "túi trong bài test",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -240,
+              "y": 0,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": -240,
+              "y": 0,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 31200
+        },
+        {
+          "id": "audit-owner",
+          "kind": "asset",
+          "assetId": "A08",
+          "role": "chủ shop thực hiện audit",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 40,
+              "scale": 0.82,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 33680
+        },
+        {
+          "id": "audit-touchpoints",
+          "kind": "asset",
+          "assetId": "A09",
+          "role": "các điểm chạm sau bán",
+          "motion": "slide",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 240,
+              "y": 40,
+              "scale": 0.75,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 240,
+              "y": 0,
+              "scale": 0.85,
+              "rotation": 1,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 33680
+        }
+      ]
+    },
+    {
+      "id": "C27",
+      "wordIndex": 158,
+      "startMs": 36320,
+      "endMs": 37900,
+      "spokenAnchor": "và",
+      "semanticIntent": "Bắt đầu bài test bằng thao tác trải các điểm chạm",
+      "composition": "sequence",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "bag-lesson-return",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "túi trong bài test",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -240,
+              "y": 0,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": -240,
+              "y": 0,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 31200
+        },
+        {
+          "id": "audit-owner",
+          "kind": "asset",
+          "assetId": "A08",
+          "role": "chủ shop thực hiện audit",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 33680
+        },
+        {
+          "id": "audit-touchpoints",
+          "kind": "asset",
+          "assetId": "A09",
+          "role": "các điểm chạm sau bán",
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 240,
+              "y": 0,
+              "scale": 0.85,
+              "rotation": 1,
+              "opacity": 1
+            },
+            "to": {
+              "x": 240,
+              "y": 0,
+              "scale": 0.85,
+              "rotation": 1,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 33680
+        }
+      ]
+    },
+    {
+      "id": "C28",
+      "wordIndex": 172,
+      "startMs": 37900,
+      "endMs": 40780,
+      "spokenAnchor": "Hỏi",
+      "semanticIntent": "Biến bài test thành một câu hỏi duy nhất",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "follow",
+        "intensity": "subtle"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "audit-phone",
+          "kind": "asset",
+          "assetId": "A11",
+          "role": "điện thoại chụp bài test",
+          "motion": "scale",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 37900
+        },
+        {
+          "id": "tomorrow-question",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "NGÀY MAI KHÁCH CÒN GIỮ GÌ?",
+          "role": "câu hỏi ứng dụng",
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 37900
+        }
+      ]
+    },
+    {
+      "id": "C29",
+      "wordIndex": 183,
+      "startMs": 40780,
+      "endMs": 43580,
+      "spokenAnchor": "Nếu",
+      "semanticIntent": "Thu bài test về đúng một lựa chọn để bắt đầu",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "audit-phone",
+          "kind": "asset",
+          "assetId": "A11",
+          "role": "điện thoại giữ góc nhìn bài test",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 37900
+        },
+        {
+          "id": "one-choice",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "BẮT ĐẦU TỪ MỘT MÓN",
+          "role": "hành động nhỏ nhất",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.96,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 40780
+        }
+      ]
+    },
+    {
+      "id": "C30",
+      "wordIndex": 196,
+      "startMs": 43580,
+      "endMs": 44540,
+      "spokenAnchor": "Lưu",
+      "semanticIntent": "Đưa motif quay lại cạnh một CTA duy nhất",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "bag-cta",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "motif khép vòng",
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 0.98,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 43580
+        },
+        {
+          "id": "save-button",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "LƯU VIDEO",
+          "role": "CTA duy nhất",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          },
+          "enterMs": 43580
+        }
+      ]
+    },
+    {
+      "id": "C31",
+      "wordIndex": 203,
+      "startMs": 44540,
+      "endMs": 45770,
+      "spokenAnchor": "trải",
+      "semanticIntent": "Khép bằng phạm vi bài test sau bán",
+      "composition": "compare",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "bag-cta",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "motif cuối video",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "kept-bag",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 0.98,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 0.98,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          },
+          "enterMs": 43580
+        },
+        {
+          "id": "post-sale-label",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "KIỂM TRA TRẢI NGHIỆM SAU BÁN",
+          "role": "phạm vi hành động",
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.8,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.92,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          },
+          "enterMs": 44540
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "id": "EP005",
+  "slug": "phe-la-ban-tra-dac-san-camping",
+  "title": "Giải mã Phê La: Bán trà đắt + Bắt ngồi ghế xếp sao vẫn full bàn?",
+  "durationMs": 65000,
+  "cardA": {
+    "label": "TRÀ SỮA 25K",
+    "sublabel": "Bẫy so sánh giá rẻ",
+    "assetId": "s01"
+  },
+  "cardB": {
+    "label": "PHÊ LA 65K",
+    "sublabel": "Trà Ô Long Đặc Sản Camping",
+    "assetId": "s03"
+  },
+  "audio": {
+    "voiceSrc": "audio/ep005-voice-1.1x.wav",
+    "voiceVolume": 1.0,
+    "musicSrc": "audio/background-music-v01.mp3",
+    "musicVolume": 0.12
+  },
+  "wordsSrc": "src/data/words.json",
+  "assets": [
+    {
+      "id": "s01",
+      "src": "ep005/v01/crops/s01.png",
+      "alt": "Asset s01",
+      "kind": "image"
+    },
+    {
+      "id": "s02",
+      "src": "ep005/v01/crops/s02.png",
+      "alt": "Asset s02",
+      "kind": "image"
+    },
+    {
+      "id": "s03",
+      "src": "ep005/v01/crops/s03.png",
+      "alt": "Asset s03",
+      "kind": "image"
+    },
+    {
+      "id": "s04",
+      "src": "ep005/v01/crops/s04.png",
+      "alt": "Asset s04",
+      "kind": "image"
+    },
+    {
+      "id": "s05",
+      "src": "ep005/v01/crops/s05.png",
+      "alt": "Asset s05",
+      "kind": "image"
+    },
+    {
+      "id": "s06",
+      "src": "ep005/v01/crops/s06.png",
+      "alt": "Asset s06",
+      "kind": "image"
+    },
+    {
+      "id": "s07",
+      "src": "ep005/v01/crops/s07.png",
+      "alt": "Asset s07",
+      "kind": "image"
+    },
+    {
+      "id": "s08",
+      "src": "ep005/v01/crops/s08.png",
+      "alt": "Asset s08",
+      "kind": "image"
+    },
+    {
+      "id": "s09",
+      "src": "ep005/v01/crops/s09.png",
+      "alt": "Asset s09",
+      "kind": "image"
+    },
+    {
+      "id": "s10",
+      "src": "ep005/v01/crops/s10.png",
+      "alt": "Asset s10",
+      "kind": "image"
+    },
+    {
+      "id": "s11",
+      "src": "ep005/v01/crops/s11.png",
+      "alt": "Asset s11",
+      "kind": "image"
+    },
+    {
+      "id": "s12",
+      "src": "ep005/v01/crops/s12.png",
+      "alt": "Asset s12",
+      "kind": "image"
+    },
+    {
+      "id": "s13",
+      "src": "ep005/v01/crops/s13.png",
+      "alt": "Asset s13",
+      "kind": "image"
+    },
+    {
+      "id": "s14",
+      "src": "ep005/v01/crops/s14.png",
+      "alt": "Asset s14",
+      "kind": "image"
+    },
+    {
+      "id": "s15",
+      "src": "ep005/v01/crops/s15.png",
+      "alt": "Asset s15",
+      "kind": "image"
+    },
+    {
+      "id": "s16",
+      "src": "ep005/v01/crops/s16.png",
+      "alt": "Asset s16",
+      "kind": "image"
+    },
+    {
+      "id": "s17",
+      "src": "ep005/v01/crops/s17.png",
+      "alt": "Asset s17",
+      "kind": "image"
+    },
+    {
+      "id": "s18",
+      "src": "ep005/v01/crops/s18.png",
+      "alt": "Asset s18",
+      "kind": "image"
+    },
+    {
+      "id": "s19",
+      "src": "ep005/v01/crops/s19.png",
+      "alt": "Asset s19",
+      "kind": "image"
+    },
+    {
+      "id": "s20",
+      "src": "ep005/v01/crops/s20.png",
+      "alt": "Asset s20",
+      "kind": "image"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b01",
+      "startMs": 0,
+      "endMs": 8500,
+      "purpose": "hook",
+      "focus": "both",
+      "headline": "PHÊ LA 65K/LY?",
+      "body": "Đắt gấp đôi sao khách vẫn ngồi kín vỉa hè?",
+      "assetIds": [
+        "s01",
+        "s02",
+        "s03",
+        "s04"
+      ],
+      "transition": "cut"
+    },
+    {
+      "id": "b02",
+      "startMs": 8500,
+      "endMs": 15000,
+      "purpose": "answer",
+      "focus": "both",
+      "headline": "ĐỪNG TỰ GỌI TRÀ SỮA",
+      "body": "Tự nhận trà sữa là rơi vào bẫy so sánh giá",
+      "assetIds": [
+        "s05",
+        "s06",
+        "s07"
+      ],
+      "transition": "cut"
+    },
+    {
+      "id": "b03",
+      "startMs": 15000,
+      "endMs": 26500,
+      "purpose": "example",
+      "focus": "b",
+      "headline": "TẠO SÂN CHƠI MỚI",
+      "body": "Định vị: Trà Ô Long Đặc Sản Đà Lạt",
+      "assetIds": [
+        "s08",
+        "s09",
+        "s10"
+      ],
+      "transition": "cut"
+    },
+    {
+      "id": "b04",
+      "startMs": 26500,
+      "endMs": 34000,
+      "purpose": "compare",
+      "focus": "both",
+      "headline": "TRẢI NGHIỆM CAMPING",
+      "body": "Ghế dù cắm trại: Bán cảm giác chill giữa phố",
+      "assetIds": [
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "transition": "cut"
+    },
+    {
+      "id": "b05",
+      "startMs": 34000,
+      "endMs": 40000,
+      "purpose": "example",
+      "focus": "b",
+      "headline": "CHỤP ẢNH KHOE ĐƯỢC",
+      "body": "Khách flex lối sống sành điệu lên Story",
+      "assetIds": [
+        "s03",
+        "s14"
+      ],
+      "transition": "cut"
+    },
+    {
+      "id": "b06",
+      "startMs": 40000,
+      "endMs": 47000,
+      "purpose": "example",
+      "focus": "b",
+      "headline": "CHIẾN LƯỢC ÍT MÓN",
+      "body": "Dồn lực vào Ô Long Khói & Ô Long Sữa",
+      "assetIds": [
+        "s15",
+        "s16"
+      ],
+      "transition": "cut"
+    },
+    {
+      "id": "b07",
+      "startMs": 47000,
+      "endMs": 51000,
+      "purpose": "safety",
+      "focus": "b",
+      "headline": "TỐI ƯU VẬN HÀNH",
+      "body": "Menu tinh gọn → Pha nhanh & Chất lượng chuẩn",
+      "assetIds": [
+        "s17"
+      ],
+      "transition": "cut"
+    },
+    {
+      "id": "b08",
+      "startMs": 51000,
+      "endMs": 65000,
+      "purpose": "payoff",
+      "focus": "both",
+      "headline": "TỰ TẠO SÂN CHƠI RIÊNG",
+      "body": "Một góc nhìn dễ hiểu · Một việc làm ngay",
+      "assetIds": [
+        "s18",
+        "s19",
+        "s20"
+      ],
+      "transition": "cut"
+    }
+  ]
+}

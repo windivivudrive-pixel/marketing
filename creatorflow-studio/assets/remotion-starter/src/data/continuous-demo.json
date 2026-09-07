@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "motionGrammar": "continuous-stage-v1",
+  "id": "motion-demo",
+  "slug": "continuous-stage-demo",
+  "title": "Continuous stage demo",
+  "durationMs": 10000,
+  "wordsSrc": "src/data/words.json",
+  "cardA": {"label":"","sublabel":"","assetId":""},
+  "cardB": {"label":"","sublabel":"","assetId":""},
+  "assets": [],
+  "beats": [
+    {"id":"B01","startMs":0,"endMs":2500,"purpose":"hook","focus":"both","headline":"","body":"","assetIds":[],"transition":"cut"},
+    {"id":"B02","startMs":2500,"endMs":5000,"purpose":"answer","focus":"both","headline":"","body":"","assetIds":[],"transition":"slide"},
+    {"id":"B03","startMs":5000,"endMs":7500,"purpose":"example","focus":"both","headline":"","body":"","assetIds":[],"transition":"push"},
+    {"id":"B04","startMs":7500,"endMs":10000,"purpose":"payoff","focus":"both","headline":"","body":"","assetIds":[],"transition":"reveal"}
+  ],
+  "visualCues": [
+    {"id":"C01","startMs":0,"endMs":2500,"spokenAnchor":"Cùng một ly","semanticIntent":"Giữ ly và đổi giá","composition":"code","exit":"transform","camera":{"mode":"push-in","intensity":"medium"},"transition":"cut","items":[{"id":"hero-cup","kind":"code","codeTemplate":"label","text":"☕","role":"Narrative cup","enterMs":0,"motion":"scale","semanticRole":"subject","transform":{"from":{"x":0,"y":20,"scale":0.7,"rotation":-4,"opacity":1},"to":{"x":-180,"y":0,"scale":1.15,"rotation":0,"opacity":1},"easing":"spring"}},{"id":"price","kind":"code","codeTemplate":"price-board","text":"49K → 69K","role":"Price evidence","enterMs":0,"motion":"reveal","semanticRole":"evidence","transform":{"from":{"x":230,"y":40,"scale":0.72,"rotation":3,"opacity":0},"to":{"x":160,"y":0,"scale":1,"rotation":0,"opacity":1},"easing":"ease-out"}}]},
+    {"id":"C02","startMs":2500,"endMs":5000,"spokenAnchor":"Thêm tiền","semanticIntent":"Reframe into the customer question","composition":"code","exit":"carry","camera":{"mode":"pan","intensity":"subtle"},"transition":"match-move","items":[{"id":"hero-cup","kind":"code","codeTemplate":"label","text":"☕","role":"Narrative cup","enterMs":0,"motion":"none","semanticRole":"subject","transform":{"from":{"x":-180,"y":0,"scale":1.15,"rotation":0,"opacity":1},"to":{"x":-210,"y":20,"scale":0.92,"rotation":-2,"opacity":1},"easing":"ease-out"}},{"id":"question","kind":"code","codeTemplate":"label","text":"THÊM TIỀN CHO GÌ?","role":"Question","enterMs":2500,"motion":"stamp","semanticRole":"accent","transform":{"from":{"x":190,"y":50,"scale":0.76,"rotation":2,"opacity":0},"to":{"x":130,"y":0,"scale":0.96,"rotation":0,"opacity":1},"easing":"spring"}}]},
+    {"id":"C03","startMs":5000,"endMs":7500,"spokenAnchor":"Lý do","semanticIntent":"Zoom through to the hidden mechanism","composition":"code","exit":"transform","camera":{"mode":"follow","intensity":"medium"},"transition":"zoom-through","items":[{"id":"hero-cup","kind":"code","codeTemplate":"label","text":"☕","role":"Narrative cup","enterMs":0,"motion":"none","semanticRole":"subject","transform":{"from":{"x":-210,"y":20,"scale":0.92,"rotation":-2,"opacity":1},"to":{"x":0,"y":0,"scale":1.35,"rotation":0,"opacity":1},"easing":"ease-out"}},{"id":"reason","kind":"code","codeTemplate":"label","text":"LÝ DO ĐỂ CHỌN","role":"Mechanism","enterMs":5000,"motion":"reveal","semanticRole":"accent","transform":{"from":{"x":0,"y":190,"scale":0.72,"rotation":0,"opacity":0},"to":{"x":0,"y":155,"scale":0.92,"rotation":0,"opacity":1},"easing":"ease-out"}}]},
+    {"id":"C04","startMs":7500,"endMs":10000,"spokenAnchor":"Thử ngay","semanticIntent":"Pull out into one immediate action","composition":"code","exit":"replace","camera":{"mode":"pull-out","intensity":"medium"},"transition":"reframe","items":[{"id":"hero-cup","kind":"code","codeTemplate":"label","text":"☕","role":"Narrative cup","enterMs":0,"motion":"none","semanticRole":"subject","transform":{"from":{"x":0,"y":0,"scale":1.35,"rotation":0,"opacity":1},"to":{"x":-190,"y":10,"scale":0.86,"rotation":-1,"opacity":1},"easing":"ease-out"}},{"id":"test","kind":"code","codeTemplate":"price-board","text":"ĐƯA BẢNG GIÁ\nCHO NGƯỜI MỚI","role":"Application evidence","enterMs":7500,"motion":"reveal","semanticRole":"evidence","transform":{"from":{"x":220,"y":50,"scale":0.7,"rotation":2,"opacity":0},"to":{"x":120,"y":0,"scale":0.94,"rotation":0,"opacity":1},"easing":"spring"}}]}
+  ],
+  "audio": {"voiceSrc":"","voiceVolume":1,"musicSrc":"","musicVolume":0}
+}

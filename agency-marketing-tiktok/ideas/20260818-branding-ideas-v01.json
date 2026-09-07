@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-18T04:45:00.000Z",
+  "profile": "creatorflow/profile.json",
+  "ideas": [
+    {
+      "id": "IDEA001",
+      "rank": 1,
+      "title": "Chiếc cốc size M biến mất: Vì sao khách luôn chọn size to nhất?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Shop tung ra nhiều gói sản phẩm hoặc kích cỡ nhưng khách hàng chỉ mua loại rẻ nhất, kéo doanh thu trên mỗi đơn hàng (AOV) xuống rất thấp.",
+      "viewerQuestion": "Làm sao để khách tự động chọn gói cao cấp mà không có cảm giác bị ép giá?",
+      "caseStory": "Quan sát menu đồ uống tại các chuỗi lớn: Size S giá 35k, Size M giá 45k, Size L giá 49k. 80% khách hàng quyết định nâng thẳng lên Size L chỉ vì 'thêm 4k được hẳn ly to'.",
+      "curiosityParadox": "Size M sinh ra không phải để bán, vậy tại sao mọi quán đều phải in nó lên bảng giá?",
+      "brandingLesson": "Hiệu ứng chim mồi (Decoy Effect) — Đặt một lựa chọn bất đối xứng làm mồi so sánh để khách hàng tự thuyết phục bản thân rằng lựa chọn cao cấp là món hời nhất.",
+      "actionablePayoff": "Tạo ra một gói sản phẩm 'mồi' có giá sát nút gói cao cấp nhưng tính năng chỉ nhỉnh hơn gói cơ bản một chút.",
+      "topicKeywords": ["pricing strategy", "decoy effect", "menu engineering", "tang gia tri don", "tam ly khach hang"],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Ngón tay lướt trên bảng menu cà phê, phân vân giữa 3 chiếc ly nhựa kích cỡ S, M, L in giá tiền.",
+      "narrativeObject": "Bộ ba ly đồ uống size S, M, L với nhãn giá dán trên thân ly",
+      "curiosityGap": "Tại sao khoảng cách giá giữa S và M là 10k, nhưng từ M lên L lại chỉ có 4k?",
+      "hiddenMechanism": "Size M đóng vai trò vật hy sinh; nó làm cho size L trông giống như một phần thưởng giá rẻ không thể bỏ qua.",
+      "marketingBridge": "Khách hàng không biết giá trị thực tế của sản phẩm, họ chỉ so sánh các con số được đặt cạnh nhau.",
+      "proofMove": "Thử nghiệm bỏ size M khỏi menu: khách lập tức quay lại mua size S rẻ nhất.",
+      "singleLesson": "Muốn bán món chính, hãy tạo một lựa chọn phụ làm mồi so sánh.",
+      "immediateApplication": "Mở bảng giá của bạn, thêm một gói ở giữa có giá gần bằng gói cao nhất để kích cầu.",
+      "motionPotential": [
+        "Ba chiếc ly xuất hiện cạnh nhau rồi ly size M mờ đi thành vật mồi",
+        "Mũi tên so sánh nhảy từ mức chênh lệch 10k sang mức chênh lệch 4k"
+      ],
+      "sceneOpportunities": [
+        {"voiceSubject": "Khách hàng nhìn menu", "literalVisual": "Bàn tay cầm menu cà phê lướt qua 3 cột giá", "action": "lướt ngón tay chọn món", "sceneFamily": "storefront", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Ba chiếc ly S M L", "literalVisual": "Bộ ba ly đặt trên quầy bar với nhãn 35k - 45k - 49k", "action": "so sánh chiều cao và mức giá", "sceneFamily": "comparison", "humanAction": false, "motifPresent": true},
+        {"voiceSubject": "Tâm lý khách hàng", "literalVisual": "Góc nhìn người mua đắn đo và chỉ tay vào ly L", "action": "chỉ tay quyết định mua size to", "sceneFamily": "customer-reaction", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Thử nghiệm bỏ size M", "literalVisual": "Bảng menu chỉ còn 2 cột giá S và L", "action": "gạch bỏ cột ở giữa", "sceneFamily": "evidence-board", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Cơ chế định giá mồi", "literalVisual": "Sơ đồ đòn bẩy tâm lý đẩy quyết định mua về phía gói mục tiêu", "action": "kích hoạt đòn bẩy giá trị", "sceneFamily": "framework", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Hành động cho chủ shop", "literalVisual": "Màn hình điện thoại chỉnh sửa menu bảng giá trên app quản lý", "action": "thêm gói mồi so sánh", "sceneFamily": "application-phone", "humanAction": true, "motifPresent": true}
+      ],
+      "motifUsage": {
+        "returnPoints": ["mở đầu menu", "phân tích khoảng cách giá", "chốt bài học"],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.45
+      },
+      "evidence": [
+        {"title": "The Decoy Effect in Consumer Decision Making", "url": "https://www.psychologytoday.com/us/basics/decoy-effect", "accessedAt": "2026-08-18", "supports": "Cơ chế tâm lý so sánh bất đối xứng khi có 3 lựa chọn"},
+        {"title": "Economist Subscription Pricing Experiment by Dan Ariely", "url": "https://danariely.com/the-economist-experiment/", "accessedAt": "2026-08-18", "supports": "Bằng chứng thực nghiệm khi bỏ gói trung gian làm mồi"}
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED"},
+      "visualSeed": "Photoreal Vietnamese coffee menu with 3 cup sizes on counter, clean cutouts",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 40
+    },
+    {
+      "id": "IDEA002",
+      "rank": 2,
+      "title": "Thẻ tích điểm 10 ô: Bí mật của 2 con dấu đóng sẵn",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Phát thẻ tích điểm hoặc voucher khách quen nhưng tỷ lệ quay lại thấp, thẻ thường bị vứt vào sọt rác hoặc lãng quên trong ví.",
+      "viewerQuestion": "Làm sao để tăng gấp đôi tỷ lệ khách quay lại tích điểm mà không tốn thêm chi phí khuyến mãi?",
+      "caseStory": "Hai quán cà phê cùng tặng 1 ly miễn phí sau khi mua đủ 8 ly: Quán A phát thẻ 8 ô trắng; Quán B phát thẻ 10 ô nhưng đã đóng sẵn 2 dấu đỏ. Kết quả Quán B có tỷ lệ hoàn thành thẻ cao gần gấp đôi.",
+      "curiosityParadox": "Cả hai thẻ đều bắt khách mua đúng 8 ly mới được quà, tại sao khách lại hào hứng với chiếc thẻ 10 ô hơn?",
+      "brandingLesson": "Hiệu ứng tiến độ mục tiêu (Endowed Progress Effect) — Khi cảm thấy mình đã bắt đầu một hành trình và hoàn thành được 20%, con người có xu hướng nỗ lực về đích cao hơn nhiều so với việc bắt đầu từ số 0.",
+      "actionablePayoff": "Tặng ngay điểm thưởng khởi đầu hoặc đóng sẵn dấu đầu tiên để khách có cảm giác 'đã có tiến độ sẵn'.",
+      "topicKeywords": ["loyalty program", "endowed progress effect", "giu chan khach hang", "the tich diem", "retention"],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Bàn tay rút chiếc thẻ tích điểm bằng giấy kraft từ trong bóp, nhìn vào 2 con dấu đỏ đã đóng sẵn.",
+      "narrativeObject": "Tấm thẻ tích điểm hình chữ nhật bằng giấy kraft với 10 ô tròn và 2 con dấu mực đỏ",
+      "curiosityGap": "Tại sao con số 8 ô trống lại tạo cảm giác xa xôi hơn là 10 ô đã đóng sẵn 2 dấu?",
+      "hiddenMechanism": "Tâm lý sợ lãng phí tiến độ: Não bộ coi 2 con dấu sẵn là 'tài sản đã sở hữu' nên không muốn vứt bỏ.",
+      "marketingBridge": "Giảm lực cản tâm lý của lần mua tiếp theo bằng cách tạo cảm giác hành trình đã bắt đầu.",
+      "proofMove": "Thí nghiệm rửa xe của Nunes & Dreze chứng minh tỷ lệ quay lại tăng từ 19% lên 34% chỉ nhờ 2 dấu mồi.",
+      "singleLesson": "Đừng bắt khách bắt đầu từ số 0, hãy cho họ cảm giác đã có tiến độ sẵn.",
+      "immediateApplication": "Cài đặt chương trình tích điểm hoặc tin nhắn chào mừng tặng ngay 20 điểm khởi động.",
+      "motionPotential": [
+        "Hai con dấu đỏ đóng 'bụp' xuống chiếc thẻ giấy kraft",
+        "Thanh tiến độ nhảy vọt từ 0% lên 20% tạo cảm giác thành tựu"
+      ],
+      "sceneOpportunities": [
+        {"voiceSubject": "Khách rút thẻ từ ví", "literalVisual": "Bàn tay mở ví da lấy ra tấm thẻ tích điểm", "action": "mở ví kiểm tra thẻ", "sceneFamily": "wallet-action", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Đối chiếu 2 loại thẻ", "literalVisual": "Hai tấm thẻ đặt cạnh nhau: thẻ 8 ô trắng và thẻ 10 ô có 2 dấu", "action": "so sánh trực diện hai loại thẻ", "sceneFamily": "comparison", "humanAction": false, "motifPresent": true},
+        {"voiceSubject": "Nhân viên đóng dấu", "literalVisual": "Tay nhân viên cầm con dấu mực đỏ đóng liên tiếp 2 phát", "action": "đóng dấu ưu đãi", "sceneFamily": "counter-action", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Biểu đồ tỷ lệ hoàn thành", "literalVisual": "Cột tỷ lệ 19% vs 34% bật lên rõ ràng", "action": "tăng trưởng dữ liệu so sánh", "sceneFamily": "chart-analytics", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Cơ chế tâm lý tiến độ", "literalVisual": "Thanh tiến độ game hóa hiển thị quãng đường về đích", "action": "tiến bước về vạch đích", "sceneFamily": "framework", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Cài đặt trên ứng dụng", "literalVisual": "Giao diện màn hình tạo voucher tích điểm trên điện thoại", "action": "thiết lập điểm khởi động", "sceneFamily": "application-phone", "humanAction": true, "motifPresent": true}
+      ],
+      "motifUsage": {
+        "returnPoints": ["mở ví xem thẻ", "so sánh 8 ô vs 10 ô", "kết luận thẻ tích điểm"],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.42
+      },
+      "evidence": [
+        {"title": "The Endowed Progress Effect - Nunes & Drèze (Journal of Consumer Research)", "url": "https://academic.oup.com/jcr/article-abstract/32/4/504/1813958", "accessedAt": "2026-08-18", "supports": "Nghiên cứu gốc về thẻ tích điểm rửa xe 8 vs 10 ô"}
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED"},
+      "visualSeed": "Kraft loyalty card with round stamp slots and red ink seal, authentic coffee shop counter",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 40
+    },
+    {
+      "id": "IDEA003",
+      "rank": 3,
+      "title": "Dải băng keo xé đỏ: Chi tiết nhỏ khiến khách tự quay clip unboxing",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Gửi hàng cho khách rất chỉn chu nhưng khách nhận xong bóc vội rồi vứt hộp, không có động lực chia sẻ hay quay video unboxing.",
+      "viewerQuestion": "Làm sao để biến khâu nhận hàng thành trải nghiệm khách hàng tự hào khoe lên mạng xã hội?",
+      "caseStory": "Nhiều thương hiệu D2C thay thế việc dán băng keo chằng chịt bằng một dải ruy băng xé (tear strip). Khách chỉ cần kéo nhẹ một đường là hộp mở toang kèm âm thanh 'xoẹt' cực đã tai.",
+      "curiosityParadox": "Sản phẩm nằm bên trong hộp, tại sao khách hàng lại hào hứng quay video khoe khoảnh khắc xé vỏ ngoài?",
+      "brandingLesson": "Thiết kế xúc giác không lực cản (Zero-friction Tactile Branding) — Biến một hành vi ức chế (đi tìm kéo rạch băng dính) thành một trải nghiệm xúc giác thỏa mãn để kích thích hành vi khoe khoang (UGC).",
+      "actionablePayoff": "Loại bỏ mọi rào cản vật lý khi bóc hộp và thêm một chi tiết xúc giác tạo niềm vui đầu tiên.",
+      "topicKeywords": ["unboxing experience", "tactile branding", "packaging design", "ugc marketing", "trai nghiem khach hang"],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Kiện hàng giao tới cửa, bàn tay giật dải băng xé màu đỏ chạy dọc thân hộp carton.",
+      "narrativeObject": "Chiếc hộp carton đóng gói tinh gọn với đường dải băng xé đỏ nổi bật",
+      "curiosityGap": "Tại sao một đường rãnh xé nhỏ lại biến người mua thành người sáng tạo nội dung miễn phí cho shop?",
+      "hiddenMechanism": "Cảm giác kiểm soát và thỏa mãn âm thanh (ASMR/tactile payoff) kích hoạt hormone dopamine ngay giây đầu tiên.",
+      "marketingBridge": "Trải nghiệm thương hiệu bắt đầu từ giây đầu tiên khách chạm vào bao bì bên ngoài.",
+      "proofMove": "Đối chiếu: Chiếc hộp dán băng dính 5 lớp khiến khách phải dùng dao chọc thủng làm hỏng cả thiệp bên trong.",
+      "singleLesson": "Trải nghiệm thương hiệu bắt đầu từ chiếc hộp bên ngoài, không phải lúc dùng sản phẩm.",
+      "immediateApplication": "Tự đặt một đơn từ shop mình về nhà, bấm giờ xem mất bao nhiêu giây để mở được hộp.",
+      "motionPotential": [
+        "Dải băng đỏ bị xé mượt mà để lộ sản phẩm bên trong",
+        "So sánh cảnh mở hộp nhẹ nhàng vs cảnh dùng dao kéo rạch vất vả"
+      ],
+      "sceneOpportunities": [
+        {"voiceSubject": "Nhận kiện hàng", "literalVisual": "Shipper trao hộp carton có dải băng đỏ cho người mua", "action": "nhận kiện hàng tại cửa", "sceneFamily": "delivery", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Động tác xé băng keo", "literalVisual": "Cận cảnh ngón tay kéo dải ruy băng xé mượt mà", "action": "kéo dải ruy băng xé", "sceneFamily": "unboxing", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Hộp dán chằng chịt", "literalVisual": "Chiếc hộp dán đầy băng dính vàng và vết dao rạch nham nhở", "action": "cầm kéo rạch băng dính", "sceneFamily": "frustration", "humanAction": true, "motifPresent": false},
+        {"voiceSubject": "Quay video unboxing", "literalVisual": "Điện thoại dựng chân quay lại khoảnh khắc mở hộp khoe lên story", "action": "bấm máy quay clip", "sceneFamily": "ugc-creation", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Nguyên lý xúc giác thương hiệu", "literalVisual": "Mô hình ba điểm chạm cảm xúc từ xúc giác đến thị giác", "action": "liệt kê điểm chạm xúc giác", "sceneFamily": "framework", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Bài test tự mở hộp", "literalVisual": "Đồng hồ bấm giờ đặt cạnh chiếc hộp trên bàn làm việc", "action": "bấm giờ thử nghiệm mở hàng", "sceneFamily": "audit-test", "humanAction": true, "motifPresent": true}
+      ],
+      "motifUsage": {
+        "returnPoints": ["nhận kiện hàng", "kéo dải xé", "bài test mở hộp"],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.40
+      },
+      "evidence": [
+        {"title": "The Psychology of the Unboxing Experience - Dotcom Distribution", "url": "https://dotcomdist.com/unboxing-study/", "accessedAt": "2026-08-18", "supports": "Số liệu 40% khách hàng chia sẻ hình ảnh hộp hàng đẹp lên mạng xã hội"}
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED"},
+      "visualSeed": "Neat kraft shipping box with red tear strip opening cleanly, warm natural daylight",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 40
+    },
+    {
+      "id": "IDEA004",
+      "rank": 4,
+      "title": "Tấm bảng rửa xe 8 bước: Vì sao khách sẵn sàng trả giá gấp ba?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Cung cấp dịch vụ tốt và tận tâm nhưng khách hàng luôn mặc cả và so sánh giá với các bên làm ẩu ngoài thị trường.",
+      "viewerQuestion": "Làm sao để khách hàng cảm nhận được giá trị của dịch vụ và vui vẻ trả mức giá cao hơn?",
+      "caseStory": "Một tiệm rửa xe thu 120k trong khi tiệm đầu ngõ chỉ lấy 40k. Tiệm 120k treo một tấm bảng mica ghi rõ 8 công đoạn kèm dấu tích kiểm tra từng chi tiết trước khi bàn giao xe.",
+      "curiosityParadox": "Rửa xong xe nào nhìn cũng sạch như nhau, tại sao khách hàng lại sẵn sàng trả gấp 3 lần tiền?",
+      "brandingLesson": "Minh bạch lao động (Operational Transparency) — Khách hàng không định giá kết quả trừu tượng, họ định giá công sức và quy trình cẩn trọng mà mắt họ nhìn thấy được.",
+      "actionablePayoff": "Biến quy trình phục vụ vô hình thành một bảng kiểm kê hữu hình trao tận tay khách hàng.",
+      "topicKeywords": ["operational transparency", "dinh gia dich vu", "value perception", "tang gia ban", "branding dich vu"],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Tấm bảng mica kẹp tờ giấy checklist 8 bước kiểm tra xe treo trên kính lái sau khi rửa.",
+      "narrativeObject": "Chiếc bảng checklist mica với các mục kiểm tra có ô tích xanh",
+      "curiosityGap": "Tại sao cùng là làm sạch xe, một danh sách 8 dòng chữ lại làm tăng giá trị đơn hàng lên 300%?",
+      "hiddenMechanism": "Khi khách nhìn thấy 8 bước tỉ mỉ (xịt gầm, hút ẩm kẽ kính, dưỡng lốp), họ hiểu số tiền trả là cho sự an tâm chứ không chỉ là nước và bọt tuyết.",
+      "marketingBridge": "Dịch vụ vô hình cần những bằng chứng hữu hình để chứng minh sự xứng đáng của mức giá.",
+      "proofMove": "Nghiên cứu của Harvard Business School: Khách chờ trang web tìm kiếm thấy tiến trình chạy từng bước đánh giá dịch vụ có giá trị cao hơn hẳn trang hiện kết quả ngay lập tức.",
+      "singleLesson": "Khách hàng chỉ trả tiền cho giá trị mà họ tận mắt nhìn thấy quy trình tạo ra nó.",
+      "immediateApplication": "Viết lại quy trình làm việc thành 5 bước cam kết và in lên hóa đơn hoặc tin nhắn xác nhận.",
+      "motionPotential": [
+        "Bút tích xanh đánh từng dấu tick lên bảng kiểm tra",
+        "Mức giá 40k chuyển hóa thành 120k nhờ các lớp giá trị minh bạch"
+      ],
+      "sceneOpportunities": [
+        {"voiceSubject": "Tấm bảng kẹp trên xe", "literalVisual": "Bảng checklist mica gài trên cần gạt nước xe hơi bóng loáng", "action": "kẹp bảng kiểm tra lên xe", "sceneFamily": "service-bay", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Nhân viên thực hiện từng bước", "literalVisual": "Kỹ thuật viên cúi người xịt gầm và lau khô kẽ kính", "action": "thực hiện thao tác chăm sóc xe", "sceneFamily": "technician-work", "humanAction": true, "motifPresent": false},
+        {"voiceSubject": "Chủ xe đọc checklist", "literalVisual": "Khách hàng nhận chìa khóa, mỉm cười gật đầu nhìn bảng nghiệm thu", "action": "kiểm tra và nhận bàn giao xe", "sceneFamily": "customer-satisfaction", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Nghiên cứu Harvard", "literalVisual": "Thanh tiến trình hiển thị từng công đoạn xử lý dữ liệu", "action": "chạy tiến trình minh bạch", "sceneFamily": "evidence-board", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Nguyên lý minh bạch công sức", "literalVisual": "Cán cân so sánh: dịch vụ giấu kín vs dịch vụ minh bạch công đoạn", "action": "nghiêng cán cân giá trị", "sceneFamily": "framework", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Ứng dụng vào ngành của bạn", "literalVisual": "Bàn tay viết 5 bước quy trình lên mẫu hóa đơn trên máy tính", "action": "soạn thảo bảng quy trình dịch vụ", "sceneFamily": "application-phone", "humanAction": true, "motifPresent": true}
+      ],
+      "motifUsage": {
+        "returnPoints": ["bảng kẹp trên kính lái", "khách đọc nghiệm thu", "mẫu hóa đơn mới"],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.40
+      },
+      "evidence": [
+        {"title": "Operational Transparency - Ryan Buell (Harvard Business School)", "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=40778", "accessedAt": "2026-08-18", "supports": "Thực nghiệm chứng minh khách hàng đánh giá cao và trả nhiều tiền hơn khi nhìn thấy quy trình làm việc"}
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED"},
+      "visualSeed": "Clear acrylic checklist clipboard with checked green marks beside a clean car, garage lighting",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 40
+    },
+    {
+      "id": "IDEA005",
+      "rank": 5,
+      "title": "Tấm biển 'Hôm nay không có quả ngon': Giữ khách nhờ dám từ chối",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Áp lực doanh số khiến shop cố bán cả những sản phẩm lỗi nhẹ hoặc ngày dịch vụ không tốt, dẫn đến mất luôn khách hàng trung thành.",
+      "viewerQuestion": "Làm thế nào để xây dựng niềm tin sắt đá với khách hàng ngay cả khi nguồn cung gặp sự cố?",
+      "caseStory": "Một sạp hoa quả cao cấp treo biển: 'Lô hàng hôm nay độ ngọt chưa đạt chuẩn 8/10, chúng tôi không bán, hẹn quý khách ngày mai'. Thay vì tức giận, khách hàng càng tin tưởng và đặt trước cho ngày hôm sau.",
+      "curiosityParadox": "Kinh doanh là để bán hàng, tại sao chủ shop lại chủ động đuổi khách về?",
+      "brandingLesson": "Tín hiệu tiêu chuẩn không thỏa hiệp (Costly Signaling) — Lòng tin thương hiệu không được xây dựng bằng những gì bạn quảng cáo, mà được đo bằng những thứ bạn sẵn sàng từ chối bán.",
+      "actionablePayoff": "Công khai một tiêu chuẩn loại bỏ sản phẩm lỗi để khách thấy bạn nghiêm túc bảo vệ quyền lợi của họ.",
+      "topicKeywords": ["costly signaling", "brand trust", "tieu chuan chat luong", "dinh vi cao cap", "tu choi khach hang"],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Tấm biển gỗ mộc mạc treo trước sạp hàng hoa quả ghi dòng chữ từ chối bán hàng.",
+      "narrativeObject": "Chiếc biển gỗ khắc chữ thông báo từ chối phục vụ sản phẩm chưa đạt chuẩn",
+      "curiosityGap": "Tại sao mất doanh thu hôm nay lại là chiến lược giữ khách đắt giá nhất cho ngày mai?",
+      "hiddenMechanism": "Khi khách thấy người bán chấp nhận chịu thiệt hại tài chính để giữ lời hứa chất lượng, sự nghi ngờ về việc bị 'chặt chém/lừa đảo' hoàn toàn biến mất.",
+      "marketingBridge": "Thương hiệu mạnh được định nghĩa bởi ranh giới những việc họ KHÔNG BAO GIỜ làm.",
+      "proofMove": "Đối chiếu: Cửa hàng cố bán nốt quả dập với giá giảm 10% khiến khách ăn vào thất vọng và không bao giờ quay lại.",
+      "singleLesson": "Dám từ chối phục vụ khi sản phẩm chưa đạt chuẩn là cách rẻ nhất để xây định vị cao cấp.",
+      "immediateApplication": "Xác định một tiêu chuẩn kiểm định mà bạn cam kết sẽ hoàn tiền 100% nếu phát hiện lỗi trước khi giao.",
+      "motionPotential": [
+        "Tấm biển gỗ lật qua lại giữa chữ 'HẾT HÀNG' và chữ 'TIÊU CHUẨN'",
+        "Trái cây không đạt chuẩn bị tách riêng ra khỏi kệ hàng cao cấp"
+      ],
+      "sceneOpportunities": [
+        {"voiceSubject": "Khách đứng trước sạp hàng", "literalVisual": "Người mua đứng trước kệ trái cây nhìn vào tấm biển gỗ", "action": "đứng đọc tấm biển thông báo", "sceneFamily": "storefront", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Tấm biển từ chối", "literalVisual": "Cận cảnh tấm biển gỗ ghi dòng chữ cam kết chất lượng", "action": "treo biển thông báo", "sceneFamily": "signage", "humanAction": false, "motifPresent": true},
+        {"voiceSubject": "Khách quay lại đặt trước", "literalVisual": "Khách hàng lấy điện thoại quét mã nhắn tin đặt trước lô ngày mai", "action": "quét mã đặt hàng trước", "sceneFamily": "preorder-action", "humanAction": true, "motifPresent": false},
+        {"voiceSubject": "Cảnh bán quả lỗi rẻ tiền", "literalVisual": "Khách hàng nhận túi quả dập nhăn mặt thất vọng", "action": "nhăn mặt thất vọng", "sceneFamily": "bad-experience", "humanAction": true, "motifPresent": false},
+        {"voiceSubject": "Cơ chế tín hiệu đắt giá", "literalVisual": "Biểu đồ chi phí ngắn hạn đổi lấy giá trị vòng đời khách hàng dài hạn", "action": "chuyển dịch cán cân niềm tin", "sceneFamily": "framework", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Hành động thiết lập tiêu chuẩn", "literalVisual": "Chủ shop dán tem kiểm định chất lượng lên bao bì sản phẩm", "action": "dán tem cam kết chất lượng", "sceneFamily": "application-phone", "humanAction": true, "motifPresent": true}
+      ],
+      "motifUsage": {
+        "returnPoints": ["biển gỗ trước cửa hàng", "cận cảnh thông điệp", "tem tiêu chuẩn mới"],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.38
+      },
+      "evidence": [
+        {"title": "Costly Signaling in Marketing - Spence's Signaling Theory", "url": "https://www.jstor.org/stable/1882010", "accessedAt": "2026-08-18", "supports": "Lý thuyết tín hiệu chứng minh hành động chịu chi phí để bảo vệ cam kết tạo ra niềm tin cao nhất"}
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED"},
+      "visualSeed": "Rustic wooden sign hanging on upscale fruit stall with handwritten note, clean market vibe",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 40
+    },
+    {
+      "id": "IDEA006",
+      "rank": 6,
+      "title": "Quy tắc 100: Khi nào giảm 20%, khi nào giảm 200.000đ?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Tổ chức chương trình khuyến mãi giảm giá nhưng khách hàng thờ ơ, không cảm thấy hấp dẫn dù ngân sách giảm giá của shop không hề nhỏ.",
+      "viewerQuestion": "Cùng một số tiền giảm giá, làm sao để con số hiển thị kích thích khách hàng bấm mua ngay?",
+      "caseStory": "Hai chiếc áo giá 200k giảm 20% (giảm 40k) ghi 'GIẢM 20%' bán chạy gấp ba lần ghi 'GIẢM 40.000Đ'. Nhưng chiếc máy tính 15 triệu giảm 10% ghi 'GIẢM 1.500.000Đ' lại chốt đơn tốt hơn ghi 'GIẢM 10%'.",
+      "curiosityParadox": "Mức tiền thực tế như nhau, tại sao đổi cách viết lại làm thay đổi hoàn toàn sức hút của ưu đãi?",
+      "brandingLesson": "Quy tắc 100 của GS Jonah Berger (The Rule of 100) — Dưới mốc 100, số phần trăm (%) luôn cho cảm giác lớn hơn số tiền; trên mốc 100, số tiền mặt tuyệt đối luôn cho cảm giác khổng lồ hơn phần trăm.",
+      "actionablePayoff": "Áp dụng công thức: Dưới 100k ghi %, trên 100k ghi số tiền mặt.",
+      "topicKeywords": ["rule of 100", "framing effect", "khuyen mai", "dinh khung gia", "tang ty le chuyen doi"],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Bàn tay cầm 2 tấm tag giá khuyến mãi: 1 bên ghi '-20%', 1 bên ghi '-40.000đ'.",
+      "narrativeObject": "Hai chiếc tag giá giấy kraft in con số khuyến mãi màu đỏ",
+      "curiosityGap": "Tại sao não bộ con người lại bị đánh lừa bởi ký hiệu '%' và chữ 'Đ' dù giá trị tiền mặt không đổi?",
+      "hiddenMechanism": "Hiệu ứng định khung (Framing Effect): Não người luôn so sánh các con số tuyệt đối (20 > 40? Không, 20% nhìn áp đảo 40k, nhưng 1.500.000đ nhìn khủng hơn 10%).",
+      "marketingBridge": "Khách hàng không tính toán số học, họ phản xạ với kích thước cảm giác của con số.",
+      "proofMove": "Hàng loạt A/B test của các sàn thương mại điện tử chứng minh tỷ lệ click tăng 25-40% khi đổi khung hiển thị theo Quy tắc 100.",
+      "singleLesson": "Dưới 100 ghi phần trăm, trên 100 ghi tiền mặt.",
+      "immediateApplication": "Mở các bài đăng flash sale hoặc voucher của shop và sửa lại định dạng con số theo mốc 100.",
+      "motionPotential": [
+        "Hai con số 20% và 40.000đ phóng to thu nhỏ đối chiếu thị giác",
+        "Thước đo mốc 100 phân chia hai bên ranh giới % và tiền mặt"
+      ],
+      "sceneOpportunities": [
+        {"voiceSubject": "Hai tấm tag giá", "literalVisual": "Bàn tay cầm 2 mác giá quần áo so sánh bên -20% và bên -40k", "action": "cầm so sánh hai mác giá", "sceneFamily": "shopping-tag", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Khách chọn mua áo 200k", "literalVisual": "Khách hàng nhanh chóng nhặt chiếc áo gắn mác -20%", "action": "chọn chiếc áo có mác phần trăm", "sceneFamily": "checkout-rack", "humanAction": true, "motifPresent": true},
+        {"voiceSubject": "Khách mua laptop 15 triệu", "literalVisual": "Màn hình laptop hiển thị banner giảm 1.500.000đ", "action": "nhìn bảng giá thiết bị đắt tiền", "sceneFamily": "ecommerce-screen", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Quy tắc số 100 của Jonah Berger", "literalVisual": "Đồ họa phân chia ranh giới cột mốc 100 rõ nét", "action": "phân chia ranh giới công thức", "sceneFamily": "framework", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "So sánh phản xạ não bộ", "literalVisual": "Hai bên cân đo con số cảm giác của người mua", "action": "định khung tâm lý", "sceneFamily": "chart-analytics", "humanAction": false, "motifPresent": false},
+        {"voiceSubject": "Chỉnh sửa banner shop", "literalVisual": "Màn hình điện thoại chỉnh sửa con số trên ảnh bìa sản phẩm", "action": "gõ sửa định dạng khuyến mãi", "sceneFamily": "application-phone", "humanAction": true, "motifPresent": true}
+      ],
+      "motifUsage": {
+        "returnPoints": ["so sánh 2 tag giá", "chọn áo trên sào", "chỉnh sửa banner mới"],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.38
+      },
+      "evidence": [
+        {"title": "Contagious: Why Things Catch On - Jonah Berger (The Rule of 100)", "url": "https://jonahberger.com/books/contagious/", "accessedAt": "2026-08-18", "supports": "Quy tắc số 100 về tâm lý học định khung số học trong giảm giá"}
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED"},
+      "visualSeed": "Price tags hanging on retail clothing rack with clear red discount numbers, modern boutique",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 40
+    }
+  ]
+}

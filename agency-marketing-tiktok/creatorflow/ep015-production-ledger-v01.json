@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "EP015",
+  "version": "v01",
+  "watermarkCleanupPolicy": "disabled-for-new-runs",
+  "flow": {
+    "readiness": {
+      "backendHealthy": true,
+      "extensionConnected": true,
+      "hasFlowKey": true,
+      "checkedAt": "2026-08-26T04:42:00.000Z"
+    },
+    "actualImageCalls": 1,
+    "calls": [
+      {
+        "assetId": "EP015-A01",
+        "provider": "flow-agent",
+        "idempotencyKey": "agency-marketing-tiktok-ep015-v01-a01",
+        "mediaId": "83b30118-05a9-4903-83aa-e836eecf6af2",
+        "originalSrc": "public/ep015/v01/generated/a01-menu-hook-green-v01.png",
+        "status": "generated",
+        "qaStatus": "blocked-watermark-residual-and-nonflat-green"
+      }
+    ]
+  },
+  "watermarkCleanup": {
+    "recordType": "historical-test-only",
+    "assetId": "EP015-A01",
+    "input": "public/ep015/v01/generated/a01-menu-hook-green-v01.png",
+    "output": "public/ep015/v01/clean/a01-menu-hook-clean-v01.png",
+    "provenance": "public/ep015/v01/clean/a01-menu-hook-clean-v01.png.watermark.json",
+    "tool": "@pilio/gemini-watermark-remover@1.0.41",
+    "wrapperStatus": "removed",
+    "visualQaStatus": "blocked",
+    "reason": "Lower-right visible sparkle remains after cleanup; source green field is textured and shadowed. Do not key, crop, or render this asset."
+  },
+  "voice": {
+    "status": "blocked",
+    "reason": "Cartesia API key is not configured on the current host."
+  },
+  "render": {
+    "status": "not-started",
+    "reason": "Voice and approved image assets are required before timing and Remotion render; watermark cleanup is not part of the new workflow."
+  }
+}

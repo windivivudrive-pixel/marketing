@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-17T00:00:00+07:00",
+  "profile": "creatorflow/profile.json",
+  "ideas": [
+    {
+      "id": "brand-story-001-jibbitz-canvas",
+      "rank": 1,
+      "title": "Đôi dép bị chê lại thành nơi kể cá tính",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Sản phẩm của bạn đang bị nhìn như một món hàng giống hệt đối thủ, nên khách chỉ so giá.",
+      "viewerQuestion": "Vì sao một đôi dép bình thường lại khiến người mua muốn sưu tầm thêm phụ kiện?",
+      "caseStory": "Crocs biến phần quai và thân giày thành một chiếc canvas bằng Jibbitz; khách có thể gắn chữ, sở thích hoặc biểu tượng rồi đổi lại mỗi ngày.",
+      "curiosityParadox": "Càng để khách tự trang trí, thương hiệu càng được nhận ra rõ hơn.",
+      "brandingLesson": "Thương hiệu mạnh không chỉ đưa ra sản phẩm hoàn chỉnh; nó chừa một khoảng trống để khách đặt câu chuyện của họ vào.",
+      "actionablePayoff": "Chọn một phần sản phẩm hoặc trải nghiệm có thể cá nhân hóa, rồi thiết kế ba lựa chọn bắt đầu thật dễ cho khách.",
+      "topicKeywords": ["Crocs", "Jibbitz", "cá nhân hóa", "sản phẩm như canvas", "brand identity"],
+      "evidence": [
+        {
+          "title": "Crocs — Jibbitz personalization",
+          "url": "https://www.crocs.com/c/jibbitz?msockid=21086b14de5e6bfd01db7de5df276a3c",
+          "accessedAt": "2026-08-17",
+          "supports": "Crocs mô tả Jibbitz là phụ kiện dễ gắn, dễ đổi để tạo đôi giày độc nhất và thể hiện sở thích."
+        }
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED", "signal": "", "observedAt": ""},
+      "visualSeed": "Mascot đặt ba charm chữ, sở thích và địa danh lên một đôi clog giấy xé; trước/sau cá nhân hóa.",
+      "rightsStatus": "RESEARCH_REQUIRED",
+      "estimatedImageCalls": 4,
+      "productionCost": "LOW",
+      "scores": {"freshness": 4, "audienceFit": 5, "hookClarity": 5, "storyClarity": 5, "lessonUsefulness": 5, "evidence": 5, "visualClarity": 5, "rightsReadiness": 3, "productionCost": 5, "shelfLife": 5},
+      "totalScore": 47
+    },
+    {
+      "id": "brand-story-002-heinz-upside-down",
+      "rank": 2,
+      "title": "Cái chai đứng ngược bán được một khoảnh khắc dễ chịu",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Khách không ghét sản phẩm, họ chỉ mệt vì mỗi lần dùng đều phải vật lộn với một bước nhỏ.",
+      "viewerQuestion": "Một thay đổi rất nhỏ trên bao bì có thể khiến người ta nhớ thương hiệu lâu hơn không?",
+      "caseStory": "Heinz dùng chai bóp nắp lật đặt ngược để tương cà chảy sạch và dễ phục vụ hơn, thay vì để người dùng lắc chai truyền thống.",
+      "curiosityParadox": "Bao bì càng bớt gây chú ý trong lúc dùng, trải nghiệm thương hiệu càng được nhớ.",
+      "brandingLesson": "Định vị không chỉ nằm ở câu nói; nó nằm trong từng khoảnh khắc làm khách đỡ bực.",
+      "actionablePayoff": "Ghi lại một thao tác khách hay phải hỏi hoặc làm đi làm lại, rồi sửa chính thao tác đó trước khi thêm tính năng mới.",
+      "topicKeywords": ["Heinz", "bao bì", "giảm friction", "trải nghiệm khách hàng", "product design"],
+      "evidence": [
+        {
+          "title": "Heinz — Upside down squeeze bottle",
+          "url": "https://www.heinz.com/products/00013000007993-heinz-tomato-ketchup-no-sugar-added-13-oz-bottle/1000",
+          "accessedAt": "2026-08-17",
+          "supports": "Trang sản phẩm Heinz nêu chai bóp đặt ngược giúp phục vụ sạch và dễ hơn."
+        }
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED", "signal": "", "observedAt": ""},
+      "visualSeed": "Cảnh mascot lắc chai mãi không ra, cắt sang chai đứng ngược với một đường chảy gọn trên nền giấy hồng.",
+      "rightsStatus": "RESEARCH_REQUIRED",
+      "estimatedImageCalls": 3,
+      "productionCost": "LOW",
+      "scores": {"freshness": 4, "audienceFit": 5, "hookClarity": 5, "storyClarity": 5, "lessonUsefulness": 5, "evidence": 5, "visualClarity": 5, "rightsReadiness": 3, "productionCost": 5, "shelfLife": 5},
+      "totalScore": 47
+    },
+    {
+      "id": "brand-story-003-liquid-death-category",
+      "rank": 3,
+      "title": "Nước lọc nhưng nói chuyện như một ban nhạc metal",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Ngành hàng của bạn quá an toàn, mọi thương hiệu đều dùng cùng một giọng và khách không có lý do để kể lại.",
+      "viewerQuestion": "Nếu sản phẩm giống nhau, thương hiệu có thể cạnh tranh bằng tính cách thay vì giảm giá không?",
+      "caseStory": "Liquid Death đóng nước vào lon và dùng tên, hình ảnh cùng giọng hài hước rất khác ngành nước đóng chai; chính sự lệch tông tạo ra một nhóm người muốn cầm nó ở nơi đông người.",
+      "curiosityParadox": "Một thương hiệu nước lại bán cảm giác thuộc về một cộng đồng giải trí.",
+      "brandingLesson": "Khác biệt có giá trị khi nó nhất quán với nhóm người muốn được nhìn thấy, không phải chỉ để gây sốc.",
+      "actionablePayoff": "Viết lại một bài giới thiệu sản phẩm theo ngôn ngữ của cộng đồng khách hàng mục tiêu, sau đó kiểm tra xem có còn đúng sự thật sản phẩm không.",
+      "topicKeywords": ["Liquid Death", "category design", "brand voice", "entertainment marketing", "khác biệt hóa"],
+      "evidence": [
+        {
+          "title": "Liquid Death — Manifesto",
+          "url": "https://liquiddeath.com/pages/manifesto",
+          "accessedAt": "2026-08-17",
+          "supports": "Manifesto chính thức thể hiện định vị nước giải khát bằng giọng hài hước và tinh thần đối đầu ngành hàng."
+        }
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED", "signal": "", "observedAt": ""},
+      "visualSeed": "Lon nước giấy xé xuất hiện giữa hàng chai nước pastel; mascot đổi nhãn giọng nói từ an toàn sang tinh nghịch.",
+      "rightsStatus": "RESEARCH_REQUIRED",
+      "estimatedImageCalls": 4,
+      "productionCost": "MEDIUM",
+      "scores": {"freshness": 5, "audienceFit": 5, "hookClarity": 5, "storyClarity": 4, "lessonUsefulness": 5, "evidence": 4, "visualClarity": 5, "rightsReadiness": 3, "productionCost": 4, "shelfLife": 5},
+      "totalScore": 45
+    },
+    {
+      "id": "brand-story-004-oatly-packaging-voice",
+      "rank": 4,
+      "title": "Hộp sữa cũng có thể trở thành một cuộc trò chuyện",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Bao bì của bạn chỉ đang liệt kê tính năng, nên khách uống xong là quên thương hiệu.",
+      "viewerQuestion": "Tại sao có những hộp đồ uống khiến người ta muốn đọc mặt sau như đọc một mẩu chuyện?",
+      "caseStory": "Oatly xem bao bì như một kênh đối thoại với người dùng; chữ, câu hỏi và thông tin trên hộp tiếp tục giọng thương hiệu ngoài quảng cáo.",
+      "curiosityParadox": "Diện tích nhỏ nhất của thương hiệu lại có thể là nơi nói chuyện lâu nhất.",
+      "brandingLesson": "Mỗi điểm chạm đều có thể củng cố tính cách thương hiệu nếu cùng một giọng và cùng một niềm tin.",
+      "actionablePayoff": "Lấy một mặt bao bì hoặc trang giới thiệu hiện tại, thay phần mô tả chung bằng một câu trả lời thật cho câu hỏi khách thường hỏi.",
+      "topicKeywords": ["Oatly", "packaging voice", "brand consistency", "điểm chạm", "copywriting"],
+      "evidence": [
+        {
+          "title": "Oatly — Form 20-F, advertising and packaging",
+          "url": "https://investors.oatly.com/static-files/7dc4d34c-ed75-44fe-a342-c034c8c0b7ab",
+          "accessedAt": "2026-08-17",
+          "supports": "Oatly mô tả bao bì là cách phát triển đối thoại với người tiêu dùng và duy trì quan hệ lâu dài."
+        }
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED", "signal": "", "observedAt": ""},
+      "visualSeed": "Mascot đọc một hộp giấy có hai mặt: mặt trước tính năng, mặt sau là câu hỏi–trả lời vui vẻ.",
+      "rightsStatus": "RESEARCH_REQUIRED",
+      "estimatedImageCalls": 4,
+      "productionCost": "LOW",
+      "scores": {"freshness": 4, "audienceFit": 5, "hookClarity": 4, "storyClarity": 4, "lessonUsefulness": 5, "evidence": 5, "visualClarity": 4, "rightsReadiness": 3, "productionCost": 5, "shelfLife": 5},
+      "totalScore": 44
+    },
+    {
+      "id": "brand-story-005-staff-cheese-launch",
+      "rank": 5,
+      "title": "Bán một chiếc bánh, nhưng đặt tên cho đúng khoảnh khắc thèm",
+      "lane": "CURRENT",
+      "status": "NEW",
+      "painPoint": "Ra mắt món mới mà chỉ nói thành phần khiến người xem biết món có gì nhưng chưa thấy lý do phải thử ngay.",
+      "viewerQuestion": "Một chiến dịch ra mắt có thể biến ‘phô mai nhiều’ thành một cảnh muốn tham gia như thế nào?",
+      "caseStory": "Case Staff Cheese năm 2025 dùng thông điệp ‘Ngập tràn phô mai – Nạp sức, Bừng vibe’, kết hợp nội dung mạng xã hội, minigame và người ảnh hưởng để gắn món mới với một khoảnh khắc ăn uống có năng lượng.",
+      "curiosityParadox": "Món mới được nhớ không chỉ vì công thức, mà vì cảm giác mà tên chiến dịch gọi đúng.",
+      "brandingLesson": "Khi ra mắt, hãy đặt sản phẩm vào một tình huống muốn sống qua thay vì chỉ đọc danh sách tính năng.",
+      "actionablePayoff": "Viết một câu ‘khoảnh khắc sử dụng’ cho sản phẩm của bạn trước khi viết slogan hoặc caption ra mắt.",
+      "topicKeywords": ["Staff Cheese", "launch campaign", "product moment", "ngữ cảnh sử dụng", "social campaign"],
+      "evidence": [
+        {
+          "title": "Brands Vietnam — Case ra mắt sandwich phô mai Staff Cheese",
+          "url": "https://www.brandsvietnam.com/congdong/topic/case-study-ra-mat-sandwich-pho-mai-staff-cheese-ngap-tran-pho-mai-nap-suc-bung-vibe",
+          "accessedAt": "2026-08-17",
+          "supports": "Bài case ghi nhận thời điểm ra mắt tháng sáu năm 2025, thông điệp chiến dịch và các hoạt động social, minigame, influencer."
+        }
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED", "signal": "", "observedAt": ""},
+      "visualSeed": "Bánh giấy xé mở ra dòng phô mai kéo dài; ba sticker lần lượt là nạp sức, bừng vibe, chia sẻ.",
+      "rightsStatus": "RESEARCH_REQUIRED",
+      "estimatedImageCalls": 5,
+      "productionCost": "MEDIUM",
+      "scores": {"freshness": 5, "audienceFit": 5, "hookClarity": 4, "storyClarity": 5, "lessonUsefulness": 5, "evidence": 4, "visualClarity": 5, "rightsReadiness": 3, "productionCost": 4, "shelfLife": 3},
+      "totalScore": 43
+    },
+    {
+      "id": "brand-story-006-lavie-creator-feeling",
+      "rank": 6,
+      "title": "Hợp tác với creator không phải để mượn lượt xem",
+      "lane": "CURRENT",
+      "status": "NEW",
+      "painPoint": "Nhãn hàng chọn người ảnh hưởng theo số người theo dõi nhưng nội dung vẫn giống quảng cáo đọc thuộc lòng.",
+      "viewerQuestion": "Một creator có thể mang lại điều gì ngoài reach và một bài đăng có logo?",
+      "caseStory": "Báo cáo FMCG 2025 của BrandC nhắc tới LaVie x Khoai Lang Thang với hướng ‘Yên Một Chút’: sự hợp tác gắn thương hiệu với một cảm giác và một nhịp sống cụ thể, thay vì chỉ đặt sản phẩm vào khung hình.",
+      "curiosityParadox": "Creator càng giữ giọng riêng, thương hiệu càng có cơ hội được tin hơn — nếu vai trò được thiết kế đúng.",
+      "brandingLesson": "Chọn đối tác vì họ sở hữu một cảm xúc phù hợp với thương hiệu, không chỉ vì họ sở hữu một tệp người xem.",
+      "actionablePayoff": "Trước khi gửi brief, viết rõ ‘cảm giác muốn người xem mang theo’ và để creator đề xuất cách kể bằng ngôn ngữ của họ.",
+      "topicKeywords": ["LaVie", "Khoai Lang Thang", "creator partnership", "influencer brief", "brand feeling"],
+      "evidence": [
+        {
+          "title": "BrandC — FMCG Report 2025",
+          "url": "https://brandc.vn/report/V/%28V%29%20BrandC_FMCG_Report_2025.pdf",
+          "accessedAt": "2026-08-17",
+          "supports": "Báo cáo ngành FMCG 2025 liệt kê ví dụ hợp tác LaVie x Khoai Lang Thang và hướng ‘Yên Một Chút’."
+        }
+      ],
+      "viralEvidence": {"status": "NOT_CLAIMED", "signal": "", "observedAt": ""},
+      "visualSeed": "Hai tờ brief: một tờ chỉ có logo và reach bị vò; tờ còn lại có ‘cảm giác muốn để lại’ được dán sticker hồng.",
+      "rightsStatus": "RESEARCH_REQUIRED",
+      "estimatedImageCalls": 4,
+      "productionCost": "MEDIUM",
+      "scores": {"freshness": 5, "audienceFit": 5, "hookClarity": 5, "storyClarity": 4, "lessonUsefulness": 5, "evidence": 4, "visualClarity": 4, "rightsReadiness": 2, "productionCost": 4, "shelfLife": 4},
+      "totalScore": 42
+    },
+    {
+      "id": "brand-story-007-personal-positioning",
+      "rank": 7,
+      "title": "Đừng giới thiệu mình bằng chức danh trước",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Người làm thương hiệu cá nhân nói rất nhiều về chức danh nhưng người nghe vẫn không biết họ giúp được ai.",
+      "viewerQuestion": "Nếu bỏ chức danh khỏi phần giới thiệu, người khác còn nhớ điều gì về bạn?",
+      "caseStory": "Trong một buổi networking, hai người cùng nói ‘mình làm marketing’; người thứ nhất kể công cụ, người thứ hai kể vấn đề họ thường giúp chủ shop giải quyết. Chỉ người thứ hai tạo được câu hỏi tiếp theo.",
+      "curiosityParadox": "Nói ít về mình hơn lại khiến người khác hiểu giá trị của mình nhanh hơn.",
+      "brandingLesson": "Định vị cá nhân bắt đầu từ vấn đề bạn giúp người khác gọi tên, không phải chiếc danh thiếp của bạn.",
+      "actionablePayoff": "Đổi câu ‘tôi là ai’ thành mẫu ‘tôi giúp [ai] giải quyết [vấn đề] bằng [cách tiếp cận]’ và thử trong một cuộc trò chuyện hôm nay.",
+      "topicKeywords": ["personal branding", "định vị cá nhân", "networking", "value proposition", "giới thiệu bản thân"],
+      "evidence": [],
+      "viralEvidence": {"status": "NOT_CLAIMED", "signal": "", "observedAt": ""},
+      "visualSeed": "Hai sticker name card: một chỉ ghi chức danh, một ghi người được giúp và vấn đề; mascot nối mũi tên tới câu hỏi tiếp theo.",
+      "rightsStatus": "OWNED_OR_SELF_CREATED",
+      "estimatedImageCalls": 3,
+      "productionCost": "LOW",
+      "scores": {"freshness": 4, "audienceFit": 5, "hookClarity": 5, "storyClarity": 5, "lessonUsefulness": 5, "evidence": 3, "visualClarity": 5, "rightsReadiness": 5, "productionCost": 5, "shelfLife": 5},
+      "totalScore": 47
+    },
+    {
+      "id": "brand-story-008-price-anchor",
+      "rank": 8,
+      "title": "Giá cao không tự tạo ra cảm giác cao cấp",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Doanh nghiệp tăng giá nhưng khách chỉ thấy đắt hơn, vì chưa có tín hiệu nào giải thích sự khác biệt.",
+      "viewerQuestion": "Tại sao cùng một món hàng, cách đặt cạnh lựa chọn khác lại làm người mua nhìn giá khác đi?",
+      "caseStory": "Một quán cà phê nhỏ đặt món signature ở giữa menu, cạnh một lựa chọn giới hạn và một lựa chọn cơ bản; khách bắt đầu so giá theo bối cảnh thay vì hỏi ‘sao mắc vậy’. Đây là tình huống minh họa về neo giá, không phải cam kết doanh số.",
+      "curiosityParadox": "Khách không cần món rẻ nhất; họ cần một lý do dễ hiểu để thấy món này đáng tiền.",
+      "brandingLesson": "Định vị giá là thiết kế cách so sánh, nhưng giá trị phải được chứng minh bằng trải nghiệm thật.",
+      "actionablePayoff": "Liệt kê ba lựa chọn hiện có, viết rõ mỗi lựa chọn dành cho tình huống nào, rồi kiểm tra khách có hiểu khác biệt mà không cần bạn giải thích dài không.",
+      "topicKeywords": ["pricing", "price anchor", "menu design", "perceived value", "định vị giá"],
+      "evidence": [],
+      "viralEvidence": {"status": "NOT_CLAIMED", "signal": "", "observedAt": ""},
+      "visualSeed": "Menu giấy xé có ba thẻ giá; mascot kéo mũi tên so sánh từ ‘rẻ nhất’ sang ‘phù hợp tình huống’. ",
+      "rightsStatus": "OWNED_OR_SELF_CREATED",
+      "estimatedImageCalls": 4,
+      "productionCost": "LOW",
+      "scores": {"freshness": 4, "audienceFit": 5, "hookClarity": 5, "storyClarity": 4, "lessonUsefulness": 5, "evidence": 3, "visualClarity": 5, "rightsReadiness": 5, "productionCost": 5, "shelfLife": 5},
+      "totalScore": 46
+    }
+  ]
+}

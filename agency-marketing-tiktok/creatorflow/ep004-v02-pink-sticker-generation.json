@@ -1,0 +1,121 @@
+{
+  "episode": "ep004",
+  "version": "v02",
+  "sourceBrief": "briefs/ep004-ngoc-sau-rieng-q7-ban-su-an-tam-v01.md",
+  "status": "script-review",
+  "identityLock": "Photoreal Vietnamese sticker source, matte and soft upper-left daylight, with a restrained hot-pink accent on the element and clean ink-black details. One complete crop-safe subject on uniform chroma green #00FF00 with 12% empty margin. In Remotion, its alpha silhouette—not a rectangle—gets a soft pastel-pink watercolor paper backing, irregular ripped-white contour, very soft paper shadow and hot-pink offset. No background, card, text, logo, watermark, neon or glossy 3D.",
+  "sourceTreatment": {
+    "default": "uniform chroma green #00FF00",
+    "greenSubjectException": "Use uniform chroma magenta #FF00CC for an unpeeled durian or a crate containing green durian; key this exception with the approved matte path, never force green-on-green.",
+    "final": "Key to transparent PNG with despill and preserved margin. Mask soft pastel-pink watercolor paper to each extracted silhouette, then add an irregular ripped-white contour, hot-pink offset and very soft paper shadow in Remotion; never use a rectangular backing."
+  },
+  "realPhotoPlan": [
+    {"assetId": "S03", "purpose": "Actual Ngọc Sầu Riêng Q7 storefront/signage", "output": "public/ep004/v02/real/s03-storefront-alpha-v01.png", "requirement": "Source a rights-cleared real photo; do not generate a logo or storefront."},
+    {"assetId": "S06", "purpose": "Actual under-ripe durian segment", "output": "public/ep004/v02/real/s06-under-ripe-segment-alpha-v01.png", "requirement": "Source a rights-cleared factual food photo; do not generate text."},
+    {"assetId": "S09", "purpose": "Actual prepared durian container", "output": "public/ep004/v02/real/s09-prepared-durian-alpha-v01.png", "requirement": "Source a rights-cleared product photo; remove labels if rights/source require it."},
+    {"assetId": "S10", "purpose": "Actual opening/tasting action", "output": "public/ep004/v02/real/s10-tasting-counter-alpha-v01.png", "requirement": "Source a rights-cleared real action photo; crop only after rights review."},
+    {"assetId": "S16", "purpose": "Actual bánh pía, kem and chè sầu output", "output": "public/ep004/v02/real/s16-durian-desserts-alpha-v01.png", "requirement": "Source rights-cleared food photos or create a separately approved generic replacement."}
+  ],
+  "jobs": [
+    {
+      "id": "s01",
+      "kind": "individual-detail",
+      "assetIds": ["S01"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#FF00CC",
+      "output": "public/ep004/v02/generated/s01-market-durian-magenta-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep004-v02-silhouette-paper-s01",
+      "prompt": "One whole unpeeled durian fruit, intact natural thorn texture, three-quarter tabletop product pose, complete silhouette and stem visible. Use perfectly uniform chroma magenta #FF00CC because the fruit shell is green. No paper, card, background, labels, text, logo or extra fruit."
+    },
+    {
+      "id": "s02",
+      "kind": "individual-detail",
+      "assetIds": ["S02"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep004/v02/generated/s02-prepared-durian-container-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep004-v02-silhouette-paper-s02",
+      "prompt": "One clear unbranded food container holding three golden durian segments, appetizing but believable, lid slightly open, complete crop-safe silhouette. No paper, card, background, label, text, logo, hands or extra food." 
+    },
+    {
+      "id": "s05",
+      "kind": "individual-detail",
+      "assetIds": ["S05"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep004/v02/generated/s05-lottery-wheel-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep004-v02-silhouette-paper-s05",
+      "prompt": "One tactile tabletop prize wheel with eight blank cream and pale-pink segments, small black pointer, subtle sense of spin, no numbers and no words. Keep the complete wheel and base inside the safety margin. No paper, card, scene, logo, watermark or confetti." 
+    },
+    {
+      "id": "s13",
+      "kind": "individual-detail",
+      "assetIds": ["S13"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#FF00CC",
+      "output": "public/ep004/v02/generated/s13-sorting-crate-magenta-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep004-v02-silhouette-paper-s13",
+      "prompt": "One sturdy wooden sorting crate containing several whole durians and two separated pale durian segments, clear inventory-sorting story, complete crop-safe object silhouette. Use perfectly uniform chroma magenta #FF00CC because the durian shells are green. No paper, card, background, labels, text, logo, worker or extra crate." 
+    },
+    {
+      "id": "s15",
+      "kind": "individual-detail",
+      "assetIds": ["S15"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep004/v02/generated/s15-blast-freezer-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep004-v02-silhouette-paper-s15",
+      "prompt": "One compact stainless industrial blast freezer, door slightly ajar with a restrained cool mist, clean realistic product view, complete crop-safe silhouette. No paper, card, factory background, labels, text, logo, people or green rim light." 
+    },
+    {
+      "id": "b01",
+      "kind": "three-object-sheet",
+      "assetIds": ["S04", "S07", "S08"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep004/v02/generated/b01-idea-risk-protection-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep004-v02-silhouette-paper-b01",
+      "prompt": "Exactly three simple isolated objects in three vertical zones with at least 18% clean green gutter between zones: top, one warm lightbulb with three small pale-pink sparks; middle, one simple red triangular warning sign with blank center; bottom, one sturdy pale-pink and cream protection shield with a small blank check mark. No paper backing, card, text, number, logo, person, overlap, connected shadow or decorative filler." 
+    },
+    {
+      "id": "b02",
+      "kind": "three-object-sheet",
+      "assetIds": ["S11", "S12", "S14"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep004/v02/generated/b02-confidence-recycling-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep004-v02-silhouette-paper-b02",
+      "prompt": "Exactly three simple isolated objects in three vertical zones with at least 18% clean green gutter between zones: top, one round deep-pink wax seal with a blank cream check mark; middle, one oversized ink-black question mark with a small pale-pink accent; bottom, three clean ink-black circular recycling arrows with one pale-pink accent. No paper backing, card, text, number, logo, person, overlap, connected shadow or decorative filler." 
+    },
+    {
+      "id": "b03",
+      "kind": "three-object-sheet",
+      "assetIds": ["S17", "S18", "S19"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep004/v02/generated/b03-guarantee-value-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep004-v02-silhouette-paper-b03",
+      "prompt": "Exactly three simple isolated objects in three vertical zones with at least 18% clean green gutter between zones: top, one blank cream commitment certificate with a small deep-pink wax seal and no writing; middle, one red prohibition stroke crossing one plain downward price tag; bottom, one faceted pale-pink and warm-gold gemstone. No paper backing, card, text, number, logo, person, overlap, connected shadow or decorative filler." 
+    },
+    {
+      "id": "b04",
+      "kind": "two-object-sheet",
+      "assetIds": ["S20", "S21"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep004/v02/generated/b04-closing-accents-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep004-v02-silhouette-paper-b04",
+      "prompt": "Exactly two simple isolated objects in two vertical zones with at least 22% clean green gutter between zones: top, a compact burst of pale-pink paper confetti and small cream stars; bottom, one blank pale-pink ribbon badge with no emblem, no writing and no logo. No paper backing, card, text, number, person, overlap, connected shadow or decorative filler." 
+    }
+  ],
+  "quotaPlan": {
+    "imageProviderCalls": 9,
+    "individualDetailCalls": 5,
+    "batchedObjectCalls": 4,
+    "newGeneratedAssets": 16,
+    "realPhotoAssets": 5,
+    "codeDrawnStates": 4,
+    "idempotencyPrefix": "agency-marketing-tiktok-ep004-v02-silhouette-paper-",
+    "actualImageCalls": 0
+  }
+}

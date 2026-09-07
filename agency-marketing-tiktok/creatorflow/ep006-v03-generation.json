@@ -1,0 +1,75 @@
+{
+  "episode": "EP006",
+  "version": "v03",
+  "model": "gem_pix_2",
+  "idempotencyPrefix": "agency-marketing-tiktok-ep006-v03-kept-bag-",
+  "identityLock": "PHOTOREAL VIETNAMESE STICKER SOURCE ONLY. One complete crop-safe subject, matte finish, soft upper-left daylight, restrained hot-pink accent and clean ink-black details. BACKGROUND REQUIREMENT: every pixel outside the subject must be one identical solid RGB 0,255,0 chroma green #00FF00; perfectly flat, no lighting variation. Keep at least 12 percent empty green margin on every side. Do not create a scene, card, poster, collage, paper backing, torn edge, frame, border, floor, table, cast shadow, reflection, vignette, gradient, texture, green rim light, decorative sparkle, extra object, text, logo, watermark, neon or glossy 3D. Remotion alone adds the silhouette-backed watercolor paper, ripped-white contour, hot-pink offset, shadows, arrows and all readable copy.",
+  "jobs": [
+    {
+      "id": "A01",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a01-discard-cup-green-v03.png",
+      "prompt": "One complete crop-safe action group: one realistic Vietnamese hand releasing one empty unbranded white takeaway cup directly above one small plain waste bin, dynamic downward motion frozen clearly, full hand, cup and bin visible, matte finish, soft upper-left daylight, restrained hot-pink accent, clean ink-black details. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, extra object or scene background."
+    },
+    {
+      "id": "A02",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a02-fold-bag-green-v03.png",
+      "prompt": "One complete crop-safe action group: two realistic Vietnamese hands folding one completely blank warm-cream paper shopping bag with a small restrained hot-pink handle, no brand, full hands and full bag visible, matte finish, soft upper-left daylight, clean ink-black details. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, extra object or scene background."
+    },
+    {
+      "id": "A03",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a03-customer-cup-bag-green-v03.png",
+      "prompt": "One young Vietnamese customer only, waist-up, natural everyday clothing in cream and black with a restrained blush-pink accent, holding one unbranded white takeaway cup in one hand and one completely blank warm-cream paper bag in the other, neutral thoughtful expression, full hands and objects visible, matte finish, soft upper-left daylight. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, counter or extra object."
+    },
+    {
+      "id": "A04",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a04-drawer-folded-bag-green-v03.png",
+      "prompt": "One small open light-wood drawer only with one neatly folded completely blank warm-cream paper bag inside, restrained hot-pink handle visible, three-quarter view, complete object crop-safe, matte finish, soft upper-left daylight, clean ink-black details. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, furniture or extra object."
+    },
+    {
+      "id": "A05",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a05-pack-gift-bag-green-v03.png",
+      "prompt": "One complete crop-safe action group: two realistic Vietnamese hands opening one completely blank warm-cream paper bag and lowering one small unbranded gift box into it, restrained hot-pink handle and ribbon accent, full hands, bag and box visible, matte finish, soft upper-left daylight, clean ink-black details. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, table or extra object."
+    },
+    {
+      "id": "A06",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a06-gift-carrier-green-v03.png",
+      "prompt": "One young Vietnamese adult only, full body in a natural walking pose, everyday cream shirt and black trousers with restrained blush-pink accent, carrying one completely blank warm-cream paper gift bag forward, friendly anticipatory expression, full limbs and bag visible, matte finish, soft upper-left daylight. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, doorway or extra object."
+    },
+    {
+      "id": "A07",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a07-gift-recipient-green-v03.png",
+      "prompt": "One young Vietnamese gift recipient only, waist-up, simple neutral clothing, curious warm expression, eyes looking down-left, one hand pointing toward an off-frame gift and the other hand open as if asking a question, full hands visible, matte finish, soft upper-left daylight, restrained hot-pink accent. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, gift bag or extra object."
+    },
+    {
+      "id": "A08",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a08-shop-owner-audit-green-v03.png",
+      "prompt": "One Vietnamese small-shop owner only, waist-up leaning slightly forward, cream shirt with restrained blush-pink apron accent, both hands arranging several completely blank packaging touchpoints in front of the body, focused practical expression, full hands and upper objects visible, matte finish, soft upper-left daylight. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, table, room or extra person."
+    },
+    {
+      "id": "A09",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a09-touchpoints-sheet-green-v03.png",
+      "prompt": "One vertical source sheet containing exactly three isolated blank touchpoint objects arranged top, middle, bottom: one small cream gift box, one blank blush-pink thank-you card, and one narrow blank receipt slip. Keep at least 18 percent clear green gutter between objects and at least 12 percent outer margin, matte finish, soft upper-left daylight, clean ink-black details. Background perfectly uniform chroma green #00FF00. No gradient, texture, vignette, shadow, green rim, reflection, readable text, number, logo, watermark, paper backing, border, overlap, connected shadow, fourth object or decorative filler."
+    },
+    {
+      "id": "A10",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a10-crumple-wrapper-green-v03.png",
+      "prompt": "One complete crop-safe action group: one realistic Vietnamese hand crushing a generic plain wrapper directly above one small waste bin, full hand, crumpled wrapper and bin visible, matte finish, soft upper-left daylight, restrained hot-pink accent, clean ink-black details. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, product or extra object."
+    },
+    {
+      "id": "A11",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a11-phone-audit-green-v03.png",
+      "prompt": "One realistic Vietnamese hand holding one modern unbranded smartphone in a top-down camera pose, screen completely blank pale cream for Remotion replacement, full hand and phone visible, matte finish, soft upper-left daylight, restrained hot-pink case accent, clean ink-black details. Background perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, interface, table or extra object."
+    }
+  ]
+}

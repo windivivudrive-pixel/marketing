@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "projectName": "CreatorFlow Demo",
+  "language": "en",
+  "seriesLabel": "CHUYỆN BRANDING MỖI NGÀY",
+  "brand": {
+    "name": "CreatorFlow",
+    "promise": "One clear idea. One clean story.",
+    "voice": "friendly, precise, useful",
+    "footerLeft": "MỘT CÂU CHUYỆN. MỘT BÀI HỌC.",
+    "footerRight": "BRANDING, DỄ HIỂU HƠN"
+  },
+  "style": {
+    "preset": "branding-story-paper-pink",
+    "vibe": "friendly white and pink torn-paper branding story"
+  },
+  "production": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "captionTop": 1110
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 2,
+  "metadata": {
+    "episodeId": "ep006",
+    "slug": "gia-cao-khong-tu-tao-cao-cap",
+    "version": 1,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260817-branding-story-ideas-v01.json#brand-story-008-price-anchor",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 58,
+    "researchRequired": false
+  },
+  "creativeContract": {
+    "title": "Giá cao không tự tạo ra cảm giác cao cấp",
+    "seriesLabelFromProfile": true,
+    "audience": "Chủ doanh nghiệp nhỏ, đội marketing nội bộ và người đang xây thương hiệu",
+    "painPoint": "Tăng giá nhưng khách chỉ thấy đắt hơn vì chưa hiểu mình đang trả thêm cho điều gì.",
+    "viewerQuestion": "Làm sao giúp khách hiểu chênh lệch giá mà không cần giải thích dài?",
+    "premise": "Giá trị cảm nhận cần một hệ so sánh rõ và bằng chứng thật, không chỉ một con số cao hơn.",
+    "lesson": "Định vị giá là thiết kế cách khách so sánh; mức giá cao chỉ hợp lý khi sản phẩm và trải nghiệm chứng minh được khác biệt.",
+    "payoff": "Kiểm tra ba lựa chọn bằng một người chưa từng nghe bạn giới thiệu.",
+    "caseType": "illustrative",
+    "caseDisclosure": "Tình huống quán cà phê là ví dụ minh họa, không phải case có số liệu doanh thu.",
+    "tone": ["thân thiện", "quan sát đời thường", "hơi tinh nghịch", "không giáo điều"],
+    "cta": "save"
+  },
+  "topicKeywords": [
+    "định vị giá",
+    "giá trị cảm nhận",
+    "neo giá",
+    "thiết kế menu",
+    "khác biệt sản phẩm"
+  ],
+  "voiceover": {
+    "displayText": "Tăng giá không làm thương hiệu trông cao cấp hơn. Nhiều quán cà phê chỉ đổi con số trên menu... rồi ngạc nhiên khi khách hỏi: “Sao mắc vậy?” Hãy tưởng tượng một menu có 3 món. Ly cơ bản dành cho người cần nhanh. Ly đặc trưng có nguyên liệu và cách phục vụ riêng. Ly giới hạn dành cho một dịp cụ thể. Bây giờ, khách không còn nhìn một con số đứng một mình. Họ nhìn 3 lựa chọn, 3 tình huống... và hiểu mình đang trả thêm cho điều gì. Nhưng nhớ nhé... món đắt nhất không thể chỉ được trang trí đẹp hơn. Giá trị phải xuất hiện trong sản phẩm, cách phục vụ và bằng chứng. Thử làm 3 bước: ghi rõ mỗi lựa chọn dành cho ai; chỉ ra điểm khác biệt thật; rồi nhờ một người mới chọn mà không cần bạn giải thích. Nếu họ vẫn hỏi “khác nhau ở đâu?”... định vị chưa rõ, chứ chưa chắc giá sai. Lưu video này để kiểm tra lại bảng giá của bạn.",
+    "voiceText": "Tăng giá không làm thương hiệu trông cao cấp hơn. Nhiều quán cà phê chỉ đổi con số trên thực đơn... rồi ngạc nhiên khi khách hỏi: Sao mắc vậy? Hãy tưởng tượng một thực đơn có ba món. Ly cơ bản dành cho người cần nhanh. Ly đặc trưng có nguyên liệu và cách phục vụ riêng. Ly giới hạn dành cho một dịp cụ thể. Bây giờ, khách không còn nhìn một con số đứng một mình. Họ nhìn ba lựa chọn, ba tình huống... và hiểu mình đang trả thêm cho điều gì. Nhưng nhớ nhé... món đắt nhất không thể chỉ được trang trí đẹp hơn. Giá trị phải xuất hiện trong sản phẩm, cách phục vụ và bằng chứng. Thử làm ba bước: ghi rõ mỗi lựa chọn dành cho ai; chỉ ra điểm khác biệt thật; rồi nhờ một người mới chọn mà không cần bạn giải thích. Nếu họ vẫn hỏi khác nhau ở đâu... định vị chưa rõ, chứ chưa chắc giá sai. Lưu video này để kiểm tra lại bảng giá của bạn.",
+    "sections": {
+      "hook": {
+        "displayText": "Tăng giá không làm thương hiệu trông cao cấp hơn.",
+        "voiceText": "Tăng giá không làm thương hiệu trông cao cấp hơn.",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 2500
+      },
+      "body": {
+        "displayText": "Nhiều quán cà phê chỉ đổi con số trên menu... rồi ngạc nhiên khi khách hỏi: “Sao mắc vậy?” Hãy tưởng tượng một menu có 3 món. Ly cơ bản dành cho người cần nhanh. Ly đặc trưng có nguyên liệu và cách phục vụ riêng. Ly giới hạn dành cho một dịp cụ thể. Bây giờ, khách không còn nhìn một con số đứng một mình. Họ nhìn 3 lựa chọn, 3 tình huống... và hiểu mình đang trả thêm cho điều gì. Nhưng nhớ nhé... món đắt nhất không thể chỉ được trang trí đẹp hơn. Giá trị phải xuất hiện trong sản phẩm, cách phục vụ và bằng chứng. Thử làm 3 bước: ghi rõ mỗi lựa chọn dành cho ai; chỉ ra điểm khác biệt thật; rồi nhờ một người mới chọn mà không cần bạn giải thích. Nếu họ vẫn hỏi “khác nhau ở đâu?”... định vị chưa rõ, chứ chưa chắc giá sai.",
+        "voiceText": "Nhiều quán cà phê chỉ đổi con số trên thực đơn... rồi ngạc nhiên khi khách hỏi: Sao mắc vậy? Hãy tưởng tượng một thực đơn có ba món. Ly cơ bản dành cho người cần nhanh. Ly đặc trưng có nguyên liệu và cách phục vụ riêng. Ly giới hạn dành cho một dịp cụ thể. Bây giờ, khách không còn nhìn một con số đứng một mình. Họ nhìn ba lựa chọn, ba tình huống... và hiểu mình đang trả thêm cho điều gì. Nhưng nhớ nhé... món đắt nhất không thể chỉ được trang trí đẹp hơn. Giá trị phải xuất hiện trong sản phẩm, cách phục vụ và bằng chứng. Thử làm ba bước: ghi rõ mỗi lựa chọn dành cho ai; chỉ ra điểm khác biệt thật; rồi nhờ một người mới chọn mà không cần bạn giải thích. Nếu họ vẫn hỏi khác nhau ở đâu... định vị chưa rõ, chứ chưa chắc giá sai.",
+        "estimatedStartMs": 2500,
+        "estimatedEndMs": 54000,
+        "story": "Một quán cà phê minh họa ba lựa chọn theo ba tình huống sử dụng, giúp khách so sánh giá bằng khác biệt thật thay vì nhìn một con số đứng riêng.",
+        "lesson": "Định vị giá là thiết kế cách so sánh; mức giá phải được chứng minh bằng sản phẩm, phục vụ và bằng chứng.",
+        "actions": [
+          "Ghi rõ mỗi lựa chọn dành cho ai",
+          "Chỉ ra điểm khác biệt thật",
+          "Nhờ một người mới chọn mà không cần giải thích"
+        ]
+      },
+      "close": {
+        "displayText": "Lưu video này để kiểm tra lại bảng giá của bạn.",
+        "voiceText": "Lưu video này để kiểm tra lại bảng giá của bạn.",
+        "estimatedStartMs": 54000,
+        "estimatedEndMs": 58000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": []
+  },
+  "onScreenCopy": [
+    {"id": "T01", "startMs": 0, "endMs": 2500, "text": "GIÁ CAO ≠ CAO CẤP", "role": "hook"},
+    {"id": "T02", "startMs": 9300, "endMs": 11500, "text": "“SAO MẮC VẬY?”", "role": "viewer-objection"},
+    {"id": "T03", "startMs": 11500, "endMs": 20600, "text": "3 MÓN · 3 TÌNH HUỐNG", "role": "story-structure"},
+    {"id": "T04", "startMs": 25400, "endMs": 27600, "text": "TRẢ THÊM CHO ĐIỀU GÌ?", "role": "lesson-question"},
+    {"id": "T05", "startMs": 33800, "endMs": 36500, "text": "SẢN PHẨM · PHỤC VỤ · BẰNG CHỨNG", "role": "proof-triad"},
+    {"id": "T06", "startMs": 36500, "endMs": 48200, "text": "BÀI TEST 3 BƯỚC", "role": "action"},
+    {"id": "T07", "startMs": 50500, "endMs": 54000, "text": "ĐỊNH VỊ CHƯA RÕ ≠ GIÁ SAI", "role": "payoff"},
+    {"id": "T08", "startMs": 54000, "endMs": 58000, "text": "LƯU ĐỂ KIỂM TRA BẢNG GIÁ", "role": "cta"}
+  ],
+  "beats": [
+    {"id": "B01", "startMs": 0, "endMs": 2500, "purpose": "Phủ định thẳng: tăng giá không tự tạo cao cấp"},
+    {"id": "B02", "startMs": 2500, "endMs": 11500, "purpose": "Nỗi đau: đổi con số nhưng khách chỉ thấy mắc"},
+    {"id": "B03", "startMs": 11500, "endMs": 20600, "purpose": "Kể tình huống minh họa ba món"},
+    {"id": "B04", "startMs": 20600, "endMs": 27600, "purpose": "Đổi khung so sánh từ giá đơn lẻ sang tình huống"},
+    {"id": "B05", "startMs": 27600, "endMs": 36500, "purpose": "Giải mã bài học và chặn hiểu sai"},
+    {"id": "B06", "startMs": 36500, "endMs": 48200, "purpose": "Ba hành động kiểm tra định vị giá"},
+    {"id": "B07", "startMs": 48200, "endMs": 54000, "purpose": "Câu chẩn đoán kết luận"},
+    {"id": "B08", "startMs": 54000, "endMs": 58000, "purpose": "CTA lưu video"}
+  ],
+  "visualCues": [
+    {"id": "C01", "startMs": 0, "endMs": 800, "spokenAnchor": "Tăng giá", "semanticIntent": "Cho thấy con số giá tăng ngay lập tức", "composition": "transform", "exit": "transform", "items": [{"id": "price-tag", "kind": "code", "role": "thẻ giá tăng nhưng sản phẩm giữ nguyên"}]},
+    {"id": "C02", "startMs": 800, "endMs": 1600, "spokenAnchor": "không làm thương hiệu", "semanticIntent": "Phủ định việc đổi giá đồng nghĩa đổi thương hiệu", "composition": "solo", "exit": "replace", "items": [{"id": "brand-card", "kind": "code", "role": "thẻ thương hiệu không đổi"}]},
+    {"id": "C03", "startMs": 1600, "endMs": 2500, "spokenAnchor": "trông cao cấp hơn", "semanticIntent": "Đóng hook bằng dấu không bằng rõ ràng", "composition": "code", "exit": "replace", "items": [{"id": "not-equal-lockup", "kind": "code", "role": "GIÁ CAO không bằng CAO CẤP"}]},
+    {"id": "C04", "startMs": 2500, "endMs": 4800, "spokenAnchor": "Nhiều quán cà phê", "semanticIntent": "Đặt người xem vào tình huống quán nhỏ quen thuộc", "composition": "solo", "exit": "replace", "items": [{"id": "cafe-owner", "kind": "asset", "assetId": "A01", "role": "chủ quán cầm thẻ giá"}]},
+    {"id": "C05", "startMs": 4800, "endMs": 7000, "spokenAnchor": "đổi con số trên thực đơn", "semanticIntent": "Cho thấy chỉ giá thay đổi còn menu giữ nguyên", "composition": "transform", "exit": "transform", "items": [{"id": "menu-board", "kind": "asset", "assetId": "A02", "role": "thực đơn trống để Remotion đổi số"}]},
+    {"id": "C06", "startMs": 7000, "endMs": 9300, "spokenAnchor": "ngạc nhiên khi khách hỏi", "semanticIntent": "Hiện phản ứng khó hiểu của khách", "composition": "solo", "exit": "replace", "items": [{"id": "customer-compare", "kind": "asset", "assetId": "A06", "role": "khách nhìn hai thẻ menu"}]},
+    {"id": "C07", "startMs": 9300, "endMs": 11500, "spokenAnchor": "Sao mắc vậy", "semanticIntent": "Đưa đúng phản đối của khách lên màn hình", "composition": "code", "exit": "replace", "items": [{"id": "objection-copy", "kind": "code", "role": "câu hỏi Sao mắc vậy"}]},
+    {"id": "C08", "startMs": 11500, "endMs": 14000, "spokenAnchor": "một thực đơn có ba món", "semanticIntent": "Mở cấu trúc ba lựa chọn rõ ràng", "composition": "process", "exit": "replace", "items": [{"id": "slot-basic", "kind": "code", "role": "ô cơ bản"}, {"id": "slot-signature", "kind": "code", "role": "ô đặc trưng"}, {"id": "slot-limited", "kind": "code", "role": "ô giới hạn"}]},
+    {"id": "C09", "startMs": 14000, "endMs": 16200, "spokenAnchor": "Ly cơ bản", "semanticIntent": "Giới thiệu lựa chọn nhanh và đơn giản", "composition": "solo", "exit": "replace", "items": [{"id": "cup-basic", "kind": "asset", "assetId": "A03", "role": "ly cơ bản"}]},
+    {"id": "C10", "startMs": 16200, "endMs": 18400, "spokenAnchor": "Ly đặc trưng", "semanticIntent": "Cho thấy khác biệt sản phẩm và cách phục vụ", "composition": "solo", "exit": "replace", "items": [{"id": "cup-signature", "kind": "asset", "assetId": "A04", "role": "ly đặc trưng"}]},
+    {"id": "C11", "startMs": 18400, "endMs": 20600, "spokenAnchor": "Ly giới hạn", "semanticIntent": "Gắn lựa chọn thứ ba với một dịp cụ thể", "composition": "solo", "exit": "replace", "items": [{"id": "cup-limited", "kind": "asset", "assetId": "A05", "role": "ly giới hạn trên khay dịp đặc biệt"}]},
+    {"id": "C12", "startMs": 20600, "endMs": 23000, "spokenAnchor": "một con số đứng một mình", "semanticIntent": "Tách con số khỏi bối cảnh để thấy lý do khách phản đối", "composition": "solo", "exit": "replace", "items": [{"id": "lonely-price", "kind": "code", "role": "một thẻ giá đứng đơn độc"}]},
+    {"id": "C13", "startMs": 23000, "endMs": 25400, "spokenAnchor": "ba lựa chọn, ba tình huống", "semanticIntent": "Ghép từng món với đúng nhu cầu sử dụng", "composition": "sequence", "exit": "replace", "items": [{"id": "choice-fast", "kind": "asset", "assetId": "A03", "role": "nhanh"}, {"id": "choice-signature", "kind": "asset", "assetId": "A04", "role": "trải nghiệm riêng"}, {"id": "choice-occasion", "kind": "asset", "assetId": "A05", "role": "dịp cụ thể"}]},
+    {"id": "C14", "startMs": 25400, "endMs": 27600, "spokenAnchor": "trả thêm cho điều gì", "semanticIntent": "Biến chênh lệch giá thành câu hỏi giá trị", "composition": "code", "exit": "replace", "items": [{"id": "value-question", "kind": "code", "role": "TRẢ THÊM CHO ĐIỀU GÌ"}]},
+    {"id": "C15", "startMs": 27600, "endMs": 29400, "spokenAnchor": "Nhưng nhớ nhé", "semanticIntent": "Mascot dừng nhịp để cảnh báo hiểu sai", "composition": "solo", "exit": "replace", "items": [{"id": "mascot-serious", "kind": "asset", "assetId": "A09", "role": "mascot nghiêm túc"}]},
+    {"id": "C16", "startMs": 29400, "endMs": 31600, "spokenAnchor": "món đắt nhất", "semanticIntent": "Đưa món giá cao lên vị trí kiểm tra", "composition": "transform", "exit": "transform", "items": [{"id": "premium-cup-test", "kind": "asset", "assetId": "A05", "role": "ly giới hạn được phóng lớn"}]},
+    {"id": "C17", "startMs": 31600, "endMs": 33800, "spokenAnchor": "trang trí đẹp hơn", "semanticIntent": "So phần trang trí với giá trị thật để tránh đánh tráo", "composition": "compare", "exit": "replace", "items": [{"id": "decor-only", "kind": "code", "role": "nơ trang trí"}, {"id": "real-value", "kind": "asset", "assetId": "A04", "role": "sản phẩm có khác biệt thật"}]},
+    {"id": "C18", "startMs": 33800, "endMs": 36500, "spokenAnchor": "trong sản phẩm, cách phục vụ và bằng chứng", "semanticIntent": "Hiện ba nơi giá trị phải xuất hiện", "composition": "sequence", "exit": "replace", "items": [{"id": "proof-product", "kind": "asset", "assetId": "A04", "role": "sản phẩm"}, {"id": "proof-service", "kind": "asset", "assetId": "A07", "role": "cách phục vụ"}, {"id": "proof-evidence", "kind": "asset", "assetId": "A08", "role": "bằng chứng vật lý"}]},
+    {"id": "C19", "startMs": 36500, "endMs": 38600, "spokenAnchor": "Thử làm ba bước", "semanticIntent": "Mở checklist hành động tuần tự", "composition": "process", "exit": "carry", "items": [{"id": "step-one", "kind": "code", "role": "bước một"}, {"id": "step-two", "kind": "code", "role": "bước hai"}, {"id": "step-three", "kind": "code", "role": "bước ba"}]},
+    {"id": "C20", "startMs": 38600, "endMs": 41100, "spokenAnchor": "mỗi lựa chọn dành cho ai", "semanticIntent": "Gắn từng lựa chọn với một người cụ thể", "composition": "solo", "exit": "replace", "items": [{"id": "audience-card", "kind": "code", "role": "thẻ dành cho ai"}]},
+    {"id": "C21", "startMs": 41100, "endMs": 43500, "spokenAnchor": "điểm khác biệt thật", "semanticIntent": "Khoanh đúng khác biệt có thể quan sát", "composition": "solo", "exit": "replace", "items": [{"id": "difference-marker", "kind": "code", "role": "marker khoanh nguyên liệu và phục vụ"}]},
+    {"id": "C22", "startMs": 43500, "endMs": 46000, "spokenAnchor": "nhờ một người mới chọn", "semanticIntent": "Cho thấy bài test với người chưa biết thương hiệu", "composition": "solo", "exit": "replace", "items": [{"id": "new-customer", "kind": "asset", "assetId": "A06", "role": "người mới tự chọn menu"}]},
+    {"id": "C23", "startMs": 46000, "endMs": 48200, "spokenAnchor": "không cần bạn giải thích", "semanticIntent": "Loại người bán khỏi khung để kiểm tra menu tự nói được", "composition": "transform", "exit": "replace", "items": [{"id": "seller-fades", "kind": "code", "role": "người giải thích mờ đi, menu còn lại"}]},
+    {"id": "C24", "startMs": 48200, "endMs": 50500, "spokenAnchor": "khác nhau ở đâu", "semanticIntent": "Hiện câu hỏi chẩn đoán còn tồn tại", "composition": "code", "exit": "replace", "items": [{"id": "difference-question", "kind": "code", "role": "KHÁC NHAU Ở ĐÂU"}]},
+    {"id": "C25", "startMs": 50500, "endMs": 52800, "spokenAnchor": "định vị chưa rõ", "semanticIntent": "Chuyển kết luận từ lỗi giá sang lỗi giải thích giá trị", "composition": "transform", "exit": "transform", "items": [{"id": "positioning-diagnosis", "kind": "code", "role": "ĐỊNH VỊ CHƯA RÕ"}]},
+    {"id": "C26", "startMs": 52800, "endMs": 54000, "spokenAnchor": "chưa chắc giá sai", "semanticIntent": "Đóng payoff bằng dấu không bằng", "composition": "code", "exit": "replace", "items": [{"id": "not-price-error", "kind": "code", "role": "không bằng GIÁ SAI"}]},
+    {"id": "C27", "startMs": 54000, "endMs": 56000, "spokenAnchor": "Lưu video này", "semanticIntent": "Mời người xem lưu đúng một hành động", "composition": "solo", "exit": "carry", "items": [{"id": "mascot-save", "kind": "asset", "assetId": "A10", "role": "mascot chỉ vào nút lưu"}]},
+    {"id": "C28", "startMs": 56000, "endMs": 58000, "spokenAnchor": "kiểm tra lại bảng giá", "semanticIntent": "Cho thấy bảng giá được đánh dấu để kiểm tra", "composition": "code", "exit": "replace", "items": [{"id": "pricing-checklist", "kind": "code", "role": "bảng giá với ba ô kiểm tra"}]}
+  ],
+  "assets": [
+    {
+      "id": "A01",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/illustrations/ep006/a01-cafe-owner-v01.png",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: clean premium commercial cutout; warm soft studio lighting; neutral white, blush pink, hot-pink accents and near-black details; crisp natural material texture; no typography, no logos, no watermark, no border, no collage, no paper backing, no baked contour, no shadow on background; perfectly uniform chroma green #00FF00 background with at least 12% empty green margin around the complete subject. Vietnamese small cafe owner in a clean white shirt with one blush-pink apron accent, waist-up, holding a completely blank rectangular price card, mildly puzzled expression, three-quarter view, complete hands visible."
+    },
+    {
+      "id": "A02",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/illustrations/ep006/a02-menu-board-v01.png",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: clean premium commercial cutout; warm soft studio lighting; neutral white, blush pink, hot-pink accents and near-black details; crisp natural material texture; no typography, no logos, no watermark, no border, no collage, no paper backing, no baked contour, no shadow on background; perfectly uniform chroma green #00FF00 background with at least 12% empty green margin around the complete subject. Isolated upright cafe menu board with three large completely blank rows and small blank price tabs, straight-on view, clean edges, no readable marks."
+    },
+    {
+      "id": "A03",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/illustrations/ep006/a03-basic-cup-v01.png",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: clean premium commercial cutout; warm soft studio lighting; neutral white, blush pink, hot-pink accents and near-black details; crisp natural material texture; no typography, no logos, no watermark, no border, no collage, no paper backing, no baked contour, no shadow on background; perfectly uniform chroma green #00FF00 background with at least 12% empty green margin around the complete subject. Simple unbranded white takeaway coffee cup with plain lid, slight three-quarter angle, modest everyday appearance, complete object visible."
+    },
+    {
+      "id": "A04",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/illustrations/ep006/a04-signature-cup-v01.png",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: clean premium commercial cutout; warm soft studio lighting; neutral white, blush pink, hot-pink accents and near-black details; crisp natural material texture; no typography, no logos, no watermark, no border, no collage, no paper backing, no baked contour, no shadow on background; perfectly uniform chroma green #00FF00 background with at least 12% empty green margin around the complete subject. Distinctive signature coffee in an unbranded ceramic cup, visible layered drink and one real ingredient garnish, restrained blush-pink saucer, three-quarter view, complete object visible."
+    },
+    {
+      "id": "A05",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/illustrations/ep006/a05-limited-cup-v01.png",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: clean premium commercial cutout; warm soft studio lighting; neutral white, blush pink, hot-pink accents and near-black details; crisp natural material texture; no typography, no logos, no watermark, no border, no collage, no paper backing, no baked contour, no shadow on background; perfectly uniform chroma green #00FF00 background with at least 12% empty green margin around the complete subject. Limited-occasion unbranded coffee served on a small refined tray with one seasonal edible garnish and a tiny blank occasion card, restrained hot-pink accent, complete isolated arrangement visible."
+    },
+    {
+      "id": "A06",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/illustrations/ep006/a06-customer-compare-v01.png",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: clean premium commercial cutout; warm soft studio lighting; neutral white, blush pink, hot-pink accents and near-black details; crisp natural material texture; no typography, no logos, no watermark, no border, no collage, no paper backing, no baked contour, no shadow on background; perfectly uniform chroma green #00FF00 background with at least 12% empty green margin around the complete subject. Young Vietnamese customer in simple neutral clothing, waist-up, comparing two completely blank menu cards, curious slightly skeptical expression, complete hands and cards visible."
+    },
+    {
+      "id": "A07",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/illustrations/ep006/a07-service-hand-v01.png",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: clean premium commercial cutout; warm soft studio lighting; neutral white, blush pink, hot-pink accents and near-black details; crisp natural material texture; no typography, no logos, no watermark, no border, no collage, no paper backing, no baked contour, no shadow on background; perfectly uniform chroma green #00FF00 background with at least 12% empty green margin around the complete subject. Realistic barista hand carefully placing an unbranded ceramic coffee cup on a small clean tray, full hand and complete objects visible, precise attentive service gesture."
+    },
+    {
+      "id": "A08",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/illustrations/ep006/a08-proof-objects-v01.png",
+      "batchEligible": true,
+      "mediaPrompt": "VISUAL IDENTITY LOCK: clean premium commercial cutout; warm soft studio lighting; neutral white, blush pink, hot-pink accents and near-black details; crisp natural material texture; no typography, no logos, no watermark, no border, no collage, no paper backing, no baked contour, no shadow on background; perfectly uniform chroma green #00FF00 background with at least 12% empty green margin around the complete subject. Tall three-by-four source sheet containing exactly three simple vertically separated proof objects: sealed unbranded ingredient pouch, small service bell, blank quality card with no marks; at least 18% clear green gutter between subjects, no overlap, complete objects visible."
+    },
+    {
+      "id": "A09",
+      "sourceType": "provided",
+      "provider": "provided-media",
+      "stickerTreatment": "legacy-precut",
+      "hasBakedContour": true,
+      "outputPath": "../mascot/serious.png",
+      "rights": "profile-confirmed"
+    },
+    {
+      "id": "A10",
+      "sourceType": "provided",
+      "provider": "provided-media",
+      "stickerTreatment": "legacy-precut",
+      "hasBakedContour": true,
+      "outputPath": "../mascot/idea.png",
+      "rights": "profile-confirmed"
+    },
+    {"id": "A11", "sourceType": "code", "provider": "remotion", "role": "menu, price, checklist and exact on-screen copy"},
+    {"id": "A12", "sourceType": "code", "provider": "remotion", "role": "paper backing, torn contour, hot-pink offset, arrows and marker accents"}
+  ],
+  "editBlueprint": {
+    "seriesLabelSource": "profile.seriesLabel",
+    "headerSource": "profile.brand",
+    "footerSource": "profile.brand.footerLeft/profile.brand.footerRight",
+    "stylePreset": "branding-story-paper-pink",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "captionTop": 1110,
+    "captionMaxWordsPerLine": 8,
+    "wordHighlight": true,
+    "whiteSpace": "pre-wrap",
+    "maxActiveScale": 1.15,
+    "captionTimingSource": "words.json after VAD trim and transcription",
+    "cueTimingRule": "Retime every cue and item entrance to the first word boundary of its spokenAnchor after final voice trimming.",
+    "vadRule": "Trim only leading and trailing silence from the processed voice before transcription; never remove internal pauses.",
+    "stickerRule": "Generated assets receive silhouette-masked blush paper, irregular torn-white contour, restrained hot-pink offset and soft paper shadow in Remotion. Legacy mascot assets receive no second backing.",
+    "hookCadenceSeconds": "0.6-1.2",
+    "bodyCadenceSeconds": "0.9-2.0 normally; provisional exceptions remain below three seconds and must be retimed to speech",
+    "render": "local",
+    "safeZone": "TikTok safe zone; captions above mascot at approximately top 1110"
+  },
+  "sources": [],
+  "quotaPlan": {
+    "estimatedImageCalls": 8,
+    "estimatedTtsCalls": 1,
+    "estimatedTranscriptionCalls": 1,
+    "estimatedRenderCalls": 1,
+    "reusableProfileAssets": ["A09", "A10"],
+    "idempotencyPrefix": "ep006-v01",
+    "spendGate": "No image, TTS, transcription or render call before approval of this exact JSON version."
+  },
+  "approval": {
+    "status": "script-review",
+    "version": 1,
+    "approvedAt": null,
+    "decisionNeeded": "Approve, request script changes, or request visual-plan changes."
+  }
+}

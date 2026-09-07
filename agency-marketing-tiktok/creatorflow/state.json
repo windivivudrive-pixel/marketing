@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 1,
+  "stage": "production-ready",
+  "approvals": {
+    "idea": {
+      "status": "approved",
+      "artifact": "ideas/20260826-phenomenon-ideas-v01.json#IDEA001",
+      "approvedAt": "2026-08-26T10:30:00.000Z"
+    },
+    "script": {
+      "status": "approved",
+      "artifacts": [
+        "briefs/ep015-ten-mon-dai-hon-v01.json"
+      ],
+      "approvedAt": "2026-08-26T10:40:00.000Z"
+    },
+    "assetPlan": {
+      "status": "approved",
+      "artifacts": [
+        "briefs/ep015-ten-mon-dai-hon-v01.json#assets"
+      ],
+      "approvedAt": "2026-08-26T10:40:00.000Z"
+    }
+  },
+  "approvalHistory": [
+    {
+      "type": "idea",
+      "status": "approved",
+      "artifact": "ideas/20260818-branding-ideas-v01.json#IDEA002",
+      "approvedAt": "2026-08-18T04:52:04.000Z",
+      "note": "User selected Idea 2 (Thẻ tích điểm 10 ô - Endowed Progress Effect) to build script."
+    },
+    {
+      "type": "script",
+      "status": "approved",
+      "artifact": "briefs/ep007-the-tich-diem-10-o-v01.json",
+      "approvedAt": "2026-08-18T06:43:00.000Z",
+      "note": "User requested edit stage: 'dựng giúp t @creatorflow-edit', approving EP007 script and asset plan for production."
+    },
+    {
+      "type": "assetPlan",
+      "status": "approved",
+      "artifact": "briefs/ep007-the-tich-diem-10-o-v01.json#assets",
+      "approvedAt": "2026-08-18T06:43:00.000Z",
+      "note": "Asset plan approved for EP007 v01."
+    },
+    {
+      "type": "idea",
+      "status": "approved",
+      "artifact": "ideas/20260818-branding-ideas-v01.json#IDEA003",
+      "approvedAt": "2026-08-18T07:59:07.000Z",
+      "note": "User requested script for Idea 3: 'Dải băng keo xé đỏ: Chi tiết nhỏ khiến khách tự quay clip unboxing'."
+    },
+    {
+      "type": "script",
+      "status": "approved",
+      "artifact": "briefs/ep008-dai-bang-keo-xe-do-v01.json",
+      "approvedAt": "2026-08-18T08:30:00.000Z",
+      "note": "User approved EP008 script: 'duyệt dựng cho t'."
+    },
+    {
+      "type": "assetPlan",
+      "status": "approved",
+      "artifact": "briefs/ep008-dai-bang-keo-xe-do-v01.json#assets",
+      "approvedAt": "2026-08-18T08:30:00.000Z",
+      "note": "Asset plan approved for EP008 v01 (9 assets)."
+    },
+    {
+      "type": "idea",
+      "status": "approved",
+      "artifact": "ideas/20260824-branding-ideas-v02.json#IDEA001,IDEA002,IDEA003",
+      "approvedAt": "2026-08-24T10:20:00.000Z",
+      "note": "User selected ideas 1, 2 and 3 for three independent script-review packages: EP009, EP010 and EP011."
+    },
+    {
+      "type": "script",
+      "status": "approved",
+      "artifact": "briefs/ep010-quay-hai-muoi-bon-vi-v01.json",
+      "approvedAt": "2026-08-24T17:15:00.000Z",
+      "note": "User requested edit stage: dựng ep 10 thử giúp t @creatorflow-edit, approving EP010 script and asset plan for production."
+    },
+    {
+      "type": "script",
+      "status": "approved",
+      "artifact": "briefs/ep009-phi-ship-xuat-hien-cuoi-v01.json",
+      "approvedAt": "2026-08-24T19:56:00.000Z",
+      "note": "User requested edit stage: dựng ep09, approving EP009 script and asset plan for production."
+    },
+    {
+      "type": "idea",
+      "status": "approved",
+      "artifact": "ideas/20260824-branding-ideas-v03.json#IDEA001,IDEA002,IDEA003",
+      "approvedAt": "2026-08-24T11:15:00.000Z",
+      "note": "User requested varied hook delivery and spoken Vietnamese voiceover before re-reviewing all three scripts."
+    },
+    {
+      "type": "script",
+      "status": "approved",
+      "artifact": "briefs/ep011-cam-thu-muoi-giay-v02.json",
+      "approvedAt": "2026-08-24T20:36:00.000Z",
+      "note": "User requested edit stage: dựng ep011 @briefs/ep011-cam-thu-muoi-giay-v02.json, approving EP011 v02 script and asset plan for production."
+    },
+    {
+      "type": "idea",
+      "status": "approved",
+      "artifact": "ideas/20260825-phenomenon-ideas-v01.json#IDEA002,IDEA004,IDEA005",
+      "approvedAt": "2026-08-25T10:00:00.000Z",
+      "note": "User requested scripts for ideas 2, 4 and 5; these idea directions are approved for script review."
+    },
+    {
+      "type": "script",
+      "status": "approved",
+      "artifact": "briefs/ep012-so-khong-co-tieng-noi-rieng-v01.json",
+      "approvedAt": "2026-08-25T09:55:00.000Z",
+      "note": "User requested: duyệt kịch bản ep12 dựng hoàn thiện cho t"
+    },
+    {
+      "type": "script",
+      "status": "approved",
+      "artifact": "briefs/ep013-nen-roi-lam-khach-nghi-nhieu-hon-v01.json",
+      "approvedAt": "2026-08-25T04:10:41.220Z",
+      "note": "User requested: dựng ep013 kèm tài khoản Cartesia mới"
+    },
+    {
+      "type": "idea",
+      "status": "approved",
+      "artifact": "ideas/20260826-phenomenon-ideas-v01.json#IDEA001",
+      "approvedAt": "2026-08-26T10:30:00.000Z",
+      "note": "User approved idea 1 and requested the full script."
+    },
+    {
+      "type": "script",
+      "status": "approved",
+      "artifact": "briefs/ep015-ten-mon-dai-hon-v01.json",
+      "approvedAt": "2026-08-26T10:40:00.000Z",
+      "note": "User requested complete production of the exact EP015 v01 brief."
+    },
+    {
+      "type": "assetPlan",
+      "status": "approved",
+      "artifact": "briefs/ep015-ten-mon-dai-hon-v01.json#assets",
+      "approvedAt": "2026-08-26T10:40:00.000Z",
+      "note": "Asset plan approved as part of the complete EP015 v01 production request."
+    }
+  ],
+  "artifacts": {
+    "resourceInventory": "creatorflow/resource-inventory.json",
+    "contentInventory": "creatorflow/content-inventory.json",
+    "flowStatus": "creatorflow/flow-agent-status.json",
+    "watermarkTest": "creatorflow/watermark-test/clean/final-v01-payoff-v01.png.watermark.json",
+    "productionLedger": "creatorflow/ep015-production-ledger-v01.json",
+    "ideas": "ideas/20260826-phenomenon-ideas-v01.json",
+    "ideasReview": "ideas/20260826-phenomenon-ideas-v01.review.md",
+    "brief": "briefs/ep015-ten-mon-dai-hon-v01.json",
+    "scriptReview": "briefs/ep015-ten-mon-dai-hon-v01.review.md",
+    "scriptCandidates": [
+      "briefs/ep012-so-khong-co-tieng-noi-rieng-v01.json",
+      "briefs/ep013-nen-roi-lam-khach-nghi-nhieu-hon-v01.json",
+      "briefs/ep014-mon-sinh-ra-de-khong-ai-chon-v01.json"
+    ],
+    "scriptCandidateReviews": [
+      "briefs/ep012-so-khong-co-tieng-noi-rieng-v01.review.md",
+      "briefs/ep013-nen-roi-lam-khach-nghi-nhieu-hon-v01.review.md",
+      "briefs/ep014-mon-sinh-ra-de-khong-ai-chon-v01.review.md"
+    ],
+    "previousBrief": "briefs/ep011-cam-thu-muoi-giay-v02.json",
+    "previousEpisode": "creatorflow/ep011-episode.json",
+    "previousWords": "creatorflow/ep011-words-v01.json",
+    "previousCaptions": "creatorflow/ep011-captions-v01.json",
+    "previousFinalRender": "out/ep012-so-khong-co-tieng-noi-rieng-v01.mp4",
+    "episode": "creatorflow/ep013-episode.json",
+    "words": "creatorflow/ep013-words-v01.json",
+    "captions": "creatorflow/ep013-captions-v01.json",
+    "finalRender": "out/ep013-nen-roi-lam-khach-nghi-nhieu-hon-v01.mp4"
+  },
+  "currentEpisode": {
+    "id": "EP015",
+    "version": "v01",
+    "targetSeconds": 58,
+    "status": "production-ready"
+  },
+  "pipelineVersion": "2.0.0",
+  "quota": {
+    "estimatedImageCalls": 9,
+    "actualImageCalls": 9,
+    "estimatedTtsCharacters": 1187,
+    "actualTtsCharacters": 1187,
+    "reusedAssets": 0,
+    "idempotencyKeys": [
+      "agency-marketing-tiktok-ep008-v01-run1-a01",
+      "agency-marketing-tiktok-ep008-v01-run1-a02",
+      "agency-marketing-tiktok-ep008-v01-run1-a03",
+      "agency-marketing-tiktok-ep008-v01-run1-a04",
+      "agency-marketing-tiktok-ep008-v01-run1-a05",
+      "agency-marketing-tiktok-ep008-v01-run1-a06",
+      "agency-marketing-tiktok-ep008-v01-run1-a07",
+      "agency-marketing-tiktok-ep008-v01-run1-a08",
+      "agency-marketing-tiktok-ep008-v01-run1-a09"
+    ]
+  },
+  "scriptQuotaEstimates": {
+    "EP012": {
+      "imageCalls": 8,
+      "ttsCalls": 1,
+      "transcriptionCalls": 1,
+      "renderCalls": 1
+    },
+    "EP013": {
+      "imageCalls": 8,
+      "ttsCalls": 1,
+      "transcriptionCalls": 1,
+      "renderCalls": 1
+    },
+    "EP014": {
+      "imageCalls": 8,
+      "ttsCalls": 1,
+      "transcriptionCalls": 1,
+      "renderCalls": 1
+    },
+    "EP009": {
+      "imageCalls": 8,
+      "ttsCalls": 1,
+      "transcriptionCalls": 1,
+      "renderCalls": 1
+    },
+    "EP010": {
+      "imageCalls": 8,
+      "ttsCalls": 1,
+      "transcriptionCalls": 1,
+      "renderCalls": 1
+    },
+    "EP011": {
+      "imageCalls": 8,
+      "ttsCalls": 1,
+      "transcriptionCalls": 1,
+      "renderCalls": 1
+    },
+    "EP015": {
+      "imageCalls": 7,
+      "ttsCalls": 1,
+      "transcriptionCalls": 1,
+      "renderCalls": 1
+    }
+  },
+  "updatedAt": "2026-08-26T10:45:00.000Z"
+}

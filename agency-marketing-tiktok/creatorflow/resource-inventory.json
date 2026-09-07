@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-08-12T04:14:28Z",
+  "projectRoot": "/Users/win/Documents/marketing channel/agency-marketing-tiktok",
+  "usable": {
+    "mascotSheets": {
+      "count": 14,
+      "format": "PNG RGBA",
+      "dimensions": "1672x941",
+      "layout": "Each file is a transparent 4x2 sprite sheet with eight related poses.",
+      "files": [
+        "../mascot/camera.png",
+        "../mascot/chill drink milk tea.png",
+        "../mascot/clap hand.png",
+        "../mascot/cool.png",
+        "../mascot/disconect.png",
+        "../mascot/eat popcorn.png",
+        "../mascot/find.png",
+        "../mascot/hello.png",
+        "../mascot/idea.png",
+        "../mascot/sad cry.png",
+        "../mascot/scare.png",
+        "../mascot/serious.png",
+        "../mascot/thinking.png",
+        "../mascot/working cool.png"
+      ]
+    },
+    "styleReferences": [
+      {
+        "path": "../reference style/scene.png",
+        "format": "PNG RGB",
+        "dimensions": "941x1672",
+        "notes": "Vertical white paper and pale-pink grid reference with scrapbook cards, marker accents and mascot."
+      },
+      {
+        "path": "../reference style/thumbnail.png",
+        "format": "PNG RGB",
+        "dimensions": "941x1672",
+        "notes": "Vertical thumbnail reference for typography hierarchy and product-versus-customer composition; embedded text is reference only and must be rebuilt in Remotion."
+      }
+    ],
+    "music": {
+      "path": "../music/background music.mp3",
+      "format": "MP3 stereo 48kHz",
+      "durationSeconds": 193.728,
+      "sizeBytes": 4728768
+    }
+  },
+  "ignored": {
+    "appleDoubleFiles": {
+      "pattern": "../mascot/._*.png",
+      "count": 14,
+      "reason": "macOS metadata sidecars, not usable PNG image assets"
+    }
+  },
+  "missing": [
+    "Brand or agency logo file",
+    "Licensed brand font files or an approved system-font choice",
+    "Sound-effect files",
+    "Voice sample, if a sample is required beyond the supplied Cartesia voice ID",
+    "Commercial-use confirmation for mascot sheets, style references and background music",
+    "Per-episode product illustration assets",
+    "Any mascot pose that specifically shows a fork in the road, pushing a product cart or joining two puzzle pieces"
+  ],
+  "security": {
+    "cartesiaVoiceIdStoredInProfile": true,
+    "cartesiaApiKeyStored": false,
+    "apiKeyPolicy": "Use CARTESIA_API_KEY from the environment only after script approval."
+  }
+}

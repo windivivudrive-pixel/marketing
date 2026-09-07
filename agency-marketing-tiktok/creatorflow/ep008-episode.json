@@ -1,0 +1,6022 @@
+{
+  "schemaVersion": 2,
+  "id": "EP008",
+  "episodeId": "EP008",
+  "slug": "dai-bang-keo-xe-do-clip-unboxing",
+  "version": "v01",
+  "durationMs": 51370,
+  "totalFrames": 1542,
+  "targetFps": 30,
+  "audio": {
+    "voiceSrc": "audio/ep008-voice-cartesia-processed-v01.wav",
+    "voiceVolume": 1,
+    "musicSrc": "audio/background-music.mp3",
+    "musicVolume": 0.12,
+    "durationMs": 51370,
+    "words": [
+      {
+        "text": "Cùng",
+        "startMs": 0,
+        "endMs": 80,
+        "timestampMs": 0,
+        "confidence": 1
+      },
+      {
+        "text": "là",
+        "startMs": 80,
+        "endMs": 200,
+        "timestampMs": 80,
+        "confidence": 1
+      },
+      {
+        "text": "nhận",
+        "startMs": 200,
+        "endMs": 320,
+        "timestampMs": 200,
+        "confidence": 1
+      },
+      {
+        "text": "một",
+        "startMs": 320,
+        "endMs": 460,
+        "timestampMs": 320,
+        "confidence": 1
+      },
+      {
+        "text": "kiện",
+        "startMs": 460,
+        "endMs": 680,
+        "timestampMs": 460,
+        "confidence": 1
+      },
+      {
+        "text": "hàng,",
+        "startMs": 680,
+        "endMs": 880,
+        "timestampMs": 680,
+        "confidence": 1
+      },
+      {
+        "text": "nhưng",
+        "startMs": 1200,
+        "endMs": 1260,
+        "timestampMs": 1200,
+        "confidence": 1
+      },
+      {
+        "text": "có",
+        "startMs": 1260,
+        "endMs": 1420,
+        "timestampMs": 1260,
+        "confidence": 1
+      },
+      {
+        "text": "hộp",
+        "startMs": 1420,
+        "endMs": 1500,
+        "timestampMs": 1420,
+        "confidence": 1
+      },
+      {
+        "text": "khách",
+        "startMs": 1500,
+        "endMs": 1680,
+        "timestampMs": 1500,
+        "confidence": 1
+      },
+      {
+        "text": "bóc",
+        "startMs": 1680,
+        "endMs": 1860,
+        "timestampMs": 1680,
+        "confidence": 1
+      },
+      {
+        "text": "vội",
+        "startMs": 1860,
+        "endMs": 2080,
+        "timestampMs": 1860,
+        "confidence": 1
+      },
+      {
+        "text": "rồi",
+        "startMs": 2080,
+        "endMs": 2200,
+        "timestampMs": 2080,
+        "confidence": 1
+      },
+      {
+        "text": "vứt",
+        "startMs": 2200,
+        "endMs": 2400,
+        "timestampMs": 2200,
+        "confidence": 1
+      },
+      {
+        "text": "rác,",
+        "startMs": 2400,
+        "endMs": 2600,
+        "timestampMs": 2400,
+        "confidence": 1
+      },
+      {
+        "text": "có",
+        "startMs": 2980,
+        "endMs": 3000,
+        "timestampMs": 2980,
+        "confidence": 1
+      },
+      {
+        "text": "hộp",
+        "startMs": 3000,
+        "endMs": 3140,
+        "timestampMs": 3000,
+        "confidence": 1
+      },
+      {
+        "text": "họ",
+        "startMs": 3140,
+        "endMs": 3280,
+        "timestampMs": 3140,
+        "confidence": 1
+      },
+      {
+        "text": "lại",
+        "startMs": 3280,
+        "endMs": 3400,
+        "timestampMs": 3280,
+        "confidence": 1
+      },
+      {
+        "text": "hào",
+        "startMs": 3400,
+        "endMs": 3540,
+        "timestampMs": 3400,
+        "confidence": 1
+      },
+      {
+        "text": "hứng",
+        "startMs": 3540,
+        "endMs": 3740,
+        "timestampMs": 3540,
+        "confidence": 1
+      },
+      {
+        "text": "dựng",
+        "startMs": 3740,
+        "endMs": 3960,
+        "timestampMs": 3740,
+        "confidence": 1
+      },
+      {
+        "text": "điện",
+        "startMs": 3960,
+        "endMs": 4080,
+        "timestampMs": 3960,
+        "confidence": 1
+      },
+      {
+        "text": "thoại",
+        "startMs": 4080,
+        "endMs": 4300,
+        "timestampMs": 4080,
+        "confidence": 1
+      },
+      {
+        "text": "quay",
+        "startMs": 4300,
+        "endMs": 4520,
+        "timestampMs": 4300,
+        "confidence": 1
+      },
+      {
+        "text": "clip",
+        "startMs": 4520,
+        "endMs": 4760,
+        "timestampMs": 4520,
+        "confidence": 1
+      },
+      {
+        "text": "mở",
+        "startMs": 4760,
+        "endMs": 4960,
+        "timestampMs": 4760,
+        "confidence": 1
+      },
+      {
+        "text": "hộp.",
+        "startMs": 4960,
+        "endMs": 5040,
+        "timestampMs": 4960,
+        "confidence": 1
+      },
+      {
+        "text": "Sự",
+        "startMs": 5500,
+        "endMs": 5700,
+        "timestampMs": 5500,
+        "confidence": 1
+      },
+      {
+        "text": "khác",
+        "startMs": 5700,
+        "endMs": 5860,
+        "timestampMs": 5700,
+        "confidence": 1
+      },
+      {
+        "text": "biệt",
+        "startMs": 5860,
+        "endMs": 6020,
+        "timestampMs": 5860,
+        "confidence": 1
+      },
+      {
+        "text": "đôi",
+        "startMs": 6020,
+        "endMs": 6180,
+        "timestampMs": 6020,
+        "confidence": 1
+      },
+      {
+        "text": "khi",
+        "startMs": 6180,
+        "endMs": 6280,
+        "timestampMs": 6180,
+        "confidence": 1
+      },
+      {
+        "text": "không",
+        "startMs": 6280,
+        "endMs": 6480,
+        "timestampMs": 6280,
+        "confidence": 1
+      },
+      {
+        "text": "nằm",
+        "startMs": 6480,
+        "endMs": 6700,
+        "timestampMs": 6480,
+        "confidence": 1
+      },
+      {
+        "text": "ở",
+        "startMs": 6700,
+        "endMs": 6760,
+        "timestampMs": 6700,
+        "confidence": 1
+      },
+      {
+        "text": "món",
+        "startMs": 6760,
+        "endMs": 6860,
+        "timestampMs": 6760,
+        "confidence": 1
+      },
+      {
+        "text": "đồ",
+        "startMs": 6860,
+        "endMs": 6980,
+        "timestampMs": 6860,
+        "confidence": 1
+      },
+      {
+        "text": "đắt",
+        "startMs": 6980,
+        "endMs": 7120,
+        "timestampMs": 6980,
+        "confidence": 1
+      },
+      {
+        "text": "tiền",
+        "startMs": 7120,
+        "endMs": 7280,
+        "timestampMs": 7120,
+        "confidence": 1
+      },
+      {
+        "text": "bên",
+        "startMs": 7280,
+        "endMs": 7400,
+        "timestampMs": 7280,
+        "confidence": 1
+      },
+      {
+        "text": "trong,",
+        "startMs": 7400,
+        "endMs": 7620,
+        "timestampMs": 7400,
+        "confidence": 1
+      },
+      {
+        "text": "mà",
+        "startMs": 8060,
+        "endMs": 8100,
+        "timestampMs": 8060,
+        "confidence": 1
+      },
+      {
+        "text": "nằm",
+        "startMs": 8100,
+        "endMs": 8300,
+        "timestampMs": 8100,
+        "confidence": 1
+      },
+      {
+        "text": "ở",
+        "startMs": 8300,
+        "endMs": 8301,
+        "timestampMs": 8300,
+        "confidence": 1
+      },
+      {
+        "text": "đúng",
+        "startMs": 8330,
+        "endMs": 8480,
+        "timestampMs": 8300,
+        "confidence": 1
+      },
+      {
+        "text": "một",
+        "startMs": 8480,
+        "endMs": 8600,
+        "timestampMs": 8480,
+        "confidence": 1
+      },
+      {
+        "text": "dải",
+        "startMs": 8600,
+        "endMs": 8800,
+        "timestampMs": 8600,
+        "confidence": 1
+      },
+      {
+        "text": "băng",
+        "startMs": 8800,
+        "endMs": 8980,
+        "timestampMs": 8800,
+        "confidence": 1
+      },
+      {
+        "text": "xé",
+        "startMs": 8980,
+        "endMs": 9100,
+        "timestampMs": 8980,
+        "confidence": 1
+      },
+      {
+        "text": "màu",
+        "startMs": 9100,
+        "endMs": 9300,
+        "timestampMs": 9100,
+        "confidence": 1
+      },
+      {
+        "text": "đỏ",
+        "startMs": 9300,
+        "endMs": 9460,
+        "timestampMs": 9300,
+        "confidence": 1
+      },
+      {
+        "text": "chạy",
+        "startMs": 9460,
+        "endMs": 9660,
+        "timestampMs": 9460,
+        "confidence": 1
+      },
+      {
+        "text": "ngang",
+        "startMs": 9660,
+        "endMs": 9860,
+        "timestampMs": 9660,
+        "confidence": 1
+      },
+      {
+        "text": "thân",
+        "startMs": 9860,
+        "endMs": 10000,
+        "timestampMs": 9860,
+        "confidence": 1
+      },
+      {
+        "text": "hộp.",
+        "startMs": 10000,
+        "endMs": 10120,
+        "timestampMs": 10000,
+        "confidence": 1
+      },
+      {
+        "text": "Bạn",
+        "startMs": 10580,
+        "endMs": 10780,
+        "timestampMs": 10580,
+        "confidence": 1
+      },
+      {
+        "text": "để",
+        "startMs": 10780,
+        "endMs": 10900,
+        "timestampMs": 10780,
+        "confidence": 1
+      },
+      {
+        "text": "ý",
+        "startMs": 10900,
+        "endMs": 11060,
+        "timestampMs": 10900,
+        "confidence": 1
+      },
+      {
+        "text": "những",
+        "startMs": 11060,
+        "endMs": 11180,
+        "timestampMs": 11060,
+        "confidence": 1
+      },
+      {
+        "text": "thương",
+        "startMs": 11180,
+        "endMs": 11320,
+        "timestampMs": 11180,
+        "confidence": 1
+      },
+      {
+        "text": "hiệu",
+        "startMs": 11320,
+        "endMs": 11480,
+        "timestampMs": 11320,
+        "confidence": 1
+      },
+      {
+        "text": "D",
+        "startMs": 11480,
+        "endMs": 11840,
+        "timestampMs": 11480,
+        "confidence": 1
+      },
+      {
+        "text": "hai",
+        "startMs": 11840,
+        "endMs": 12100,
+        "timestampMs": 11840,
+        "confidence": 1
+      },
+      {
+        "text": "C",
+        "startMs": 12100,
+        "endMs": 12240,
+        "timestampMs": 12100,
+        "confidence": 1
+      },
+      {
+        "text": "hàng",
+        "startMs": 12240,
+        "endMs": 12420,
+        "timestampMs": 12240,
+        "confidence": 1
+      },
+      {
+        "text": "đầu",
+        "startMs": 12270,
+        "endMs": 12420,
+        "timestampMs": 12240,
+        "confidence": 1
+      },
+      {
+        "text": "như",
+        "startMs": 12420,
+        "endMs": 12840,
+        "timestampMs": 12420,
+        "confidence": 1
+      },
+      {
+        "text": "Glossier",
+        "startMs": 12840,
+        "endMs": 13000,
+        "timestampMs": 12840,
+        "confidence": 1
+      },
+      {
+        "text": "hay",
+        "startMs": 13000,
+        "endMs": 13360,
+        "timestampMs": 13000,
+        "confidence": 1
+      },
+      {
+        "text": "Coolmate",
+        "startMs": 13360,
+        "endMs": 13560,
+        "timestampMs": 13360,
+        "confidence": 1
+      },
+      {
+        "text": "xem.",
+        "startMs": 13980,
+        "endMs": 14020,
+        "timestampMs": 13980,
+        "confidence": 1
+      },
+      {
+        "text": "Họ",
+        "startMs": 14020,
+        "endMs": 14200,
+        "timestampMs": 14020,
+        "confidence": 1
+      },
+      {
+        "text": "không",
+        "startMs": 14200,
+        "endMs": 14300,
+        "timestampMs": 14200,
+        "confidence": 1
+      },
+      {
+        "text": "bao",
+        "startMs": 14300,
+        "endMs": 14400,
+        "timestampMs": 14300,
+        "confidence": 1
+      },
+      {
+        "text": "giờ",
+        "startMs": 14400,
+        "endMs": 14640,
+        "timestampMs": 14400,
+        "confidence": 1
+      },
+      {
+        "text": "quấn",
+        "startMs": 14640,
+        "endMs": 14840,
+        "timestampMs": 14640,
+        "confidence": 1
+      },
+      {
+        "text": "băng",
+        "startMs": 14840,
+        "endMs": 15000,
+        "timestampMs": 14840,
+        "confidence": 1
+      },
+      {
+        "text": "dính",
+        "startMs": 15000,
+        "endMs": 15180,
+        "timestampMs": 15000,
+        "confidence": 1
+      },
+      {
+        "text": "chằng",
+        "startMs": 15180,
+        "endMs": 15420,
+        "timestampMs": 15180,
+        "confidence": 1
+      },
+      {
+        "text": "chịt",
+        "startMs": 15420,
+        "endMs": 15520,
+        "timestampMs": 15420,
+        "confidence": 1
+      },
+      {
+        "text": "năm,",
+        "startMs": 15860,
+        "endMs": 15960,
+        "timestampMs": 15860,
+        "confidence": 1
+      },
+      {
+        "text": "sáu",
+        "startMs": 15960,
+        "endMs": 16240,
+        "timestampMs": 15960,
+        "confidence": 1
+      },
+      {
+        "text": "lớp.",
+        "startMs": 16640,
+        "endMs": 16820,
+        "timestampMs": 16640,
+        "confidence": 1
+      },
+      {
+        "text": "Vì",
+        "startMs": 16820,
+        "endMs": 16920,
+        "timestampMs": 16820,
+        "confidence": 1
+      },
+      {
+        "text": "họ",
+        "startMs": 16920,
+        "endMs": 17160,
+        "timestampMs": 16920,
+        "confidence": 1
+      },
+      {
+        "text": "biết:",
+        "startMs": 17480,
+        "endMs": 17560,
+        "timestampMs": 17480,
+        "confidence": 1
+      },
+      {
+        "text": "bắt",
+        "startMs": 17560,
+        "endMs": 17760,
+        "timestampMs": 17560,
+        "confidence": 1
+      },
+      {
+        "text": "khách",
+        "startMs": 17760,
+        "endMs": 17920,
+        "timestampMs": 17760,
+        "confidence": 1
+      },
+      {
+        "text": "đi",
+        "startMs": 17920,
+        "endMs": 18140,
+        "timestampMs": 17920,
+        "confidence": 1
+      },
+      {
+        "text": "tìm",
+        "startMs": 18140,
+        "endMs": 18340,
+        "timestampMs": 18140,
+        "confidence": 1
+      },
+      {
+        "text": "dao",
+        "startMs": 18340,
+        "endMs": 18580,
+        "timestampMs": 18340,
+        "confidence": 1
+      },
+      {
+        "text": "kéo",
+        "startMs": 18580,
+        "endMs": 18720,
+        "timestampMs": 18580,
+        "confidence": 1
+      },
+      {
+        "text": "để",
+        "startMs": 18720,
+        "endMs": 18860,
+        "timestampMs": 18720,
+        "confidence": 1
+      },
+      {
+        "text": "rạch",
+        "startMs": 18860,
+        "endMs": 19160,
+        "timestampMs": 18860,
+        "confidence": 1
+      },
+      {
+        "text": "hộp",
+        "startMs": 19160,
+        "endMs": 19480,
+        "timestampMs": 19160,
+        "confidence": 1
+      },
+      {
+        "text": "là",
+        "startMs": 19480,
+        "endMs": 19640,
+        "timestampMs": 19480,
+        "confidence": 1
+      },
+      {
+        "text": "cách",
+        "startMs": 19640,
+        "endMs": 19860,
+        "timestampMs": 19640,
+        "confidence": 1
+      },
+      {
+        "text": "nhanh",
+        "startMs": 19860,
+        "endMs": 20000,
+        "timestampMs": 19860,
+        "confidence": 1
+      },
+      {
+        "text": "nhất",
+        "startMs": 20000,
+        "endMs": 20160,
+        "timestampMs": 20000,
+        "confidence": 1
+      },
+      {
+        "text": "để",
+        "startMs": 20160,
+        "endMs": 20340,
+        "timestampMs": 20160,
+        "confidence": 1
+      },
+      {
+        "text": "dập",
+        "startMs": 20340,
+        "endMs": 20460,
+        "timestampMs": 20340,
+        "confidence": 1
+      },
+      {
+        "text": "tắt",
+        "startMs": 20460,
+        "endMs": 20600,
+        "timestampMs": 20460,
+        "confidence": 1
+      },
+      {
+        "text": "sự",
+        "startMs": 20600,
+        "endMs": 20800,
+        "timestampMs": 20600,
+        "confidence": 1
+      },
+      {
+        "text": "háo",
+        "startMs": 20800,
+        "endMs": 20920,
+        "timestampMs": 20800,
+        "confidence": 1
+      },
+      {
+        "text": "hức",
+        "startMs": 20920,
+        "endMs": 21040,
+        "timestampMs": 20920,
+        "confidence": 1
+      },
+      {
+        "text": "vừa",
+        "startMs": 21040,
+        "endMs": 21220,
+        "timestampMs": 21040,
+        "confidence": 1
+      },
+      {
+        "text": "nhận",
+        "startMs": 21220,
+        "endMs": 21420,
+        "timestampMs": 21220,
+        "confidence": 1
+      },
+      {
+        "text": "hàng.",
+        "startMs": 21420,
+        "endMs": 22060,
+        "timestampMs": 21420,
+        "confidence": 1
+      },
+      {
+        "text": "Khi",
+        "startMs": 22060,
+        "endMs": 22180,
+        "timestampMs": 22060,
+        "confidence": 1
+      },
+      {
+        "text": "thay",
+        "startMs": 22180,
+        "endMs": 22340,
+        "timestampMs": 22180,
+        "confidence": 1
+      },
+      {
+        "text": "bằng",
+        "startMs": 22340,
+        "endMs": 22460,
+        "timestampMs": 22340,
+        "confidence": 1
+      },
+      {
+        "text": "một",
+        "startMs": 22460,
+        "endMs": 22640,
+        "timestampMs": 22460,
+        "confidence": 1
+      },
+      {
+        "text": "dải",
+        "startMs": 22640,
+        "endMs": 22760,
+        "timestampMs": 22640,
+        "confidence": 1
+      },
+      {
+        "text": "ruy",
+        "startMs": 22760,
+        "endMs": 22960,
+        "timestampMs": 22760,
+        "confidence": 1
+      },
+      {
+        "text": "băng",
+        "startMs": 22960,
+        "endMs": 23200,
+        "timestampMs": 22960,
+        "confidence": 1
+      },
+      {
+        "text": "xé,",
+        "startMs": 23680,
+        "endMs": 23700,
+        "timestampMs": 23680,
+        "confidence": 1
+      },
+      {
+        "text": "hành",
+        "startMs": 23700,
+        "endMs": 23780,
+        "timestampMs": 23700,
+        "confidence": 1
+      },
+      {
+        "text": "động",
+        "startMs": 23780,
+        "endMs": 24040,
+        "timestampMs": 23780,
+        "confidence": 1
+      },
+      {
+        "text": "mở",
+        "startMs": 24040,
+        "endMs": 24200,
+        "timestampMs": 24040,
+        "confidence": 1
+      },
+      {
+        "text": "hàng",
+        "startMs": 24200,
+        "endMs": 24440,
+        "timestampMs": 24200,
+        "confidence": 1
+      },
+      {
+        "text": "biến",
+        "startMs": 24440,
+        "endMs": 24580,
+        "timestampMs": 24440,
+        "confidence": 1
+      },
+      {
+        "text": "thành",
+        "startMs": 24580,
+        "endMs": 24740,
+        "timestampMs": 24580,
+        "confidence": 1
+      },
+      {
+        "text": "một",
+        "startMs": 24740,
+        "endMs": 24900,
+        "timestampMs": 24740,
+        "confidence": 1
+      },
+      {
+        "text": "trải",
+        "startMs": 24900,
+        "endMs": 25060,
+        "timestampMs": 24900,
+        "confidence": 1
+      },
+      {
+        "text": "nghiệm",
+        "startMs": 25060,
+        "endMs": 25220,
+        "timestampMs": 25060,
+        "confidence": 1
+      },
+      {
+        "text": "xúc",
+        "startMs": 25220,
+        "endMs": 25380,
+        "timestampMs": 25220,
+        "confidence": 1
+      },
+      {
+        "text": "giác",
+        "startMs": 25380,
+        "endMs": 25600,
+        "timestampMs": 25380,
+        "confidence": 1
+      },
+      {
+        "text": "cực",
+        "startMs": 25600,
+        "endMs": 25680,
+        "timestampMs": 25600,
+        "confidence": 1
+      },
+      {
+        "text": "kỳ",
+        "startMs": 25680,
+        "endMs": 25940,
+        "timestampMs": 25680,
+        "confidence": 1
+      },
+      {
+        "text": "thỏa",
+        "startMs": 25940,
+        "endMs": 26140,
+        "timestampMs": 25940,
+        "confidence": 1
+      },
+      {
+        "text": "mãn.",
+        "startMs": 26460,
+        "endMs": 26660,
+        "timestampMs": 26460,
+        "confidence": 1
+      },
+      {
+        "text": "Chỉ",
+        "startMs": 26660,
+        "endMs": 26740,
+        "timestampMs": 26660,
+        "confidence": 1
+      },
+      {
+        "text": "cần",
+        "startMs": 26740,
+        "endMs": 26900,
+        "timestampMs": 26740,
+        "confidence": 1
+      },
+      {
+        "text": "một",
+        "startMs": 26900,
+        "endMs": 27060,
+        "timestampMs": 26900,
+        "confidence": 1
+      },
+      {
+        "text": "cú",
+        "startMs": 27060,
+        "endMs": 27260,
+        "timestampMs": 27060,
+        "confidence": 1
+      },
+      {
+        "text": "giật",
+        "startMs": 27260,
+        "endMs": 27480,
+        "timestampMs": 27260,
+        "confidence": 1
+      },
+      {
+        "text": "nhẹ,",
+        "startMs": 27860,
+        "endMs": 27900,
+        "timestampMs": 27860,
+        "confidence": 1
+      },
+      {
+        "text": "tiếng",
+        "startMs": 27900,
+        "endMs": 28120,
+        "timestampMs": 27900,
+        "confidence": 1
+      },
+      {
+        "text": "xoẹt",
+        "startMs": 28120,
+        "endMs": 28340,
+        "timestampMs": 28120,
+        "confidence": 1
+      },
+      {
+        "text": "giòn",
+        "startMs": 28340,
+        "endMs": 28540,
+        "timestampMs": 28340,
+        "confidence": 1
+      },
+      {
+        "text": "tan",
+        "startMs": 28540,
+        "endMs": 28820,
+        "timestampMs": 28540,
+        "confidence": 1
+      },
+      {
+        "text": "vang",
+        "startMs": 28820,
+        "endMs": 28900,
+        "timestampMs": 28820,
+        "confidence": 1
+      },
+      {
+        "text": "lên,",
+        "startMs": 29320,
+        "endMs": 29360,
+        "timestampMs": 29320,
+        "confidence": 1
+      },
+      {
+        "text": "chiếc",
+        "startMs": 29360,
+        "endMs": 29480,
+        "timestampMs": 29360,
+        "confidence": 1
+      },
+      {
+        "text": "hộp",
+        "startMs": 29480,
+        "endMs": 29660,
+        "timestampMs": 29480,
+        "confidence": 1
+      },
+      {
+        "text": "tự",
+        "startMs": 29660,
+        "endMs": 29780,
+        "timestampMs": 29660,
+        "confidence": 1
+      },
+      {
+        "text": "động",
+        "startMs": 29780,
+        "endMs": 29960,
+        "timestampMs": 29780,
+        "confidence": 1
+      },
+      {
+        "text": "bung",
+        "startMs": 29960,
+        "endMs": 30200,
+        "timestampMs": 29960,
+        "confidence": 1
+      },
+      {
+        "text": "mở",
+        "startMs": 30200,
+        "endMs": 30400,
+        "timestampMs": 30200,
+        "confidence": 1
+      },
+      {
+        "text": "mà",
+        "startMs": 30400,
+        "endMs": 30520,
+        "timestampMs": 30400,
+        "confidence": 1
+      },
+      {
+        "text": "không",
+        "startMs": 30520,
+        "endMs": 30700,
+        "timestampMs": 30520,
+        "confidence": 1
+      },
+      {
+        "text": "tốn",
+        "startMs": 30700,
+        "endMs": 30860,
+        "timestampMs": 30700,
+        "confidence": 1
+      },
+      {
+        "text": "chút",
+        "startMs": 30860,
+        "endMs": 31040,
+        "timestampMs": 30860,
+        "confidence": 1
+      },
+      {
+        "text": "sức",
+        "startMs": 31040,
+        "endMs": 31160,
+        "timestampMs": 31040,
+        "confidence": 1
+      },
+      {
+        "text": "lực",
+        "startMs": 31160,
+        "endMs": 31320,
+        "timestampMs": 31160,
+        "confidence": 1
+      },
+      {
+        "text": "nào.",
+        "startMs": 31740,
+        "endMs": 31860,
+        "timestampMs": 31740,
+        "confidence": 1
+      },
+      {
+        "text": "Cảm",
+        "startMs": 31860,
+        "endMs": 31980,
+        "timestampMs": 31860,
+        "confidence": 1
+      },
+      {
+        "text": "giác",
+        "startMs": 31980,
+        "endMs": 32160,
+        "timestampMs": 31980,
+        "confidence": 1
+      },
+      {
+        "text": "kiểm",
+        "startMs": 32160,
+        "endMs": 32360,
+        "timestampMs": 32160,
+        "confidence": 1
+      },
+      {
+        "text": "soát",
+        "startMs": 32360,
+        "endMs": 32460,
+        "timestampMs": 32360,
+        "confidence": 1
+      },
+      {
+        "text": "và",
+        "startMs": 32460,
+        "endMs": 32580,
+        "timestampMs": 32460,
+        "confidence": 1
+      },
+      {
+        "text": "âm",
+        "startMs": 32580,
+        "endMs": 32740,
+        "timestampMs": 32580,
+        "confidence": 1
+      },
+      {
+        "text": "thanh",
+        "startMs": 32740,
+        "endMs": 32900,
+        "timestampMs": 32740,
+        "confidence": 1
+      },
+      {
+        "text": "đã",
+        "startMs": 32900,
+        "endMs": 33040,
+        "timestampMs": 32900,
+        "confidence": 1
+      },
+      {
+        "text": "tai",
+        "startMs": 33040,
+        "endMs": 33160,
+        "timestampMs": 33040,
+        "confidence": 1
+      },
+      {
+        "text": "này",
+        "startMs": 33160,
+        "endMs": 33360,
+        "timestampMs": 33160,
+        "confidence": 1
+      },
+      {
+        "text": "kích",
+        "startMs": 33360,
+        "endMs": 33500,
+        "timestampMs": 33360,
+        "confidence": 1
+      },
+      {
+        "text": "hoạt",
+        "startMs": 33500,
+        "endMs": 33640,
+        "timestampMs": 33500,
+        "confidence": 1
+      },
+      {
+        "text": "hormone",
+        "startMs": 33640,
+        "endMs": 33641,
+        "timestampMs": 33640,
+        "confidence": 1
+      },
+      {
+        "text": "phần",
+        "startMs": 33670,
+        "endMs": 33760,
+        "timestampMs": 33640,
+        "confidence": 1
+      },
+      {
+        "text": "thưởng",
+        "startMs": 33760,
+        "endMs": 33900,
+        "timestampMs": 33760,
+        "confidence": 1
+      },
+      {
+        "text": "ngay",
+        "startMs": 33900,
+        "endMs": 34100,
+        "timestampMs": 33900,
+        "confidence": 1
+      },
+      {
+        "text": "giây",
+        "startMs": 34100,
+        "endMs": 34280,
+        "timestampMs": 34100,
+        "confidence": 1
+      },
+      {
+        "text": "đầu",
+        "startMs": 34280,
+        "endMs": 34360,
+        "timestampMs": 34280,
+        "confidence": 1
+      },
+      {
+        "text": "tiên.",
+        "startMs": 34360,
+        "endMs": 34440,
+        "timestampMs": 34360,
+        "confidence": 1
+      },
+      {
+        "text": "Trải",
+        "startMs": 34440,
+        "endMs": 34700,
+        "timestampMs": 34440,
+        "confidence": 1
+      },
+      {
+        "text": "nghiệm",
+        "startMs": 35180,
+        "endMs": 35340,
+        "timestampMs": 35180,
+        "confidence": 1
+      },
+      {
+        "text": "quá",
+        "startMs": 35340,
+        "endMs": 35480,
+        "timestampMs": 35340,
+        "confidence": 1
+      },
+      {
+        "text": "mượt",
+        "startMs": 35480,
+        "endMs": 35660,
+        "timestampMs": 35480,
+        "confidence": 1
+      },
+      {
+        "text": "mà",
+        "startMs": 35660,
+        "endMs": 35960,
+        "timestampMs": 35660,
+        "confidence": 1
+      },
+      {
+        "text": "khiến",
+        "startMs": 35960,
+        "endMs": 36060,
+        "timestampMs": 35960,
+        "confidence": 1
+      },
+      {
+        "text": "khách",
+        "startMs": 36060,
+        "endMs": 36240,
+        "timestampMs": 36060,
+        "confidence": 1
+      },
+      {
+        "text": "hàng",
+        "startMs": 36240,
+        "endMs": 36380,
+        "timestampMs": 36240,
+        "confidence": 1
+      },
+      {
+        "text": "tự",
+        "startMs": 36380,
+        "endMs": 36500,
+        "timestampMs": 36380,
+        "confidence": 1
+      },
+      {
+        "text": "động",
+        "startMs": 36500,
+        "endMs": 36680,
+        "timestampMs": 36500,
+        "confidence": 1
+      },
+      {
+        "text": "muốn",
+        "startMs": 36680,
+        "endMs": 36840,
+        "timestampMs": 36680,
+        "confidence": 1
+      },
+      {
+        "text": "rút",
+        "startMs": 36840,
+        "endMs": 37020,
+        "timestampMs": 36840,
+        "confidence": 1
+      },
+      {
+        "text": "điện",
+        "startMs": 37020,
+        "endMs": 37180,
+        "timestampMs": 37020,
+        "confidence": 1
+      },
+      {
+        "text": "thoại",
+        "startMs": 37180,
+        "endMs": 37340,
+        "timestampMs": 37180,
+        "confidence": 1
+      },
+      {
+        "text": "quay",
+        "startMs": 37340,
+        "endMs": 37520,
+        "timestampMs": 37340,
+        "confidence": 1
+      },
+      {
+        "text": "lại",
+        "startMs": 37520,
+        "endMs": 37700,
+        "timestampMs": 37520,
+        "confidence": 1
+      },
+      {
+        "text": "khoảnh",
+        "startMs": 37700,
+        "endMs": 37800,
+        "timestampMs": 37700,
+        "confidence": 1
+      },
+      {
+        "text": "khắc",
+        "startMs": 37800,
+        "endMs": 37960,
+        "timestampMs": 37800,
+        "confidence": 1
+      },
+      {
+        "text": "đó",
+        "startMs": 37960,
+        "endMs": 38140,
+        "timestampMs": 37960,
+        "confidence": 1
+      },
+      {
+        "text": "để",
+        "startMs": 38140,
+        "endMs": 38260,
+        "timestampMs": 38140,
+        "confidence": 1
+      },
+      {
+        "text": "khoe",
+        "startMs": 38260,
+        "endMs": 38420,
+        "timestampMs": 38260,
+        "confidence": 1
+      },
+      {
+        "text": "lên",
+        "startMs": 38420,
+        "endMs": 38560,
+        "timestampMs": 38420,
+        "confidence": 1
+      },
+      {
+        "text": "mạng.",
+        "startMs": 38450,
+        "endMs": 38560,
+        "timestampMs": 38420,
+        "confidence": 1
+      },
+      {
+        "text": "Trải",
+        "startMs": 38560,
+        "endMs": 38660,
+        "timestampMs": 38560,
+        "confidence": 1
+      },
+      {
+        "text": "nghiệm",
+        "startMs": 38660,
+        "endMs": 38960,
+        "timestampMs": 38660,
+        "confidence": 1
+      },
+      {
+        "text": "thương",
+        "startMs": 38960,
+        "endMs": 39600,
+        "timestampMs": 38960,
+        "confidence": 1
+      },
+      {
+        "text": "hiệu",
+        "startMs": 39600,
+        "endMs": 39760,
+        "timestampMs": 39600,
+        "confidence": 1
+      },
+      {
+        "text": "thực",
+        "startMs": 39760,
+        "endMs": 39860,
+        "timestampMs": 39760,
+        "confidence": 1
+      },
+      {
+        "text": "ra",
+        "startMs": 39860,
+        "endMs": 40040,
+        "timestampMs": 39860,
+        "confidence": 1
+      },
+      {
+        "text": "không",
+        "startMs": 40040,
+        "endMs": 40160,
+        "timestampMs": 40040,
+        "confidence": 1
+      },
+      {
+        "text": "bắt",
+        "startMs": 40160,
+        "endMs": 40320,
+        "timestampMs": 40160,
+        "confidence": 1
+      },
+      {
+        "text": "đầu",
+        "startMs": 40320,
+        "endMs": 40580,
+        "timestampMs": 40320,
+        "confidence": 1
+      },
+      {
+        "text": "lúc",
+        "startMs": 40580,
+        "endMs": 40740,
+        "timestampMs": 40580,
+        "confidence": 1
+      },
+      {
+        "text": "khách",
+        "startMs": 40740,
+        "endMs": 40880,
+        "timestampMs": 40740,
+        "confidence": 1
+      },
+      {
+        "text": "dùng",
+        "startMs": 40880,
+        "endMs": 41040,
+        "timestampMs": 40880,
+        "confidence": 1
+      },
+      {
+        "text": "sản",
+        "startMs": 41040,
+        "endMs": 41160,
+        "timestampMs": 41040,
+        "confidence": 1
+      },
+      {
+        "text": "phẩm,",
+        "startMs": 41160,
+        "endMs": 41320,
+        "timestampMs": 41160,
+        "confidence": 1
+      },
+      {
+        "text": "mà",
+        "startMs": 41320,
+        "endMs": 41460,
+        "timestampMs": 41320,
+        "confidence": 1
+      },
+      {
+        "text": "bắt",
+        "startMs": 41460,
+        "endMs": 41700,
+        "timestampMs": 41460,
+        "confidence": 1
+      },
+      {
+        "text": "đầu",
+        "startMs": 41700,
+        "endMs": 42060,
+        "timestampMs": 41700,
+        "confidence": 1
+      },
+      {
+        "text": "từ",
+        "startMs": 42060,
+        "endMs": 42180,
+        "timestampMs": 42060,
+        "confidence": 1
+      },
+      {
+        "text": "giây",
+        "startMs": 42180,
+        "endMs": 42300,
+        "timestampMs": 42180,
+        "confidence": 1
+      },
+      {
+        "text": "đầu",
+        "startMs": 42300,
+        "endMs": 42420,
+        "timestampMs": 42300,
+        "confidence": 1
+      },
+      {
+        "text": "tiên",
+        "startMs": 42420,
+        "endMs": 42560,
+        "timestampMs": 42420,
+        "confidence": 1
+      },
+      {
+        "text": "tay",
+        "startMs": 42560,
+        "endMs": 42660,
+        "timestampMs": 42560,
+        "confidence": 1
+      },
+      {
+        "text": "họ",
+        "startMs": 42660,
+        "endMs": 42940,
+        "timestampMs": 42660,
+        "confidence": 1
+      },
+      {
+        "text": "chạm",
+        "startMs": 42940,
+        "endMs": 43140,
+        "timestampMs": 42940,
+        "confidence": 1
+      },
+      {
+        "text": "vào",
+        "startMs": 43140,
+        "endMs": 43280,
+        "timestampMs": 43140,
+        "confidence": 1
+      },
+      {
+        "text": "chiếc",
+        "startMs": 43280,
+        "endMs": 43600,
+        "timestampMs": 43280,
+        "confidence": 1
+      },
+      {
+        "text": "vỏ",
+        "startMs": 43600,
+        "endMs": 43680,
+        "timestampMs": 43600,
+        "confidence": 1
+      },
+      {
+        "text": "hộp",
+        "startMs": 43680,
+        "endMs": 43820,
+        "timestampMs": 43680,
+        "confidence": 1
+      },
+      {
+        "text": "bên",
+        "startMs": 43820,
+        "endMs": 43900,
+        "timestampMs": 43820,
+        "confidence": 1
+      },
+      {
+        "text": "ngoài.",
+        "startMs": 43900,
+        "endMs": 44060,
+        "timestampMs": 43900,
+        "confidence": 1
+      },
+      {
+        "text": "Hôm",
+        "startMs": 44060,
+        "endMs": 44440,
+        "timestampMs": 44060,
+        "confidence": 1
+      },
+      {
+        "text": "nay,",
+        "startMs": 44600,
+        "endMs": 44700,
+        "timestampMs": 44600,
+        "confidence": 1
+      },
+      {
+        "text": "bạn",
+        "startMs": 44700,
+        "endMs": 44880,
+        "timestampMs": 44700,
+        "confidence": 1
+      },
+      {
+        "text": "hãy",
+        "startMs": 44880,
+        "endMs": 45260,
+        "timestampMs": 44880,
+        "confidence": 1
+      },
+      {
+        "text": "thử",
+        "startMs": 45260,
+        "endMs": 45340,
+        "timestampMs": 45260,
+        "confidence": 1
+      },
+      {
+        "text": "tự",
+        "startMs": 45340,
+        "endMs": 45500,
+        "timestampMs": 45340,
+        "confidence": 1
+      },
+      {
+        "text": "đặt",
+        "startMs": 45500,
+        "endMs": 45700,
+        "timestampMs": 45500,
+        "confidence": 1
+      },
+      {
+        "text": "một",
+        "startMs": 45700,
+        "endMs": 45840,
+        "timestampMs": 45700,
+        "confidence": 1
+      },
+      {
+        "text": "đơn",
+        "startMs": 45840,
+        "endMs": 45980,
+        "timestampMs": 45840,
+        "confidence": 1
+      },
+      {
+        "text": "từ",
+        "startMs": 45980,
+        "endMs": 46120,
+        "timestampMs": 45980,
+        "confidence": 1
+      },
+      {
+        "text": "shop",
+        "startMs": 46120,
+        "endMs": 46260,
+        "timestampMs": 46120,
+        "confidence": 1
+      },
+      {
+        "text": "mình",
+        "startMs": 46260,
+        "endMs": 46600,
+        "timestampMs": 46260,
+        "confidence": 1
+      },
+      {
+        "text": "về",
+        "startMs": 46600,
+        "endMs": 46760,
+        "timestampMs": 46600,
+        "confidence": 1
+      },
+      {
+        "text": "nhà,",
+        "startMs": 46760,
+        "endMs": 47060,
+        "timestampMs": 46760,
+        "confidence": 1
+      },
+      {
+        "text": "xem",
+        "startMs": 47060,
+        "endMs": 47440,
+        "timestampMs": 47060,
+        "confidence": 1
+      },
+      {
+        "text": "mất",
+        "startMs": 47440,
+        "endMs": 47680,
+        "timestampMs": 47440,
+        "confidence": 1
+      },
+      {
+        "text": "bao",
+        "startMs": 47680,
+        "endMs": 47800,
+        "timestampMs": 47680,
+        "confidence": 1
+      },
+      {
+        "text": "nhiêu",
+        "startMs": 47800,
+        "endMs": 48020,
+        "timestampMs": 47800,
+        "confidence": 1
+      },
+      {
+        "text": "giây",
+        "startMs": 48020,
+        "endMs": 48240,
+        "timestampMs": 48020,
+        "confidence": 1
+      },
+      {
+        "text": "để",
+        "startMs": 48240,
+        "endMs": 48360,
+        "timestampMs": 48240,
+        "confidence": 1
+      },
+      {
+        "text": "mở",
+        "startMs": 48360,
+        "endMs": 48560,
+        "timestampMs": 48360,
+        "confidence": 1
+      },
+      {
+        "text": "được",
+        "startMs": 48560,
+        "endMs": 48660,
+        "timestampMs": 48560,
+        "confidence": 1
+      },
+      {
+        "text": "nó.",
+        "startMs": 48660,
+        "endMs": 48860,
+        "timestampMs": 48660,
+        "confidence": 1
+      },
+      {
+        "text": "Lưu",
+        "startMs": 49100,
+        "endMs": 49280,
+        "timestampMs": 49100,
+        "confidence": 1
+      },
+      {
+        "text": "video",
+        "startMs": 49280,
+        "endMs": 49380,
+        "timestampMs": 49280,
+        "confidence": 1
+      },
+      {
+        "text": "này",
+        "startMs": 49380,
+        "endMs": 49640,
+        "timestampMs": 49380,
+        "confidence": 1
+      },
+      {
+        "text": "để",
+        "startMs": 49640,
+        "endMs": 49800,
+        "timestampMs": 49640,
+        "confidence": 1
+      },
+      {
+        "text": "kiểm",
+        "startMs": 49800,
+        "endMs": 49980,
+        "timestampMs": 49800,
+        "confidence": 1
+      },
+      {
+        "text": "tra",
+        "startMs": 49980,
+        "endMs": 50140,
+        "timestampMs": 49980,
+        "confidence": 1
+      },
+      {
+        "text": "lại",
+        "startMs": 50140,
+        "endMs": 50320,
+        "timestampMs": 50140,
+        "confidence": 1
+      },
+      {
+        "text": "khâu",
+        "startMs": 50320,
+        "endMs": 50520,
+        "timestampMs": 50320,
+        "confidence": 1
+      },
+      {
+        "text": "đóng",
+        "startMs": 50520,
+        "endMs": 50640,
+        "timestampMs": 50520,
+        "confidence": 1
+      },
+      {
+        "text": "gói",
+        "startMs": 50640,
+        "endMs": 50840,
+        "timestampMs": 50640,
+        "confidence": 1
+      },
+      {
+        "text": "của",
+        "startMs": 50840,
+        "endMs": 50920,
+        "timestampMs": 50840,
+        "confidence": 1
+      },
+      {
+        "text": "bạn.",
+        "startMs": 50920,
+        "endMs": 51020,
+        "timestampMs": 50920,
+        "confidence": 1
+      }
+    ],
+    "captions": {
+      "durationMs": 51060,
+      "captions": [
+        {
+          "text": "Cùng là nhận một",
+          "startMs": 0,
+          "endMs": 460,
+          "words": [
+            {
+              "text": "Cùng",
+              "startMs": 0,
+              "endMs": 80,
+              "timestampMs": 0,
+              "confidence": 1
+            },
+            {
+              "text": "là",
+              "startMs": 80,
+              "endMs": 200,
+              "timestampMs": 80,
+              "confidence": 1
+            },
+            {
+              "text": "nhận",
+              "startMs": 200,
+              "endMs": 320,
+              "timestampMs": 200,
+              "confidence": 1
+            },
+            {
+              "text": "một",
+              "startMs": 320,
+              "endMs": 460,
+              "timestampMs": 320,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "kiện hàng, nhưng có",
+          "startMs": 460,
+          "endMs": 1420,
+          "words": [
+            {
+              "text": "kiện",
+              "startMs": 460,
+              "endMs": 680,
+              "timestampMs": 460,
+              "confidence": 1
+            },
+            {
+              "text": "hàng,",
+              "startMs": 680,
+              "endMs": 880,
+              "timestampMs": 680,
+              "confidence": 1
+            },
+            {
+              "text": "nhưng",
+              "startMs": 1200,
+              "endMs": 1260,
+              "timestampMs": 1200,
+              "confidence": 1
+            },
+            {
+              "text": "có",
+              "startMs": 1260,
+              "endMs": 1420,
+              "timestampMs": 1260,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "hộp khách bóc vội",
+          "startMs": 1420,
+          "endMs": 2080,
+          "words": [
+            {
+              "text": "hộp",
+              "startMs": 1420,
+              "endMs": 1500,
+              "timestampMs": 1420,
+              "confidence": 1
+            },
+            {
+              "text": "khách",
+              "startMs": 1500,
+              "endMs": 1680,
+              "timestampMs": 1500,
+              "confidence": 1
+            },
+            {
+              "text": "bóc",
+              "startMs": 1680,
+              "endMs": 1860,
+              "timestampMs": 1680,
+              "confidence": 1
+            },
+            {
+              "text": "vội",
+              "startMs": 1860,
+              "endMs": 2080,
+              "timestampMs": 1860,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "rồi vứt rác, có",
+          "startMs": 2080,
+          "endMs": 3000,
+          "words": [
+            {
+              "text": "rồi",
+              "startMs": 2080,
+              "endMs": 2200,
+              "timestampMs": 2080,
+              "confidence": 1
+            },
+            {
+              "text": "vứt",
+              "startMs": 2200,
+              "endMs": 2400,
+              "timestampMs": 2200,
+              "confidence": 1
+            },
+            {
+              "text": "rác,",
+              "startMs": 2400,
+              "endMs": 2600,
+              "timestampMs": 2400,
+              "confidence": 1
+            },
+            {
+              "text": "có",
+              "startMs": 2980,
+              "endMs": 3000,
+              "timestampMs": 2980,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "hộp họ lại hào",
+          "startMs": 3000,
+          "endMs": 3540,
+          "words": [
+            {
+              "text": "hộp",
+              "startMs": 3000,
+              "endMs": 3140,
+              "timestampMs": 3000,
+              "confidence": 1
+            },
+            {
+              "text": "họ",
+              "startMs": 3140,
+              "endMs": 3280,
+              "timestampMs": 3140,
+              "confidence": 1
+            },
+            {
+              "text": "lại",
+              "startMs": 3280,
+              "endMs": 3400,
+              "timestampMs": 3280,
+              "confidence": 1
+            },
+            {
+              "text": "hào",
+              "startMs": 3400,
+              "endMs": 3540,
+              "timestampMs": 3400,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "hứng dựng điện thoại",
+          "startMs": 3540,
+          "endMs": 4300,
+          "words": [
+            {
+              "text": "hứng",
+              "startMs": 3540,
+              "endMs": 3740,
+              "timestampMs": 3540,
+              "confidence": 1
+            },
+            {
+              "text": "dựng",
+              "startMs": 3740,
+              "endMs": 3960,
+              "timestampMs": 3740,
+              "confidence": 1
+            },
+            {
+              "text": "điện",
+              "startMs": 3960,
+              "endMs": 4080,
+              "timestampMs": 3960,
+              "confidence": 1
+            },
+            {
+              "text": "thoại",
+              "startMs": 4080,
+              "endMs": 4300,
+              "timestampMs": 4080,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "quay clip mở hộp.",
+          "startMs": 4300,
+          "endMs": 5040,
+          "words": [
+            {
+              "text": "quay",
+              "startMs": 4300,
+              "endMs": 4520,
+              "timestampMs": 4300,
+              "confidence": 1
+            },
+            {
+              "text": "clip",
+              "startMs": 4520,
+              "endMs": 4760,
+              "timestampMs": 4520,
+              "confidence": 1
+            },
+            {
+              "text": "mở",
+              "startMs": 4760,
+              "endMs": 4960,
+              "timestampMs": 4760,
+              "confidence": 1
+            },
+            {
+              "text": "hộp.",
+              "startMs": 4960,
+              "endMs": 5040,
+              "timestampMs": 4960,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "Sự khác biệt đôi",
+          "startMs": 5500,
+          "endMs": 6180,
+          "words": [
+            {
+              "text": "Sự",
+              "startMs": 5500,
+              "endMs": 5700,
+              "timestampMs": 5500,
+              "confidence": 1
+            },
+            {
+              "text": "khác",
+              "startMs": 5700,
+              "endMs": 5860,
+              "timestampMs": 5700,
+              "confidence": 1
+            },
+            {
+              "text": "biệt",
+              "startMs": 5860,
+              "endMs": 6020,
+              "timestampMs": 5860,
+              "confidence": 1
+            },
+            {
+              "text": "đôi",
+              "startMs": 6020,
+              "endMs": 6180,
+              "timestampMs": 6020,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "khi không nằm ở",
+          "startMs": 6180,
+          "endMs": 6760,
+          "words": [
+            {
+              "text": "khi",
+              "startMs": 6180,
+              "endMs": 6280,
+              "timestampMs": 6180,
+              "confidence": 1
+            },
+            {
+              "text": "không",
+              "startMs": 6280,
+              "endMs": 6480,
+              "timestampMs": 6280,
+              "confidence": 1
+            },
+            {
+              "text": "nằm",
+              "startMs": 6480,
+              "endMs": 6700,
+              "timestampMs": 6480,
+              "confidence": 1
+            },
+            {
+              "text": "ở",
+              "startMs": 6700,
+              "endMs": 6760,
+              "timestampMs": 6700,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "món đồ đắt tiền",
+          "startMs": 6760,
+          "endMs": 7280,
+          "words": [
+            {
+              "text": "món",
+              "startMs": 6760,
+              "endMs": 6860,
+              "timestampMs": 6760,
+              "confidence": 1
+            },
+            {
+              "text": "đồ",
+              "startMs": 6860,
+              "endMs": 6980,
+              "timestampMs": 6860,
+              "confidence": 1
+            },
+            {
+              "text": "đắt",
+              "startMs": 6980,
+              "endMs": 7120,
+              "timestampMs": 6980,
+              "confidence": 1
+            },
+            {
+              "text": "tiền",
+              "startMs": 7120,
+              "endMs": 7280,
+              "timestampMs": 7120,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "bên trong, mà nằm",
+          "startMs": 7280,
+          "endMs": 8300,
+          "words": [
+            {
+              "text": "bên",
+              "startMs": 7280,
+              "endMs": 7400,
+              "timestampMs": 7280,
+              "confidence": 1
+            },
+            {
+              "text": "trong,",
+              "startMs": 7400,
+              "endMs": 7620,
+              "timestampMs": 7400,
+              "confidence": 1
+            },
+            {
+              "text": "mà",
+              "startMs": 8060,
+              "endMs": 8100,
+              "timestampMs": 8060,
+              "confidence": 1
+            },
+            {
+              "text": "nằm",
+              "startMs": 8100,
+              "endMs": 8300,
+              "timestampMs": 8100,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "ở đúng một dải",
+          "startMs": 8300,
+          "endMs": 8800,
+          "words": [
+            {
+              "text": "ở",
+              "startMs": 8300,
+              "endMs": 8301,
+              "timestampMs": 8300,
+              "confidence": 1
+            },
+            {
+              "text": "đúng",
+              "startMs": 8330,
+              "endMs": 8480,
+              "timestampMs": 8300,
+              "confidence": 1
+            },
+            {
+              "text": "một",
+              "startMs": 8480,
+              "endMs": 8600,
+              "timestampMs": 8480,
+              "confidence": 1
+            },
+            {
+              "text": "dải",
+              "startMs": 8600,
+              "endMs": 8800,
+              "timestampMs": 8600,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "băng xé màu đỏ",
+          "startMs": 8800,
+          "endMs": 9460,
+          "words": [
+            {
+              "text": "băng",
+              "startMs": 8800,
+              "endMs": 8980,
+              "timestampMs": 8800,
+              "confidence": 1
+            },
+            {
+              "text": "xé",
+              "startMs": 8980,
+              "endMs": 9100,
+              "timestampMs": 8980,
+              "confidence": 1
+            },
+            {
+              "text": "màu",
+              "startMs": 9100,
+              "endMs": 9300,
+              "timestampMs": 9100,
+              "confidence": 1
+            },
+            {
+              "text": "đỏ",
+              "startMs": 9300,
+              "endMs": 9460,
+              "timestampMs": 9300,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "chạy ngang thân hộp.",
+          "startMs": 9460,
+          "endMs": 10120,
+          "words": [
+            {
+              "text": "chạy",
+              "startMs": 9460,
+              "endMs": 9660,
+              "timestampMs": 9460,
+              "confidence": 1
+            },
+            {
+              "text": "ngang",
+              "startMs": 9660,
+              "endMs": 9860,
+              "timestampMs": 9660,
+              "confidence": 1
+            },
+            {
+              "text": "thân",
+              "startMs": 9860,
+              "endMs": 10000,
+              "timestampMs": 9860,
+              "confidence": 1
+            },
+            {
+              "text": "hộp.",
+              "startMs": 10000,
+              "endMs": 10120,
+              "timestampMs": 10000,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "Bạn để ý những",
+          "startMs": 10580,
+          "endMs": 11180,
+          "words": [
+            {
+              "text": "Bạn",
+              "startMs": 10580,
+              "endMs": 10780,
+              "timestampMs": 10580,
+              "confidence": 1
+            },
+            {
+              "text": "để",
+              "startMs": 10780,
+              "endMs": 10900,
+              "timestampMs": 10780,
+              "confidence": 1
+            },
+            {
+              "text": "ý",
+              "startMs": 10900,
+              "endMs": 11060,
+              "timestampMs": 10900,
+              "confidence": 1
+            },
+            {
+              "text": "những",
+              "startMs": 11060,
+              "endMs": 11180,
+              "timestampMs": 11060,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "thương hiệu D hai",
+          "startMs": 11180,
+          "endMs": 12100,
+          "words": [
+            {
+              "text": "thương",
+              "startMs": 11180,
+              "endMs": 11320,
+              "timestampMs": 11180,
+              "confidence": 1
+            },
+            {
+              "text": "hiệu",
+              "startMs": 11320,
+              "endMs": 11480,
+              "timestampMs": 11320,
+              "confidence": 1
+            },
+            {
+              "text": "D",
+              "startMs": 11480,
+              "endMs": 11840,
+              "timestampMs": 11480,
+              "confidence": 1
+            },
+            {
+              "text": "hai",
+              "startMs": 11840,
+              "endMs": 12100,
+              "timestampMs": 11840,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "C hàng đầu như",
+          "startMs": 12100,
+          "endMs": 12840,
+          "words": [
+            {
+              "text": "C",
+              "startMs": 12100,
+              "endMs": 12240,
+              "timestampMs": 12100,
+              "confidence": 1
+            },
+            {
+              "text": "hàng",
+              "startMs": 12240,
+              "endMs": 12420,
+              "timestampMs": 12240,
+              "confidence": 1
+            },
+            {
+              "text": "đầu",
+              "startMs": 12270,
+              "endMs": 12420,
+              "timestampMs": 12240,
+              "confidence": 1
+            },
+            {
+              "text": "như",
+              "startMs": 12420,
+              "endMs": 12840,
+              "timestampMs": 12420,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "Glossier hay Coolmate xem.",
+          "startMs": 12840,
+          "endMs": 14020,
+          "words": [
+            {
+              "text": "Glossier",
+              "startMs": 12840,
+              "endMs": 13000,
+              "timestampMs": 12840,
+              "confidence": 1
+            },
+            {
+              "text": "hay",
+              "startMs": 13000,
+              "endMs": 13360,
+              "timestampMs": 13000,
+              "confidence": 1
+            },
+            {
+              "text": "Coolmate",
+              "startMs": 13360,
+              "endMs": 13560,
+              "timestampMs": 13360,
+              "confidence": 1
+            },
+            {
+              "text": "xem.",
+              "startMs": 13980,
+              "endMs": 14020,
+              "timestampMs": 13980,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "Họ không bao giờ",
+          "startMs": 14020,
+          "endMs": 14640,
+          "words": [
+            {
+              "text": "Họ",
+              "startMs": 14020,
+              "endMs": 14200,
+              "timestampMs": 14020,
+              "confidence": 1
+            },
+            {
+              "text": "không",
+              "startMs": 14200,
+              "endMs": 14300,
+              "timestampMs": 14200,
+              "confidence": 1
+            },
+            {
+              "text": "bao",
+              "startMs": 14300,
+              "endMs": 14400,
+              "timestampMs": 14300,
+              "confidence": 1
+            },
+            {
+              "text": "giờ",
+              "startMs": 14400,
+              "endMs": 14640,
+              "timestampMs": 14400,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "quấn băng dính chằng",
+          "startMs": 14640,
+          "endMs": 15420,
+          "words": [
+            {
+              "text": "quấn",
+              "startMs": 14640,
+              "endMs": 14840,
+              "timestampMs": 14640,
+              "confidence": 1
+            },
+            {
+              "text": "băng",
+              "startMs": 14840,
+              "endMs": 15000,
+              "timestampMs": 14840,
+              "confidence": 1
+            },
+            {
+              "text": "dính",
+              "startMs": 15000,
+              "endMs": 15180,
+              "timestampMs": 15000,
+              "confidence": 1
+            },
+            {
+              "text": "chằng",
+              "startMs": 15180,
+              "endMs": 15420,
+              "timestampMs": 15180,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "chịt năm, sáu lớp.",
+          "startMs": 15420,
+          "endMs": 16820,
+          "words": [
+            {
+              "text": "chịt",
+              "startMs": 15420,
+              "endMs": 15520,
+              "timestampMs": 15420,
+              "confidence": 1
+            },
+            {
+              "text": "năm,",
+              "startMs": 15860,
+              "endMs": 15960,
+              "timestampMs": 15860,
+              "confidence": 1
+            },
+            {
+              "text": "sáu",
+              "startMs": 15960,
+              "endMs": 16240,
+              "timestampMs": 15960,
+              "confidence": 1
+            },
+            {
+              "text": "lớp.",
+              "startMs": 16640,
+              "endMs": 16820,
+              "timestampMs": 16640,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "Vì họ biết: bắt",
+          "startMs": 16820,
+          "endMs": 17760,
+          "words": [
+            {
+              "text": "Vì",
+              "startMs": 16820,
+              "endMs": 16920,
+              "timestampMs": 16820,
+              "confidence": 1
+            },
+            {
+              "text": "họ",
+              "startMs": 16920,
+              "endMs": 17160,
+              "timestampMs": 16920,
+              "confidence": 1
+            },
+            {
+              "text": "biết:",
+              "startMs": 17480,
+              "endMs": 17560,
+              "timestampMs": 17480,
+              "confidence": 1
+            },
+            {
+              "text": "bắt",
+              "startMs": 17560,
+              "endMs": 17760,
+              "timestampMs": 17560,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "khách đi tìm dao",
+          "startMs": 17760,
+          "endMs": 18580,
+          "words": [
+            {
+              "text": "khách",
+              "startMs": 17760,
+              "endMs": 17920,
+              "timestampMs": 17760,
+              "confidence": 1
+            },
+            {
+              "text": "đi",
+              "startMs": 17920,
+              "endMs": 18140,
+              "timestampMs": 17920,
+              "confidence": 1
+            },
+            {
+              "text": "tìm",
+              "startMs": 18140,
+              "endMs": 18340,
+              "timestampMs": 18140,
+              "confidence": 1
+            },
+            {
+              "text": "dao",
+              "startMs": 18340,
+              "endMs": 18580,
+              "timestampMs": 18340,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "kéo để rạch hộp",
+          "startMs": 18580,
+          "endMs": 19480,
+          "words": [
+            {
+              "text": "kéo",
+              "startMs": 18580,
+              "endMs": 18720,
+              "timestampMs": 18580,
+              "confidence": 1
+            },
+            {
+              "text": "để",
+              "startMs": 18720,
+              "endMs": 18860,
+              "timestampMs": 18720,
+              "confidence": 1
+            },
+            {
+              "text": "rạch",
+              "startMs": 18860,
+              "endMs": 19160,
+              "timestampMs": 18860,
+              "confidence": 1
+            },
+            {
+              "text": "hộp",
+              "startMs": 19160,
+              "endMs": 19480,
+              "timestampMs": 19160,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "là cách nhanh nhất",
+          "startMs": 19480,
+          "endMs": 20160,
+          "words": [
+            {
+              "text": "là",
+              "startMs": 19480,
+              "endMs": 19640,
+              "timestampMs": 19480,
+              "confidence": 1
+            },
+            {
+              "text": "cách",
+              "startMs": 19640,
+              "endMs": 19860,
+              "timestampMs": 19640,
+              "confidence": 1
+            },
+            {
+              "text": "nhanh",
+              "startMs": 19860,
+              "endMs": 20000,
+              "timestampMs": 19860,
+              "confidence": 1
+            },
+            {
+              "text": "nhất",
+              "startMs": 20000,
+              "endMs": 20160,
+              "timestampMs": 20000,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "để dập tắt sự",
+          "startMs": 20160,
+          "endMs": 20800,
+          "words": [
+            {
+              "text": "để",
+              "startMs": 20160,
+              "endMs": 20340,
+              "timestampMs": 20160,
+              "confidence": 1
+            },
+            {
+              "text": "dập",
+              "startMs": 20340,
+              "endMs": 20460,
+              "timestampMs": 20340,
+              "confidence": 1
+            },
+            {
+              "text": "tắt",
+              "startMs": 20460,
+              "endMs": 20600,
+              "timestampMs": 20460,
+              "confidence": 1
+            },
+            {
+              "text": "sự",
+              "startMs": 20600,
+              "endMs": 20800,
+              "timestampMs": 20600,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "háo hức vừa nhận",
+          "startMs": 20800,
+          "endMs": 21420,
+          "words": [
+            {
+              "text": "háo",
+              "startMs": 20800,
+              "endMs": 20920,
+              "timestampMs": 20800,
+              "confidence": 1
+            },
+            {
+              "text": "hức",
+              "startMs": 20920,
+              "endMs": 21040,
+              "timestampMs": 20920,
+              "confidence": 1
+            },
+            {
+              "text": "vừa",
+              "startMs": 21040,
+              "endMs": 21220,
+              "timestampMs": 21040,
+              "confidence": 1
+            },
+            {
+              "text": "nhận",
+              "startMs": 21220,
+              "endMs": 21420,
+              "timestampMs": 21220,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "hàng. Khi thay bằng",
+          "startMs": 21420,
+          "endMs": 22460,
+          "words": [
+            {
+              "text": "hàng.",
+              "startMs": 21420,
+              "endMs": 22060,
+              "timestampMs": 21420,
+              "confidence": 1
+            },
+            {
+              "text": "Khi",
+              "startMs": 22060,
+              "endMs": 22180,
+              "timestampMs": 22060,
+              "confidence": 1
+            },
+            {
+              "text": "thay",
+              "startMs": 22180,
+              "endMs": 22340,
+              "timestampMs": 22180,
+              "confidence": 1
+            },
+            {
+              "text": "bằng",
+              "startMs": 22340,
+              "endMs": 22460,
+              "timestampMs": 22340,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "một dải ruy băng",
+          "startMs": 22460,
+          "endMs": 23200,
+          "words": [
+            {
+              "text": "một",
+              "startMs": 22460,
+              "endMs": 22640,
+              "timestampMs": 22460,
+              "confidence": 1
+            },
+            {
+              "text": "dải",
+              "startMs": 22640,
+              "endMs": 22760,
+              "timestampMs": 22640,
+              "confidence": 1
+            },
+            {
+              "text": "ruy",
+              "startMs": 22760,
+              "endMs": 22960,
+              "timestampMs": 22760,
+              "confidence": 1
+            },
+            {
+              "text": "băng",
+              "startMs": 22960,
+              "endMs": 23200,
+              "timestampMs": 22960,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "xé, hành động mở",
+          "startMs": 23680,
+          "endMs": 24200,
+          "words": [
+            {
+              "text": "xé,",
+              "startMs": 23680,
+              "endMs": 23700,
+              "timestampMs": 23680,
+              "confidence": 1
+            },
+            {
+              "text": "hành",
+              "startMs": 23700,
+              "endMs": 23780,
+              "timestampMs": 23700,
+              "confidence": 1
+            },
+            {
+              "text": "động",
+              "startMs": 23780,
+              "endMs": 24040,
+              "timestampMs": 23780,
+              "confidence": 1
+            },
+            {
+              "text": "mở",
+              "startMs": 24040,
+              "endMs": 24200,
+              "timestampMs": 24040,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "hàng biến thành một",
+          "startMs": 24200,
+          "endMs": 24900,
+          "words": [
+            {
+              "text": "hàng",
+              "startMs": 24200,
+              "endMs": 24440,
+              "timestampMs": 24200,
+              "confidence": 1
+            },
+            {
+              "text": "biến",
+              "startMs": 24440,
+              "endMs": 24580,
+              "timestampMs": 24440,
+              "confidence": 1
+            },
+            {
+              "text": "thành",
+              "startMs": 24580,
+              "endMs": 24740,
+              "timestampMs": 24580,
+              "confidence": 1
+            },
+            {
+              "text": "một",
+              "startMs": 24740,
+              "endMs": 24900,
+              "timestampMs": 24740,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "trải nghiệm xúc giác",
+          "startMs": 24900,
+          "endMs": 25600,
+          "words": [
+            {
+              "text": "trải",
+              "startMs": 24900,
+              "endMs": 25060,
+              "timestampMs": 24900,
+              "confidence": 1
+            },
+            {
+              "text": "nghiệm",
+              "startMs": 25060,
+              "endMs": 25220,
+              "timestampMs": 25060,
+              "confidence": 1
+            },
+            {
+              "text": "xúc",
+              "startMs": 25220,
+              "endMs": 25380,
+              "timestampMs": 25220,
+              "confidence": 1
+            },
+            {
+              "text": "giác",
+              "startMs": 25380,
+              "endMs": 25600,
+              "timestampMs": 25380,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "cực kỳ thỏa mãn.",
+          "startMs": 25600,
+          "endMs": 26660,
+          "words": [
+            {
+              "text": "cực",
+              "startMs": 25600,
+              "endMs": 25680,
+              "timestampMs": 25600,
+              "confidence": 1
+            },
+            {
+              "text": "kỳ",
+              "startMs": 25680,
+              "endMs": 25940,
+              "timestampMs": 25680,
+              "confidence": 1
+            },
+            {
+              "text": "thỏa",
+              "startMs": 25940,
+              "endMs": 26140,
+              "timestampMs": 25940,
+              "confidence": 1
+            },
+            {
+              "text": "mãn.",
+              "startMs": 26460,
+              "endMs": 26660,
+              "timestampMs": 26460,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "Chỉ cần một cú",
+          "startMs": 26660,
+          "endMs": 27260,
+          "words": [
+            {
+              "text": "Chỉ",
+              "startMs": 26660,
+              "endMs": 26740,
+              "timestampMs": 26660,
+              "confidence": 1
+            },
+            {
+              "text": "cần",
+              "startMs": 26740,
+              "endMs": 26900,
+              "timestampMs": 26740,
+              "confidence": 1
+            },
+            {
+              "text": "một",
+              "startMs": 26900,
+              "endMs": 27060,
+              "timestampMs": 26900,
+              "confidence": 1
+            },
+            {
+              "text": "cú",
+              "startMs": 27060,
+              "endMs": 27260,
+              "timestampMs": 27060,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "giật nhẹ, tiếng xoẹt",
+          "startMs": 27260,
+          "endMs": 28340,
+          "words": [
+            {
+              "text": "giật",
+              "startMs": 27260,
+              "endMs": 27480,
+              "timestampMs": 27260,
+              "confidence": 1
+            },
+            {
+              "text": "nhẹ,",
+              "startMs": 27860,
+              "endMs": 27900,
+              "timestampMs": 27860,
+              "confidence": 1
+            },
+            {
+              "text": "tiếng",
+              "startMs": 27900,
+              "endMs": 28120,
+              "timestampMs": 27900,
+              "confidence": 1
+            },
+            {
+              "text": "xoẹt",
+              "startMs": 28120,
+              "endMs": 28340,
+              "timestampMs": 28120,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "giòn tan vang lên,",
+          "startMs": 28340,
+          "endMs": 29360,
+          "words": [
+            {
+              "text": "giòn",
+              "startMs": 28340,
+              "endMs": 28540,
+              "timestampMs": 28340,
+              "confidence": 1
+            },
+            {
+              "text": "tan",
+              "startMs": 28540,
+              "endMs": 28820,
+              "timestampMs": 28540,
+              "confidence": 1
+            },
+            {
+              "text": "vang",
+              "startMs": 28820,
+              "endMs": 28900,
+              "timestampMs": 28820,
+              "confidence": 1
+            },
+            {
+              "text": "lên,",
+              "startMs": 29320,
+              "endMs": 29360,
+              "timestampMs": 29320,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "chiếc hộp tự động",
+          "startMs": 29360,
+          "endMs": 29960,
+          "words": [
+            {
+              "text": "chiếc",
+              "startMs": 29360,
+              "endMs": 29480,
+              "timestampMs": 29360,
+              "confidence": 1
+            },
+            {
+              "text": "hộp",
+              "startMs": 29480,
+              "endMs": 29660,
+              "timestampMs": 29480,
+              "confidence": 1
+            },
+            {
+              "text": "tự",
+              "startMs": 29660,
+              "endMs": 29780,
+              "timestampMs": 29660,
+              "confidence": 1
+            },
+            {
+              "text": "động",
+              "startMs": 29780,
+              "endMs": 29960,
+              "timestampMs": 29780,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "bung mở mà không",
+          "startMs": 29960,
+          "endMs": 30700,
+          "words": [
+            {
+              "text": "bung",
+              "startMs": 29960,
+              "endMs": 30200,
+              "timestampMs": 29960,
+              "confidence": 1
+            },
+            {
+              "text": "mở",
+              "startMs": 30200,
+              "endMs": 30400,
+              "timestampMs": 30200,
+              "confidence": 1
+            },
+            {
+              "text": "mà",
+              "startMs": 30400,
+              "endMs": 30520,
+              "timestampMs": 30400,
+              "confidence": 1
+            },
+            {
+              "text": "không",
+              "startMs": 30520,
+              "endMs": 30700,
+              "timestampMs": 30520,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "tốn chút sức lực",
+          "startMs": 30700,
+          "endMs": 31320,
+          "words": [
+            {
+              "text": "tốn",
+              "startMs": 30700,
+              "endMs": 30860,
+              "timestampMs": 30700,
+              "confidence": 1
+            },
+            {
+              "text": "chút",
+              "startMs": 30860,
+              "endMs": 31040,
+              "timestampMs": 30860,
+              "confidence": 1
+            },
+            {
+              "text": "sức",
+              "startMs": 31040,
+              "endMs": 31160,
+              "timestampMs": 31040,
+              "confidence": 1
+            },
+            {
+              "text": "lực",
+              "startMs": 31160,
+              "endMs": 31320,
+              "timestampMs": 31160,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "nào. Cảm giác kiểm",
+          "startMs": 31740,
+          "endMs": 32360,
+          "words": [
+            {
+              "text": "nào.",
+              "startMs": 31740,
+              "endMs": 31860,
+              "timestampMs": 31740,
+              "confidence": 1
+            },
+            {
+              "text": "Cảm",
+              "startMs": 31860,
+              "endMs": 31980,
+              "timestampMs": 31860,
+              "confidence": 1
+            },
+            {
+              "text": "giác",
+              "startMs": 31980,
+              "endMs": 32160,
+              "timestampMs": 31980,
+              "confidence": 1
+            },
+            {
+              "text": "kiểm",
+              "startMs": 32160,
+              "endMs": 32360,
+              "timestampMs": 32160,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "soát và âm thanh",
+          "startMs": 32360,
+          "endMs": 32900,
+          "words": [
+            {
+              "text": "soát",
+              "startMs": 32360,
+              "endMs": 32460,
+              "timestampMs": 32360,
+              "confidence": 1
+            },
+            {
+              "text": "và",
+              "startMs": 32460,
+              "endMs": 32580,
+              "timestampMs": 32460,
+              "confidence": 1
+            },
+            {
+              "text": "âm",
+              "startMs": 32580,
+              "endMs": 32740,
+              "timestampMs": 32580,
+              "confidence": 1
+            },
+            {
+              "text": "thanh",
+              "startMs": 32740,
+              "endMs": 32900,
+              "timestampMs": 32740,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "đã tai này kích",
+          "startMs": 32900,
+          "endMs": 33500,
+          "words": [
+            {
+              "text": "đã",
+              "startMs": 32900,
+              "endMs": 33040,
+              "timestampMs": 32900,
+              "confidence": 1
+            },
+            {
+              "text": "tai",
+              "startMs": 33040,
+              "endMs": 33160,
+              "timestampMs": 33040,
+              "confidence": 1
+            },
+            {
+              "text": "này",
+              "startMs": 33160,
+              "endMs": 33360,
+              "timestampMs": 33160,
+              "confidence": 1
+            },
+            {
+              "text": "kích",
+              "startMs": 33360,
+              "endMs": 33500,
+              "timestampMs": 33360,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "hoạt hormone phần thưởng",
+          "startMs": 33500,
+          "endMs": 33900,
+          "words": [
+            {
+              "text": "hoạt",
+              "startMs": 33500,
+              "endMs": 33640,
+              "timestampMs": 33500,
+              "confidence": 1
+            },
+            {
+              "text": "hormone",
+              "startMs": 33640,
+              "endMs": 33641,
+              "timestampMs": 33640,
+              "confidence": 1
+            },
+            {
+              "text": "phần",
+              "startMs": 33670,
+              "endMs": 33760,
+              "timestampMs": 33640,
+              "confidence": 1
+            },
+            {
+              "text": "thưởng",
+              "startMs": 33760,
+              "endMs": 33900,
+              "timestampMs": 33760,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "ngay giây đầu tiên.",
+          "startMs": 33900,
+          "endMs": 34440,
+          "words": [
+            {
+              "text": "ngay",
+              "startMs": 33900,
+              "endMs": 34100,
+              "timestampMs": 33900,
+              "confidence": 1
+            },
+            {
+              "text": "giây",
+              "startMs": 34100,
+              "endMs": 34280,
+              "timestampMs": 34100,
+              "confidence": 1
+            },
+            {
+              "text": "đầu",
+              "startMs": 34280,
+              "endMs": 34360,
+              "timestampMs": 34280,
+              "confidence": 1
+            },
+            {
+              "text": "tiên.",
+              "startMs": 34360,
+              "endMs": 34440,
+              "timestampMs": 34360,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "Trải nghiệm quá mượt",
+          "startMs": 34440,
+          "endMs": 35660,
+          "words": [
+            {
+              "text": "Trải",
+              "startMs": 34440,
+              "endMs": 34700,
+              "timestampMs": 34440,
+              "confidence": 1
+            },
+            {
+              "text": "nghiệm",
+              "startMs": 35180,
+              "endMs": 35340,
+              "timestampMs": 35180,
+              "confidence": 1
+            },
+            {
+              "text": "quá",
+              "startMs": 35340,
+              "endMs": 35480,
+              "timestampMs": 35340,
+              "confidence": 1
+            },
+            {
+              "text": "mượt",
+              "startMs": 35480,
+              "endMs": 35660,
+              "timestampMs": 35480,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "mà khiến khách hàng",
+          "startMs": 35660,
+          "endMs": 36380,
+          "words": [
+            {
+              "text": "mà",
+              "startMs": 35660,
+              "endMs": 35960,
+              "timestampMs": 35660,
+              "confidence": 1
+            },
+            {
+              "text": "khiến",
+              "startMs": 35960,
+              "endMs": 36060,
+              "timestampMs": 35960,
+              "confidence": 1
+            },
+            {
+              "text": "khách",
+              "startMs": 36060,
+              "endMs": 36240,
+              "timestampMs": 36060,
+              "confidence": 1
+            },
+            {
+              "text": "hàng",
+              "startMs": 36240,
+              "endMs": 36380,
+              "timestampMs": 36240,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "tự động muốn rút",
+          "startMs": 36380,
+          "endMs": 37020,
+          "words": [
+            {
+              "text": "tự",
+              "startMs": 36380,
+              "endMs": 36500,
+              "timestampMs": 36380,
+              "confidence": 1
+            },
+            {
+              "text": "động",
+              "startMs": 36500,
+              "endMs": 36680,
+              "timestampMs": 36500,
+              "confidence": 1
+            },
+            {
+              "text": "muốn",
+              "startMs": 36680,
+              "endMs": 36840,
+              "timestampMs": 36680,
+              "confidence": 1
+            },
+            {
+              "text": "rút",
+              "startMs": 36840,
+              "endMs": 37020,
+              "timestampMs": 36840,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "điện thoại quay lại",
+          "startMs": 37020,
+          "endMs": 37700,
+          "words": [
+            {
+              "text": "điện",
+              "startMs": 37020,
+              "endMs": 37180,
+              "timestampMs": 37020,
+              "confidence": 1
+            },
+            {
+              "text": "thoại",
+              "startMs": 37180,
+              "endMs": 37340,
+              "timestampMs": 37180,
+              "confidence": 1
+            },
+            {
+              "text": "quay",
+              "startMs": 37340,
+              "endMs": 37520,
+              "timestampMs": 37340,
+              "confidence": 1
+            },
+            {
+              "text": "lại",
+              "startMs": 37520,
+              "endMs": 37700,
+              "timestampMs": 37520,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "khoảnh khắc đó để",
+          "startMs": 37700,
+          "endMs": 38260,
+          "words": [
+            {
+              "text": "khoảnh",
+              "startMs": 37700,
+              "endMs": 37800,
+              "timestampMs": 37700,
+              "confidence": 1
+            },
+            {
+              "text": "khắc",
+              "startMs": 37800,
+              "endMs": 37960,
+              "timestampMs": 37800,
+              "confidence": 1
+            },
+            {
+              "text": "đó",
+              "startMs": 37960,
+              "endMs": 38140,
+              "timestampMs": 37960,
+              "confidence": 1
+            },
+            {
+              "text": "để",
+              "startMs": 38140,
+              "endMs": 38260,
+              "timestampMs": 38140,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "khoe lên mạng. Trải",
+          "startMs": 38260,
+          "endMs": 38660,
+          "words": [
+            {
+              "text": "khoe",
+              "startMs": 38260,
+              "endMs": 38420,
+              "timestampMs": 38260,
+              "confidence": 1
+            },
+            {
+              "text": "lên",
+              "startMs": 38420,
+              "endMs": 38560,
+              "timestampMs": 38420,
+              "confidence": 1
+            },
+            {
+              "text": "mạng.",
+              "startMs": 38450,
+              "endMs": 38560,
+              "timestampMs": 38420,
+              "confidence": 1
+            },
+            {
+              "text": "Trải",
+              "startMs": 38560,
+              "endMs": 38660,
+              "timestampMs": 38560,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "nghiệm thương hiệu thực",
+          "startMs": 38660,
+          "endMs": 39860,
+          "words": [
+            {
+              "text": "nghiệm",
+              "startMs": 38660,
+              "endMs": 38960,
+              "timestampMs": 38660,
+              "confidence": 1
+            },
+            {
+              "text": "thương",
+              "startMs": 38960,
+              "endMs": 39600,
+              "timestampMs": 38960,
+              "confidence": 1
+            },
+            {
+              "text": "hiệu",
+              "startMs": 39600,
+              "endMs": 39760,
+              "timestampMs": 39600,
+              "confidence": 1
+            },
+            {
+              "text": "thực",
+              "startMs": 39760,
+              "endMs": 39860,
+              "timestampMs": 39760,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "ra không bắt đầu",
+          "startMs": 39860,
+          "endMs": 40580,
+          "words": [
+            {
+              "text": "ra",
+              "startMs": 39860,
+              "endMs": 40040,
+              "timestampMs": 39860,
+              "confidence": 1
+            },
+            {
+              "text": "không",
+              "startMs": 40040,
+              "endMs": 40160,
+              "timestampMs": 40040,
+              "confidence": 1
+            },
+            {
+              "text": "bắt",
+              "startMs": 40160,
+              "endMs": 40320,
+              "timestampMs": 40160,
+              "confidence": 1
+            },
+            {
+              "text": "đầu",
+              "startMs": 40320,
+              "endMs": 40580,
+              "timestampMs": 40320,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "lúc khách dùng sản",
+          "startMs": 40580,
+          "endMs": 41160,
+          "words": [
+            {
+              "text": "lúc",
+              "startMs": 40580,
+              "endMs": 40740,
+              "timestampMs": 40580,
+              "confidence": 1
+            },
+            {
+              "text": "khách",
+              "startMs": 40740,
+              "endMs": 40880,
+              "timestampMs": 40740,
+              "confidence": 1
+            },
+            {
+              "text": "dùng",
+              "startMs": 40880,
+              "endMs": 41040,
+              "timestampMs": 40880,
+              "confidence": 1
+            },
+            {
+              "text": "sản",
+              "startMs": 41040,
+              "endMs": 41160,
+              "timestampMs": 41040,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "phẩm, mà bắt đầu",
+          "startMs": 41160,
+          "endMs": 42060,
+          "words": [
+            {
+              "text": "phẩm,",
+              "startMs": 41160,
+              "endMs": 41320,
+              "timestampMs": 41160,
+              "confidence": 1
+            },
+            {
+              "text": "mà",
+              "startMs": 41320,
+              "endMs": 41460,
+              "timestampMs": 41320,
+              "confidence": 1
+            },
+            {
+              "text": "bắt",
+              "startMs": 41460,
+              "endMs": 41700,
+              "timestampMs": 41460,
+              "confidence": 1
+            },
+            {
+              "text": "đầu",
+              "startMs": 41700,
+              "endMs": 42060,
+              "timestampMs": 41700,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "từ giây đầu tiên",
+          "startMs": 42060,
+          "endMs": 42560,
+          "words": [
+            {
+              "text": "từ",
+              "startMs": 42060,
+              "endMs": 42180,
+              "timestampMs": 42060,
+              "confidence": 1
+            },
+            {
+              "text": "giây",
+              "startMs": 42180,
+              "endMs": 42300,
+              "timestampMs": 42180,
+              "confidence": 1
+            },
+            {
+              "text": "đầu",
+              "startMs": 42300,
+              "endMs": 42420,
+              "timestampMs": 42300,
+              "confidence": 1
+            },
+            {
+              "text": "tiên",
+              "startMs": 42420,
+              "endMs": 42560,
+              "timestampMs": 42420,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "tay họ chạm vào",
+          "startMs": 42560,
+          "endMs": 43280,
+          "words": [
+            {
+              "text": "tay",
+              "startMs": 42560,
+              "endMs": 42660,
+              "timestampMs": 42560,
+              "confidence": 1
+            },
+            {
+              "text": "họ",
+              "startMs": 42660,
+              "endMs": 42940,
+              "timestampMs": 42660,
+              "confidence": 1
+            },
+            {
+              "text": "chạm",
+              "startMs": 42940,
+              "endMs": 43140,
+              "timestampMs": 42940,
+              "confidence": 1
+            },
+            {
+              "text": "vào",
+              "startMs": 43140,
+              "endMs": 43280,
+              "timestampMs": 43140,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "chiếc vỏ hộp bên",
+          "startMs": 43280,
+          "endMs": 43900,
+          "words": [
+            {
+              "text": "chiếc",
+              "startMs": 43280,
+              "endMs": 43600,
+              "timestampMs": 43280,
+              "confidence": 1
+            },
+            {
+              "text": "vỏ",
+              "startMs": 43600,
+              "endMs": 43680,
+              "timestampMs": 43600,
+              "confidence": 1
+            },
+            {
+              "text": "hộp",
+              "startMs": 43680,
+              "endMs": 43820,
+              "timestampMs": 43680,
+              "confidence": 1
+            },
+            {
+              "text": "bên",
+              "startMs": 43820,
+              "endMs": 43900,
+              "timestampMs": 43820,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "ngoài. Hôm nay, bạn",
+          "startMs": 43900,
+          "endMs": 44880,
+          "words": [
+            {
+              "text": "ngoài.",
+              "startMs": 43900,
+              "endMs": 44060,
+              "timestampMs": 43900,
+              "confidence": 1
+            },
+            {
+              "text": "Hôm",
+              "startMs": 44060,
+              "endMs": 44440,
+              "timestampMs": 44060,
+              "confidence": 1
+            },
+            {
+              "text": "nay,",
+              "startMs": 44600,
+              "endMs": 44700,
+              "timestampMs": 44600,
+              "confidence": 1
+            },
+            {
+              "text": "bạn",
+              "startMs": 44700,
+              "endMs": 44880,
+              "timestampMs": 44700,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "hãy thử tự đặt",
+          "startMs": 44880,
+          "endMs": 45700,
+          "words": [
+            {
+              "text": "hãy",
+              "startMs": 44880,
+              "endMs": 45260,
+              "timestampMs": 44880,
+              "confidence": 1
+            },
+            {
+              "text": "thử",
+              "startMs": 45260,
+              "endMs": 45340,
+              "timestampMs": 45260,
+              "confidence": 1
+            },
+            {
+              "text": "tự",
+              "startMs": 45340,
+              "endMs": 45500,
+              "timestampMs": 45340,
+              "confidence": 1
+            },
+            {
+              "text": "đặt",
+              "startMs": 45500,
+              "endMs": 45700,
+              "timestampMs": 45500,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "một đơn từ shop",
+          "startMs": 45700,
+          "endMs": 46260,
+          "words": [
+            {
+              "text": "một",
+              "startMs": 45700,
+              "endMs": 45840,
+              "timestampMs": 45700,
+              "confidence": 1
+            },
+            {
+              "text": "đơn",
+              "startMs": 45840,
+              "endMs": 45980,
+              "timestampMs": 45840,
+              "confidence": 1
+            },
+            {
+              "text": "từ",
+              "startMs": 45980,
+              "endMs": 46120,
+              "timestampMs": 45980,
+              "confidence": 1
+            },
+            {
+              "text": "shop",
+              "startMs": 46120,
+              "endMs": 46260,
+              "timestampMs": 46120,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "mình về nhà, xem",
+          "startMs": 46260,
+          "endMs": 47440,
+          "words": [
+            {
+              "text": "mình",
+              "startMs": 46260,
+              "endMs": 46600,
+              "timestampMs": 46260,
+              "confidence": 1
+            },
+            {
+              "text": "về",
+              "startMs": 46600,
+              "endMs": 46760,
+              "timestampMs": 46600,
+              "confidence": 1
+            },
+            {
+              "text": "nhà,",
+              "startMs": 46760,
+              "endMs": 47060,
+              "timestampMs": 46760,
+              "confidence": 1
+            },
+            {
+              "text": "xem",
+              "startMs": 47060,
+              "endMs": 47440,
+              "timestampMs": 47060,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "mất bao nhiêu giây",
+          "startMs": 47440,
+          "endMs": 48240,
+          "words": [
+            {
+              "text": "mất",
+              "startMs": 47440,
+              "endMs": 47680,
+              "timestampMs": 47440,
+              "confidence": 1
+            },
+            {
+              "text": "bao",
+              "startMs": 47680,
+              "endMs": 47800,
+              "timestampMs": 47680,
+              "confidence": 1
+            },
+            {
+              "text": "nhiêu",
+              "startMs": 47800,
+              "endMs": 48020,
+              "timestampMs": 47800,
+              "confidence": 1
+            },
+            {
+              "text": "giây",
+              "startMs": 48020,
+              "endMs": 48240,
+              "timestampMs": 48020,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "để mở được nó.",
+          "startMs": 48240,
+          "endMs": 48860,
+          "words": [
+            {
+              "text": "để",
+              "startMs": 48240,
+              "endMs": 48360,
+              "timestampMs": 48240,
+              "confidence": 1
+            },
+            {
+              "text": "mở",
+              "startMs": 48360,
+              "endMs": 48560,
+              "timestampMs": 48360,
+              "confidence": 1
+            },
+            {
+              "text": "được",
+              "startMs": 48560,
+              "endMs": 48660,
+              "timestampMs": 48560,
+              "confidence": 1
+            },
+            {
+              "text": "nó.",
+              "startMs": 48660,
+              "endMs": 48860,
+              "timestampMs": 48660,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "Lưu video này để",
+          "startMs": 49100,
+          "endMs": 49800,
+          "words": [
+            {
+              "text": "Lưu",
+              "startMs": 49100,
+              "endMs": 49280,
+              "timestampMs": 49100,
+              "confidence": 1
+            },
+            {
+              "text": "video",
+              "startMs": 49280,
+              "endMs": 49380,
+              "timestampMs": 49280,
+              "confidence": 1
+            },
+            {
+              "text": "này",
+              "startMs": 49380,
+              "endMs": 49640,
+              "timestampMs": 49380,
+              "confidence": 1
+            },
+            {
+              "text": "để",
+              "startMs": 49640,
+              "endMs": 49800,
+              "timestampMs": 49640,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "kiểm tra lại khâu",
+          "startMs": 49800,
+          "endMs": 50520,
+          "words": [
+            {
+              "text": "kiểm",
+              "startMs": 49800,
+              "endMs": 49980,
+              "timestampMs": 49800,
+              "confidence": 1
+            },
+            {
+              "text": "tra",
+              "startMs": 49980,
+              "endMs": 50140,
+              "timestampMs": 49980,
+              "confidence": 1
+            },
+            {
+              "text": "lại",
+              "startMs": 50140,
+              "endMs": 50320,
+              "timestampMs": 50140,
+              "confidence": 1
+            },
+            {
+              "text": "khâu",
+              "startMs": 50320,
+              "endMs": 50520,
+              "timestampMs": 50320,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "đóng gói của bạn.",
+          "startMs": 50520,
+          "endMs": 51020,
+          "words": [
+            {
+              "text": "đóng",
+              "startMs": 50520,
+              "endMs": 50640,
+              "timestampMs": 50520,
+              "confidence": 1
+            },
+            {
+              "text": "gói",
+              "startMs": 50640,
+              "endMs": 50840,
+              "timestampMs": 50640,
+              "confidence": 1
+            },
+            {
+              "text": "của",
+              "startMs": 50840,
+              "endMs": 50920,
+              "timestampMs": 50840,
+              "confidence": 1
+            },
+            {
+              "text": "bạn.",
+              "startMs": 50920,
+              "endMs": 51020,
+              "timestampMs": 50920,
+              "confidence": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "visualCues": [
+    {
+      "id": "C01",
+      "startMs": 0,
+      "endMs": 1200,
+      "spokenAnchor": "Cùng là nhận một kiện hàng",
+      "spokenSubject": "Hai kiện hàng đối lập",
+      "visualSubject": "Bàn tay chuẩn bị mở 2 kiện hàng",
+      "visualReason": "Thumbnail mở đầu 1s",
+      "semanticIntent": "Mở đầu thumbnail đối lập 2 số phận kiện hàng",
+      "sceneFamily": "hook-contrast",
+      "continuityRole": "human-action",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "items": [
+        {
+          "id": "c01-unboxing-contrast",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "hai kiện hàng đối lập",
+          "motion": "track",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": -40,
+              "scale": 0.95,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "startMs": 1200,
+      "endMs": 2980,
+      "spokenAnchor": "nhưng có hộp khách bóc vội rồi vứt rác",
+      "spokenSubject": "Chiếc hộp bị vứt rác",
+      "visualSubject": "Hộp dán nham nhở cạnh sọt rác",
+      "visualReason": "Minh họa hành vi bóc vội rồi bỏ đi",
+      "semanticIntent": "Cho thấy số phận bị vứt bỏ của kiện hàng luộm thuộm",
+      "sceneFamily": "hook-contrast",
+      "continuityRole": "literal-evidence",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c02-contrast-box",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "kiện hàng bị vứt rác",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c02-trash-tag",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "BÓC RỒI VỨT",
+          "role": "kết cục tiêu cực",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "startMs": 2980,
+      "endMs": 5500,
+      "spokenAnchor": "có hộp họ lại hào hứng dựng",
+      "spokenSubject": "Chiếc hộp được quay video",
+      "visualSubject": "Hộp carton kraft đẹp đẽ",
+      "visualReason": "Chuyển hướng sang kiện hàng được trân trọng",
+      "semanticIntent": "Cho thấy khách hào hứng chuẩn bị quay clip",
+      "sceneFamily": "hook-contrast",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c03-neat-box",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp kraft dải đỏ",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "c03-unboxing-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "QUAY CLIP MỞ HỘP",
+          "role": "kết cục tích cực",
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "startMs": 5500,
+      "endMs": 8060,
+      "spokenAnchor": "Sự khác biệt đôi khi không nằm ở",
+      "spokenSubject": "Món đồ bên trong",
+      "visualSubject": "Món quà bên trong hộp",
+      "visualReason": "Khẳng định sự khác biệt không chỉ ở sản phẩm",
+      "semanticIntent": "Phủ định giả thuyết chỉ vì món đồ đắt tiền",
+      "sceneFamily": "tear-strip-detail",
+      "continuityRole": "literal-evidence",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c04-inside-gift",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "món đồ bên trong",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "startMs": 8060,
+      "endMs": 10580,
+      "spokenAnchor": "mà nằm ở đúng một dải băng xé màu đỏ",
+      "spokenSubject": "Dải băng keo xé màu đỏ",
+      "visualSubject": "Cận cảnh dải băng xé đỏ nổi bật",
+      "visualReason": "Tập trung thị giác vào chi tiết đắt giá",
+      "semanticIntent": "Hé lộ chi tiết chiếc ruy băng xé ngang hộp",
+      "sceneFamily": "tear-strip-detail",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "c05-neat-box",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "cận cảnh dải băng đỏ",
+          "motion": "scale",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "c05-tear-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "DẢI BĂNG XÉ ĐỎ",
+          "role": "chi tiết cốt lõi",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "startMs": 10580,
+      "endMs": 14020,
+      "spokenAnchor": "Bạn để ý những thương hiệu D hai C hàng đầu",
+      "spokenSubject": "Thương hiệu D2C hàng đầu",
+      "visualSubject": "Bộ đôi logo thương hiệu Glossier và Coolmate",
+      "visualReason": "Hiển thị logo trực quan của các thương hiệu thành công",
+      "semanticIntent": "Dẫn chứng case study thực tế bằng logo thương hiệu",
+      "sceneFamily": "brand-case",
+      "continuityRole": "context",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c06-brand-logos",
+          "kind": "asset",
+          "assetId": "A09",
+          "role": "logo Glossier và Coolmate",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 0.88,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "c06-brand-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "CASE STUDY D2C:\nGLOSSIER · COOLMATE",
+          "role": "case study thực tế",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.85,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "startMs": 14020,
+      "endMs": 17560,
+      "spokenAnchor": "Họ không bao giờ quấn băng dính",
+      "spokenSubject": "Không quấn băng dính 5 6 lớp",
+      "visualSubject": "Hộp dán chằng chịt băng dính vàng",
+      "visualReason": "Tái hiện bối cảnh phiền toái thường gặp",
+      "semanticIntent": "Cho thấy cảm giác phiền toái khi bóc gói truyền thống",
+      "sceneFamily": "frustration-knife",
+      "continuityRole": "literal-evidence",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "cut",
+      "items": [
+        {
+          "id": "c07-taped-box",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "hộp quấn băng dính và dao rọc",
+          "motion": "slide",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.9,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "startMs": 17560,
+      "endMs": 20340,
+      "spokenAnchor": "bắt khách đi tìm dao kéo để rạch hộp",
+      "spokenSubject": "Hành vi tìm dao kéo",
+      "visualSubject": "Tay cầm dao rọc rạch băng dính",
+      "visualReason": "Nhấn mạnh lực cản vật lý khiến khách khó chịu",
+      "semanticIntent": "Nhấn mạnh rào cản dao kéo làm gián đoạn niềm vui",
+      "sceneFamily": "frustration-knife",
+      "continuityRole": "human-action",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c08-taped-box",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "hộp quấn băng dính và dao",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c08-frustrate-tag",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "TÌM DAO KÉO",
+          "role": "rào cản vật lý",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.8,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "startMs": 20340,
+      "endMs": 22060,
+      "spokenAnchor": "dập tắt sự háo hức vừa nhận hàng",
+      "spokenSubject": "Dập tắt sự háo hức",
+      "visualSubject": "Nhãn cảnh báo dập tắt cảm xúc",
+      "visualReason": "Đẩy cao nhận thức về việc phá hỏng cảm xúc",
+      "semanticIntent": "Chỉ ra tác hại của việc tạo lực cản ngay lúc nhận hàng",
+      "sceneFamily": "frustration-knife",
+      "continuityRole": "literal-evidence",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c09-taped-box",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "hộp bị rạch nham nhở",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c09-killjoy-tag",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "DẬP TẮT HÁO HỨC",
+          "role": "hậu quả cảm xúc",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "startMs": 22060,
+      "endMs": 26660,
+      "spokenAnchor": "Khi thay bằng một dải ruy băng xé",
+      "spokenSubject": "Trải nghiệm xúc giác thỏa mãn",
+      "visualSubject": "Ngón tay cầm dải ruy băng xé",
+      "visualReason": "Nâng tầm thao tác mở hộp",
+      "semanticIntent": "Chuyển hóa việc mở hộp thành trải nghiệm xúc giác",
+      "sceneFamily": "tactile-satisfaction",
+      "continuityRole": "human-action",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "c10-tear-action",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "ngón tay kéo dải ruy băng xé",
+          "motion": "slide",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.9,
+              "rotation": -1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "startMs": 26660,
+      "endMs": 27900,
+      "spokenAnchor": "Chỉ cần một cú giật nhẹ",
+      "spokenSubject": "Hành động giật dải băng xé",
+      "visualSubject": "Đường xé chạy mượt mà trên thân hộp",
+      "visualReason": "Tả cận cảnh sự dễ dàng",
+      "semanticIntent": "Thể hiện cảm giác xé nhẹ nhàng không cần dùng sức",
+      "sceneFamily": "tactile-satisfaction",
+      "continuityRole": "human-action",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c11-tear-action",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "động tác kéo dải xé",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c11-pull-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "1 CÚ GIẬT NHẸ",
+          "role": "thao tác đơn giản",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.85,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "startMs": 27900,
+      "endMs": 29360,
+      "spokenAnchor": "tiếng xoẹt giòn tan vang lên",
+      "spokenSubject": "Âm thanh xé giòn tan",
+      "visualSubject": "Hiệu ứng âm thanh xúc giác ASMR",
+      "visualReason": "Nhấn mạnh kích thích thính giác",
+      "semanticIntent": "Miêu tả âm thanh xoẹt thỏa mãn giác quan",
+      "sceneFamily": "tactile-satisfaction",
+      "continuityRole": "context",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c12-asmr-tag",
+          "kind": "code",
+          "codeTemplate": "metric",
+          "text": "XOẸT!",
+          "role": "âm thanh thỏa mãn",
+          "motion": "pop",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 20,
+              "scale": 0.8,
+              "rotation": -3,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "startMs": 29360,
+      "endMs": 30400,
+      "spokenAnchor": "chiếc hộp tự động bung mở",
+      "spokenSubject": "Chiếc hộp bung mở hoàn hảo",
+      "visualSubject": "Hộp bung nắp khoe lớp giấy lụa bên trong",
+      "visualReason": "Khoảnh khắc thị giác mãn nhãn",
+      "semanticIntent": "Cho thấy hộp tự động mở toang đẹp mắt",
+      "sceneFamily": "box-open-reveal",
+      "continuityRole": "literal-evidence",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "medium"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "c13-box-bloom",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "hộp bung mở lộ giấy lụa",
+          "motion": "scale",
+          "sfx": "ding",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 20,
+              "scale": 0.88,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "startMs": 30400,
+      "endMs": 31860,
+      "spokenAnchor": "mà không tốn chút sức lực nào",
+      "spokenSubject": "Không tốn chút sức lực",
+      "visualSubject": "Hộp bung mở kèm nhãn mở dễ dàng",
+      "visualReason": "Khẳng định sự mượt mà",
+      "semanticIntent": "Nhấn mạnh sự dễ dàng trọn vẹn khi mở hộp",
+      "sceneFamily": "box-open-reveal",
+      "continuityRole": "literal-evidence",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c13-box-bloom",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "hộp bung mở lộ giấy lụa",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c14-easy-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "MỞ DỄ DÀNG",
+          "role": "ưu điểm mượt mà",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.85,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "startMs": 31860,
+      "endMs": 33360,
+      "spokenAnchor": "Cảm giác kiểm soát và âm thanh đã tai này",
+      "spokenSubject": "Cảm giác kiểm soát và thỏa mãn",
+      "visualSubject": "Đồ họa dopamine và xúc giác",
+      "visualReason": "Giải thích cơ chế tâm lý kích hoạt hormone vui vẻ",
+      "semanticIntent": "Chỉ ra cảm giác kiểm soát trọn vẹn của khách",
+      "sceneFamily": "tactile-framework",
+      "continuityRole": "context",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "c15-dopamine-art",
+          "kind": "asset",
+          "assetId": "A07",
+          "role": "đồ họa xúc giác dopamine",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.88,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "startMs": 33360,
+      "endMs": 34440,
+      "spokenAnchor": "kích hoạt hormone phần thưởng",
+      "spokenSubject": "Hormone phần thưởng",
+      "visualSubject": "Nhãn dopamine phần thưởng",
+      "visualReason": "Nhấn mạnh kích hoạt tâm lý",
+      "semanticIntent": "Nhấn mạnh phần thưởng tâm lý tức thì",
+      "sceneFamily": "tactile-framework",
+      "continuityRole": "context",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c15-dopamine-art",
+          "kind": "asset",
+          "assetId": "A07",
+          "role": "đồ họa dopamine",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c16-dopamine-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "THƯỞNG DOPAMINE",
+          "role": "cơ chế sinh học",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.85,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "startMs": 34440,
+      "endMs": 36840,
+      "spokenAnchor": "Trải nghiệm quá mượt mà khiến",
+      "spokenSubject": "Khách hàng quay video unboxing",
+      "visualSubject": "Khách dựng điện thoại quay video unboxing",
+      "visualReason": "Minh họa hành vi tự phát",
+      "semanticIntent": "Cho thấy khách hàng hào hứng bấm máy quay",
+      "sceneFamily": "ugc-recording",
+      "continuityRole": "human-action",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "c17-filming-ugc",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "khách quay video unboxing",
+          "motion": "slide",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.88,
+              "rotation": -1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "startMs": 36840,
+      "endMs": 38560,
+      "spokenAnchor": "rút điện thoại quay lại khoảnh khắc đó",
+      "spokenSubject": "Chia sẻ khoảnh khắc lên mạng",
+      "visualSubject": "Khách quay unboxing khoe story",
+      "visualReason": "Biến người mua thành người tạo nội dung",
+      "semanticIntent": "Nhấn mạnh người mua tự nguyện trở thành UGC creator",
+      "sceneFamily": "ugc-recording",
+      "continuityRole": "human-action",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c17-filming-ugc",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "khách quay video unboxing",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c18-share-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "TỰ NGUYỆN QUAY CLIP",
+          "role": "hành vi tự nhiên",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.85,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "startMs": 38560,
+      "endMs": 42060,
+      "spokenAnchor": "Trải nghiệm thương hiệu thực ra không bắt đầu",
+      "spokenSubject": "Bài học trải nghiệm thương hiệu",
+      "visualSubject": "Hộp kraft dải đỏ quay lại sân khấu",
+      "visualReason": "Gắn thông điệp đúc kết với chiếc hộp",
+      "semanticIntent": "Đưa thông điệp cốt lõi một cách nhẹ nhàng",
+      "sceneFamily": "lesson-board",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c19-lesson-box",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp motif bài học",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "c19-lesson-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "BẮT ĐẦU TỪ VỎ HỘP",
+          "role": "thông điệp cốt lõi",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "startMs": 42060,
+      "endMs": 43280,
+      "spokenAnchor": "từ giây đầu tiên tay họ chạm vào",
+      "spokenSubject": "Giây đầu tiên chạm vào vỏ hộp",
+      "visualSubject": "Hộp dải đỏ được chạm tay",
+      "visualReason": "Khắc sâu điểm chạm đầu tiên",
+      "semanticIntent": "Nhấn mạnh giây đầu tiên chạm vào vỏ hộp",
+      "sceneFamily": "lesson-board",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c19-lesson-box",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp motif bài học",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c20-touch-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "ĐIỂM CHẠM ĐẦU TIÊN",
+          "role": "khoảnh khắc quyết định",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.85,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "startMs": 43280,
+      "endMs": 44060,
+      "spokenAnchor": "chiếc vỏ hộp bên ngoài",
+      "spokenSubject": "Chiếc vỏ hộp bên ngoài",
+      "visualSubject": "Hộp quấn băng dính bị cảnh báo",
+      "visualReason": "Nhắc nhở đừng để băng keo làm hỏng cảm xúc",
+      "semanticIntent": "Lời nhắc nhở đừng coi nhẹ chiếc vỏ hộp bên ngoài",
+      "sceneFamily": "lesson-board",
+      "continuityRole": "literal-evidence",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c21-bad-box",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "hộp quấn băng dính",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c21-no-tape-tag",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "ĐỪNG COI NHẸ",
+          "role": "lời nhắc nhở",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.85,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "startMs": 44060,
+      "endMs": 47060,
+      "spokenAnchor": "Hôm nay, bạn hãy thử tự đặt",
+      "spokenSubject": "Tự đặt đơn và bấm giờ",
+      "visualSubject": "Đồng hồ bấm giờ đặt cạnh kiện hàng",
+      "visualReason": "Hành động thực nghiệm ngay",
+      "semanticIntent": "Đưa ra bài test thực tế cho chủ shop",
+      "sceneFamily": "audit-test",
+      "continuityRole": "application",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "c22-timer-audit",
+          "kind": "asset",
+          "assetId": "A08",
+          "role": "đồng hồ bấm giờ test mở hộp",
+          "motion": "slide",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 30,
+              "scale": 0.88,
+              "rotation": -1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "startMs": 47060,
+      "endMs": 49100,
+      "spokenAnchor": "xem mất bao nhiêu giây để mở",
+      "spokenSubject": "Số giây mở hộp",
+      "visualSubject": "Đồng hồ hiển thị 5 giây",
+      "visualReason": "Thước đo thời gian mở hộp",
+      "semanticIntent": "Nhấn mạnh tiêu chuẩn mở hộp nhanh chóng",
+      "sceneFamily": "audit-test",
+      "continuityRole": "application",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c22-timer-audit",
+          "kind": "asset",
+          "assetId": "A08",
+          "role": "đồng hồ bấm giờ",
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c23-speed-tag",
+          "kind": "code",
+          "codeTemplate": "metric",
+          "text": "DƯỚI 5 GIÂY",
+          "role": "tiêu chuẩn tốc độ",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 20,
+              "scale": 0.85,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 0.95,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "startMs": 49100,
+      "endMs": 49800,
+      "spokenAnchor": "Lưu video này để",
+      "spokenSubject": "CTA lưu video",
+      "visualSubject": "Chiếc hộp bên cạnh nút Lưu video",
+      "visualReason": "Kêu gọi hành động duy nhất",
+      "semanticIntent": "Kêu gọi lưu video để tối ưu khâu đóng gói",
+      "sceneFamily": "cta",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c24-box-cta",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp khép lại video",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 20,
+              "scale": 0.9,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 0.98,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "c24-save-btn",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "LƯU VIDEO",
+          "role": "nút CTA duy nhất",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.85,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "startMs": 49800,
+      "endMs": 51370,
+      "spokenAnchor": "kiểm tra lại khâu đóng gói của bạn",
+      "spokenSubject": "Khép lại thông điệp đóng gói",
+      "visualSubject": "Chiếc hộp và nút CTA",
+      "visualReason": "Khép lại toàn bộ thông điệp unboxing",
+      "semanticIntent": "Khép lại video với thông điệp trải nghiệm đóng gói",
+      "sceneFamily": "cta",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c24-box-cta",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp khép lại video",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 0,
+              "scale": 0.98,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 0,
+              "scale": 0.98,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c24-save-btn",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "LƯU VIDEO",
+          "role": "nút CTA duy nhất",
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 190,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "A01",
+      "src": "ep008/v01/generated/a01-unboxing-contrast-alpha-v01.png",
+      "alt": "Hai kiện hàng đối lập: một hộp dán băng dính nham nhở cạnh sọt rác và một hộp kraft tinh gọn được khách cầm",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Two parcel shipping boxes side by side on uniform chroma green #00FF00 with 12% margin: on left, a messy cardboard box with peeling yellow tape placed near a trash bin; on right, a neat clean aesthetic brown kraft cardboard shipping box with a bright red pull strip held gently by human hands, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A02",
+      "src": "ep008/v01/generated/a02-neat-box-red-strip-alpha-v01.png",
+      "alt": "Chiếc hộp carton kraft đóng gói tinh gọn với dải băng keo xé màu đỏ nổi bật",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "A single premium minimalist brown kraft cardboard shipping box with a prominent bright red tear strip zipper ribbon running horizontally across the front with a small pull tab on uniform chroma green #00FF00 with 12% margin, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A03",
+      "src": "ep008/v01/generated/a03-taped-box-cutter-knife-alpha-v01.png",
+      "alt": "Chiếc hộp quấn chằng chịt băng dính vàng và bàn tay cầm dao rọc giấy chật vật rạch",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Frustrating package opening scene on uniform chroma green #00FF00 with 12% margin: a cardboard parcel box messy wrapped in thick multi-layered yellow plastic packing tape, human hand holding a metal utility cutter knife struggling to slice through the tape, soft daylight, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A04",
+      "src": "ep008/v01/generated/a04-tear-strip-action-alpha-v01.png",
+      "alt": "Cận cảnh ngón tay kéo dải ruy băng xé màu đỏ mượt mà",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Close-up of human fingers pulling and peeling a vibrant red tear strip ribbon across a brown kraft cardboard box on uniform chroma green #00FF00 with 12% margin, smoothly zipping open with clean paper edges and paper teeth, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A05",
+      "src": "ep008/v01/generated/a05-box-blooming-open-alpha-v01.png",
+      "alt": "Chiếc hộp carton bung mở nắp gọn gàng để lộ lớp giấy lụa bọc hàng bên trong",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "A neat brown kraft shipping box beautifully blooming open with clean flaps folded back on uniform chroma green #00FF00 with 12% margin, revealing neatly wrapped white tissue paper and a clean gift seal inside, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A06",
+      "src": "ep008/v01/generated/a06-customer-filming-unboxing-alpha-v01.png",
+      "alt": "Khách hàng trẻ dựng điện thoại trên bàn quay video unboxing mở hộp",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "A happy young customer sitting at an aesthetic wooden table on uniform chroma green #00FF00 with 12% margin, filming a package unboxing video with a modern smartphone mounted on a mini desk tripod, smiling in excitement, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A07",
+      "src": "ep008/v01/generated/a07-tactile-dopamine-concept-alpha-v01.png",
+      "alt": "Đồ họa xúc giác thỏa mãn kết nối ngón tay chạm và cảm xúc vui vẻ",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Conceptual illustration of tactile delight and sensory pleasure on uniform chroma green #00FF00 with 12% margin: a clean fingertip touch creating subtle harmonic pink and pastel ripple waves connected to a glowing reward star badge, soft daylight, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A08",
+      "src": "ep008/v01/generated/a08-timer-box-audit-alpha-v01.png",
+      "alt": "Chiếc đồng hồ bấm giờ cơ học hiển thị 5 giây đặt cạnh kiện hàng",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "A classic stainless steel mechanical stopwatch displaying 00:05 seconds sitting next to a neat minimalist brown kraft parcel box on uniform chroma green #00FF00 with 12% margin, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A09",
+      "src": "ep008/v01/generated/a09-d2c-brand-logos-alpha-v01.png",
+      "alt": "Bộ đôi logo thương hiệu D2C Glossier và Coolmate trên nền huy hiệu giấy phong cách sticker",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Two aesthetic minimalist brand logo badges side by side on uniform chroma green #00FF00 with 12% margin: on left, the iconic chic Glossier lowercase typographic logo on a soft pastel pink paper badge; on right, the modern bold Coolmate typographic logo on a clean kraft paper badge, sharp clean outlines, photoreal paper sticker cutout, isolated cutout, no gradient, texture, vignette, shadow."
+    }
+  ],
+  "creativeContract": {
+    "title": "Dải băng keo xé đỏ: Chi tiết nhỏ khiến khách tự quay clip unboxing",
+    "seriesLabelFromProfile": true,
+    "audience": "Chủ shop online, D2C, nhà sáng lập thương hiệu thời trang/mỹ phẩm và người làm trải nghiệm khách hàng",
+    "painPoint": "Gửi hàng chỉn chu nhưng khách nhận xong bóc vội rồi vứt hộp, không có động lực chia sẻ hay quay clip mở hộp khoe lên mạng.",
+    "viewerQuestion": "Vì sao chỉ một dải ruy băng xé nhỏ lại khiến người mua hào hứng rút điện thoại quay video unboxing?",
+    "premise": "Biến hành vi ức chế (tìm dao rạch băng dính) thành một trải nghiệm xúc giác thỏa mãn để kích hoạt động lực chia sẻ tự nhiên.",
+    "lesson": "Trải nghiệm thương hiệu thực ra không bắt đầu lúc khách dùng sản phẩm, mà bắt đầu từ giây đầu tiên tay họ chạm vào chiếc vỏ hộp bên ngoài.",
+    "payoff": "Loại bỏ lực cản khi mở hộp và bổ sung chi tiết xúc giác tạo niềm vui ngay giây đầu tiên.",
+    "caseType": "verified",
+    "caseDisclosure": "Quan sát thực tế từ các thương hiệu D2C hàng đầu như Glossier, Coolmate và nghiên cứu tâm lý Unboxing Experience của Dotcom Distribution.",
+    "tone": [
+      "tự nhiên",
+      "gần gũi",
+      "đời thường",
+      "thực tiễn",
+      "dễ hiểu",
+      "dễ áp dụng ngay"
+    ],
+    "cta": "save",
+    "narrativeObject": "Chiếc hộp carton đóng gói tinh gọn với dải băng xé đỏ (tear strip) là motif xuyên suốt; nó rời khung khi voice chuyển sang cảnh dùng dao rạch, case study thương hiệu hoặc màn hình điện thoại.",
+    "visualStrategy": {
+      "version": "subject-led-v1",
+      "recurringMotif": "Chiếc hộp carton kraft có dải băng xé đỏ",
+      "motifRule": "Giữ chiếc hộp khi voice nói về kiện hàng, dải băng xé hoặc trải nghiệm mở hộp; để hộp rời khung khi voice nói về cảnh dao kéo ức chế, quay video điện thoại hoặc đồ họa tâm lý.",
+      "sceneFamilies": [
+        "hook-contrast",
+        "tear-strip-detail",
+        "brand-case",
+        "frustration-knife",
+        "tactile-satisfaction",
+        "box-open-reveal",
+        "ugc-recording",
+        "tactile-framework",
+        "lesson-board",
+        "audit-test",
+        "cta"
+      ],
+      "humanMoments": [
+        "Hai bàn tay cầm điện thoại quay unboxing",
+        "Ngón tay giật dải băng đỏ phát tiếng xoẹt",
+        "Bàn tay cầm dao rọc giấy chật vật rạch băng keo",
+        "Chủ shop bấm đồng hồ bấm giờ kiểm tra kiện hàng"
+      ],
+      "motifTargetCueShare": 0.42,
+      "maxConsecutiveMotifOnlyCues": 2
+    },
+    "openingFrame": {
+      "visualTension": "Một bên là chiếc hộp dán chằng chịt bị vứt sọt rác, một bên là chiếc hộp có dải băng đỏ được khách dựng máy quay clip.",
+      "heroSubject": "Hai số phận đối lập của 2 kiện hàng giao tới cửa.",
+      "contrast": "Cùng nhận một đơn hàng, nhưng 1 hộp bị vứt bỏ, 1 hộp biến thành nội dung viral trên mạng.",
+      "firstFrameCopy": "CÙNG MỘT KIỆN HÀNG · 2 SỐ PHẬN"
+    },
+    "storyArc": {
+      "familiarHook": {
+        "startMs": 0,
+        "endMs": 3000,
+        "purpose": "Mở đầu bằng nghịch lý 2 số phận của chiếc hộp giao hàng",
+        "voiceAnchor": "Cùng là nhận một kiện hàng",
+        "visualProgression": "Thumbnail mở đầu 1s; hai kiện hàng đối lập xuất hiện; hộp xấu rơi về phía rác, hộp có dải đỏ được khách chuẩn bị quay clip."
+      },
+      "curiosityBuild": {
+        "startMs": 3000,
+        "endMs": 11500,
+        "purpose": "Chỉ ra bí mật dải băng xé đỏ và dẫn chứng từ logo thương hiệu D2C Glossier & Coolmate",
+        "voiceAnchor": "Sự khác biệt đôi khi",
+        "visualProgression": "Cận cảnh dải băng xé đỏ nổi bật chạy ngang chiếc hộp kraft tinh gọn và bộ đôi logo thương hiệu D2C Glossier & Coolmate."
+      },
+      "perspectiveFlip": {
+        "startMs": 11500,
+        "endMs": 19000,
+        "purpose": "Tái hiện trải nghiệm ức chế khi phải dùng dao kéo rạch băng dính",
+        "voiceAnchor": "Họ không bao giờ quấn",
+        "visualProgression": "Cảnh tượng quen thuộc: chiếc hộp dán 5 lớp băng dính vàng và con dao rạch giấy dễ gây trầy xước."
+      },
+      "marketingDecode": {
+        "startMs": 19000,
+        "endMs": 32000,
+        "purpose": "Giải mã khái niệm thiết kế xúc giác không lực cản",
+        "voiceAnchor": "Khi thay bằng một dải",
+        "visualProgression": "Cận cảnh ngón tay kéo dải đỏ mượt mà; tiếng xoẹt giòn tan; hộp bung mở gọn gàng kèm nhãn khái niệm."
+      },
+      "proof": {
+        "startMs": 32000,
+        "endMs": 42000,
+        "purpose": "Chứng minh cảm giác thỏa mãn kích thích hành vi quay clip khoe mạng",
+        "voiceAnchor": "Cảm giác kiểm soát và",
+        "visualProgression": "Khách hàng vui vẻ quay video đăng story; đồ họa dopamine phần thưởng xúc giác."
+      },
+      "lesson": {
+        "startMs": 42000,
+        "endMs": 49000,
+        "purpose": "Đúc kết thông điệp trải nghiệm thương hiệu bắt đầu từ vỏ hộp bằng giọng văn tự nhiên",
+        "voiceAnchor": "Trải nghiệm thương hiệu thực",
+        "visualProgression": "Chiếc hộp có dải đỏ quay lại sân khấu cạnh lời đúc kết nhẹ nhàng."
+      },
+      "application": {
+        "startMs": 49000,
+        "endMs": 55000,
+        "purpose": "Kêu gọi tự test đơn hàng và bấm giờ mở hộp",
+        "voiceAnchor": "Hôm nay, bạn hãy thử",
+        "visualProgression": "Đồng hồ bấm giờ đặt cạnh kiện hàng; nút Lưu video khép lại."
+      }
+    }
+  },
+  "topicKeywords": [
+    "trải nghiệm mở hộp",
+    "unboxing experience",
+    "bao bì thương hiệu",
+    "tactile branding",
+    "giữ chân khách hàng",
+    "ugc marketing",
+    "case study d2c"
+  ],
+  "editBlueprint": {
+    "visualGrammar": "subject-led-v1",
+    "motionGrammar": "continuous-stage-v1",
+    "targetFps": 30,
+    "canvas": {
+      "width": 1080,
+      "height": 1920
+    },
+    "safeZoneTop": 175,
+    "safeZoneBottom": 1760,
+    "mascotPlacement": {
+      "anchor": "below-captions",
+      "topPx": 1240,
+      "frameDurationSec": 0.35,
+      "emotions": [
+        "thinking",
+        "scare",
+        "find",
+        "thinking",
+        "serious",
+        "idea",
+        "working cool",
+        "idea",
+        "clap hand"
+      ]
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "episode": "ep005",
+  "version": "v01",
+  "sourceBrief": "briefs/ep005-phe-la-ban-tra-dac-san-camping-v01.md",
+  "status": "script-approved",
+  "identityLock": "Photoreal Vietnamese sticker source, matte and soft upper-left daylight, with a restrained hot-pink accent on the element and clean ink-black details. One complete crop-safe subject on uniform chroma green #00FF00 with 12% empty margin. In Remotion, its alpha silhouette—not a rectangle—gets a soft pastel-pink watercolor paper backing, irregular ripped-white contour, very soft paper shadow and hot-pink offset. No background, card, text, logo, watermark, neon or glossy 3D.",
+  "sourceTreatment": {
+    "default": "uniform chroma green #00FF00",
+    "greenSubjectException": "Use uniform chroma magenta #FF00CC for green tea leaves; key this exception with the approved matte path, never force green-on-green."
+  },
+  "jobs": [
+    {
+      "id": "s01",
+      "kind": "individual-detail",
+      "assetIds": ["S01"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s01-generic-milktea-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s01",
+      "prompt": "One generic clear plastic cup of standard milk tea with straw and black boba tapioca pearls, complete silhouette, on uniform chroma green #00FF00 background. No background, card, text, logo, watermark or hands."
+    },
+    {
+      "id": "s02",
+      "kind": "individual-detail",
+      "assetIds": ["S02"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s02-bogo-sale-tag-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s02",
+      "prompt": "One bright red retail promotion sale tag badge with bold white text '1 TẶNG 1', clean crop-safe silhouette, on uniform chroma green #00FF00 background. No background, card, watermark or extra objects."
+    },
+    {
+      "id": "s03",
+      "kind": "individual-detail",
+      "assetIds": ["S03"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s03-phela-specialty-tea-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s03",
+      "prompt": "One premium artisanal iced Oolong milk tea in a signature textured paper cup with brown Kraft cardboard sleeve holder, cream foam layer on top, complete silhouette, on uniform chroma green #00FF00 background. No background, card, text, logo, watermark or hands."
+    },
+    {
+      "id": "s04",
+      "kind": "individual-detail",
+      "assetIds": ["S04"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s04-camping-chair-setup-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s04",
+      "prompt": "One stylish army-green canvas folding camping chair next to a small wooden folding camp table with an iced drink, complete outdoor street camping setup silhouette, on uniform chroma green #00FF00 background. No background, people, text or watermark."
+    },
+    {
+      "id": "s08",
+      "kind": "individual-detail",
+      "assetIds": ["S08"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s08-pioneer-flag-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s08",
+      "prompt": "One stylish triangular pennant pioneer flag in cream and hot-pink planted on a clean pedestal representing category creator, complete silhouette, on uniform chroma green #00FF00 background. No background, card, text or watermark."
+    },
+    {
+      "id": "s09",
+      "kind": "individual-detail",
+      "assetIds": ["S09"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#FF00CC",
+      "output": "public/ep005/v01/generated/s09-oolong-tea-leaves-magenta-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s09",
+      "prompt": "A cluster of three pristine fresh green Oolong tea leaves with fresh morning dewdrops, vibrant natural green color, on perfectly uniform chroma magenta #FF00CC background because the leaves are green. No background, card, text or watermark."
+    },
+    {
+      "id": "s10",
+      "kind": "individual-detail",
+      "assetIds": ["S10"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s10-espresso-portafilter-tea-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s10",
+      "prompt": "One professional stainless steel espresso machine portafilter dispensing a freshly extracted stream of concentrated golden amber Oolong tea, clean product silhouette, on uniform chroma green #00FF00 background. No background, card, text, watermark or people."
+    },
+    {
+      "id": "s12",
+      "kind": "individual-detail",
+      "assetIds": ["S12"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s12-glass-office-cube-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s12",
+      "prompt": "One miniature isometric glass cube building with tinted blue windows representing a closed air-conditioned office room, clean silhouette, on uniform chroma green #00FF00 background. No background, card, text or watermark."
+    },
+    {
+      "id": "s13",
+      "kind": "individual-detail",
+      "assetIds": ["S13"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s13-camping-lantern-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s13",
+      "prompt": "One vintage outdoor metal camping lantern with glowing warm incandescent filament light, rustic aesthetic, complete silhouette, on uniform chroma green #00FF00 background. No background, card, text or watermark."
+    },
+    {
+      "id": "s14",
+      "kind": "individual-detail",
+      "assetIds": ["S14"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s14-story-phone-mockup-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s14",
+      "prompt": "One sleek modern smartphone held vertically showing a clean social media story check-in frame with small pink heart reaction bubbles, complete silhouette, on uniform chroma green #00FF00 background. No background, card or watermark."
+    },
+    {
+      "id": "s15",
+      "kind": "individual-detail",
+      "assetIds": ["S15"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s15-messy-menu-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s15",
+      "prompt": "One oversized paper cafe menu with 50 cluttered line items crossed out with a large red X mark, clean silhouette, on uniform chroma green #00FF00 background. No background, card, watermark or extra food."
+    },
+    {
+      "id": "s17",
+      "kind": "individual-detail",
+      "assetIds": ["S17"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/s17-speed-stopwatch-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-s17",
+      "prompt": "One classic metal mechanical stopwatch timer showing rapid 45-second position with bright pink pointer hand, complete silhouette, on uniform chroma green #00FF00 background. No background, card or watermark."
+    },
+    {
+      "id": "b01",
+      "kind": "three-object-sheet",
+      "assetIds": ["S05", "S06", "S07"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/b01-phone-lightbulb-prohibition-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-b01",
+      "prompt": "Exactly three simple isolated objects in three vertical zones with at least 18% clean green gutter between zones on uniform chroma green #00FF00: top, one smartphone with a small question mark; middle, one warm lightbulb with a pale-pink shield; bottom, one red prohibition circle crossing a generic price tag. No paper backing, card, text, person, overlap or connected shadow."
+    },
+    {
+      "id": "b02",
+      "kind": "three-object-sheet",
+      "assetIds": ["S18", "S19", "S20"],
+      "aspectRatio": "3:4",
+      "sourceBackground": "#00FF00",
+      "output": "public/ep005/v01/generated/b02-shield-gemstone-camera-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep005-v01-b02",
+      "prompt": "Exactly three simple isolated objects in three vertical zones with at least 18% clean green gutter between zones on uniform chroma green #00FF00: top, one pale-pink protection shield with crossed-out percent sign; middle, one faceted warm-gold and soft-pink gemstone; bottom, one camera aperture icon surrounded by pink confetti sparks and gold stars. No paper backing, card, text, person, overlap or connected shadow."
+    }
+  ]
+}

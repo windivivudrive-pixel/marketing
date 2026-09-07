@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 2,
+  "metadata": {
+    "episodeId": "ep006",
+    "slug": "vi-sao-giu-tui-vut-coc",
+    "version": 3,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260817-ep006-giu-tui-vut-coc-one-idea-v01.json#brand-story-009-kept-bag",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 58,
+    "researchRequired": false
+  },
+  "creativeContract": {
+    "title": "Vì sao người ta vứt chiếc cốc nhưng lại giữ chiếc túi?",
+    "seriesLabelFromProfile": true,
+    "audience": "Chủ doanh nghiệp nhỏ, đội marketing nội bộ và người đang xây thương hiệu",
+    "painPoint": "Khách mua xong là thương hiệu biến mất khỏi đời sống của họ.",
+    "viewerQuestion": "Cùng là bao bì đã dùng xong, vì sao chiếc cốc bị vứt còn chiếc túi được giữ lại?",
+    "premise": "Một điểm chạm được giữ lại vì nó còn hữu ích, đủ đẹp hoặc gắn với kỷ niệm; logo lớn một mình không tạo ra lý do giữ.",
+    "lesson": "Đừng chỉ thiết kế khoảnh khắc mua; hãy thiết kế một thứ có lý do sống tiếp sau lần mua.",
+    "payoff": "Đặt các điểm chạm sau bán cạnh nhau và chọn đúng một thứ khách còn muốn giữ vào ngày mai.",
+    "caseType": "illustrative",
+    "caseDisclosure": "Tình huống chiếc túi được dùng để mang quà là ví dụ minh họa, không phải case có số liệu doanh thu.",
+    "tone": ["gần gũi", "quan sát đời thường", "đơn giản", "thực tế", "không lên lớp"],
+    "cta": "save",
+    "narrativeObject": "Chiếc túi giấy không thương hiệu là motif quay lại ở nghịch lý mở đầu, lần sử dụng thứ hai, bài học và CTA; nó rời khung khi voice chuyển sang người nhận, phản ứng, bao bì vô dụng và thao tác audit.",
+    "visualStrategy": {
+      "version": "subject-led-v1",
+      "recurringMotif": "Chiếc túi giấy trơn",
+      "motifRule": "Chỉ giữ túi khi voice đang nói về việc được giữ, tái sử dụng hoặc sống tiếp; để túi rời hoàn toàn khi voice nói về người nhận, logo, tiêu chí giá trị, rác thải hoặc bài test.",
+      "sceneFamilies": [
+        "hook-action-contrast",
+        "retail-context",
+        "object-state-change",
+        "gift-packing",
+        "human-delivery",
+        "human-reaction",
+        "brand-echo",
+        "proof-criteria",
+        "waste-proof",
+        "owner-audit",
+        "phone-application",
+        "cta"
+      ],
+      "humanMoments": [
+        "Bàn tay vứt cốc nhưng kéo túi trở lại",
+        "Người trẻ mang quà tới cửa",
+        "Người nhận nhìn và hỏi mua ở đâu",
+        "Chủ shop trải các điểm chạm lên bàn",
+        "Bàn tay dùng điện thoại chụp và khoanh lựa chọn"
+      ],
+      "motifTargetCueShare": 0.43,
+      "maxConsecutiveMotifOnlyCues": 2
+    },
+    "openingFrame": {
+      "visualTension": "Một cốc rỗng đang rơi vào thùng rác trong khi bàn tay còn lại kéo chiếc túi giấy về phía mình.",
+      "heroSubject": "Hai hành động đối lập vứt cốc và giữ túi, crop gần ở bàn tay.",
+      "contrast": "Hai món đều đã dùng xong nhưng nhận hai kết cục khác nhau.",
+      "firstFrameCopy": "CỐC BỊ VỨT · TÚI ĐƯỢC GIỮ"
+    },
+    "storyArc": {
+      "familiarHook": {
+        "startMs": 0,
+        "endMs": 3000,
+        "purpose": "Cho người xem thấy nghịch lý đời thường ngay lập tức",
+        "voiceAnchor": "Cốc bị vứt",
+        "visualProgression": "Cốc rơi xuống; túi bị kéo ngược lại; camera dừng ở động tác gấp túi."
+      },
+      "curiosityBuild": {
+        "startMs": 3000,
+        "endMs": 10000,
+        "purpose": "Loại bỏ câu trả lời hời hợt và tạo câu hỏi về công việc tiếp theo của món đồ",
+        "voiceAnchor": "Cùng mua ở một quán đấy",
+        "visualProgression": "Khách cầm cả cốc lẫn túi; cốc dừng ở quầy, túi được gấp và cất vào ngăn kéo."
+      },
+      "perspectiveFlip": {
+        "startMs": 10000,
+        "endMs": 18000,
+        "purpose": "Lật từ vẻ đẹp sang khả năng tiếp tục được dùng",
+        "voiceAnchor": "Hôm nay đựng đồ uống",
+        "visualProgression": "Túi gấp match-cut thành túi mở; bàn tay đặt món quà vào trong; người mang quà bước vào."
+      },
+      "marketingDecode": {
+        "startMs": 18000,
+        "endMs": 31000,
+        "purpose": "Cho thấy lần xuất hiện thứ hai rồi mới gọi tên cơ chế marketing",
+        "voiceAnchor": "họ nhìn chiếc túi",
+        "visualProgression": "Người nhận nhìn và hỏi; camera rời túi sang phản ứng, sau đó dựng một đường thời gian giao dịch–lần dùng hai."
+      },
+      "proof": {
+        "startMs": 31000,
+        "endMs": 42000,
+        "purpose": "Chứng minh logo lớn không đủ và nêu ba lý do thực sự khiến món đồ được giữ",
+        "voiceAnchor": "Nhưng in logo thật lớn",
+        "visualProgression": "Logo giả định phóng lớn rồi bị gạch; chuyển lần lượt sang công dụng, vẻ đẹp và kỷ niệm; kết bằng bao bì vô dụng bị vò."
+      },
+      "lesson": {
+        "startMs": 42000,
+        "endMs": 47000,
+        "purpose": "Chốt đúng một bài học dễ nhớ",
+        "voiceAnchor": "Bài học là",
+        "visualProgression": "Túi quay lại cạnh một đường thời gian sau mua; text ngắn sống tiếp xuất hiện trực tiếp trên sân khấu."
+      },
+      "application": {
+        "startMs": 47000,
+        "endMs": 58000,
+        "purpose": "Cho một bài test có thể làm ngay và một CTA",
+        "voiceAnchor": "Thử đặt túi",
+        "visualProgression": "Chủ shop trải các điểm chạm; điện thoại chụp; vòng tròn chọn đúng một món; chiếc túi quay lại cạnh nút lưu."
+      }
+    }
+  },
+  "topicKeywords": [
+    "điểm chạm sau bán",
+    "bao bì tái sử dụng",
+    "ghi nhớ thương hiệu",
+    "trải nghiệm khách hàng",
+    "thiết kế bao bì",
+    "truyền miệng"
+  ],
+  "voiceover": {
+    "displayText": "Cốc bị vứt. Sao chiếc túi lại được gấp mang về? Cùng mua ở một quán đấy. Không hẳn vì chiếc túi đẹp hơn, mà vì nó vẫn còn một việc để làm. Hôm nay đựng đồ uống. Ngày mai, nó đựng món quà cho một người bạn. Khi người bạn ấy nhận quà, họ nhìn chiếc túi rồi hỏi: Mua ở đâu vậy? Thế là thương hiệu xuất hiện thêm một lần, dù cửa hàng không chạy thêm quảng cáo. Trong marketing, đó là một điểm chạm sống lâu hơn giao dịch. Nhưng in logo thật lớn chưa chắc khiến khách giữ lại. Món đồ ấy phải hữu ích, đủ đẹp, hoặc gắn với một kỷ niệm. Còn bao bì vô dụng, dù đắt đến đâu, vẫn đi thẳng vào thùng rác. Bài học là: đừng chỉ thiết kế khoảnh khắc khách mua. Hãy thiết kế một thứ có lý do để sống tiếp sau lần mua. Thử đặt túi, hộp, thiệp, hóa đơn và tin nhắn sau bán cạnh nhau. Hỏi một câu: ngày mai, khách còn muốn giữ thứ nào? Nếu chưa có câu trả lời, hãy bắt đầu từ đúng một món. Lưu video này để kiểm tra lại trải nghiệm sau bán của bạn.",
+    "voiceText": "Cốc bị vứt. Sao chiếc túi lại được gấp mang về? Cùng mua ở một quán đấy. Không hẳn vì chiếc túi đẹp hơn, mà vì nó vẫn còn một việc để làm. Hôm nay đựng đồ uống. Ngày mai, nó đựng món quà cho một người bạn. Khi người bạn ấy nhận quà, họ nhìn chiếc túi rồi hỏi: Mua ở đâu vậy? Thế là thương hiệu xuất hiện thêm một lần, dù cửa hàng không chạy thêm quảng cáo. Trong marketing, đó là một điểm chạm sống lâu hơn giao dịch. Nhưng in logo thật lớn chưa chắc khiến khách giữ lại. Món đồ ấy phải hữu ích, đủ đẹp, hoặc gắn với một kỷ niệm. Còn bao bì vô dụng, dù đắt đến đâu, vẫn đi thẳng vào thùng rác. Bài học là: đừng chỉ thiết kế khoảnh khắc khách mua. Hãy thiết kế một thứ có lý do để sống tiếp sau lần mua. Thử đặt túi, hộp, thiệp, hóa đơn và tin nhắn sau bán cạnh nhau. Hỏi một câu: ngày mai, khách còn muốn giữ thứ nào? Nếu chưa có câu trả lời, hãy bắt đầu từ đúng một món. Lưu video này để kiểm tra lại trải nghiệm sau bán của bạn.",
+    "sections": {
+      "hook": {
+        "displayText": "Cốc bị vứt. Sao chiếc túi lại được gấp mang về?",
+        "voiceText": "Cốc bị vứt. Sao chiếc túi lại được gấp mang về?",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 3000
+      },
+      "body": {
+        "displayText": "Cùng mua ở một quán đấy. Không hẳn vì chiếc túi đẹp hơn, mà vì nó vẫn còn một việc để làm. Hôm nay đựng đồ uống. Ngày mai, nó đựng món quà cho một người bạn. Khi người bạn ấy nhận quà, họ nhìn chiếc túi rồi hỏi: Mua ở đâu vậy? Thế là thương hiệu xuất hiện thêm một lần, dù cửa hàng không chạy thêm quảng cáo. Trong marketing, đó là một điểm chạm sống lâu hơn giao dịch. Nhưng in logo thật lớn chưa chắc khiến khách giữ lại. Món đồ ấy phải hữu ích, đủ đẹp, hoặc gắn với một kỷ niệm. Còn bao bì vô dụng, dù đắt đến đâu, vẫn đi thẳng vào thùng rác. Bài học là: đừng chỉ thiết kế khoảnh khắc khách mua. Hãy thiết kế một thứ có lý do để sống tiếp sau lần mua. Thử đặt túi, hộp, thiệp, hóa đơn và tin nhắn sau bán cạnh nhau. Hỏi một câu: ngày mai, khách còn muốn giữ thứ nào? Nếu chưa có câu trả lời, hãy bắt đầu từ đúng một món.",
+        "voiceText": "Cùng mua ở một quán đấy. Không hẳn vì chiếc túi đẹp hơn, mà vì nó vẫn còn một việc để làm. Hôm nay đựng đồ uống. Ngày mai, nó đựng món quà cho một người bạn. Khi người bạn ấy nhận quà, họ nhìn chiếc túi rồi hỏi: Mua ở đâu vậy? Thế là thương hiệu xuất hiện thêm một lần, dù cửa hàng không chạy thêm quảng cáo. Trong marketing, đó là một điểm chạm sống lâu hơn giao dịch. Nhưng in logo thật lớn chưa chắc khiến khách giữ lại. Món đồ ấy phải hữu ích, đủ đẹp, hoặc gắn với một kỷ niệm. Còn bao bì vô dụng, dù đắt đến đâu, vẫn đi thẳng vào thùng rác. Bài học là: đừng chỉ thiết kế khoảnh khắc khách mua. Hãy thiết kế một thứ có lý do để sống tiếp sau lần mua. Thử đặt túi, hộp, thiệp, hóa đơn và tin nhắn sau bán cạnh nhau. Hỏi một câu: ngày mai, khách còn muốn giữ thứ nào? Nếu chưa có câu trả lời, hãy bắt đầu từ đúng một món.",
+        "estimatedStartMs": 3000,
+        "estimatedEndMs": 53500,
+        "story": "Một chiếc túi được giữ lại, dùng để mang quà và tạo ra lần xuất hiện thứ hai cho thương hiệu; đối chiếu với bao bì vô dụng bị bỏ đi.",
+        "lesson": "Đừng chỉ thiết kế khoảnh khắc mua; hãy thiết kế một thứ có lý do sống tiếp sau lần mua.",
+        "actions": [
+          "Đặt các điểm chạm sau bán cạnh nhau và chọn đúng một thứ khách còn muốn giữ vào ngày mai"
+        ]
+      },
+      "close": {
+        "displayText": "Lưu video này để kiểm tra lại trải nghiệm sau bán của bạn.",
+        "voiceText": "Lưu video này để kiểm tra lại trải nghiệm sau bán của bạn.",
+        "estimatedStartMs": 53500,
+        "estimatedEndMs": 58000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": []
+  },
+  "onScreenCopy": [
+    {"id": "T01", "startMs": 0, "endMs": 3000, "text": "CỐC BỊ VỨT · TÚI ĐƯỢC GIỮ"},
+    {"id": "T02", "startMs": 7600, "endMs": 10000, "text": "VẪN CÒN MỘT VIỆC ĐỂ LÀM"},
+    {"id": "T03", "startMs": 20300, "endMs": 22200, "text": "MUA Ở ĐÂU VẬY?"},
+    {"id": "T04", "startMs": 27000, "endMs": 31500, "text": "ĐIỂM CHẠM SỐNG LÂU HƠN GIAO DỊCH"},
+    {"id": "T05", "startMs": 33800, "endMs": 40000, "text": "HỮU ÍCH · ĐỦ ĐẸP · CÓ KỶ NIỆM"},
+    {"id": "T06", "startMs": 42300, "endMs": 47000, "text": "THIẾT KẾ THỨ CÓ LÝ DO SỐNG TIẾP"},
+    {"id": "T07", "startMs": 49400, "endMs": 53500, "text": "NGÀY MAI, KHÁCH CÒN GIỮ GÌ?"}
+  ],
+  "beats": [
+    {"id": "B01", "startMs": 0, "endMs": 3000, "purpose": "familiarHook"},
+    {"id": "B02", "startMs": 3000, "endMs": 10000, "purpose": "curiosityBuild"},
+    {"id": "B03", "startMs": 10000, "endMs": 18000, "purpose": "perspectiveFlip"},
+    {"id": "B04", "startMs": 18000, "endMs": 31000, "purpose": "marketingDecode"},
+    {"id": "B05", "startMs": 31000, "endMs": 42000, "purpose": "proof"},
+    {"id": "B06", "startMs": 42000, "endMs": 47000, "purpose": "lesson"},
+    {"id": "B07", "startMs": 47000, "endMs": 58000, "purpose": "application"}
+  ],
+  "visualCues": [
+    {
+      "id": "C01", "startMs": 0, "endMs": 900, "spokenAnchor": "Cốc bị vứt", "semanticIntent": "Cho thấy kết cục của chiếc cốc ngay khi voice nói vứt", "spokenSubject": "chiếc cốc bị vứt", "visualSubject": "bàn tay thả cốc rỗng xuống thùng rác", "visualReason": "Hành động vứt là bằng chứng literal của câu mở đầu", "sceneFamily": "hook-action-contrast", "continuityRole": "human-action", "composition": "solo", "exit": "replace", "camera": {"mode": "push-in", "intensity": "medium"}, "transition": "cut",
+      "items": [{"id": "discard-cup", "kind": "asset", "assetId": "A01", "role": "hành động vứt cốc", "enterMs": 0, "motion": "track", "sfx": "whoosh", "semanticRole": "subject", "transform": {"from": {"x": 0, "y": -120, "scale": 0.92, "rotation": -5, "opacity": 1}, "to": {"x": 0, "y": 100, "scale": 1.06, "rotation": 7, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C02", "startMs": 900, "endMs": 1800, "spokenAnchor": "Sao chiếc túi", "semanticIntent": "Đảo hướng chú ý từ cốc sang chiếc túi được giữ", "spokenSubject": "chiếc túi được giữ lại", "visualSubject": "hai bàn tay kéo túi giấy về phía người dùng", "visualReason": "Động tác kéo ngược tạo nghịch lý nhìn thấy ngay", "sceneFamily": "hook-action-contrast", "continuityRole": "motif-anchor", "composition": "code", "exit": "carry", "camera": {"mode": "pan", "intensity": "medium"}, "transition": "match-move",
+      "items": [{"id": "bag-hook", "kind": "asset", "assetId": "A02", "role": "motif chiếc túi được giữ", "enterMs": 900, "motion": "slide", "sfx": "sticker-popup", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": 180, "y": 40, "scale": 0.82, "rotation": 5, "opacity": 0}, "to": {"x": 0, "y": 0, "scale": 1.08, "rotation": 0, "opacity": 1}, "easing": "spring"}}, {"id": "keep-label", "kind": "code", "codeTemplate": "label", "text": "GIỮ LẠI?", "role": "câu hỏi mở", "enterMs": 900, "motion": "reveal", "semanticRole": "accent", "transform": {"from": {"x": 230, "y": -40, "scale": 0.78, "rotation": 2, "opacity": 0}, "to": {"x": 190, "y": -20, "scale": 1, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C03", "startMs": 1800, "endMs": 3000, "spokenAnchor": "được gấp mang về", "semanticIntent": "Khóa nghịch lý bằng động tác gấp túi", "spokenSubject": "động tác gấp và mang túi về", "visualSubject": "bàn tay gấp chiếc túi giấy thành hình phẳng", "visualReason": "Khán giả thấy chiếc túi được chuẩn bị cho lần dùng sau", "sceneFamily": "object-state-change", "continuityRole": "motif-anchor", "composition": "solo", "exit": "replace", "camera": {"mode": "follow", "intensity": "subtle"}, "transition": "reframe",
+      "items": [{"id": "bag-hook", "kind": "asset", "assetId": "A02", "role": "motif được gấp lại", "enterMs": 900, "motion": "none", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": 0, "y": 0, "scale": 1.08, "rotation": 0, "opacity": 1}, "to": {"x": -80, "y": 40, "scale": 0.88, "rotation": -4, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C04", "startMs": 3000, "endMs": 5200, "spokenAnchor": "Cùng mua ở một quán đấy", "semanticIntent": "Đặt cốc và túi vào cùng một lần mua", "spokenSubject": "hai món từ cùng một giao dịch", "visualSubject": "khách Việt cầm cốc và túi cạnh nhau", "visualReason": "Cùng một người cầm cả hai loại bỏ khác biệt về nơi mua", "sceneFamily": "retail-context", "continuityRole": "context", "composition": "compare", "exit": "replace", "camera": {"mode": "pull-out", "intensity": "subtle"}, "transition": "reframe",
+      "items": [{"id": "customer-both", "kind": "asset", "assetId": "A03", "role": "khách cầm cả cốc và túi", "enterMs": 3000, "motion": "reveal", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": -40, "y": 30, "scale": 0.8, "rotation": 0, "opacity": 0}, "to": {"x": -120, "y": 0, "scale": 1, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}, {"id": "same-purchase-cup", "kind": "asset", "assetId": "A01", "role": "chiếc cốc cùng lần mua", "enterMs": 3000, "motion": "reveal", "semanticRole": "evidence", "transform": {"from": {"x": 220, "y": 50, "scale": 0.72, "rotation": 4, "opacity": 0}, "to": {"x": 180, "y": 0, "scale": 0.88, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C05", "startMs": 5200, "endMs": 7600, "spokenAnchor": "Không hẳn vì chiếc túi đẹp hơn", "semanticIntent": "Phủ định câu trả lời chỉ dựa vào vẻ ngoài", "spokenSubject": "giả định chiếc túi được giữ vì đẹp", "visualSubject": "bàn tay xoay chiếc túi rồi dấu hỏi xuất hiện", "visualReason": "Túi được kiểm tra như một giả thuyết, chưa được coi là lời giải", "sceneFamily": "object-inspection", "continuityRole": "motif-anchor", "composition": "code", "exit": "transform", "camera": {"mode": "push-in", "intensity": "subtle"}, "transition": "zoom-through",
+      "items": [{"id": "bag-inspect", "kind": "asset", "assetId": "A02", "role": "chiếc túi đang được xem xét", "enterMs": 5200, "motion": "arc", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": -60, "y": 20, "scale": 0.9, "rotation": -5, "opacity": 1}, "to": {"x": -130, "y": 0, "scale": 1.02, "rotation": 2, "opacity": 1}, "easing": "ease-out"}}, {"id": "beauty-question", "kind": "code", "codeTemplate": "label", "text": "CHỈ VÌ ĐẸP?", "role": "giả thuyết bị nghi ngờ", "enterMs": 5200, "motion": "reveal", "semanticRole": "accent", "transform": {"from": {"x": 210, "y": 40, "scale": 0.8, "rotation": 2, "opacity": 0}, "to": {"x": 170, "y": 0, "scale": 1, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C06", "startMs": 7600, "endMs": 10000, "spokenAnchor": "vẫn còn một việc để làm", "semanticIntent": "Hé lộ cơ chế chiếc túi còn công việc tiếp theo", "spokenSubject": "công việc tiếp theo của chiếc túi", "visualSubject": "túi gấp nằm trong ngăn kéo cạnh khoảng trống chờ lần dùng sau", "visualReason": "Ngăn kéo cho thấy món đồ chưa kết thúc vòng đời", "sceneFamily": "object-state-change", "continuityRole": "motif-anchor", "composition": "code", "exit": "replace", "camera": {"mode": "pull-out", "intensity": "subtle"}, "transition": "mask-reveal",
+      "items": [{"id": "bag-drawer", "kind": "asset", "assetId": "A04", "role": "túi chờ công việc mới", "enterMs": 7600, "motion": "reveal", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": -20, "y": 100, "scale": 0.82, "rotation": 0, "opacity": 0}, "to": {"x": -130, "y": 20, "scale": 1, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}, {"id": "next-job", "kind": "code", "codeTemplate": "label", "text": "VIỆC TIẾP THEO", "role": "cơ chế ẩn", "enterMs": 7600, "motion": "stamp", "semanticRole": "accent", "transform": {"from": {"x": 200, "y": 50, "scale": 0.76, "rotation": 3, "opacity": 0}, "to": {"x": 160, "y": 0, "scale": 1, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C07", "startMs": 10000, "endMs": 12200, "spokenAnchor": "Hôm nay đựng đồ uống", "semanticIntent": "Cho thấy công việc đầu tiên đã hoàn thành", "spokenSubject": "chiếc cốc dùng cho đồ uống hôm nay", "visualSubject": "bàn tay nâng chiếc cốc lên uống rồi hạ xuống", "visualReason": "Hành động uống mô tả trực tiếp công việc ngắn hạn của cốc", "sceneFamily": "use-now", "continuityRole": "human-action", "composition": "solo", "exit": "replace", "camera": {"mode": "follow", "intensity": "subtle"}, "transition": "cut",
+      "items": [{"id": "drink-now", "kind": "asset", "assetId": "A03", "role": "khách dùng đồ uống hôm nay", "enterMs": 10000, "motion": "track", "semanticRole": "subject", "transform": {"from": {"x": 0, "y": 80, "scale": 0.86, "rotation": -2, "opacity": 0}, "to": {"x": 0, "y": -20, "scale": 1.04, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C08", "startMs": 12200, "endMs": 14200, "spokenAnchor": "Ngày mai", "semanticIntent": "Mở lần sử dụng thứ hai bằng match-cut túi gấp thành túi mở", "spokenSubject": "chiếc túi vào ngày mai", "visualSubject": "túi gấp mở ra trên bàn gói quà", "visualReason": "Biến đổi trạng thái chứng minh túi tiếp tục được dùng", "sceneFamily": "object-state-change", "continuityRole": "motif-anchor", "composition": "transform", "exit": "transform", "camera": {"mode": "push-in", "intensity": "medium"}, "transition": "match-move",
+      "items": [{"id": "bag-reuse", "kind": "asset", "assetId": "A04", "role": "túi gấp bắt đầu lần dùng hai", "enterMs": 12200, "motion": "scale", "sfx": "whoosh", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": 0, "y": 40, "scale": 0.72, "rotation": -4, "opacity": 1}, "to": {"x": 0, "y": 0, "scale": 1.12, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C09", "startMs": 14200, "endMs": 16000, "spokenAnchor": "đựng món quà", "semanticIntent": "Đặt món quà vào chiếc túi bằng hành động thật", "spokenSubject": "món quà được đặt vào túi", "visualSubject": "hai bàn tay mở túi và đặt hộp quà vào", "visualReason": "Hành động gói quà là công việc mới cụ thể của túi", "sceneFamily": "gift-packing", "continuityRole": "human-action", "composition": "compare", "exit": "replace", "camera": {"mode": "follow", "intensity": "medium"}, "transition": "mask-reveal",
+      "items": [{"id": "bag-reuse", "kind": "asset", "assetId": "A05", "role": "túi mở nhận món quà", "enterMs": 12200, "motion": "none", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": -110, "y": 20, "scale": 0.94, "rotation": -2, "opacity": 1}, "to": {"x": -150, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}, {"id": "gift-box", "kind": "asset", "assetId": "A09", "role": "món quà được đặt vào", "enterMs": 14200, "motion": "slide", "semanticRole": "evidence", "transform": {"from": {"x": 220, "y": -80, "scale": 0.72, "rotation": 5, "opacity": 0}, "to": {"x": 140, "y": 20, "scale": 0.9, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C10", "startMs": 16000, "endMs": 18200, "spokenAnchor": "Khi người bạn ấy nhận quà", "semanticIntent": "Theo người mang quà tới cửa để mở không gian câu chuyện", "spokenSubject": "người bạn nhận món quà", "visualSubject": "người Việt trẻ mang túi quà tới cửa và đưa về phía trước", "visualReason": "Nhân vật và hành động trao quà thay thế motif làm chủ thể", "sceneFamily": "human-delivery", "continuityRole": "human-action", "composition": "code", "exit": "replace", "camera": {"mode": "follow", "intensity": "medium"}, "transition": "zoom-through",
+      "items": [{"id": "gift-carrier", "kind": "asset", "assetId": "A06", "role": "người mang túi quà", "enterMs": 16000, "motion": "track", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": -220, "y": 40, "scale": 0.78, "rotation": -2, "opacity": 0}, "to": {"x": -40, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}, {"id": "door-mark", "kind": "code", "codeTemplate": "label", "text": "TỚI NHÀ BẠN", "role": "bối cảnh giao quà", "enterMs": 16000, "motion": "reveal", "semanticRole": "accent", "transform": {"from": {"x": 230, "y": 20, "scale": 0.82, "rotation": 1, "opacity": 0}, "to": {"x": 180, "y": 0, "scale": 0.96, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C11", "startMs": 18200, "endMs": 20300, "spokenAnchor": "họ nhìn chiếc túi", "semanticIntent": "Chuyển điểm nhìn sang phản ứng của người nhận", "spokenSubject": "ánh nhìn của người nhận", "visualSubject": "người nhận nghiêng người quan sát món quà", "visualReason": "Khuôn mặt và ánh mắt biểu đạt sự chú ý tốt hơn việc giữ túi trên màn hình", "sceneFamily": "human-reaction", "continuityRole": "human-action", "composition": "solo", "exit": "replace", "camera": {"mode": "push-in", "intensity": "medium"}, "transition": "reframe",
+      "items": [{"id": "gift-recipient-look", "kind": "asset", "assetId": "A07", "role": "người nhận chú ý", "enterMs": 18200, "motion": "reveal", "semanticRole": "subject", "transform": {"from": {"x": 80, "y": 20, "scale": 0.84, "rotation": 1, "opacity": 0}, "to": {"x": 0, "y": 0, "scale": 1.08, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C12", "startMs": 20300, "endMs": 22200, "spokenAnchor": "Mua ở đâu vậy", "semanticIntent": "Biến sự chú ý thành câu hỏi truyền miệng", "spokenSubject": "câu hỏi của người nhận", "visualSubject": "người nhận chỉ tay và bong bóng câu hỏi do Remotion dựng", "visualReason": "Cử chỉ hỏi và câu chữ ngắn thể hiện đúng phản ứng", "sceneFamily": "human-reaction", "continuityRole": "human-action", "composition": "code", "exit": "replace", "camera": {"mode": "static", "intensity": "subtle"}, "transition": "mask-reveal",
+      "items": [{"id": "gift-recipient-ask", "kind": "asset", "assetId": "A07", "role": "người nhận đặt câu hỏi", "enterMs": 20300, "motion": "none", "semanticRole": "subject", "transform": {"from": {"x": -120, "y": 0, "scale": 0.98, "rotation": 0, "opacity": 1}, "to": {"x": -160, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1}, "easing": "linear"}}, {"id": "where-question", "kind": "code", "codeTemplate": "label", "text": "MUA Ở ĐÂU VẬY?", "role": "câu hỏi truyền miệng", "enterMs": 20300, "motion": "stamp", "sfx": "click", "semanticRole": "accent", "transform": {"from": {"x": 210, "y": 50, "scale": 0.72, "rotation": 3, "opacity": 0}, "to": {"x": 150, "y": 0, "scale": 1, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C13", "startMs": 22200, "endMs": 24500, "spokenAnchor": "Thế là thương hiệu", "semanticIntent": "Cho thấy thương hiệu được gợi nhớ ở lần dùng thứ hai", "spokenSubject": "lần xuất hiện tiếp theo của thương hiệu", "visualSubject": "đường thời gian từ quầy mua tới cửa nhà bạn", "visualReason": "Hai điểm trên cùng đường thời gian chứng minh có thêm một lần xuất hiện", "sceneFamily": "brand-echo", "continuityRole": "literal-evidence", "composition": "process", "exit": "carry", "camera": {"mode": "pull-out", "intensity": "subtle"}, "transition": "reframe",
+      "items": [{"id": "purchase-node", "kind": "code", "codeTemplate": "label", "text": "LẦN MUA", "role": "điểm bắt đầu", "enterMs": 22200, "motion": "reveal", "semanticRole": "evidence", "transform": {"from": {"x": -230, "y": 40, "scale": 0.75, "rotation": -2, "opacity": 0}, "to": {"x": -210, "y": 0, "scale": 0.92, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}, {"id": "reuse-node", "kind": "code", "codeTemplate": "label", "text": "LẦN DÙNG HAI", "role": "điểm xuất hiện thứ hai", "enterMs": 22200, "motion": "reveal", "semanticRole": "evidence", "transform": {"from": {"x": 230, "y": 40, "scale": 0.75, "rotation": 2, "opacity": 0}, "to": {"x": 210, "y": 0, "scale": 0.92, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C14", "startMs": 24500, "endMs": 27000, "spokenAnchor": "dù cửa hàng", "semanticIntent": "Nhấn rằng lần xuất hiện này không cần thêm quảng cáo", "spokenSubject": "cửa hàng không chạy thêm quảng cáo", "visualSubject": "đường thời gian giữ nguyên trong khi biểu tượng quảng cáo bị tắt", "visualReason": "Trạng thái tắt là bằng chứng trực quan cho không chạy thêm", "sceneFamily": "brand-echo", "continuityRole": "literal-evidence", "composition": "code", "exit": "replace", "camera": {"mode": "static", "intensity": "subtle"}, "transition": "match-move",
+      "items": [{"id": "purchase-node", "kind": "code", "codeTemplate": "label", "text": "LẦN MUA", "role": "điểm bắt đầu", "enterMs": 22200, "motion": "none", "semanticRole": "evidence", "transform": {"from": {"x": -210, "y": 0, "scale": 0.92, "rotation": 0, "opacity": 1}, "to": {"x": -230, "y": 0, "scale": 0.84, "rotation": 0, "opacity": 0.65}, "easing": "ease-out"}}, {"id": "ad-off", "kind": "code", "codeTemplate": "warning", "text": "KHÔNG THÊM QUẢNG CÁO", "role": "trạng thái quảng cáo tắt", "enterMs": 24500, "motion": "stamp", "semanticRole": "evidence", "transform": {"from": {"x": 190, "y": 30, "scale": 0.76, "rotation": 2, "opacity": 0}, "to": {"x": 160, "y": 0, "scale": 0.96, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C15", "startMs": 27000, "endMs": 29300, "spokenAnchor": "Trong marketing", "semanticIntent": "Chỉ gọi tên marketing sau khi cơ chế đã được nhìn thấy", "spokenSubject": "tên gọi marketing của cơ chế", "visualSubject": "nhãn điểm chạm sau bán xuất hiện trên đường thời gian", "visualReason": "Text ngắn đặt tên cho điều người xem vừa hiểu bằng trực giác", "sceneFamily": "concept-decode", "continuityRole": "literal-evidence", "composition": "code", "exit": "transform", "camera": {"mode": "push-in", "intensity": "subtle"}, "transition": "zoom-through",
+      "items": [{"id": "post-sale-term", "kind": "code", "codeTemplate": "label", "text": "ĐIỂM CHẠM SAU BÁN", "role": "tên nguyên lý", "enterMs": 27000, "motion": "stamp", "semanticRole": "accent", "transform": {"from": {"x": 0, "y": 40, "scale": 0.72, "rotation": 2, "opacity": 0}, "to": {"x": 0, "y": 0, "scale": 1.12, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C16", "startMs": 29300, "endMs": 31500, "spokenAnchor": "điểm chạm sống lâu hơn giao dịch", "semanticIntent": "Giải nghĩa nguyên lý bằng thời gian tồn tại", "spokenSubject": "điểm chạm tồn tại sau giao dịch", "visualSubject": "vạch giao dịch kết thúc nhưng một đường hồng tiếp tục kéo dài", "visualReason": "Đường kéo dài làm nghĩa sống lâu hơn trở nên nhìn thấy được", "sceneFamily": "concept-decode", "continuityRole": "literal-evidence", "composition": "transform", "exit": "replace", "camera": {"mode": "pan", "intensity": "subtle"}, "transition": "match-move",
+      "items": [{"id": "post-sale-term", "kind": "code", "codeTemplate": "label", "text": "GIAO DỊCH KẾT THÚC → ĐIỂM CHẠM TIẾP TỤC", "role": "giải nghĩa thời gian tồn tại", "enterMs": 27000, "motion": "none", "semanticRole": "accent", "transform": {"from": {"x": 0, "y": 0, "scale": 1.12, "rotation": 0, "opacity": 1}, "to": {"x": 0, "y": -20, "scale": 0.9, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C17", "startMs": 31500, "endMs": 33800, "spokenAnchor": "Nhưng in logo thật lớn", "semanticIntent": "Phủ định việc logo lớn tự tạo lý do giữ", "spokenSubject": "logo quá lớn trên bao bì", "visualSubject": "một chữ LOGO phóng to rồi bị nét marker gạch ngang", "visualReason": "Dấu gạch làm rõ đây là giả định bị bác bỏ", "sceneFamily": "proof-criteria", "continuityRole": "proof", "composition": "code", "exit": "replace", "camera": {"mode": "push-in", "intensity": "medium"}, "transition": "cut",
+      "items": [{"id": "giant-logo", "kind": "code", "codeTemplate": "warning", "text": "LOGO THẬT LỚN ≠ LÝ DO GIỮ", "role": "giả định logo lớn", "enterMs": 31500, "motion": "stamp", "sfx": "click", "semanticRole": "evidence", "transform": {"from": {"x": 0, "y": 40, "scale": 0.72, "rotation": -2, "opacity": 0}, "to": {"x": 0, "y": 0, "scale": 1.05, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C18", "startMs": 33800, "endMs": 36000, "spokenAnchor": "Món đồ ấy phải hữu ích", "semanticIntent": "Đưa tiêu chí đầu tiên bằng hành động sử dụng", "spokenSubject": "món đồ hữu ích", "visualSubject": "hộp quà và thiệp được bàn tay sắp để dùng lại", "visualReason": "Đồ vật được sử dụng thực tế chứng minh tính hữu ích", "sceneFamily": "proof-criteria", "continuityRole": "proof", "composition": "solo", "exit": "replace", "camera": {"mode": "follow", "intensity": "subtle"}, "transition": "mask-reveal",
+      "items": [{"id": "useful-touchpoints", "kind": "asset", "assetId": "A09", "role": "đồ vật có công dụng", "enterMs": 33800, "motion": "reveal", "semanticRole": "evidence", "transform": {"from": {"x": 0, "y": 60, "scale": 0.76, "rotation": -2, "opacity": 0}, "to": {"x": 0, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C19", "startMs": 36000, "endMs": 38000, "spokenAnchor": "đủ đẹp", "semanticIntent": "Cho tiêu chí vẻ đẹp như một trải nghiệm thị giác", "spokenSubject": "món đồ đủ đẹp để trưng hoặc dùng lại", "visualSubject": "thiệp trơn được đặt ngay ngắn trong khung ảnh giấy", "visualReason": "Cách trưng bày cho thấy vẻ đẹp tạo lý do giữ", "sceneFamily": "proof-criteria", "continuityRole": "proof", "composition": "code", "exit": "replace", "camera": {"mode": "push-in", "intensity": "subtle"}, "transition": "reframe",
+      "items": [{"id": "beautiful-card", "kind": "asset", "assetId": "A09", "role": "điểm chạm đủ đẹp", "enterMs": 36000, "motion": "scale", "semanticRole": "evidence", "transform": {"from": {"x": -40, "y": 20, "scale": 0.82, "rotation": -3, "opacity": 0}, "to": {"x": -100, "y": 0, "scale": 1, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}, {"id": "beautiful-label", "kind": "code", "codeTemplate": "label", "text": "ĐỦ ĐẸP ĐỂ GIỮ", "role": "tiêu chí vẻ đẹp", "enterMs": 36000, "motion": "reveal", "semanticRole": "accent", "transform": {"from": {"x": 210, "y": 40, "scale": 0.8, "rotation": 1, "opacity": 0}, "to": {"x": 160, "y": 0, "scale": 0.96, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C20", "startMs": 38000, "endMs": 40000, "spokenAnchor": "gắn với một kỷ niệm", "semanticIntent": "Cho tiêu chí cảm xúc bằng phản ứng lưu giữ", "spokenSubject": "món đồ gắn với kỷ niệm", "visualSubject": "người nhận đặt tấm thiệp cạnh ảnh món quà", "visualReason": "Hành động đặt cạnh ảnh biến kỷ niệm thành quan hệ cụ thể", "sceneFamily": "memory-action", "continuityRole": "human-action", "composition": "solo", "exit": "replace", "camera": {"mode": "pull-out", "intensity": "subtle"}, "transition": "match-move",
+      "items": [{"id": "memory-recipient", "kind": "asset", "assetId": "A07", "role": "người nhận lưu kỷ niệm", "enterMs": 38000, "motion": "reveal", "semanticRole": "subject", "transform": {"from": {"x": 80, "y": 30, "scale": 0.82, "rotation": 1, "opacity": 0}, "to": {"x": 0, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C21", "startMs": 40000, "endMs": 42300, "spokenAnchor": "Còn bao bì vô dụng", "semanticIntent": "Đối chiếu bằng kết cục đi vào thùng rác", "spokenSubject": "bao bì không còn ích lợi", "visualSubject": "bàn tay vò giấy gói và thả xuống thùng", "visualReason": "Kết cục rác thải chứng minh giá hay vật liệu không cứu được công dụng", "sceneFamily": "waste-proof", "continuityRole": "human-action", "composition": "solo", "exit": "replace", "camera": {"mode": "follow", "intensity": "medium"}, "transition": "cut",
+      "items": [{"id": "crumple-wrapper", "kind": "asset", "assetId": "A10", "role": "bao bì vô dụng bị bỏ", "enterMs": 40000, "motion": "track", "sfx": "whoosh", "semanticRole": "subject", "transform": {"from": {"x": 0, "y": -90, "scale": 0.86, "rotation": -4, "opacity": 1}, "to": {"x": 0, "y": 110, "scale": 1.02, "rotation": 8, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C22", "startMs": 42300, "endMs": 44700, "spokenAnchor": "Bài học là", "semanticIntent": "Chốt việc thiết kế sau lần mua thay vì chỉ khoảnh khắc thanh toán", "spokenSubject": "bài học về vòng đời sau mua", "visualSubject": "đường thời gian thanh toán kết thúc rồi phần sống tiếp được tô hồng", "visualReason": "Hai phần thời gian làm bài học dễ nhớ mà không cần nhồi nhiều chữ", "sceneFamily": "lesson-timeline", "continuityRole": "literal-evidence", "composition": "code", "exit": "replace", "camera": {"mode": "pan", "intensity": "subtle"}, "transition": "reframe",
+      "items": [{"id": "lesson-timeline", "kind": "code", "codeTemplate": "label", "text": "MUA XONG → VẪN SỐNG TIẾP", "role": "một bài học", "enterMs": 42300, "motion": "reveal", "semanticRole": "accent", "transform": {"from": {"x": -180, "y": 30, "scale": 0.78, "rotation": -2, "opacity": 0}, "to": {"x": 0, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C23", "startMs": 44700, "endMs": 47000, "spokenAnchor": "Hãy thiết kế một thứ", "semanticIntent": "Đưa motif trở lại để gắn bài học với một vật cụ thể", "spokenSubject": "một thứ có lý do sống tiếp", "visualSubject": "chiếc túi quay lại ở cuối đường thời gian", "visualReason": "Motif chỉ quay lại khi voice trở lại nói về vật được giữ", "sceneFamily": "lesson-timeline", "continuityRole": "motif-anchor", "composition": "code", "exit": "carry", "camera": {"mode": "push-in", "intensity": "subtle"}, "transition": "match-move",
+      "items": [{"id": "bag-lesson-return", "kind": "asset", "assetId": "A02", "role": "motif sống tiếp sau mua", "enterMs": 44700, "motion": "reveal", "sfx": "sticker-popup", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": -210, "y": 50, "scale": 0.72, "rotation": -4, "opacity": 0}, "to": {"x": -130, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1}, "easing": "spring"}}, {"id": "live-on", "kind": "code", "codeTemplate": "label", "text": "CÓ LÝ DO SỐNG TIẾP", "role": "kết luận dễ nhớ", "enterMs": 44700, "motion": "stamp", "semanticRole": "accent", "transform": {"from": {"x": 210, "y": 40, "scale": 0.78, "rotation": 2, "opacity": 0}, "to": {"x": 150, "y": 0, "scale": 0.96, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C24", "startMs": 47000, "endMs": 49400, "spokenAnchor": "Thử đặt túi", "semanticIntent": "Bắt đầu bài test bằng thao tác trải các điểm chạm", "spokenSubject": "túi, hộp, thiệp, hóa đơn và tin nhắn sau bán", "visualSubject": "chủ shop trải các điểm chạm trơn lên bàn", "visualReason": "Hành động xếp cạnh nhau đúng với bài test người xem có thể làm", "sceneFamily": "owner-audit", "continuityRole": "human-action", "composition": "sequence", "exit": "replace", "camera": {"mode": "pull-out", "intensity": "medium"}, "transition": "reframe",
+      "items": [{"id": "bag-lesson-return", "kind": "asset", "assetId": "A02", "role": "túi trong bài test", "enterMs": 44700, "motion": "none", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": -130, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1}, "to": {"x": -250, "y": 30, "scale": 0.72, "rotation": -3, "opacity": 1}, "easing": "ease-out"}}, {"id": "audit-owner", "kind": "asset", "assetId": "A08", "role": "chủ shop thực hiện audit", "enterMs": 47000, "motion": "reveal", "semanticRole": "subject", "transform": {"from": {"x": 0, "y": 80, "scale": 0.72, "rotation": 0, "opacity": 0}, "to": {"x": 0, "y": -20, "scale": 0.88, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}, {"id": "audit-touchpoints", "kind": "asset", "assetId": "A09", "role": "các điểm chạm sau bán", "enterMs": 47000, "motion": "slide", "semanticRole": "evidence", "transform": {"from": {"x": 230, "y": 80, "scale": 0.65, "rotation": 4, "opacity": 0}, "to": {"x": 230, "y": 20, "scale": 0.76, "rotation": 1, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C25", "startMs": 49400, "endMs": 51800, "spokenAnchor": "Hỏi một câu", "semanticIntent": "Biến bài test thành một câu hỏi duy nhất", "spokenSubject": "câu hỏi ngày mai khách còn giữ gì", "visualSubject": "điện thoại chụp bàn điểm chạm và câu hỏi hiện trên màn hình do Remotion dựng", "visualReason": "Góc nhìn điện thoại làm bài test có thể bắt chước ngay", "sceneFamily": "phone-application", "continuityRole": "application", "composition": "code", "exit": "carry", "camera": {"mode": "follow", "intensity": "subtle"}, "transition": "zoom-through",
+      "items": [{"id": "audit-phone", "kind": "asset", "assetId": "A11", "role": "điện thoại chụp bài test", "enterMs": 49400, "motion": "scale", "semanticRole": "subject", "transform": {"from": {"x": 0, "y": 80, "scale": 0.76, "rotation": -2, "opacity": 0}, "to": {"x": -130, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}, {"id": "tomorrow-question", "kind": "code", "codeTemplate": "label", "text": "NGÀY MAI KHÁCH CÒN GIỮ GÌ?", "role": "câu hỏi ứng dụng", "enterMs": 49400, "motion": "reveal", "semanticRole": "accent", "transform": {"from": {"x": 220, "y": 40, "scale": 0.76, "rotation": 2, "opacity": 0}, "to": {"x": 150, "y": 0, "scale": 0.94, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    },
+    {
+      "id": "C26", "startMs": 51800, "endMs": 53500, "spokenAnchor": "Nếu chưa có câu trả lời", "semanticIntent": "Thu bài test về đúng một lựa chọn để bắt đầu", "spokenSubject": "chọn đúng một món", "visualSubject": "vòng tròn hồng khoanh một thiệp trơn trên bàn", "visualReason": "Một vòng tròn duy nhất làm hành động bắt đầu nhỏ và rõ", "sceneFamily": "phone-application", "continuityRole": "application", "composition": "code", "exit": "replace", "camera": {"mode": "push-in", "intensity": "medium"}, "transition": "mask-reveal",
+      "items": [{"id": "audit-phone", "kind": "asset", "assetId": "A11", "role": "điện thoại giữ góc nhìn bài test", "enterMs": 49400, "motion": "none", "semanticRole": "subject", "transform": {"from": {"x": -130, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1}, "to": {"x": -200, "y": 20, "scale": 0.84, "rotation": 0, "opacity": 0.7}, "easing": "ease-out"}}, {"id": "one-choice", "kind": "code", "codeTemplate": "button", "text": "BẮT ĐẦU TỪ MỘT MÓN", "role": "hành động nhỏ nhất", "enterMs": 51800, "motion": "stamp", "sfx": "click", "semanticRole": "evidence", "transform": {"from": {"x": 190, "y": 50, "scale": 0.72, "rotation": 2, "opacity": 0}, "to": {"x": 150, "y": 0, "scale": 0.96, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C27", "startMs": 53500, "endMs": 55800, "spokenAnchor": "Lưu video này", "semanticIntent": "Đưa motif quay lại cạnh một CTA duy nhất", "spokenSubject": "hành động lưu video", "visualSubject": "chiếc túi quay lại cạnh nút lưu", "visualReason": "Motif khép vòng câu chuyện còn nút lưu là hành động duy nhất", "sceneFamily": "cta", "continuityRole": "application", "composition": "code", "exit": "carry", "camera": {"mode": "pull-out", "intensity": "subtle"}, "transition": "match-move",
+      "items": [{"id": "bag-cta", "kind": "asset", "assetId": "A02", "role": "motif khép vòng", "enterMs": 53500, "motion": "reveal", "sfx": "sticker-popup", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": -210, "y": 50, "scale": 0.72, "rotation": -4, "opacity": 0}, "to": {"x": -150, "y": 0, "scale": 0.96, "rotation": 0, "opacity": 1}, "easing": "spring"}}, {"id": "save-button", "kind": "code", "codeTemplate": "button", "text": "LƯU VIDEO", "role": "CTA duy nhất", "enterMs": 53500, "motion": "stamp", "sfx": "click", "semanticRole": "evidence", "transform": {"from": {"x": 210, "y": 40, "scale": 0.76, "rotation": 2, "opacity": 0}, "to": {"x": 150, "y": 0, "scale": 1, "rotation": 0, "opacity": 1}, "easing": "spring"}}]
+    },
+    {
+      "id": "C28", "startMs": 55800, "endMs": 58000, "spokenAnchor": "trải nghiệm sau bán", "semanticIntent": "Khép bằng phạm vi bài test sau bán", "spokenSubject": "trải nghiệm sau bán của người xem", "visualSubject": "chiếc túi và ba điểm chạm thu nhỏ hội tụ quanh nút lưu", "visualReason": "Các điểm chạm quay về cùng một khung để nhắc đúng thứ cần kiểm tra", "sceneFamily": "cta", "continuityRole": "application", "composition": "compare", "exit": "replace", "camera": {"mode": "push-in", "intensity": "subtle"}, "transition": "reframe",
+      "items": [{"id": "bag-cta", "kind": "asset", "assetId": "A02", "role": "motif cuối video", "enterMs": 53500, "motion": "none", "semanticRole": "subject", "motifKey": "kept-bag", "transform": {"from": {"x": -150, "y": 0, "scale": 0.96, "rotation": 0, "opacity": 1}, "to": {"x": -190, "y": 10, "scale": 0.88, "rotation": -1, "opacity": 1}, "easing": "ease-out"}}, {"id": "post-sale-label", "kind": "code", "codeTemplate": "label", "text": "KIỂM TRA TRẢI NGHIỆM SAU BÁN", "role": "phạm vi hành động", "enterMs": 55800, "motion": "reveal", "semanticRole": "accent", "transform": {"from": {"x": 210, "y": 40, "scale": 0.76, "rotation": 2, "opacity": 0}, "to": {"x": 150, "y": 0, "scale": 0.92, "rotation": 0, "opacity": 1}, "easing": "ease-out"}}]
+    }
+  ],
+  "assets": [
+    {
+      "id": "A01", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a01-discard-cup-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL VIETNAMESE STICKER SOURCE. One complete crop-safe action group: one realistic Vietnamese hand releasing one empty unbranded white takeaway cup directly above one small plain waste bin, dynamic downward motion frozen clearly, full hand, cup and bin visible, matte finish, soft upper-left daylight, restrained hot-pink accent, clean ink-black details. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, extra object or scene background."
+    },
+    {
+      "id": "A02", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a02-fold-bag-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL VIETNAMESE STICKER SOURCE. One complete crop-safe action group: two realistic Vietnamese hands folding one completely blank warm-cream paper shopping bag with a small restrained hot-pink handle, no brand, full hands and full bag visible, matte finish, soft upper-left daylight, clean ink-black details. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, extra object or scene background."
+    },
+    {
+      "id": "A03", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a03-customer-cup-bag-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL VIETNAMESE STICKER SOURCE. One young Vietnamese customer only, waist-up, natural everyday clothing in cream and black with a restrained blush-pink accent, holding one unbranded white takeaway cup in one hand and one completely blank warm-cream paper bag in the other, neutral thoughtful expression, full hands and objects visible, matte finish, soft upper-left daylight. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, counter or extra object."
+    },
+    {
+      "id": "A04", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a04-drawer-folded-bag-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL COMMERCIAL OBJECT STICKER SOURCE. One small open light-wood drawer only with one neatly folded completely blank warm-cream paper bag inside, restrained hot-pink handle visible, three-quarter view, complete object crop-safe, matte finish, soft upper-left daylight, clean ink-black details. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, furniture or extra object."
+    },
+    {
+      "id": "A05", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a05-pack-gift-bag-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL VIETNAMESE STICKER SOURCE. One complete crop-safe action group: two realistic Vietnamese hands opening one completely blank warm-cream paper bag and lowering one small unbranded gift box into it, restrained hot-pink handle and ribbon accent, full hands, bag and box visible, matte finish, soft upper-left daylight, clean ink-black details. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, table or extra object."
+    },
+    {
+      "id": "A06", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a06-gift-carrier-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL VIETNAMESE STICKER SOURCE. One young Vietnamese adult only, full body in a natural walking pose, everyday cream shirt and black trousers with restrained blush-pink accent, carrying one completely blank warm-cream paper gift bag forward, friendly anticipatory expression, full limbs and bag visible, matte finish, soft upper-left daylight. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, doorway or extra object."
+    },
+    {
+      "id": "A07", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a07-gift-recipient-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL VIETNAMESE STICKER SOURCE. One young Vietnamese gift recipient only, waist-up, simple neutral clothing, curious warm expression, eyes looking down-left, one hand pointing toward an off-frame gift and the other hand open as if asking a question, full hands visible, matte finish, soft upper-left daylight, restrained hot-pink accent. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, gift bag or extra object."
+    },
+    {
+      "id": "A08", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a08-shop-owner-audit-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL VIETNAMESE STICKER SOURCE. One Vietnamese small-shop owner only, waist-up leaning slightly forward, cream shirt with restrained blush-pink apron accent, both hands arranging several completely blank packaging touchpoints in front of the body, focused practical expression, full hands and upper objects visible, matte finish, soft upper-left daylight. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, table, room or extra person."
+    },
+    {
+      "id": "A09", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a09-touchpoints-sheet-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL COMMERCIAL OBJECT STICKER SOURCE. One vertical source sheet containing exactly three isolated blank touchpoint objects arranged top, middle, bottom: one small cream gift box, one blank blush-pink thank-you card, and one narrow blank receipt slip. Keep at least 18 percent clear green gutter between objects and at least 12 percent outer margin, matte finish, soft upper-left daylight, clean ink-black details. Background must be perfectly uniform chroma green #00FF00. No gradient, texture, vignette, shadow, green rim, reflection, readable text, number, logo, watermark, paper backing, border, overlap, connected shadow, fourth object or decorative filler."
+    },
+    {
+      "id": "A10", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a10-crumple-wrapper-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL VIETNAMESE STICKER SOURCE. One complete crop-safe action group: one realistic Vietnamese hand crushing a generic plain wrapper directly above one small waste bin, full hand, crumpled wrapper and bin visible, matte finish, soft upper-left daylight, restrained hot-pink accent, clean ink-black details. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, product or extra object."
+    },
+    {
+      "id": "A11", "sourceType": "generated", "provider": "flow-agent", "stickerTreatment": "remotion-paper", "hasBakedContour": false, "outputPath": "public/ep006/v03/generated/a11-phone-audit-alpha-v03.png", "approvalStatus": "pending", "rights": "Original illustrative asset generated for this episode.",
+      "mediaPrompt": "PHOTOREAL VIETNAMESE STICKER SOURCE. One realistic Vietnamese hand holding one modern unbranded smartphone in a top-down camera pose, screen completely blank pale cream for Remotion replacement, full hand and phone visible, matte finish, soft upper-left daylight, restrained hot-pink case accent, clean ink-black details. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty margin. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, interface, table or extra object."
+    }
+  ],
+  "editBlueprint": {
+    "motionGrammar": "continuous-stage-v1",
+    "visualGrammar": "subject-led-v1",
+    "captionTop": 1110,
+    "wordHighlight": true,
+    "whiteSpace": "pre-wrap",
+    "maxActiveScale": 1.15,
+    "render": "local",
+    "seriesLabel": "from-profile",
+    "mascotPolicy": "contextual punctuation only; maximum 0.35 seconds per appearance",
+    "cardPolicy": "semantic evidence only",
+    "motifKey": "kept-bag",
+    "motifCueTarget": 12,
+    "sceneFamilyMinimum": 5,
+    "humanActionCueMinimum": 2,
+    "safeZone": "TikTok"
+  },
+  "sources": [],
+  "quotaPlan": {
+    "estimatedImageCalls": 11,
+    "estimatedTtsCalls": 1,
+    "estimatedTranscriptionCalls": 1,
+    "estimatedRenderCalls": 1,
+    "idempotencyPrefix": "agency-marketing-tiktok-ep006-v03-kept-bag-"
+  },
+  "approval": {
+    "status": "approved",
+    "version": 3,
+    "approvedAt": "2026-08-17T10:10:00.000Z",
+    "assetPlanStatus": "approved"
+  }
+}

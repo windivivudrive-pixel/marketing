@@ -1,0 +1,1409 @@
+{
+  "schemaVersion": 2,
+  "metadata": {
+    "episodeId": "ep008",
+    "slug": "dai-bang-keo-xe-do-clip-unboxing",
+    "version": 1,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260818-branding-ideas-v01.json#IDEA003",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 55,
+    "researchRequired": false
+  },
+  "creativeContract": {
+    "title": "Dải băng keo xé đỏ: Chi tiết nhỏ khiến khách tự quay clip unboxing",
+    "seriesLabelFromProfile": true,
+    "audience": "Chủ shop online, D2C, nhà sáng lập thương hiệu thời trang/mỹ phẩm và người làm trải nghiệm khách hàng",
+    "painPoint": "Gửi hàng chỉn chu nhưng khách nhận xong bóc vội rồi vứt hộp, không có động lực chia sẻ hay quay clip mở hộp khoe lên mạng.",
+    "viewerQuestion": "Vì sao chỉ một dải ruy băng xé nhỏ lại khiến người mua hào hứng rút điện thoại quay video unboxing?",
+    "premise": "Biến hành vi ức chế (tìm dao rạch băng dính) thành một trải nghiệm xúc giác thỏa mãn để kích hoạt động lực chia sẻ tự nhiên.",
+    "lesson": "Trải nghiệm thương hiệu thực ra không bắt đầu lúc khách dùng sản phẩm, mà bắt đầu từ giây đầu tiên tay họ chạm vào chiếc vỏ hộp bên ngoài.",
+    "payoff": "Loại bỏ lực cản khi mở hộp và bổ sung chi tiết xúc giác tạo niềm vui ngay giây đầu tiên.",
+    "caseType": "verified",
+    "caseDisclosure": "Quan sát thực tế từ các thương hiệu D2C hàng đầu như Glossier, Coolmate và nghiên cứu tâm lý Unboxing Experience của Dotcom Distribution.",
+    "tone": ["tự nhiên", "gần gũi", "đời thường", "thực tiễn", "dễ hiểu", "dễ áp dụng ngay"],
+    "cta": "save",
+    "narrativeObject": "Chiếc hộp carton đóng gói tinh gọn với dải băng xé đỏ (tear strip) là motif xuyên suốt; nó rời khung khi voice chuyển sang cảnh dùng dao rạch, case study thương hiệu hoặc màn hình điện thoại.",
+    "visualStrategy": {
+      "version": "subject-led-v1",
+      "recurringMotif": "Chiếc hộp carton kraft có dải băng xé đỏ",
+      "motifRule": "Giữ chiếc hộp khi voice nói về kiện hàng, dải băng xé hoặc trải nghiệm mở hộp; để hộp rời khung khi voice nói về cảnh dao kéo ức chế, quay video điện thoại hoặc đồ họa tâm lý.",
+      "sceneFamilies": [
+        "hook-contrast",
+        "tear-strip-detail",
+        "brand-case",
+        "frustration-knife",
+        "tactile-satisfaction",
+        "box-open-reveal",
+        "ugc-recording",
+        "tactile-framework",
+        "lesson-board",
+        "audit-test",
+        "cta"
+      ],
+      "humanMoments": [
+        "Hai bàn tay cầm điện thoại quay unboxing",
+        "Ngón tay giật dải băng đỏ phát tiếng xoẹt",
+        "Bàn tay cầm dao rọc giấy chật vật rạch băng keo",
+        "Chủ shop bấm đồng hồ bấm giờ kiểm tra kiện hàng"
+      ],
+      "motifTargetCueShare": 0.42,
+      "maxConsecutiveMotifOnlyCues": 2
+    },
+    "openingFrame": {
+      "visualTension": "Một bên là chiếc hộp dán chằng chịt bị vứt sọt rác, một bên là chiếc hộp có dải băng đỏ được khách dựng máy quay clip.",
+      "heroSubject": "Hai số phận đối lập của 2 kiện hàng giao tới cửa.",
+      "contrast": "Cùng nhận một đơn hàng, nhưng 1 hộp bị vứt bỏ, 1 hộp biến thành nội dung viral trên mạng.",
+      "firstFrameCopy": "CÙNG MỘT KIỆN HÀNG · 2 SỐ PHẬN"
+    },
+    "storyArc": {
+      "familiarHook": {
+        "startMs": 0,
+        "endMs": 3000,
+        "purpose": "Mở đầu bằng nghịch lý 2 số phận của chiếc hộp giao hàng",
+        "voiceAnchor": "Cùng là nhận một kiện hàng",
+        "visualProgression": "Thumbnail mở đầu 1s; hai kiện hàng đối lập xuất hiện; hộp xấu rơi về phía rác, hộp có dải đỏ được khách chuẩn bị quay clip."
+      },
+      "curiosityBuild": {
+        "startMs": 3000,
+        "endMs": 11500,
+        "purpose": "Chỉ ra bí mật dải băng xé đỏ và dẫn chứng từ logo thương hiệu D2C Glossier & Coolmate",
+        "voiceAnchor": "Sự khác biệt đôi khi",
+        "visualProgression": "Cận cảnh dải băng xé đỏ nổi bật chạy ngang chiếc hộp kraft tinh gọn và bộ đôi logo thương hiệu D2C Glossier & Coolmate."
+      },
+      "perspectiveFlip": {
+        "startMs": 11500,
+        "endMs": 19000,
+        "purpose": "Tái hiện trải nghiệm ức chế khi phải dùng dao kéo rạch băng dính",
+        "voiceAnchor": "Họ không bao giờ quấn",
+        "visualProgression": "Cảnh tượng quen thuộc: chiếc hộp dán 5 lớp băng dính vàng và con dao rạch giấy dễ gây trầy xước."
+      },
+      "marketingDecode": {
+        "startMs": 19000,
+        "endMs": 32000,
+        "purpose": "Giải mã khái niệm thiết kế xúc giác không lực cản",
+        "voiceAnchor": "Khi thay bằng một dải",
+        "visualProgression": "Cận cảnh ngón tay kéo dải đỏ mượt mà; tiếng xoẹt giòn tan; hộp bung mở gọn gàng kèm nhãn khái niệm."
+      },
+      "proof": {
+        "startMs": 32000,
+        "endMs": 42000,
+        "purpose": "Chứng minh cảm giác thỏa mãn kích thích hành vi quay clip khoe mạng",
+        "voiceAnchor": "Cảm giác kiểm soát và",
+        "visualProgression": "Khách hàng vui vẻ quay video đăng story; đồ họa dopamine phần thưởng xúc giác."
+      },
+      "lesson": {
+        "startMs": 42000,
+        "endMs": 49000,
+        "purpose": "Đúc kết thông điệp trải nghiệm thương hiệu bắt đầu từ vỏ hộp bằng giọng văn tự nhiên",
+        "voiceAnchor": "Trải nghiệm thương hiệu thực",
+        "visualProgression": "Chiếc hộp có dải đỏ quay lại sân khấu cạnh lời đúc kết nhẹ nhàng."
+      },
+      "application": {
+        "startMs": 49000,
+        "endMs": 55000,
+        "purpose": "Kêu gọi tự test đơn hàng và bấm giờ mở hộp",
+        "voiceAnchor": "Hôm nay, bạn hãy thử",
+        "visualProgression": "Đồng hồ bấm giờ đặt cạnh kiện hàng; nút Lưu video khép lại."
+      }
+    }
+  },
+  "topicKeywords": [
+    "trải nghiệm mở hộp",
+    "unboxing experience",
+    "bao bì thương hiệu",
+    "tactile branding",
+    "giữ chân khách hàng",
+    "ugc marketing",
+    "case study d2c"
+  ],
+  "voiceover": {
+    "displayText": "Cùng là nhận một kiện hàng, nhưng có hộp khách bóc vội rồi vứt rác, có hộp họ lại hào hứng dựng điện thoại quay clip mở hộp. Sự khác biệt đôi khi không nằm ở món đồ đắt tiền bên trong, mà nằm ở đúng một dải băng xé màu đỏ chạy ngang thân hộp. Bạn để ý những thương hiệu D2C hàng đầu như Glossier hay Coolmate xem. Họ không bao giờ quấn băng dính chằng chịt 5, 6 lớp. Vì họ biết: bắt khách đi tìm dao kéo để rạch hộp là cách nhanh nhất để dập tắt sự háo hức vừa nhận hàng. Khi thay bằng một dải ruy băng xé, hành động mở hàng biến thành một trải nghiệm xúc giác cực kỳ thỏa mãn. Chỉ cần một cú giật nhẹ, tiếng xoẹt giòn tan vang lên, chiếc hộp tự động bung mở mà không tốn chút sức lực nào. Cảm giác kiểm soát và âm thanh đã tai này kích hoạt hormone phần thưởng ngay giây đầu tiên. Trải nghiệm quá mượt mà khiến khách hàng tự động muốn rút điện thoại quay lại khoảnh khắc đó để khoe lên mạng. Trải nghiệm thương hiệu thực ra không bắt đầu lúc khách dùng sản phẩm, mà bắt đầu từ giây đầu tiên tay họ chạm vào chiếc vỏ hộp bên ngoài. Hôm nay, bạn hãy thử tự đặt một đơn từ shop mình về nhà, xem mất bao nhiêu giây để mở được nó. Lưu video này để kiểm tra lại khâu đóng gói của bạn.",
+    "voiceText": "Cùng là nhận một kiện hàng, nhưng có hộp khách bóc vội rồi vứt rác, có hộp họ lại hào hứng dựng điện thoại quay clip mở hộp. Sự khác biệt đôi khi không nằm ở món đồ đắt tiền bên trong, mà nằm ở đúng một dải băng xé màu đỏ chạy ngang thân hộp. Bạn để ý những thương hiệu D hai C hàng đầu như Glossier hay Coolmate xem. Họ không bao giờ quấn băng dính chằng chịt năm, sáu lớp. Vì họ biết: bắt khách đi tìm dao kéo để rạch hộp là cách nhanh nhất để dập tắt sự háo hức vừa nhận hàng. Khi thay bằng một dải ruy băng xé, hành động mở hàng biến thành một trải nghiệm xúc giác cực kỳ thỏa mãn. Chỉ cần một cú giật nhẹ, tiếng xoẹt giòn tan vang lên, chiếc hộp tự động bung mở mà không tốn chút sức lực nào. Cảm giác kiểm soát và âm thanh đã tai này kích hoạt hormone phần thưởng ngay giây đầu tiên. Trải nghiệm quá mượt mà khiến khách hàng tự động muốn rút điện thoại quay lại khoảnh khắc đó để khoe lên mạng. Trải nghiệm thương hiệu thực ra không bắt đầu lúc khách dùng sản phẩm, mà bắt đầu từ giây đầu tiên tay họ chạm vào chiếc vỏ hộp bên ngoài. Hôm nay, bạn hãy thử tự đặt một đơn từ shop mình về nhà, xem mất bao nhiêu giây để mở được nó. Lưu video này để kiểm tra lại khâu đóng gói của bạn.",
+    "sections": {
+      "hook": {
+        "displayText": "Cùng là nhận một kiện hàng, nhưng có hộp khách bóc vội rồi vứt rác, có hộp họ lại hào hứng dựng điện thoại quay clip mở hộp.",
+        "voiceText": "Cùng là nhận một kiện hàng, nhưng có hộp khách bóc vội rồi vứt rác, có hộp họ lại hào hứng dựng điện thoại quay clip mở hộp.",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 3000
+      },
+      "body": {
+        "displayText": "Sự khác biệt đôi khi không nằm ở món đồ đắt tiền bên trong, mà nằm ở đúng một dải băng xé màu đỏ chạy ngang thân hộp. Bạn để ý những thương hiệu D2C hàng đầu như Glossier hay Coolmate xem. Họ không bao giờ quấn băng dính chằng chịt 5, 6 lớp. Vì họ biết: bắt khách đi tìm dao kéo để rạch hộp là cách nhanh nhất để dập tắt sự háo hức vừa nhận hàng. Khi thay bằng một dải ruy băng xé, hành động mở hàng biến thành một trải nghiệm xúc giác cực kỳ thỏa mãn. Chỉ cần một cú giật nhẹ, tiếng xoẹt giòn tan vang lên, chiếc hộp tự động bung mở mà không tốn chút sức lực nào. Cảm giác kiểm soát và âm thanh đã tai này kích hoạt hormone phần thưởng ngay giây đầu tiên. Trải nghiệm quá mượt mà khiến khách hàng tự động muốn rút điện thoại quay lại khoảnh khắc đó để khoe lên mạng. Trải nghiệm thương hiệu thực ra không bắt đầu lúc khách dùng sản phẩm, mà bắt đầu từ giây đầu tiên tay họ chạm vào chiếc vỏ hộp bên ngoài. Hôm nay, bạn hãy thử tự đặt một đơn từ shop mình về nhà, xem mất bao nhiêu giây để mở được nó.",
+        "voiceText": "Sự khác biệt đôi khi không nằm ở món đồ đắt tiền bên trong, mà nằm ở đúng một dải băng xé màu đỏ chạy ngang thân hộp. Bạn để ý những thương hiệu D hai C hàng đầu như Glossier hay Coolmate xem. Họ không bao giờ quấn băng dính chằng chịt năm, sáu lớp. Vì họ biết: bắt khách đi tìm dao kéo để rạch hộp là cách nhanh nhất để dập tắt sự háo hức vừa nhận hàng. Khi thay bằng một dải ruy băng xé, hành động mở hàng biến thành một trải nghiệm xúc giác cực kỳ thỏa mãn. Chỉ cần một cú giật nhẹ, tiếng xoẹt giòn tan vang lên, chiếc hộp tự động bung mở mà không tốn chút sức lực nào. Cảm giác kiểm soát và âm thanh đã tai này kích hoạt hormone phần thưởng ngay giây đầu tiên. Trải nghiệm quá mượt mà khiến khách hàng tự động muốn rút điện thoại quay lại khoảnh khắc đó để khoe lên mạng. Trải nghiệm thương hiệu thực ra không bắt đầu lúc khách dùng sản phẩm, mà bắt đầu từ giây đầu tiên tay họ chạm vào chiếc vỏ hộp bên ngoài. Hôm nay, bạn hãy thử tự đặt một đơn từ shop mình về nhà, xem mất bao nhiêu giây để mở được nó.",
+        "estimatedStartMs": 3000,
+        "estimatedEndMs": 51000,
+        "story": "Các thương hiệu D2C thành công như Glossier và Coolmate loại bỏ hoàn toàn việc quấn băng dính 5-6 lớp khiến khách phải tìm dao kéo, thay vào đó dùng hộp carton có dải ruy băng xé đỏ. Khách chỉ cần giật nhẹ phát ra tiếng xoẹt giòn tan, hộp tự bung mở gọn gàng và kích thích khách tự quay clip unboxing khoe lên mạng.",
+        "lesson": "Trải nghiệm thương hiệu thực ra không bắt đầu lúc khách dùng sản phẩm, mà bắt đầu từ giây đầu tiên tay họ chạm vào chiếc vỏ hộp bên ngoài.",
+        "actions": [
+          "Thay thế băng dính quấn nhiều lớp bằng hộp có dải ruy băng xé tiện lợi",
+          "Tự đặt một đơn hàng về nhà và bấm giờ kiểm tra thời gian mở hộp dưới 5 giây"
+        ]
+      },
+      "close": {
+        "displayText": "Lưu video này để kiểm tra lại khâu đóng gói của bạn.",
+        "voiceText": "Lưu video này để kiểm tra lại khâu đóng gói của bạn.",
+        "estimatedStartMs": 51000,
+        "estimatedEndMs": 55000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": []
+  },
+  "onScreenCopy": [
+    {"stage": "familiarHook", "text": "CÙNG MỘT KIỆN HÀNG · 2 SỐ PHẬN"},
+    {"stage": "curiosityBuild", "text": "BÍ MẬT DẢI BĂNG XÉ ĐỎ"},
+    {"stage": "perspectiveFlip", "text": "ĐỪNG BẮT KHÁCH TÌM DAO KÉO"},
+    {"stage": "marketingDecode", "text": "TRẢI NGHIỆM XÚC GIÁC THỎA MÃN"},
+    {"stage": "proof", "text": "XOẸT! · TỰ NGUYỆN QUAY CLIP"},
+    {"stage": "lesson", "text": "BẮT ĐẦU TỪ GIÂY CHẠM HỘP"},
+    {"stage": "application", "text": "BÀI TEST MỞ HỘP DƯỚI 5 GIÂY"}
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "startMs": 0,
+      "endMs": 3000,
+      "purpose": "hook",
+      "focus": "visual",
+      "headline": "CÙNG MỘT KIỆN HÀNG",
+      "body": "Nghịch lý hai số phận của chiếc hộp giao hàng",
+      "assetIds": ["A01"],
+      "transition": "cut"
+    },
+    {
+      "id": "B02",
+      "startMs": 3000,
+      "endMs": 11500,
+      "purpose": "curiosity",
+      "focus": "both",
+      "headline": "BÍ MẬT DẢI XÉ ĐỎ",
+      "body": "Chi tiết nhỏ từ các thương hiệu D2C hàng đầu Glossier & Coolmate",
+      "assetIds": ["A02", "A09"],
+      "transition": "reframe"
+    },
+    {
+      "id": "B03",
+      "startMs": 11500,
+      "endMs": 19000,
+      "purpose": "perspective",
+      "focus": "voice",
+      "headline": "RÀO CẢN DAO KÉO",
+      "body": "Băng dính chằng chịt dập tắt sự háo hức nhận hàng",
+      "assetIds": ["A03"],
+      "transition": "match-move"
+    },
+    {
+      "id": "B04",
+      "startMs": 19000,
+      "endMs": 32000,
+      "purpose": "marketing",
+      "focus": "both",
+      "headline": "XÚC GIÁC THỎA MÃN",
+      "body": "Cú giật nhẹ và âm thanh xoẹt kích hoạt sự thích thú",
+      "assetIds": ["A04", "A05"],
+      "transition": "zoom-through"
+    },
+    {
+      "id": "B05",
+      "startMs": 32000,
+      "endMs": 42000,
+      "purpose": "proof",
+      "focus": "both",
+      "headline": "TỰ NGUYỆN QUAY CLIP",
+      "body": "Cảm giác kiểm soát kích hoạt dopamine thôi thúc chia sẻ",
+      "assetIds": ["A06", "A07"],
+      "transition": "mask-reveal"
+    },
+    {
+      "id": "B06",
+      "startMs": 42000,
+      "endMs": 49000,
+      "purpose": "lesson",
+      "focus": "both",
+      "headline": "ĐIỂM CHẠM ĐẦU TIÊN",
+      "body": "Ấn tượng thương hiệu bắt đầu ngay từ chiếc vỏ hộp",
+      "assetIds": ["A02"],
+      "transition": "reframe"
+    },
+    {
+      "id": "B07",
+      "startMs": 49000,
+      "endMs": 55000,
+      "purpose": "application",
+      "focus": "both",
+      "headline": "BÀI TEST MỞ HỘP",
+      "body": "Tự đặt đơn về nhà và bấm giờ kiểm tra",
+      "assetIds": ["A08", "A02"],
+      "transition": "push"
+    }
+  ],
+  "visualCues": [
+    {
+      "id": "C01",
+      "startMs": 0,
+      "endMs": 1000,
+      "spokenAnchor": "Cùng là nhận một kiện hàng",
+      "spokenSubject": "Hai kiện hàng đối lập",
+      "visualSubject": "Bàn tay chuẩn bị mở 2 kiện hàng",
+      "visualReason": "Thumbnail mở đầu 1s đối chiếu 2 số phận",
+      "semanticIntent": "Mở đầu thumbnail đối lập 2 số phận kiện hàng",
+      "sceneFamily": "hook-contrast",
+      "continuityRole": "human-action",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {"mode": "push-in", "intensity": "medium"},
+      "transition": "cut",
+      "items": [
+        {
+          "id": "c01-unboxing-contrast",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "hai kiện hàng đối lập",
+          "motion": "track",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": 0, "y": -40, "scale": 0.95, "rotation": -2, "opacity": 1},
+            "to": {"x": 0, "y": 0, "scale": 1.05, "rotation": 2, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "startMs": 1000,
+      "endMs": 3000,
+      "spokenAnchor": "nhưng có hộp khách bóc vội rồi vứt rác",
+      "spokenSubject": "Chiếc hộp bị vứt rác",
+      "visualSubject": "Hộp dán nham nhở cạnh sọt rác",
+      "visualReason": "Minh họa hành vi bóc vội rồi bỏ đi",
+      "semanticIntent": "Cho thấy số phận bị vứt bỏ của kiện hàng luộm thuộm",
+      "sceneFamily": "hook-contrast",
+      "continuityRole": "literal-evidence",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "pan", "intensity": "subtle"},
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c02-contrast-box",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "kiện hàng bị vứt rác",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1, "rotation": -2, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1, "rotation": -2, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c02-trash-tag",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "BÓC RỒI VỨT",
+          "role": "kết cục tiêu cực",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.8, "rotation": 2, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "startMs": 3000,
+      "endMs": 5500,
+      "spokenAnchor": "có hộp họ lại hào hứng dựng",
+      "spokenSubject": "Chiếc hộp được quay video",
+      "visualSubject": "Hộp carton kraft đẹp đẽ",
+      "visualReason": "Chuyển hướng sang kiện hàng được trân trọng",
+      "semanticIntent": "Cho thấy khách hào hứng chuẩn bị quay clip",
+      "sceneFamily": "hook-contrast",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {"mode": "push-in", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c03-neat-box",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp kraft dải đỏ",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {"x": -190, "y": 30, "scale": 0.85, "rotation": -2, "opacity": 0},
+            "to": {"x": -190, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "c03-unboxing-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "QUAY CLIP MỞ HỘP",
+          "role": "kết cục tích cực",
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 30, "scale": 0.8, "rotation": 1, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "startMs": 5500,
+      "endMs": 8000,
+      "spokenAnchor": "Sự khác biệt đôi khi không nằm ở",
+      "spokenSubject": "Món đồ bên trong",
+      "visualSubject": "Món quà bên trong hộp",
+      "visualReason": "Khẳng định sự khác biệt không chỉ ở sản phẩm bên trong",
+      "semanticIntent": "Phủ định giả thuyết chỉ vì món đồ đắt tiền",
+      "sceneFamily": "tear-strip-detail",
+      "continuityRole": "literal-evidence",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {"mode": "pull-out", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c04-inside-gift",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "món đồ bên trong",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": 0, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1},
+            "to": {"x": 0, "y": 0, "scale": 1.05, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "startMs": 8000,
+      "endMs": 9500,
+      "spokenAnchor": "mà nằm ở đúng một dải băng xé màu đỏ",
+      "spokenSubject": "Dải băng keo xé màu đỏ",
+      "visualSubject": "Cận cảnh dải băng xé đỏ nổi bật",
+      "visualReason": "Tập trung thị giác vào chi tiết đắt giá",
+      "semanticIntent": "Hé lộ chi tiết chiếc ruy băng xé ngang hộp",
+      "sceneFamily": "tear-strip-detail",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "push-in", "intensity": "medium"},
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "c05-neat-box",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "cận cảnh dải băng đỏ",
+          "motion": "scale",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.05, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.1, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "c05-tear-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "DẢI BĂNG XÉ ĐỎ",
+          "role": "chi tiết cốt lõi",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 30, "scale": 0.8, "rotation": 2, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 1, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "startMs": 9500,
+      "endMs": 11500,
+      "spokenAnchor": "Bạn để ý những thương hiệu D hai C hàng đầu",
+      "spokenSubject": "Thương hiệu D2C hàng đầu",
+      "visualSubject": "Bộ đôi logo thương hiệu Glossier và Coolmate",
+      "visualReason": "Hiển thị logo trực quan của các thương hiệu thành công",
+      "semanticIntent": "Dẫn chứng case study thực tế bằng logo thương hiệu",
+      "sceneFamily": "brand-case",
+      "continuityRole": "context",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "static", "intensity": "subtle"},
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c06-brand-logos",
+          "kind": "asset",
+          "assetId": "A09",
+          "role": "logo Glossier và Coolmate",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 0.88, "rotation": -2, "opacity": 0},
+            "to": {"x": -190, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "c06-brand-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "CASE STUDY D2C:\nGLOSSIER · COOLMATE",
+          "role": "case study thực tế",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.85, "rotation": 1, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "startMs": 11500,
+      "endMs": 14000,
+      "spokenAnchor": "Họ không bao giờ quấn băng dính",
+      "spokenSubject": "Không quấn băng dính 5 6 lớp",
+      "visualSubject": "Hộp dán chằng chịt băng dính vàng",
+      "visualReason": "Tái hiện bối cảnh phiền toái thường gặp",
+      "semanticIntent": "Cho thấy cảm giác phiền toái khi bóc gói truyền thống",
+      "sceneFamily": "frustration-knife",
+      "continuityRole": "literal-evidence",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {"mode": "push-in", "intensity": "subtle"},
+      "transition": "cut",
+      "items": [
+        {
+          "id": "c07-taped-box",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "hộp quấn băng dính và dao rọc",
+          "motion": "slide",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": 0, "y": 30, "scale": 0.9, "rotation": -2, "opacity": 0},
+            "to": {"x": 0, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "startMs": 14000,
+      "endMs": 16500,
+      "spokenAnchor": "bắt khách đi tìm dao kéo để rạch hộp",
+      "spokenSubject": "Hành vi tìm dao kéo",
+      "visualSubject": "Tay cầm dao rọc rạch băng dính",
+      "visualReason": "Nhấn mạnh lực cản vật lý khiến khách khó chịu",
+      "semanticIntent": "Nhấn mạnh rào cản dao kéo làm gián đoạn niềm vui",
+      "sceneFamily": "frustration-knife",
+      "continuityRole": "human-action",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {"mode": "static", "intensity": "subtle"},
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c08-taped-box",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "hộp quấn băng dính và dao",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c08-frustrate-tag",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "TÌM DAO KÉO",
+          "role": "rào cản vật lý",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.8, "rotation": 0, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "startMs": 16500,
+      "endMs": 19000,
+      "spokenAnchor": "dập tắt sự háo hức vừa nhận hàng",
+      "spokenSubject": "Dập tắt sự háo hức",
+      "visualSubject": "Nhãn cảnh báo dập tắt cảm xúc",
+      "visualReason": "Đẩy cao nhận thức về việc phá hỏng cảm xúc khách",
+      "semanticIntent": "Chỉ ra tác hại của việc tạo lực cản ngay lúc nhận hàng",
+      "sceneFamily": "frustration-knife",
+      "continuityRole": "literal-evidence",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {"mode": "push-in", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c09-taped-box",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "hộp bị rạch nham nhở",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c09-killjoy-tag",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "DẬP TẮT HÁO HỨC",
+          "role": "hậu quả cảm xúc",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.85, "rotation": -2, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "startMs": 19000,
+      "endMs": 21500,
+      "spokenAnchor": "Khi thay bằng một dải ruy băng xé",
+      "spokenSubject": "Trải nghiệm xúc giác thỏa mãn",
+      "visualSubject": "Ngón tay cầm dải ruy băng xé",
+      "visualReason": "Nâng tầm thao tác mở hộp thành trải nghiệm thú vị",
+      "semanticIntent": "Chuyển hóa việc mở hộp thành trải nghiệm xúc giác",
+      "sceneFamily": "tactile-satisfaction",
+      "continuityRole": "human-action",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {"mode": "push-in", "intensity": "subtle"},
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "c10-tear-action",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "ngón tay kéo dải ruy băng xé",
+          "motion": "slide",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {"x": 0, "y": 30, "scale": 0.9, "rotation": -1, "opacity": 0},
+            "to": {"x": 0, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "startMs": 21500,
+      "endMs": 24000,
+      "spokenAnchor": "Chỉ cần một cú giật nhẹ",
+      "spokenSubject": "Hành động giật dải băng xé",
+      "visualSubject": "Đường xé chạy mượt mà trên thân hộp",
+      "visualReason": "Tả cận cảnh sự dễ dàng không tốn sức",
+      "semanticIntent": "Thể hiện cảm giác xé nhẹ nhàng không cần dùng sức",
+      "sceneFamily": "tactile-satisfaction",
+      "continuityRole": "human-action",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "static", "intensity": "subtle"},
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c11-tear-action",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "động tác kéo dải xé",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c11-pull-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "1 CÚ GIẬT NHẸ",
+          "role": "thao tác đơn giản",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.85, "rotation": 2, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 1, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "startMs": 24000,
+      "endMs": 26500,
+      "spokenAnchor": "tiếng xoẹt giòn tan vang lên",
+      "spokenSubject": "Âm thanh xé giòn tan",
+      "visualSubject": "Hiệu ứng âm thanh xúc giác ASMR",
+      "visualReason": "Nhấn mạnh kích thích thính giác và xúc giác",
+      "semanticIntent": "Miêu tả âm thanh xoẹt thỏa mãn giác quan",
+      "sceneFamily": "tactile-satisfaction",
+      "continuityRole": "context",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "push-in", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c12-asmr-tag",
+          "kind": "code",
+          "codeTemplate": "metric",
+          "text": "XOẸT!",
+          "role": "âm thanh thỏa mãn",
+          "motion": "pop",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 0, "y": 20, "scale": 0.8, "rotation": -3, "opacity": 0},
+            "to": {"x": 0, "y": 0, "scale": 1.1, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "startMs": 26500,
+      "endMs": 29000,
+      "spokenAnchor": "chiếc hộp tự động bung mở",
+      "spokenSubject": "Chiếc hộp bung mở hoàn hảo",
+      "visualSubject": "Hộp bung nắp khoe lớp giấy lụa bên trong",
+      "visualReason": "Khoảnh khắc thị giác mãn nhãn sau khi xé",
+      "semanticIntent": "Cho thấy hộp tự động mở toang đẹp mắt",
+      "sceneFamily": "box-open-reveal",
+      "continuityRole": "literal-evidence",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {"mode": "pull-out", "intensity": "medium"},
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "c13-box-bloom",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "hộp bung mở lộ giấy lụa",
+          "motion": "scale",
+          "sfx": "ding",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": 0, "y": 20, "scale": 0.88, "rotation": 0, "opacity": 0},
+            "to": {"x": 0, "y": 0, "scale": 1.05, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "startMs": 29000,
+      "endMs": 32000,
+      "spokenAnchor": "mà không tốn chút sức lực nào",
+      "spokenSubject": "Không tốn chút sức lực",
+      "visualSubject": "Hộp bung mở kèm nhãn mở dễ dàng",
+      "visualReason": "Khẳng định sự mượt mà không lực cản",
+      "semanticIntent": "Nhấn mạnh sự dễ dàng trọn vẹn khi mở hộp",
+      "sceneFamily": "box-open-reveal",
+      "continuityRole": "literal-evidence",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "static", "intensity": "subtle"},
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c13-box-bloom",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "hộp bung mở lộ giấy lụa",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.05, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.05, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c14-easy-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "MỞ DỄ DÀNG",
+          "role": "ưu điểm mượt mà",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.85, "rotation": 1, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "startMs": 32000,
+      "endMs": 34500,
+      "spokenAnchor": "Cảm giác kiểm soát và âm thanh đã tai này",
+      "spokenSubject": "Cảm giác kiểm soát và thỏa mãn",
+      "visualSubject": "Đồ họa dopamine và xúc giác",
+      "visualReason": "Giải thích cơ chế tâm lý kích hoạt hormone vui vẻ",
+      "semanticIntent": "Chỉ ra cảm giác kiểm soát trọn vẹn của khách",
+      "sceneFamily": "tactile-framework",
+      "continuityRole": "context",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {"mode": "push-in", "intensity": "subtle"},
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "c15-dopamine-art",
+          "kind": "asset",
+          "assetId": "A07",
+          "role": "đồ họa xúc giác dopamine",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": 0, "y": 30, "scale": 0.88, "rotation": 1, "opacity": 0},
+            "to": {"x": 0, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "startMs": 34500,
+      "endMs": 37000,
+      "spokenAnchor": "kích hoạt hormone phần thưởng",
+      "spokenSubject": "Hormone phần thưởng",
+      "visualSubject": "Nhãn dopamine phần thưởng",
+      "visualReason": "Nhấn mạnh kích hoạt tâm lý ngay giây đầu tiên",
+      "semanticIntent": "Nhấn mạnh phần thưởng tâm lý tức thì",
+      "sceneFamily": "tactile-framework",
+      "continuityRole": "context",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "static", "intensity": "subtle"},
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c15-dopamine-art",
+          "kind": "asset",
+          "assetId": "A07",
+          "role": "đồ họa dopamine",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c16-dopamine-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "THƯỞNG DOPAMINE",
+          "role": "cơ chế sinh học",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.85, "rotation": 1, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "startMs": 37000,
+      "endMs": 39500,
+      "spokenAnchor": "Trải nghiệm quá mượt mà khiến",
+      "spokenSubject": "Khách hàng quay video unboxing",
+      "visualSubject": "Khách dựng điện thoại quay video unboxing",
+      "visualReason": "Minh họa hành vi tự phát quay clip khoe mạng",
+      "semanticIntent": "Cho thấy khách hàng hào hứng bấm máy quay",
+      "sceneFamily": "ugc-recording",
+      "continuityRole": "human-action",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {"mode": "push-in", "intensity": "medium"},
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "c17-filming-ugc",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "khách quay video unboxing",
+          "motion": "slide",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": 0, "y": 30, "scale": 0.88, "rotation": -1, "opacity": 0},
+            "to": {"x": 0, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "startMs": 39500,
+      "endMs": 42000,
+      "spokenAnchor": "rút điện thoại quay lại khoảnh khắc đó",
+      "spokenSubject": "Chia sẻ khoảnh khắc lên mạng",
+      "visualSubject": "Khách quay unboxing khoe story",
+      "visualReason": "Biến người mua thành nhà sáng tạo nội dung cho shop",
+      "semanticIntent": "Nhấn mạnh người mua tự nguyện trở thành UGC creator",
+      "sceneFamily": "ugc-recording",
+      "continuityRole": "human-action",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "static", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c17-filming-ugc",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "khách quay video unboxing",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c18-share-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "TỰ NGUYỆN QUAY CLIP",
+          "role": "hành vi tự nhiên",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.85, "rotation": 2, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "startMs": 42000,
+      "endMs": 45000,
+      "spokenAnchor": "Trải nghiệm thương hiệu thực ra không bắt đầu",
+      "spokenSubject": "Bài học trải nghiệm thương hiệu",
+      "visualSubject": "Hộp kraft dải đỏ quay lại sân khấu",
+      "visualReason": "Gắn thông điệp đúc kết với hình ảnh chiếc hộp",
+      "semanticIntent": "Đưa thông điệp cốt lõi một cách nhẹ nhàng",
+      "sceneFamily": "lesson-board",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {"mode": "push-in", "intensity": "subtle"},
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "c19-lesson-box",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp motif bài học",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {"x": -190, "y": 30, "scale": 0.85, "rotation": -2, "opacity": 0},
+            "to": {"x": -190, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "c19-lesson-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "BẮT ĐẦU TỪ VỎ HỘP",
+          "role": "thông điệp cốt lõi",
+          "motion": "stamp",
+          "sfx": "sticker-popup",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 30, "scale": 0.85, "rotation": 2, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "startMs": 45000,
+      "endMs": 47000,
+      "spokenAnchor": "từ giây đầu tiên tay họ chạm vào",
+      "spokenSubject": "Giây đầu tiên chạm vào vỏ hộp",
+      "visualSubject": "Hộp dải đỏ được chạm tay",
+      "visualReason": "Khắc sâu khoảnh khắc điểm chạm đầu tiên",
+      "semanticIntent": "Nhấn mạnh giây đầu tiên chạm vào vỏ hộp",
+      "sceneFamily": "lesson-board",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {"mode": "static", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c19-lesson-box",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp motif bài học",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c20-touch-tag",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "ĐIỂM CHẠM ĐẦU TIÊN",
+          "role": "khoảnh khắc quyết định",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.85, "rotation": 0, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "startMs": 47000,
+      "endMs": 49000,
+      "spokenAnchor": "chiếc vỏ hộp bên ngoài",
+      "spokenSubject": "Chiếc vỏ hộp bên ngoài",
+      "visualSubject": "Hộp quấn băng dính bị cảnh báo",
+      "visualReason": "Nhắc nhở đừng để băng keo luộm thuộm làm hỏng trải nghiệm",
+      "semanticIntent": "Lời nhắc nhở đừng coi nhẹ chiếc vỏ hộp bên ngoài",
+      "sceneFamily": "lesson-board",
+      "continuityRole": "literal-evidence",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "push-in", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c21-bad-box",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "hộp quấn băng dính",
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.02, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c21-no-tape-tag",
+          "kind": "code",
+          "codeTemplate": "warning",
+          "text": "ĐỪNG COI NHẸ",
+          "role": "lời nhắc nhở",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.85, "rotation": -2, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "startMs": 49000,
+      "endMs": 51500,
+      "spokenAnchor": "Hôm nay, bạn hãy thử tự đặt",
+      "spokenSubject": "Tự đặt đơn và bấm giờ",
+      "visualSubject": "Đồng hồ bấm giờ đặt cạnh kiện hàng",
+      "visualReason": "Hành động thực nghiệm ngay cho chủ shop",
+      "semanticIntent": "Đưa ra bài test thực tế cho chủ shop",
+      "sceneFamily": "audit-test",
+      "continuityRole": "application",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {"mode": "push-in", "intensity": "medium"},
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "c22-timer-audit",
+          "kind": "asset",
+          "assetId": "A08",
+          "role": "đồng hồ bấm giờ test mở hộp",
+          "motion": "slide",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {"x": 0, "y": 30, "scale": 0.88, "rotation": -1, "opacity": 0},
+            "to": {"x": 0, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "startMs": 51500,
+      "endMs": 53000,
+      "spokenAnchor": "xem mất bao nhiêu giây để mở",
+      "spokenSubject": "Số giây mở hộp",
+      "visualSubject": "Đồng hồ hiển thị 5 giây",
+      "visualReason": "Thước đo thời gian mở hộp không lực cản",
+      "semanticIntent": "Nhấn mạnh tiêu chuẩn mở hộp nhanh chóng",
+      "sceneFamily": "audit-test",
+      "continuityRole": "application",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "static", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c22-timer-audit",
+          "kind": "asset",
+          "assetId": "A08",
+          "role": "đồng hồ bấm giờ",
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 1.04, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c23-speed-tag",
+          "kind": "code",
+          "codeTemplate": "metric",
+          "text": "DƯỚI 5 GIÂY",
+          "role": "tiêu chuẩn tốc độ",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {"x": 200, "y": 20, "scale": 0.85, "rotation": 0, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 0.95, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "startMs": 53000,
+      "endMs": 54200,
+      "spokenAnchor": "Lưu video này để",
+      "spokenSubject": "CTA lưu video",
+      "visualSubject": "Chiếc hộp bên cạnh nút Lưu video",
+      "visualReason": "Kêu gọi hành động lưu video duy nhất",
+      "semanticIntent": "Kêu gọi lưu video để tối ưu khâu đóng gói",
+      "sceneFamily": "cta",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {"mode": "pull-out", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c24-box-cta",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp khép lại video",
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {"x": -190, "y": 20, "scale": 0.9, "rotation": -2, "opacity": 0},
+            "to": {"x": -190, "y": 0, "scale": 0.98, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "c24-save-btn",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "LƯU VIDEO",
+          "role": "nút CTA duy nhất",
+          "motion": "stamp",
+          "sfx": "click",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {"x": 200, "y": 30, "scale": 0.85, "rotation": 2, "opacity": 0},
+            "to": {"x": 190, "y": 0, "scale": 1, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "startMs": 54200,
+      "endMs": 55000,
+      "spokenAnchor": "kiểm tra lại khâu đóng gói của bạn",
+      "spokenSubject": "Khép lại thông điệp đóng gói",
+      "visualSubject": "Chiếc hộp và nút CTA",
+      "visualReason": "Khép lại toàn bộ thông điệp unboxing",
+      "semanticIntent": "Khép lại video với thông điệp trải nghiệm đóng gói",
+      "sceneFamily": "cta",
+      "continuityRole": "motif-anchor",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {"mode": "push-in", "intensity": "subtle"},
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "c24-box-cta",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "hộp khép lại video",
+          "motion": "none",
+          "semanticRole": "subject",
+          "motifKey": "neat-red-box",
+          "transform": {
+            "from": {"x": -190, "y": 0, "scale": 0.98, "rotation": 0, "opacity": 1},
+            "to": {"x": -190, "y": 0, "scale": 0.98, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "c24-save-btn",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "LƯU VIDEO",
+          "role": "nút CTA duy nhất",
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {"x": 190, "y": 0, "scale": 1, "rotation": 0, "opacity": 1},
+            "to": {"x": 190, "y": 0, "scale": 1, "rotation": 0, "opacity": 1},
+            "easing": "linear"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "A01",
+      "src": "ep008/v01/generated/a01-unboxing-contrast-alpha-v01.png",
+      "alt": "Hai kiện hàng đối lập: một hộp dán băng dính nham nhở cạnh sọt rác và một hộp kraft tinh gọn được khách cầm",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Two parcel shipping boxes side by side on uniform chroma green #00FF00 with 12% margin: on left, a messy cardboard box with peeling yellow tape placed near a trash bin; on right, a neat clean aesthetic brown kraft cardboard shipping box with a bright red pull strip held gently by human hands, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A02",
+      "src": "ep008/v01/generated/a02-neat-box-red-strip-alpha-v01.png",
+      "alt": "Chiếc hộp carton kraft đóng gói tinh gọn với dải băng keo xé màu đỏ nổi bật",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "A single premium minimalist brown kraft cardboard shipping box with a prominent bright red tear strip zipper ribbon running horizontally across the front with a small pull tab on uniform chroma green #00FF00 with 12% margin, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A03",
+      "src": "ep008/v01/generated/a03-taped-box-cutter-knife-alpha-v01.png",
+      "alt": "Chiếc hộp quấn chằng chịt băng dính vàng và bàn tay cầm dao rọc giấy chật vật rạch",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Frustrating package opening scene on uniform chroma green #00FF00 with 12% margin: a cardboard parcel box messy wrapped in thick multi-layered yellow plastic packing tape, human hand holding a metal utility cutter knife struggling to slice through the tape, soft daylight, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A04",
+      "src": "ep008/v01/generated/a04-tear-strip-action-alpha-v01.png",
+      "alt": "Cận cảnh ngón tay kéo dải ruy băng xé màu đỏ mượt mà",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Close-up of human fingers pulling and peeling a vibrant red tear strip ribbon across a brown kraft cardboard box on uniform chroma green #00FF00 with 12% margin, smoothly zipping open with clean paper edges and paper teeth, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A05",
+      "src": "ep008/v01/generated/a05-box-blooming-open-alpha-v01.png",
+      "alt": "Chiếc hộp carton bung mở nắp gọn gàng để lộ lớp giấy lụa bọc hàng bên trong",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "A neat brown kraft shipping box beautifully blooming open with clean flaps folded back on uniform chroma green #00FF00 with 12% margin, revealing neatly wrapped white tissue paper and a clean gift seal inside, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A06",
+      "src": "ep008/v01/generated/a06-customer-filming-unboxing-alpha-v01.png",
+      "alt": "Khách hàng trẻ dựng điện thoại trên bàn quay video unboxing mở hộp",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "A happy young customer sitting at an aesthetic wooden table on uniform chroma green #00FF00 with 12% margin, filming a package unboxing video with a modern smartphone mounted on a mini desk tripod, smiling in excitement, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A07",
+      "src": "ep008/v01/generated/a07-tactile-dopamine-concept-alpha-v01.png",
+      "alt": "Đồ họa xúc giác thỏa mãn kết nối ngón tay chạm và cảm xúc vui vẻ",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Conceptual illustration of tactile delight and sensory pleasure on uniform chroma green #00FF00 with 12% margin: a clean fingertip touch creating subtle harmonic pink and pastel ripple waves connected to a glowing reward star badge, soft daylight, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A08",
+      "src": "ep008/v01/generated/a08-timer-box-audit-alpha-v01.png",
+      "alt": "Chiếc đồng hồ bấm giờ cơ học hiển thị 5 giây đặt cạnh kiện hàng",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "A classic stainless steel mechanical stopwatch displaying 00:05 seconds sitting next to a neat minimalist brown kraft parcel box on uniform chroma green #00FF00 with 12% margin, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A09",
+      "src": "ep008/v01/generated/a09-d2c-brand-logos-alpha-v01.png",
+      "alt": "Bộ đôi logo thương hiệu D2C Glossier và Coolmate trên nền huy hiệu giấy phong cách sticker",
+      "kind": "image",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "mediaPrompt": "Two aesthetic minimalist brand logo badges side by side on uniform chroma green #00FF00 with 12% margin: on left, the iconic chic Glossier lowercase typographic logo on a soft pastel pink paper badge; on right, the modern bold Coolmate typographic logo on a clean kraft paper badge, sharp clean outlines, photoreal paper sticker cutout, isolated cutout, no gradient, texture, vignette, shadow."
+    }
+  ],
+  "editBlueprint": {
+    "visualGrammar": "subject-led-v1",
+    "motionGrammar": "continuous-stage-v1",
+    "targetFps": 30,
+    "canvas": {"width": 1080, "height": 1920},
+    "safeZoneTop": 175,
+    "safeZoneBottom": 1760
+  },
+  "sources": [
+    {
+      "title": "The Psychology of the Unboxing Experience - Dotcom Distribution Study",
+      "url": "https://dotcomdist.com/unboxing-study/",
+      "accessedAt": "2026-08-18",
+      "supports": "Nghiên cứu về trải nghiệm mở hộp và xu hướng chia sẻ video unboxing (UGC) của người tiêu dùng."
+    },
+    {
+      "title": "Glossier Packaging & Unboxing Viral Phenomenon",
+      "url": "https://www.glossier.com",
+      "accessedAt": "2026-08-18",
+      "supports": "Case study thực tế về bao bì D2C với dải kéo xé và túi ziplock tạo làn sóng UGC unboxing toàn cầu."
+    }
+  ],
+  "quotaPlan": {
+    "idempotencyPrefix": "agency-marketing-tiktok-ep008-v01",
+    "estimatedImageCalls": 9,
+    "actualImageCalls": 0,
+    "estimatedTtsCharacters": 940,
+    "actualTtsCharacters": 0,
+    "reusedAssets": 0
+  },
+  "approval": {
+    "status": "script-review",
+    "submittedAt": "2026-08-18T08:17:00.000Z",
+    "approvedAt": null,
+    "notes": "Script package for EP008 includes dedicated A09 asset for Glossier & Coolmate brand logos."
+  }
+}

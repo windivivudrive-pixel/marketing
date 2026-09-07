@@ -1,0 +1,586 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-26T03:37:27.223Z",
+  "items": [
+    {
+      "path": "briefs/ep001-tiktok-bat-dau-tu-san-pham-hay-khach-hang-v01.md",
+      "id": "EP001",
+      "title": "EP001 — TikTok doanh nghiệp nên bắt đầu từ sản phẩm hay khách hàng?",
+      "slug": "tiktok-bat-dau-tu-san-pham-hay-khach-hang",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep001-tiktok-bat-dau-tu-san-pham-hay-khach-hang-v02.md",
+      "id": "EP001",
+      "title": "EP001 — TikTok doanh nghiệp nên bắt đầu từ sản phẩm hay khách hàng?",
+      "slug": "tiktok-bat-dau-tu-san-pham-hay-khach-hang",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep001-tiktok-bat-dau-tu-san-pham-hay-khach-hang-v03.md",
+      "id": "EP001",
+      "title": "EP001 — TikTok doanh nghiệp nên bắt đầu từ sản phẩm hay khách hàng?",
+      "slug": "tiktok-bat-dau-tu-san-pham-hay-khach-hang",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep002-seeding-ao-v01.md",
+      "id": "EP002",
+      "title": "EP002 — Seeding ảo: Cứu kênh mới hay làm thuật toán \"bỏ chạy\"?",
+      "slug": "seeding-ao-cuu-kenh-hay-bop-tuong-tac",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep002-seeding-ao-v03.md",
+      "id": "EP002",
+      "title": "EP002 — Seeding: mở lời thoại, không dựng màn kịch",
+      "slug": "seeding-ao-mo-loi-thoai-khong-dung-man-kich",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep003-affiliate-khong-tha-rong-v03.md",
+      "id": "EP003",
+      "title": "EP003 — Affiliate không phải thả hoa hồng rồi chờ may mắn",
+      "slug": "affiliate-khong-tha-rong",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep003-coolmate-affiliate-v01.md",
+      "id": "EP003",
+      "title": "EP003 — Case Study Coolmate: Tại sao người ta nổ hàng ngàn đơn Affiliate, còn bạn chạy Affiliate là LỖ?",
+      "slug": "case-study-coolmate-affiliate-hieu-qua",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep003-coolmate-affiliate-v02.md",
+      "id": "EP003",
+      "title": "EP003 — Case Study Coolmate: Tại sao người ta nổ hàng ngàn đơn Affiliate, còn bạn chạy Affiliate là LỖ?",
+      "slug": "case-study-coolmate-affiliate-hieu-qua",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep003-koc-ngoai-hay-nhan-su-noi-bo-v01.md",
+      "id": "EP003",
+      "title": "EP003 — TikTok doanh nghiệp: Nên thuê KOC ngoài hay dắt nhân sự nội bộ đứng máy?",
+      "slug": "koc-ngoai-hay-nhan-su-noi-bo",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep004-mixue-chagee-drama-vs-giai-quyet-noi-dau-v01.md",
+      "id": "EP004",
+      "title": "EP004 — Đổ tiền làm clip Drama viral hay chọn làm clip \"Giải quyết nỗi đau\" để chốt đơn?",
+      "slug": "mixue-chagee-drama-vs-giai-quyet-noi-dau",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep004-mixue-chagee-drama-vs-giai-quyet-noi-dau-v02.md",
+      "id": "EP004",
+      "title": "EP004 — Đổ tiền làm clip Drama viral hay chọn làm clip \"Giải quyết nỗi đau\" để chốt đơn?",
+      "slug": "mixue-chagee-drama-vs-giai-quyet-noi-dau",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep004-ngoc-sau-rieng-q7-ban-su-an-tam-v01.md",
+      "id": "EP004",
+      "title": "EP004 — Giải mã Ngọc Sầu Riêng Q7: Vì sao 600k/kg cơm sầu vẫn cháy hàng?",
+      "slug": "ngoc-sau-rieng-q7-ban-su-an-tam",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep005-phe-la-ban-tra-dac-san-camping-v01.md",
+      "id": "EP005",
+      "title": "EP005 — Giải mã Phê La: Bán trà đắt + Bắt ngồi ghế xếp vỉa hè sao vẫn full bàn?",
+      "slug": "phe-la-ban-tra-dac-san-camping",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep006-gia-cao-khong-tu-tao-cao-cap-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "ep006-gia-cao-khong-tu-tao-cao-cap-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep006-gia-cao-khong-tu-tao-cao-cap-v01.review.md",
+      "id": "",
+      "title": "EP006 — Giá cao không tự tạo ra cảm giác cao cấp",
+      "slug": "ep006-gia-cao-khong-tu-tao-cao-cap-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep006-gia-cao-khong-tu-tao-cao-cap-v02.json",
+      "id": "",
+      "title": "",
+      "slug": "ep006-gia-cao-khong-tu-tao-cao-cap-v02",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep006-gia-cao-khong-tu-tao-cao-cap-v02.review.md",
+      "id": "",
+      "title": "EP006 — Cùng một ly, đổi giá là thành cao cấp?",
+      "slug": "ep006-gia-cao-khong-tu-tao-cao-cap-v02.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep006-vi-sao-giu-tui-vut-coc-v03.json",
+      "id": "",
+      "title": "",
+      "slug": "ep006-vi-sao-giu-tui-vut-coc-v03",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep006-vi-sao-giu-tui-vut-coc-v03.review.md",
+      "id": "",
+      "title": "EP006 — Vì sao người ta vứt chiếc cốc nhưng lại giữ chiếc túi?",
+      "slug": "ep006-vi-sao-giu-tui-vut-coc-v03.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep007-the-tich-diem-10-o-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "ep007-the-tich-diem-10-o-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep007-the-tich-diem-10-o-v01.review.md",
+      "id": "",
+      "title": "EP007 — Thẻ tích điểm 10 ô: Bí mật của 2 con dấu đóng sẵn",
+      "slug": "ep007-the-tich-diem-10-o-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep008-dai-bang-keo-xe-do-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "ep008-dai-bang-keo-xe-do-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep008-dai-bang-keo-xe-do-v01.review.md",
+      "id": "",
+      "title": "EP008 — Dải băng keo xé đỏ: Chi tiết nhỏ khiến khách tự quay clip unboxing",
+      "slug": "ep008-dai-bang-keo-xe-do-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep009-phi-ship-xuat-hien-cuoi-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "ep009-phi-ship-xuat-hien-cuoi-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep009-phi-ship-xuat-hien-cuoi-v01.review.md",
+      "id": "",
+      "title": "EP009 — Cùng trả 229 nghìn, vì sao phí ship xuất hiện cuối lại khó chịu hơn?",
+      "slug": "ep009-phi-ship-xuat-hien-cuoi-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep009-phi-ship-xuat-hien-cuoi-v02.json",
+      "id": "",
+      "title": "",
+      "slug": "ep009-phi-ship-xuat-hien-cuoi-v02",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep009-phi-ship-xuat-hien-cuoi-v02.review.md",
+      "id": "",
+      "title": "EP009 — Cùng trả 229 nghìn, vì sao phí ship xuất hiện cuối lại khó chịu hơn?",
+      "slug": "ep009-phi-ship-xuat-hien-cuoi-v02.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep010-quay-hai-muoi-bon-vi-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "ep010-quay-hai-muoi-bon-vi-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep010-quay-hai-muoi-bon-vi-v01.review.md",
+      "id": "",
+      "title": "EP010 — Quầy 24 vị nhìn hấp dẫn hơn, sao khách lại dễ bỏ đi?",
+      "slug": "ep010-quay-hai-muoi-bon-vi-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep010-quay-hai-muoi-bon-vi-v02.json",
+      "id": "",
+      "title": "",
+      "slug": "ep010-quay-hai-muoi-bon-vi-v02",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep010-quay-hai-muoi-bon-vi-v02.review.md",
+      "id": "",
+      "title": "EP010 — Quầy 24 vị nhìn hấp dẫn hơn, sao khách lại dễ bỏ đi?",
+      "slug": "ep010-quay-hai-muoi-bon-vi-v02.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep011-cam-thu-muoi-giay-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "ep011-cam-thu-muoi-giay-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep011-cam-thu-muoi-giay-v01.review.md",
+      "id": "",
+      "title": "EP011 — Chưa mua mà cầm thử mười giây, sao tự nhiên khó đặt xuống?",
+      "slug": "ep011-cam-thu-muoi-giay-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep011-cam-thu-muoi-giay-v02.json",
+      "id": "",
+      "title": "",
+      "slug": "ep011-cam-thu-muoi-giay-v02",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep011-cam-thu-muoi-giay-v02.review.md",
+      "id": "",
+      "title": "EP011 — Chưa mua mà cầm thử mười giây, sao tự nhiên khó đặt xuống?",
+      "slug": "ep011-cam-thu-muoi-giay-v02.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep012-so-khong-co-tieng-noi-rieng-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "ep012-so-khong-co-tieng-noi-rieng-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep012-so-khong-co-tieng-noi-rieng-v01.review.md",
+      "id": "",
+      "title": "EP012 — Một đồng rất nhỏ. Số 0 lại là một câu chuyện khác.",
+      "slug": "ep012-so-khong-co-tieng-noi-rieng-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep013-nen-roi-lam-khach-nghi-nhieu-hon-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "ep013-nen-roi-lam-khach-nghi-nhieu-hon-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep013-nen-roi-lam-khach-nghi-nhieu-hon-v01.review.md",
+      "id": "",
+      "title": "EP013 — Cùng một sản phẩm, đặt lên nền rối là khách phải nghĩ nhiều hơn.",
+      "slug": "ep013-nen-roi-lam-khach-nghi-nhieu-hon-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep014-mon-sinh-ra-de-khong-ai-chon-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "ep014-mon-sinh-ra-de-khong-ai-chon-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "briefs/ep014-mon-sinh-ra-de-khong-ai-chon-v01.review.md",
+      "id": "",
+      "title": "EP014 — Có những món sinh ra để không ai chọn.",
+      "slug": "ep014-mon-sinh-ra-de-khong-ai-chon-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260812-ep001-product-or-customer-ideas-v01.md",
+      "id": "EP001",
+      "title": "EP001 — Xây dựng TikTok nên bắt đầu từ sản phẩm hay khách hàng?",
+      "slug": "tiktok-nen-bat-dau-tu-san-pham-hay-khach-hang",
+      "viewerQuestion": "Xây dựng TikTok cho doanh nghiệp nên bắt đầu từ sản phẩm hay khách hàng?",
+      "sideA": "Bắt đầu bằng danh sách tính năng sản phẩm",
+      "sideB": "Bắt đầu từ khách hàng và tình huống thực tế",
+      "payoff": "Khách hàng quyết định góc kể; sản phẩm cung cấp bằng chứng cho lời giải."
+    },
+    {
+      "path": "ideas/20260812-ideas-v02.md",
+      "id": "",
+      "title": "Danh Sách Ý Tưởng Video TikTok - Agency Marketing Series (v02)",
+      "slug": "20260812-ideas-v02",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260813-ep003-ideas-v01.md",
+      "id": "",
+      "title": "Danh Sách Ý Tưởng Video TikTok - Agency Marketing Series (EP003 - v01)",
+      "slug": "20260813-ep003-ideas-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260817-branding-story-ideas-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "20260817-branding-story-ideas-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260817-branding-story-ideas-v01.review.md",
+      "id": "",
+      "title": "CreatorFlow idea review",
+      "slug": "20260817-branding-story-ideas-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260817-ep006-giu-tui-vut-coc-one-idea-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "20260817-ep006-giu-tui-vut-coc-one-idea-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260817-ep006-giu-tui-vut-coc-one-idea-v01.review.md",
+      "id": "",
+      "title": "CreatorFlow idea review",
+      "slug": "20260817-ep006-giu-tui-vut-coc-one-idea-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260818-branding-ideas-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "20260818-branding-ideas-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260818-branding-ideas-v01.review.md",
+      "id": "",
+      "title": "CreatorFlow idea review",
+      "slug": "20260818-branding-ideas-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260824-branding-ideas-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "20260824-branding-ideas-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260824-branding-ideas-v01.review.md",
+      "id": "",
+      "title": "CreatorFlow idea review",
+      "slug": "20260824-branding-ideas-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260824-branding-ideas-v02.json",
+      "id": "",
+      "title": "",
+      "slug": "20260824-branding-ideas-v02",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260824-branding-ideas-v02.review.md",
+      "id": "",
+      "title": "CreatorFlow idea review",
+      "slug": "20260824-branding-ideas-v02.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260824-branding-ideas-v03.json",
+      "id": "",
+      "title": "",
+      "slug": "20260824-branding-ideas-v03",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260824-branding-ideas-v03.review.md",
+      "id": "",
+      "title": "CreatorFlow idea review",
+      "slug": "20260824-branding-ideas-v03.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260825-phenomenon-ideas-v01.json",
+      "id": "",
+      "title": "",
+      "slug": "20260825-phenomenon-ideas-v01",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    },
+    {
+      "path": "ideas/20260825-phenomenon-ideas-v01.review.md",
+      "id": "",
+      "title": "CreatorFlow idea review",
+      "slug": "20260825-phenomenon-ideas-v01.review",
+      "viewerQuestion": "",
+      "sideA": "",
+      "sideB": "",
+      "payoff": ""
+    }
+  ]
+}

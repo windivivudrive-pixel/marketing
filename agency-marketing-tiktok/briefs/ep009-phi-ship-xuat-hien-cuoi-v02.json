@@ -1,0 +1,1763 @@
+{
+  "schemaVersion": 3,
+  "metadata": {
+    "episodeId": "EP009",
+    "slug": "phi-ship-xuat-hien-cuoi",
+    "version": 2,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260824-branding-ideas-v03.json#IDEA001",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 58,
+    "researchRequired": true
+  },
+  "creativeContract": {
+    "title": "Cùng trả 229 nghìn, vì sao phí ship xuất hiện cuối lại khó chịu hơn?",
+    "seriesLabelFromProfile": true,
+    "audience": "Chủ doanh nghiệp, đội marketing nội bộ, founder và người xây TikTok cho thương hiệu",
+    "painPoint": "Khách đổi cảm xúc ở bước thanh toán vì chi phí bắt buộc khác với con số họ vừa ghi nhớ.",
+    "viewerQuestion": "Cùng tổng tiền, vì sao thời điểm hiện phí lại làm trải nghiệm khác hẳn?",
+    "premise": "Hai checkout cùng tổng nhưng một checkout tạo cú bất ngờ ở bước cuối.",
+    "lesson": "Đừng để chi phí bắt buộc trở thành cú lật ở bước cuối.",
+    "payoff": "Người xem tự audit toàn bộ chi phí trước nút thanh toán.",
+    "caseType": "research-backed-demonstration",
+    "caseDisclosure": "Dùng mockup trung tính hoặc demo tự thực hiện; nghiên cứu được diễn giải đúng phạm vi, không dùng số liệu hoặc kết quả tự chế.",
+    "tone": "Trẻ trung, quan sát tinh, giải trí nhẹ, thực chiến, không guru và không giáo điều.",
+    "cta": "save",
+    "narrativeObject": "Tem phí ship ba mươi nghìn",
+    "visualStrategy": {
+      "version": "subject-led-v1",
+      "recurringMotif": "Tem phí ship ba mươi nghìn",
+      "motifRule": "Chỉ xuất hiện khi còn giúp giải thích voice; rời khung khi người, hành động, bằng chứng hoặc audit trở thành chủ thể.",
+      "sceneFamilies": [
+        "checkout-hook",
+        "prediction-copy",
+        "included-checkout",
+        "included-price",
+        "base-price-checkout",
+        "buyer-checkout-action",
+        "fee-surprise-reaction",
+        "same-total-proof",
+        "expectation-mechanism",
+        "buyer-doubt",
+        "receipt-analysis",
+        "anchor-price",
+        "late-fee-mechanism",
+        "recalculation-proof",
+        "partitioned-price-proof",
+        "research-action",
+        "conditional-proof",
+        "evidence-limit",
+        "lesson-check",
+        "owner-audit-action",
+        "checkout-audit",
+        "jumpscare-payoff",
+        "cta"
+      ],
+      "humanMoments": [
+        "Người mua bấm qua checkout và phản ứng khi phí xuất hiện",
+        "Chủ shop tự mua thử và ghi lại các khoản bắt buộc"
+      ]
+    },
+    "openingFrame": {
+      "visualTension": "Tem phí ship không làm tổng tiền đổi nhưng xuất hiện ở phút chót làm ngón tay khựng lại",
+      "heroSubject": "Ngón tay sắp chạm nút thanh toán và tem phí ship chui vào khung",
+      "contrast": "Cùng tổng tiền nhưng một bên phí xuất hiện từ đầu, một bên đến muộn",
+      "firstFrameCopy": "PHÍ KHÔNG ĐẮT HƠN · CHỈ ĐẾN MUỘN"
+    },
+    "retentionPlan": {
+      "mode": "business-phenomenon-decode-v1",
+      "viewerPrediction": "Phí muộn không làm tổng tiền đổi nên cảm giác mua cũng không đổi.",
+      "withheldAnswer": "Giá đầu tiên tạo mốc; phí bắt buộc đến muộn bắt khách nhìn lại cả giao dịch.",
+      "plainLanguageMechanism": "Não lấy giá đầu tiên làm mốc; phí đến muộn làm khách phải tính lại và tự hỏi giá ban đầu có phải giá thật không.",
+      "theoryReveal": {
+        "technicalLabel": "",
+        "earliestMs": 24400,
+        "plainLanguageAnchor": "Não đã lấy giá đầu tiên làm mốc"
+      },
+      "resets": [
+        {
+          "id": "R01",
+          "atMs": 0,
+          "trigger": "Hai tổng tiền giống nhau",
+          "informationGain": "Mở nghịch lý về thời điểm báo phí",
+          "visualReset": "Hai điện thoại cùng tổng",
+          "sceneFamily": "checkout-hook"
+        },
+        {
+          "id": "R02",
+          "atMs": 7600,
+          "trigger": "Phí ship bật ở bước cuối",
+          "informationGain": "Thêm cú bất ngờ làm khách tính lại",
+          "visualReset": "Tem phí trượt vào receipt",
+          "sceneFamily": "base-price-checkout"
+        },
+        {
+          "id": "R03",
+          "atMs": 14800,
+          "trigger": "Tổng vẫn giống nhau",
+          "informationGain": "Lật từ tổng tiền sang kỳ vọng",
+          "visualReset": "Hai receipt khớp cùng tổng",
+          "sceneFamily": "same-total-proof"
+        },
+        {
+          "id": "R04",
+          "atMs": 24400,
+          "trigger": "Não lấy giá đầu tiên làm mốc",
+          "informationGain": "Giải cơ chế bằng lời đời thường",
+          "visualReset": "Sơ đồ giá-mốc-phí",
+          "sceneFamily": "receipt-analysis"
+        },
+        {
+          "id": "R05",
+          "atMs": 34000,
+          "trigger": "Nghiên cứu về giá chia phần",
+          "informationGain": "Đưa bằng chứng và giới hạn",
+          "visualReset": "Sơ đồ nguồn nghiên cứu",
+          "sceneFamily": "partitioned-price-proof"
+        },
+        {
+          "id": "R06",
+          "atMs": 43600,
+          "trigger": "Không cần biến mọi thứ thành miễn phí",
+          "informationGain": "Chặn kết luận quá đà",
+          "visualReset": "Tem free ship bị gạch",
+          "sceneFamily": "lesson-check"
+        },
+        {
+          "id": "R07",
+          "atMs": 50800,
+          "trigger": "Tự mua thử trên điện thoại",
+          "informationGain": "Chuyển thành audit làm ngay",
+          "visualReset": "Checklist checkout",
+          "sceneFamily": "checkout-audit"
+        }
+      ]
+    },
+    "storyArc": {
+      "familiarHook": {
+        "startMs": 0,
+        "endMs": 3000,
+        "purpose": "Đặt nghịch lý bằng vật thể và tình huống quen thuộc",
+        "voiceAnchor": "Có một khoản phí",
+        "visualProgression": "Hai điện thoại cùng tổng tiền mở prediction game"
+      },
+      "curiosityBuild": {
+        "startMs": 3000,
+        "endMs": 10000,
+        "purpose": "Cho người xem tự đoán và theo dõi tình huống",
+        "voiceAnchor": "Bạn nhìn hai màn hình này nhé",
+        "visualProgression": "Ngón tay đi qua hai checkout và phí muộn xuất hiện"
+      },
+      "perspectiveFlip": {
+        "startMs": 10000,
+        "endMs": 19600,
+        "purpose": "Lật giả định trực giác",
+        "voiceAnchor": "đến gần nút thanh toán",
+        "visualProgression": "Hai receipt ghép lại để lộ cùng tổng nhưng khác kỳ vọng"
+      },
+      "marketingDecode": {
+        "startMs": 19600,
+        "endMs": 31600,
+        "purpose": "Giải cơ chế bằng tiếng Việt đời thường trước thuật ngữ",
+        "voiceAnchor": "Não đã lấy giá đầu tiên làm mốc",
+        "visualProgression": "Sơ đồ giá đầu tiên tới kỳ vọng rồi phí muộn chặn ngang"
+      },
+      "proof": {
+        "startMs": 31600,
+        "endMs": 41200,
+        "purpose": "Đưa bằng chứng có nguồn và giới hạn kết luận",
+        "voiceAnchor": "Nghiên cứu cho thấy",
+        "visualProgression": "Đồ họa nghiên cứu trung tính và giới hạn kết luận"
+      },
+      "lesson": {
+        "startMs": 41200,
+        "endMs": 50000,
+        "purpose": "Chốt đúng một bài học",
+        "voiceAnchor": "Vậy đừng vội hô",
+        "visualProgression": "Tem miễn phí giao hàng bị gỡ khỏi một kết luận vội"
+      },
+      "application": {
+        "startMs": 50000,
+        "endMs": 58000,
+        "purpose": "Cho thao tác áp dụng và một CTA",
+        "voiceAnchor": "Hãy tự mua thử",
+        "visualProgression": "Chủ shop audit checkout rồi CTA lưu"
+      }
+    },
+    "hookDelivery": "aphoristic-contrast"
+  },
+  "topicKeywords": [
+    "phí giao hàng",
+    "checkout",
+    "minh bạch giá",
+    "price framing",
+    "trải nghiệm mua"
+  ],
+  "voiceover": {
+    "displayText": "Có một khoản phí không làm món hàng đắt hơn. Nó chỉ hiện quá muộn. Bạn nhìn hai màn hình này nhé. Bên trái, giá 229 nghìn, đã gồm giao hàng. Bên phải, giá 199 nghìn. Cũng món đó, cũng tổng tiền đó. Nhưng đến gần nút thanh toán, bụp, thêm 30 nghìn phí ship. Thế là ngón tay khựng lại. Không hẳn vì 30 nghìn. Não đã lấy giá đầu tiên làm mốc. Phí bắt buộc đến muộn, khách phải xem lại cả giao dịch. Cảm giác giống như vừa đọc hết menu rồi mới thấy dòng chữ nhỏ ở cuối. Trong marketing, đây là cách trình bày giá theo từng phần. Nghiên cứu cho thấy cách tách giá có thể ảnh hưởng việc khách xử lý và ghi nhớ mức giá. Nhưng đừng bẻ nó thành mẹo. Phụ phí có hợp lý, có rõ ràng hay không mới là chuyện chính. Vậy đừng vội hô miễn phí giao hàng. Hãy tự mua thử trên điện thoại. Ghi mọi khoản bắt buộc xuất hiện trước nút thanh toán. Khoản nào khách chắc chắn phải trả, nói sớm. Đừng để checkout thành cú giật mình. Lưu video này. Rồi test checkout của shop như một khách mới.",
+    "voiceText": "Có một khoản phí không làm món hàng đắt hơn. Nó chỉ hiện quá muộn. Bạn nhìn hai màn hình này nhé. Bên trái, giá hai trăm hai chín nghìn, đã gồm giao hàng. Bên phải, giá một trăm chín chín nghìn. Cũng món đó, cũng tổng tiền đó. Nhưng đến gần nút thanh toán, bụp, thêm ba mươi nghìn phí ship. Thế là ngón tay khựng lại. Không hẳn vì ba mươi nghìn. Não đã lấy giá đầu tiên làm mốc. Phí bắt buộc đến muộn, khách phải xem lại cả giao dịch. Cảm giác giống như vừa đọc hết menu rồi mới thấy dòng chữ nhỏ ở cuối. Trong marketing, đây là cách trình bày giá theo từng phần. Nghiên cứu cho thấy cách tách giá có thể ảnh hưởng việc khách xử lý và ghi nhớ mức giá. Nhưng đừng bẻ nó thành mẹo. Phụ phí có hợp lý, có rõ ràng hay không mới là chuyện chính. Vậy đừng vội hô miễn phí giao hàng. Hãy tự mua thử trên điện thoại. Ghi mọi khoản bắt buộc xuất hiện trước nút thanh toán. Khoản nào khách chắc chắn phải trả, nói sớm. Đừng để checkout thành cú giật mình. Lưu video này. Rồi kiểm tra checkout của shop như một khách mới.",
+    "sections": {
+      "hook": {
+        "displayText": "Có một khoản phí không làm món hàng đắt hơn. Nó chỉ hiện quá muộn.",
+        "voiceText": "Có một khoản phí không làm món hàng đắt hơn. Nó chỉ hiện quá muộn.",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 3000
+      },
+      "body": {
+        "displayText": "Bạn nhìn hai màn hình này nhé. Bên trái, giá 229 nghìn, đã gồm giao hàng. Bên phải, giá 199 nghìn. Cũng món đó, cũng tổng tiền đó. Nhưng đến gần nút thanh toán, bụp, thêm 30 nghìn phí ship. Thế là ngón tay khựng lại. Không hẳn vì 30 nghìn. Não đã lấy giá đầu tiên làm mốc. Phí bắt buộc đến muộn, khách phải xem lại cả giao dịch. Cảm giác giống như vừa đọc hết menu rồi mới thấy dòng chữ nhỏ ở cuối. Trong marketing, đây là cách trình bày giá theo từng phần. Nghiên cứu cho thấy cách tách giá có thể ảnh hưởng việc khách xử lý và ghi nhớ mức giá. Nhưng đừng bẻ nó thành mẹo. Phụ phí có hợp lý, có rõ ràng hay không mới là chuyện chính. Vậy đừng vội hô miễn phí giao hàng. Hãy tự mua thử trên điện thoại. Ghi mọi khoản bắt buộc xuất hiện trước nút thanh toán. Khoản nào khách chắc chắn phải trả, nói sớm. Đừng để checkout thành cú giật mình.",
+        "voiceText": "Bạn nhìn hai màn hình này nhé. Bên trái, giá hai trăm hai chín nghìn, đã gồm giao hàng. Bên phải, giá một trăm chín chín nghìn. Cũng món đó, cũng tổng tiền đó. Nhưng đến gần nút thanh toán, bụp, thêm ba mươi nghìn phí ship. Thế là ngón tay khựng lại. Không hẳn vì ba mươi nghìn. Não đã lấy giá đầu tiên làm mốc. Phí bắt buộc đến muộn, khách phải xem lại cả giao dịch. Cảm giác giống như vừa đọc hết menu rồi mới thấy dòng chữ nhỏ ở cuối. Trong marketing, đây là cách trình bày giá theo từng phần. Nghiên cứu cho thấy cách tách giá có thể ảnh hưởng việc khách xử lý và ghi nhớ mức giá. Nhưng đừng bẻ nó thành mẹo. Phụ phí có hợp lý, có rõ ràng hay không mới là chuyện chính. Vậy đừng vội hô miễn phí giao hàng. Hãy tự mua thử trên điện thoại. Ghi mọi khoản bắt buộc xuất hiện trước nút thanh toán. Khoản nào khách chắc chắn phải trả, nói sớm. Đừng để checkout thành cú giật mình.",
+        "estimatedStartMs": 3000,
+        "estimatedEndMs": 53200,
+        "story": "So sánh hai checkout trung tính cùng tổng tiền, lộ phí bắt buộc ở hai thời điểm khác nhau rồi giải thích hiệu ứng kỳ vọng.",
+        "lesson": "Đừng để chi phí bắt buộc trở thành cú lật ở bước cuối.",
+        "actions": [
+          "Tự mua thử trên điện thoại và đưa mọi chi phí bắt buộc lên trước nút thanh toán."
+        ]
+      },
+      "close": {
+        "displayText": "Lưu video này. Rồi test checkout của shop như một khách mới.",
+        "voiceText": "Lưu video này. Rồi kiểm tra checkout của shop như một khách mới.",
+        "estimatedStartMs": 53200,
+        "estimatedEndMs": 58000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": []
+  },
+  "onScreenCopy": [
+    {
+      "atMs": 0,
+      "text": "PHÍ MUỘN · KHÁCH TÍNH LẠI",
+      "role": "hook"
+    },
+    {
+      "atMs": 3000,
+      "text": "229K · ĐÃ GỒM SHIP",
+      "role": "evidence"
+    },
+    {
+      "atMs": 5200,
+      "text": "199K + 30K SHIP",
+      "role": "evidence"
+    },
+    {
+      "atMs": 14800,
+      "text": "TỔNG GIỐNG NHAU",
+      "role": "flip"
+    },
+    {
+      "atMs": 24400,
+      "text": "GIÁ ĐẦU → KỲ VỌNG",
+      "role": "mechanism"
+    },
+    {
+      "atMs": 34000,
+      "text": "PHỤ PHÍ PHẢI HỢP LÝ",
+      "role": "proof-limit"
+    },
+    {
+      "atMs": 50800,
+      "text": "NÓI SỚM CHI PHÍ BẮT BUỘC",
+      "role": "application"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "startMs": 0,
+      "endMs": 3000,
+      "purpose": "familiarHook",
+      "headline": "CÙNG TỔNG?",
+      "body": "Đặt nghịch lý bằng vật thể và tình huống quen thuộc",
+      "mascot": "thinking"
+    },
+    {
+      "id": "B02",
+      "startMs": 3000,
+      "endMs": 10000,
+      "purpose": "curiosityBuild",
+      "headline": "PHÍ XUẤT HIỆN MUỘN",
+      "body": "Cho người xem tự đoán và theo dõi tình huống",
+      "mascot": "confuse"
+    },
+    {
+      "id": "B03",
+      "startMs": 10000,
+      "endMs": 19600,
+      "purpose": "perspectiveFlip",
+      "headline": "ỦA, CHƯA PHẢI GIÁ THẬT?",
+      "body": "Lật giả định trực giác",
+      "mascot": "confuse"
+    },
+    {
+      "id": "B04",
+      "startMs": 19600,
+      "endMs": 31600,
+      "purpose": "marketingDecode",
+      "headline": "GIÁ ĐẦU LÀM MỐC",
+      "body": "Giải cơ chế bằng tiếng Việt đời thường trước thuật ngữ",
+      "mascot": "research"
+    },
+    {
+      "id": "B05",
+      "startMs": 31600,
+      "endMs": 41200,
+      "purpose": "proof",
+      "headline": "BẰNG CHỨNG CÓ ĐIỀU KIỆN",
+      "body": "Đưa bằng chứng có nguồn và giới hạn kết luận",
+      "mascot": "research"
+    },
+    {
+      "id": "B06",
+      "startMs": 41200,
+      "endMs": 50000,
+      "purpose": "lesson",
+      "headline": "ĐỪNG KẾT LUẬN VỘI",
+      "body": "Chốt đúng một bài học",
+      "mascot": "pointing"
+    },
+    {
+      "id": "B07",
+      "startMs": 50000,
+      "endMs": 58000,
+      "purpose": "application",
+      "headline": "AUDIT CHECKOUT",
+      "body": "Cho thao tác áp dụng và một CTA",
+      "mascot": "working"
+    }
+  ],
+  "visualCues": [
+    {
+      "id": "C01",
+      "startMs": 0,
+      "endMs": 900,
+      "spokenAnchor": "Có một khoản phí",
+      "semanticIntent": "Mở nghịch lý giá bằng một hình nhìn là hiểu",
+      "spokenSubject": "hai checkout cùng tổng tiền",
+      "visualSubject": "hai điện thoại cùng tổng nhưng khác thời điểm hiện phí",
+      "visualReason": "Hai điện thoại là vật thể literal của câu hỏi",
+      "sceneFamily": "checkout-hook",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "hook-puzzle",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "mascot": "thinking",
+      "items": [
+        {
+          "id": "late-shipping-fee-hook-stable",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "hai điện thoại cùng tổng nhưng khác thời điểm hiện phí",
+          "enterMs": 0,
+          "motion": "stamp",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "motifKey": "late-shipping-fee",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "startMs": 900,
+      "endMs": 1900,
+      "spokenAnchor": "không làm món hàng đắt hơn",
+      "semanticIntent": "Giữ câu trả lời và cho người xem tự đoán",
+      "spokenSubject": "phí ship xuất hiện muộn",
+      "visualSubject": "tem phí ship lơ lửng cạnh điện thoại thứ hai",
+      "visualReason": "Tem phí là biến số duy nhất đang bị giữ lại",
+      "sceneFamily": "checkout-hook",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "viewer-prediction",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-hook-stable",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "tem phí ship lơ lửng cạnh điện thoại thứ hai",
+          "enterMs": 0,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "motifKey": "late-shipping-fee",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "startMs": 1900,
+      "endMs": 3000,
+      "spokenAnchor": "Nó chỉ hiện quá muộn",
+      "semanticIntent": "Kích hoạt viewer prediction",
+      "spokenSubject": "lời mời dự đoán",
+      "visualSubject": "copy Remotion BẠN CHỌN BÊN NÀO",
+      "visualReason": "Câu hỏi trực tiếp biến hook thành trò đoán",
+      "sceneFamily": "prediction-copy",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-03",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "BẠN CHỌN BÊN NÀO?",
+          "role": "copy Remotion BẠN CHỌN BÊN NÀO",
+          "enterMs": 1900,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "startMs": 3000,
+      "endMs": 5200,
+      "spokenAnchor": "Bạn nhìn hai màn hình này nhé",
+      "semanticIntent": "Cho thấy lựa chọn thứ nhất",
+      "spokenSubject": "checkout báo trọn gói",
+      "visualSubject": "ngón tay bấm điện thoại bên trái",
+      "visualReason": "Hành động bấm giúp tình huống tiến triển",
+      "sceneFamily": "included-checkout",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-04",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "ngón tay bấm điện thoại bên trái",
+          "enterMs": 3000,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "motifKey": "late-shipping-fee",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "startMs": 5200,
+      "endMs": 7600,
+      "spokenAnchor": "Bên trái",
+      "semanticIntent": "Làm rõ kỳ vọng bên trái",
+      "spokenSubject": "giá đã gồm phí",
+      "visualSubject": "tem phí được nhập vào tổng từ đầu",
+      "visualReason": "Hình cho thấy phí không bất ngờ",
+      "sceneFamily": "included-price",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-05",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "tem phí được nhập vào tổng từ đầu",
+          "enterMs": 5200,
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "startMs": 7600,
+      "endMs": 10000,
+      "spokenAnchor": "giá hai trăm hai chín nghìn",
+      "semanticIntent": "Đổi điểm nhìn sang lựa chọn thứ hai",
+      "spokenSubject": "checkout giá cơ sở",
+      "visualSubject": "người mua chuyển sang điện thoại bên phải",
+      "visualReason": "Con người chuyển lựa chọn tạo reset thật",
+      "sceneFamily": "base-price-checkout",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "perspective-flip",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "mascot": "confuse",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-06",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "người mua chuyển sang điện thoại bên phải",
+          "enterMs": 7600,
+          "motion": "pop",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "startMs": 10000,
+      "endMs": 12400,
+      "spokenAnchor": "Bên phải",
+      "semanticIntent": "Tăng căng thẳng trước cú lộ phí",
+      "spokenSubject": "người mua đi gần hết checkout",
+      "visualSubject": "ngón tay tiếp tục bấm qua các bước",
+      "visualReason": "Voice nói bấm nên hình phải có người bấm",
+      "sceneFamily": "buyer-checkout-action",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-07",
+          "kind": "asset",
+          "assetId": "A07",
+          "role": "ngón tay tiếp tục bấm qua các bước",
+          "enterMs": 10000,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "motifKey": "late-shipping-fee",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "startMs": 12400,
+      "endMs": 14800,
+      "spokenAnchor": "cũng tổng tiền đó",
+      "semanticIntent": "Cho thấy phản ứng thật ở bước cuối",
+      "spokenSubject": "phí bắt buộc bật lên",
+      "visualSubject": "người mua giật nhẹ khi tem phí xuất hiện",
+      "visualReason": "Phản ứng người mua chứng minh ma sát",
+      "sceneFamily": "fee-surprise-reaction",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-08",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "người mua giật nhẹ khi tem phí xuất hiện",
+          "enterMs": 12400,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "startMs": 14800,
+      "endMs": 17200,
+      "spokenAnchor": "đến gần nút thanh toán",
+      "semanticIntent": "Lật trực giác từ tiền sang trải nghiệm",
+      "spokenSubject": "hai tổng tiền bằng nhau",
+      "visualSubject": "price board Remotion ghép hai tổng bằng nhau",
+      "visualReason": "Con số cần được dựng chính xác bằng Remotion",
+      "sceneFamily": "same-total-proof",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "perspective-flip",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-09",
+          "kind": "code",
+          "codeTemplate": "price-board",
+          "text": "229K = 229K",
+          "role": "price board Remotion ghép hai tổng bằng nhau",
+          "enterMs": 14800,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "startMs": 17200,
+      "endMs": 19600,
+      "spokenAnchor": "bụp, thêm ba mươi nghìn",
+      "semanticIntent": "Mở cơ chế khác biệt cảm nhận",
+      "spokenSubject": "cảm giác khác nhau",
+      "visualSubject": "sơ đồ cùng tổng tách thành hai phản ứng",
+      "visualReason": "Sơ đồ cho thấy quan hệ chứ không trang trí",
+      "sceneFamily": "expectation-mechanism",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "exit": "transform",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-mechanism-stable",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "CÙNG TỔNG · KHÁC KỲ VỌNG",
+          "role": "sơ đồ cùng tổng tách thành hai phản ứng",
+          "enterMs": 17200,
+          "motion": "slide",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "startMs": 19600,
+      "endMs": 22000,
+      "spokenAnchor": "Thế là ngón tay khựng lại",
+      "semanticIntent": "Tiếp tục biến đổi cùng cơ chế",
+      "spokenSubject": "sự đánh giá lại",
+      "visualSubject": "sơ đồ biến đổi từ bất ngờ sang cân nhắc lại",
+      "visualReason": "Stable transform làm rõ chuỗi tâm lý",
+      "sceneFamily": "expectation-mechanism",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "transform",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-mechanism-stable",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "BẤT NGỜ → TÍNH LẠI",
+          "role": "sơ đồ biến đổi từ bất ngờ sang cân nhắc lại",
+          "enterMs": 17200,
+          "motion": "pop",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "startMs": 22000,
+      "endMs": 24400,
+      "spokenAnchor": "Không hẳn vì ba mươi nghìn",
+      "semanticIntent": "Đưa tiếng nói nội tâm thành phản ứng literal",
+      "spokenSubject": "câu hỏi về giá thật",
+      "visualSubject": "gương mặt người mua nhìn lại điện thoại",
+      "visualReason": "Khuôn mặt thay motif đúng lúc voice nói cảm giác",
+      "sceneFamily": "buyer-doubt",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-12",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "gương mặt người mua nhìn lại điện thoại",
+          "enterMs": 22000,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "startMs": 24400,
+      "endMs": 26800,
+      "spokenAnchor": "Não đã lấy giá đầu tiên làm mốc",
+      "semanticIntent": "Chuyển từ hiện tượng sang nguyên nhân",
+      "spokenSubject": "vấn đề không chỉ là phụ phí",
+      "visualSubject": "receipt và tem phí được tách khỏi dấu hỏi",
+      "visualReason": "Receipt quay lại như motif tại điểm giải mã",
+      "sceneFamily": "receipt-analysis",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "mascot": "research",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-13",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "KHÔNG CHỈ LÀ 30K",
+          "role": "receipt và tem phí được tách khỏi dấu hỏi",
+          "enterMs": 24400,
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "motifKey": "late-shipping-fee",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "startMs": 26800,
+      "endMs": 29200,
+      "spokenAnchor": "Phí bắt buộc đến muộn",
+      "semanticIntent": "Giải thích cơ chế bằng ngôn ngữ đời thường",
+      "spokenSubject": "giá đầu tiên tạo mốc",
+      "visualSubject": "người mua nhìn giá đầu tiên được marker khoanh",
+      "visualReason": "Người và giá literal hóa việc tạo mốc",
+      "sceneFamily": "anchor-price",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-14",
+          "kind": "asset",
+          "assetId": "A07",
+          "role": "người mua nhìn giá đầu tiên được marker khoanh",
+          "enterMs": 26800,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "startMs": 29200,
+      "endMs": 31600,
+      "spokenAnchor": "khách phải xem lại cả giao dịch",
+      "semanticIntent": "Cho thấy quan hệ nhân quả",
+      "spokenSubject": "phí muộn chặn kỳ vọng",
+      "visualSubject": "sơ đồ giá đầu tới kỳ vọng bị phí chặn ngang",
+      "visualReason": "Mũi tên Remotion làm cơ chế dễ hiểu",
+      "sceneFamily": "late-fee-mechanism",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-15",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "GIÁ ĐẦU → KỲ VỌNG → PHÍ MUỘN",
+          "role": "sơ đồ giá đầu tới kỳ vọng bị phí chặn ngang",
+          "enterMs": 29200,
+          "motion": "pop",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "startMs": 31600,
+      "endMs": 34000,
+      "spokenAnchor": "Cảm giác giống như",
+      "semanticIntent": "Cho thấy hệ quả nhận thức",
+      "spokenSubject": "hành động đánh giá lại",
+      "visualSubject": "hai receipt được đặt lại cạnh nhau",
+      "visualReason": "Receipt là bằng chứng trực quan của việc đánh giá lại",
+      "sceneFamily": "recalculation-proof",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-16",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "ĐÁNH GIÁ LẠI",
+          "role": "hai receipt được đặt lại cạnh nhau",
+          "enterMs": 31600,
+          "motion": "slide",
+          "semanticRole": "evidence",
+          "motifKey": "late-shipping-fee",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "startMs": 34000,
+      "endMs": 36400,
+      "spokenAnchor": "Trong marketing",
+      "semanticIntent": "Gọi tên cầu nối sau khi đã hiểu cơ chế",
+      "spokenSubject": "cách trình bày giá theo phần",
+      "visualSubject": "sơ đồ giá cơ sở cộng phụ phí có chú thích nguồn",
+      "visualReason": "Đồ họa có nguồn thay cho jargon",
+      "sceneFamily": "partitioned-price-proof",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-17",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "GIÁ CƠ SỞ + PHỤ PHÍ",
+          "role": "sơ đồ giá cơ sở cộng phụ phí có chú thích nguồn",
+          "enterMs": 34000,
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "startMs": 36400,
+      "endMs": 38800,
+      "spokenAnchor": "cách trình bày giá theo từng phần",
+      "semanticIntent": "Đưa proof có nguồn",
+      "spokenSubject": "nghiên cứu về giá chia phần",
+      "visualSubject": "người nghiên cứu xem hai cấu trúc giá",
+      "visualReason": "Voice nói nghiên cứu nên hình có hành động kiểm tra",
+      "sceneFamily": "research-action",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-18",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "người nghiên cứu xem hai cấu trúc giá",
+          "enterMs": 36400,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "startMs": 38800,
+      "endMs": 41200,
+      "spokenAnchor": "Nghiên cứu cho thấy",
+      "semanticIntent": "Nêu đúng phạm vi nguồn",
+      "spokenSubject": "ảnh hưởng có điều kiện",
+      "visualSubject": "tem phí quay lại bên hai receipt",
+      "visualReason": "Motif quay lại để gắn claim với bằng chứng",
+      "sceneFamily": "conditional-proof",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-19",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "tem phí quay lại bên hai receipt",
+          "enterMs": 38800,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "motifKey": "late-shipping-fee",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "startMs": 41200,
+      "endMs": 43600,
+      "spokenAnchor": "Nhưng đừng bẻ nó thành mẹo",
+      "semanticIntent": "Chặn biến nghiên cứu thành mẹo tuyệt đối",
+      "spokenSubject": "giới hạn của kết luận",
+      "visualSubject": "copy Remotion PHỤ PHÍ CÓ HỢP LÝ?",
+      "visualReason": "Câu hỏi điều kiện là thông tin mới",
+      "sceneFamily": "evidence-limit",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-20",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "PHỤ PHÍ CÓ HỢP LÝ?",
+          "role": "copy Remotion PHỤ PHÍ CÓ HỢP LÝ?",
+          "enterMs": 41200,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "startMs": 43600,
+      "endMs": 46000,
+      "spokenAnchor": "Phụ phí có hợp lý",
+      "semanticIntent": "Chuyển sang bài học thận trọng",
+      "spokenSubject": "không kết luận miễn phí giao hàng",
+      "visualSubject": "checklist gạch kết luận vội",
+      "visualReason": "Checklist giúp loại một kết luận sai",
+      "sceneFamily": "lesson-check",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "mascot": "pointing",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-21",
+          "kind": "code",
+          "codeTemplate": "checklist",
+          "text": "KHÔNG PHẢI CỨ FREE SHIP",
+          "role": "checklist gạch kết luận vội",
+          "enterMs": 43600,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "startMs": 46000,
+      "endMs": 48400,
+      "spokenAnchor": "Vậy đừng vội hô",
+      "semanticIntent": "Mở thao tác ứng dụng",
+      "spokenSubject": "chủ shop tự trải nghiệm",
+      "visualSubject": "chủ shop bấm mua trên điện thoại",
+      "visualReason": "Voice nói tự mua nên hình cho thấy đúng hành động",
+      "sceneFamily": "owner-audit-action",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-22",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "chủ shop bấm mua trên điện thoại",
+          "enterMs": 46000,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "startMs": 48400,
+      "endMs": 50800,
+      "spokenAnchor": "Hãy tự mua thử",
+      "semanticIntent": "Biến bài học thành audit cụ thể",
+      "spokenSubject": "chủ shop ghi các khoản phí",
+      "visualSubject": "chủ shop viết lên clipboard cạnh điện thoại",
+      "visualReason": "Hành động ghi là payoff literal",
+      "sceneFamily": "owner-audit-action",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-23",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "chủ shop viết lên clipboard cạnh điện thoại",
+          "enterMs": 48400,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "motifKey": "late-shipping-fee",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "startMs": 50800,
+      "endMs": 53200,
+      "spokenAnchor": "Ghi mọi khoản bắt buộc",
+      "semanticIntent": "Cho tiêu chuẩn kiểm tra",
+      "spokenSubject": "chi phí trước nút thanh toán",
+      "visualSubject": "checklist chi phí được đặt trước nút Remotion",
+      "visualReason": "Checklist là bằng chứng của thao tác",
+      "sceneFamily": "checkout-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "mascot": "working",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-24",
+          "kind": "code",
+          "codeTemplate": "checklist",
+          "text": "CHI PHÍ BẮT BUỘC · NÓI TRƯỚC",
+          "role": "checklist chi phí được đặt trước nút Remotion",
+          "enterMs": 50800,
+          "motion": "pop",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "startMs": 53200,
+      "endMs": 56000,
+      "spokenAnchor": "Khoản nào khách chắc chắn phải trả",
+      "semanticIntent": "Chốt bằng hài hước quan sát",
+      "spokenSubject": "checkout không thành cú giật mình",
+      "visualSubject": "parcel và điện thoại cạnh dấu cảnh báo bị gạch",
+      "visualReason": "Motif quay lại ở punchline nhưng không giữ cả video",
+      "sceneFamily": "jumpscare-payoff",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-25",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "KHÔNG JUMPSCARE TÀI CHÍNH",
+          "role": "parcel và điện thoại cạnh dấu cảnh báo bị gạch",
+          "enterMs": 53200,
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "motifKey": "late-shipping-fee",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C26",
+      "startMs": 56000,
+      "endMs": 58000,
+      "spokenAnchor": "Lưu video này",
+      "semanticIntent": "Đưa đúng một CTA",
+      "spokenSubject": "CTA lưu",
+      "visualSubject": "nút lưu Remotion và mascot thumbup",
+      "visualReason": "CTA được dựng bằng Remotion",
+      "sceneFamily": "cta",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "cta",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "mascot": "thumbup",
+      "items": [
+        {
+          "id": "late-shipping-fee-state-26",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "LƯU ĐỂ TEST CHECKOUT",
+          "role": "nút lưu Remotion và mascot thumbup",
+          "enterMs": 56000,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "A01",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep009/v01/generated/a01-two-checkout-phones-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One complete hero group of two modern unbranded smartphones side by side, both blank white screens, one small plain paper shipping tag hovering near the second phone, no readable UI."
+    },
+    {
+      "id": "A02",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep009/v01/generated/a02-buyer-tapping-phone-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One young Vietnamese shopper hand tapping a blank smartphone screen, complete hand and phone visible."
+    },
+    {
+      "id": "A03",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep009/v01/generated/a03-puzzled-shopper-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One young Vietnamese online shopper holding a phone, eyebrows raised with a mild puzzled reaction, casual white outfit with restrained pink accent."
+    },
+    {
+      "id": "A04",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep009/v01/generated/a04-receipt-pair-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: Two complete blank paper receipts side by side with no text or numbers, clean thermal paper edges."
+    },
+    {
+      "id": "A05",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep009/v01/generated/a05-shop-owner-audit-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One Vietnamese small-shop owner holding a smartphone and writing on a clipboard, focused practical expression."
+    },
+    {
+      "id": "A06",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep009/v01/generated/a06-shipping-tag-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One plain blank shipping-fee paper tag with a small parcel icon shape but no text or number."
+    },
+    {
+      "id": "A07",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep009/v01/generated/a07-checkout-customer-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One Vietnamese customer seated at a desk completing a purchase on a smartphone, clear tapping action."
+    },
+    {
+      "id": "A08",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep009/v01/generated/a08-parcel-and-phone-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One unbranded cardboard parcel beside one blank smartphone, complete objects separated clearly."
+    }
+  ],
+  "editBlueprint": {
+    "motionGrammar": "continuous-stage-v1",
+    "visualGrammar": "subject-led-v1",
+    "retentionMode": "business-phenomenon-decode-v1",
+    "captionTop": 1160,
+    "wordHighlight": true,
+    "whiteSpace": "pre-wrap",
+    "maxActiveScale": 1.15,
+    "render": "local",
+    "seriesLabel": "from-profile",
+    "mascotPolicy": "Contextual punctuation only; preserve original aspect ratio with objectFit contain; never stretch or park continuously.",
+    "backgroundFrameHoldSeconds": 0.5,
+    "typography": {
+      "title": "SVN-Miller Banner",
+      "subtitle": "UTM ClassizismAntiqua",
+      "support": "SVN-Nexa Light",
+      "accent": "SVN-Vanilla Daisy Pro"
+    },
+    "cardPolicy": "Semantic evidence only; no decorative SaaS cards.",
+    "motifKey": "late-shipping-fee",
+    "motifCueTarget": 9,
+    "sceneFamilyMinimum": 5,
+    "humanActionCueMinimum": 2,
+    "safeZone": "TikTok",
+    "evidencePolicy": "Use cited sources and neutral Remotion diagrams; never generate fake branded, research, interface or outcome evidence.",
+    "batchPolicy": "Batch exactly three only for compatible simple props; all planned people, hands and hook heroes are individual jobs."
+  },
+  "sources": [
+    {
+      "title": "Divide and Prosper: Consumers' Reactions to Partitioned Prices",
+      "url": "https://www.jstor.org/stable/3152164",
+      "accessedAt": "2026-08-24",
+      "supports": "Cách người tiêu dùng xử lý, ghi nhớ và phản ứng với giá cơ sở cùng phụ phí."
+    },
+    {
+      "title": "Partitioned pricing: Can we always divide and prosper?",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022435907000346",
+      "accessedAt": "2026-08-24",
+      "supports": "Phản ứng với giá chia phần còn phụ thuộc mức hợp lý của phụ phí; ngăn kết luận tuyệt đối."
+    }
+  ],
+  "quotaPlan": {
+    "estimatedImageCalls": 8,
+    "estimatedTtsCalls": 1,
+    "estimatedTranscriptionCalls": 1,
+    "estimatedRenderCalls": 1,
+    "reuseCandidates": [
+      "profile mascot sheets",
+      "paper backgrounds",
+      "music/background music.mp3",
+      "channel fonts"
+    ],
+    "idempotencyPrefix": "agency-marketing-tiktok-ep009-v01-late-shipping-fee-"
+  },
+  "approval": {
+    "status": "script-review",
+    "version": 2,
+    "approvedAt": null,
+    "assetPlanStatus": "pending"
+  }
+}

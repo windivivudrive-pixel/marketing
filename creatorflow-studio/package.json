@@ -1,0 +1,16 @@
+{
+  "name": "creatorflow-studio-portable",
+  "version": "1.4.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:adapters": "node scripts/build-host-adapters.mjs",
+    "validate:portable": "node scripts/validate-portable-package.mjs",
+    "test:contracts": "node tests/validate-contracts.mjs",
+    "watermark:remove": "node scripts/remove-gemini-visible-watermark.mjs"
+  },
+  "dependencies": {
+    "@pilio/gemini-watermark-remover": "1.0.41",
+    "sharp": "0.35.3"
+  }
+}

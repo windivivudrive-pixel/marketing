@@ -1,0 +1,1213 @@
+{
+  "schemaVersion": 3,
+  "generatedAt": "2026-08-24T11:15:00.000Z",
+  "profile": "creatorflow/profile.json",
+  "ideas": [
+    {
+      "id": "IDEA001",
+      "rank": 1,
+      "title": "Cùng trả 229 nghìn, vì sao phí ship xuất hiện cuối lại khó chịu hơn?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Khách đã muốn mua nhưng đổi cảm xúc ở bước thanh toán vì tổng chi phí khác với con số họ vừa ghi nhớ.",
+      "viewerQuestion": "Cùng một tổng tiền, vì sao cách hiện giá và phí giao hàng lại làm trải nghiệm khác hẳn?",
+      "caseStory": "Đặt cạnh hai giỏ hàng cùng tổng 229 nghìn: một bên báo trọn gói từ đầu, một bên chỉ hiện thêm 30 nghìn phí giao hàng ở bước cuối.",
+      "curiosityParadox": "Tổng tiền giống nhau nhưng khoản phí xuất hiện muộn khiến người mua phải đánh giá lại quyết định vừa đưa ra.",
+      "brandingLesson": "Trải nghiệm giá không chỉ nằm ở con số cuối mà còn nằm ở thời điểm và cách doanh nghiệp công bố từng phần của giá.",
+      "actionablePayoff": "Kiểm tra hành trình mua và đưa chi phí bắt buộc lên trước khi khách bấm sang bước thanh toán.",
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Hai màn hình giỏ hàng cùng tổng 229 nghìn nhưng một màn hình bất ngờ bật thêm phí ship ở bước cuối.",
+      "narrativeObject": "Tem phí ship 30 nghìn",
+      "curiosityGap": "Nếu tổng cuối không đổi, thứ gì khiến một cách báo giá dễ chịu hơn cách còn lại?",
+      "hiddenMechanism": "Người mua neo kỳ vọng vào giá đầu tiên; một khoản bắt buộc xuất hiện muộn khiến họ phải tính lại và tự hỏi liệu giao dịch có công bằng không.",
+      "marketingBridge": "Trong pricing, cách chia và trình bày các phần của giá có thể thay đổi cách khách ghi nhớ và đánh giá đề nghị.",
+      "proofMove": "Cho cùng một người hoàn thành hai mock checkout trung tính có tổng tiền giống nhau, rồi khoanh chính khoảnh khắc phí bắt buộc được tiết lộ.",
+      "singleLesson": "Đừng để chi phí bắt buộc trở thành cú lật ở bước cuối.",
+      "immediateApplication": "Mở thử hành trình mua của chính shop trên điện thoại và ghi toàn bộ chi phí mà khách thấy trước nút thanh toán.",
+      "motionPotential": [
+        "Tem phí ship trượt từ ngoài khung vào giỏ hàng ở bước cuối, làm tổng giá giật lên",
+        "Hai receipt tách đôi rồi ghép lại để lộ cùng một tổng tiền nhưng khác thứ tự công bố"
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "hai giỏ hàng cùng tổng tiền",
+          "literalVisual": "hai điện thoại hiển thị checkout trung tính cạnh nhau",
+          "action": "một bên báo trọn gói, một bên còn che phí ship",
+          "sceneFamily": "checkout-contrast",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "người mua tới bước cuối",
+          "literalVisual": "ngón tay người mua bấm nút tiếp tục",
+          "action": "tem phí ship bất ngờ bật lên",
+          "sceneFamily": "buyer-tap-reaction",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "cách người mua ghi nhớ giá",
+          "literalVisual": "hai receipt cùng tổng 229 nghìn với thứ tự dòng khác nhau",
+          "action": "marker khoanh giá đầu tiên rồi nối tới tổng cuối",
+          "sceneFamily": "receipt-proof",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "kỳ vọng bị tính lại",
+          "literalVisual": "sơ đồ giá đầu tiên dẫn tới kỳ vọng rồi bị phí muộn chặn ngang",
+          "action": "mũi tên đổi hướng tại điểm phí xuất hiện",
+          "sceneFamily": "expectation-mechanism",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "chủ shop kiểm tra checkout",
+          "literalVisual": "chủ shop cầm điện thoại ghi các khoản phí vào checklist",
+          "action": "đưa phí bắt buộc lên trước nút thanh toán",
+          "sceneFamily": "checkout-audit",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "hook",
+          "surprise",
+          "payoff"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.38
+      },
+      "topicKeywords": [
+        "phí giao hàng",
+        "checkout",
+        "minh bạch giá",
+        "price framing",
+        "trải nghiệm mua"
+      ],
+      "phenomenon": {
+        "observableMoment": "Một khoản phí giao hàng bắt buộc chỉ xuất hiện sau khi người mua đã đi gần hết checkout.",
+        "businessStake": "Chi phí muộn có thể biến khoảnh khắc chốt đơn thành khoảnh khắc khách phải cân nhắc lại.",
+        "viewerPrediction": "Người xem có thể đoán rằng chỉ tổng tiền cuối cùng mới quan trọng.",
+        "visibleContradiction": "Hai giao dịch cùng tổng tiền nhưng một giao dịch tạo thêm cú bất ngờ ở bước cuối."
+      },
+      "hookDesign": {
+        "mode": "price-context-contrast",
+        "spokenHook": "Có một khoản phí không làm món hàng đắt hơn. Nó chỉ xuất hiện quá muộn.",
+        "withheldAnswer": "Thời điểm công bố phí làm thay đổi kỳ vọng và cảm nhận công bằng.",
+        "broadAudienceBridge": "Người mua nhận ra cảm giác ở checkout; founder và marketer nhận ra một điểm rơi có thể tự kiểm tra.",
+        "delivery": "aphoristic-contrast",
+        "deliveryNote": "Mở bằng nghịch lý quan sát, không hỏi trực tiếp."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Não ghi nhớ giá đầu tiên rồi dùng nó làm mốc; phí bắt buộc đến muộn buộc người mua tính lại.",
+        "technicalLabel": "Partitioned pricing",
+        "earliestRevealSecond": 18
+      },
+      "proofPlan": {
+        "primaryClaim": "Cách chia và trình bày thành phần giá ảnh hưởng cách người mua xử lý, nhớ và đánh giá giá.",
+        "evidenceType": "primary-research-plus-honest-demo",
+        "sourceNeeded": true,
+        "visualProof": "Hai mock checkout không thương hiệu, cùng tổng tiền, khác thời điểm hiện phí."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 0,
+          "trigger": "Hai tổng tiền giống nhau",
+          "informationGain": "Mở nghịch lý giá",
+          "visualReset": "Split-screen hai checkout",
+          "sceneFamily": "checkout-contrast"
+        },
+        {
+          "atSecond": 8,
+          "trigger": "Phí chỉ bật ở bước cuối",
+          "informationGain": "Xuất hiện biến số thời điểm",
+          "visualReset": "Tem phí trượt vào receipt",
+          "sceneFamily": "buyer-tap-reaction"
+        },
+        {
+          "atSecond": 16,
+          "trigger": "Người mua đã neo vào giá đầu",
+          "informationGain": "Giải thích vì sao phải tính lại",
+          "visualReset": "Marker khoanh giá đầu tiên",
+          "sceneFamily": "receipt-proof"
+        },
+        {
+          "atSecond": 25,
+          "trigger": "Cùng tổng nhưng khác cảm giác công bằng",
+          "informationGain": "Lật từ con số sang trải nghiệm",
+          "visualReset": "Hai receipt ghép cùng tổng",
+          "sceneFamily": "expectation-mechanism"
+        },
+        {
+          "atSecond": 34,
+          "trigger": "Nghiên cứu về giá chia phần",
+          "informationGain": "Đưa bằng chứng vừa đủ",
+          "visualReset": "Sơ đồ nghiên cứu trung tính",
+          "sceneFamily": "research-proof"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Kiểm tra checkout của shop",
+          "informationGain": "Chuyển sang hành động",
+          "visualReset": "Checklist chi phí trước thanh toán",
+          "sceneFamily": "checkout-audit"
+        }
+      ],
+      "evidence": [
+        {
+          "title": "Divide and Prosper: Consumers' Reactions to Partitioned Prices",
+          "url": "https://www.jstor.org/stable/3152164",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu gốc về cách người tiêu dùng xử lý giá cơ sở và phụ phí."
+        },
+        {
+          "title": "Partitioned pricing: Can we always divide and prosper?",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022435907000346",
+          "accessedAt": "2026-08-24",
+          "supports": "Cho thấy phản ứng còn phụ thuộc mức hợp lý của phụ phí, nên không được kết luận đơn giản rằng chia giá luôn tốt hoặc luôn xấu."
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED",
+        "signal": "",
+        "observedAt": ""
+      },
+      "visualSeed": "Hai checkout trắng-hồng, tem phí ship như mảnh giấy xé bất ngờ chen vào receipt.",
+      "rightsStatus": "READY_WITH_ORIGINAL_DEMO",
+      "estimatedImageCalls": 5,
+      "productionCost": "MEDIUM",
+      "scores": {
+        "freshness": 5,
+        "audienceFit": 5,
+        "hookClarity": 5,
+        "storyClarity": 5,
+        "lessonUsefulness": 5,
+        "evidence": 5,
+        "visualClarity": 5,
+        "rightsReadiness": 5,
+        "productionCost": 4,
+        "shelfLife": 5,
+        "openingFamiliarity": 5,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 109
+    },
+    {
+      "id": "IDEA002",
+      "rank": 2,
+      "title": "Quầy 24 vị nhìn hấp dẫn hơn, sao khách lại dễ bỏ đi?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Doanh nghiệp đưa toàn bộ danh mục ra trước mặt khách vì sợ thiếu lựa chọn, nhưng khách mới lại không biết bắt đầu từ đâu.",
+      "viewerQuestion": "Nhiều lựa chọn hơn có luôn giúp khách dễ tìm được món phù hợp hơn không?",
+      "caseStory": "Một quầy thử có 24 hũ vị đặt cạnh một quầy chỉ có 6 vị, mời người xem đoán quầy nào khiến quyết định dễ xảy ra hơn.",
+      "curiosityParadox": "Quầy nhiều màu sắc hút mắt hơn nhưng lượng lựa chọn lớn có thể làm việc so sánh trở nên nặng hơn.",
+      "brandingLesson": "Danh mục tốt không phải danh mục phô hết mọi thứ; nó giúp khách thu hẹp lựa chọn theo tình huống của họ.",
+      "actionablePayoff": "Giữ đủ sản phẩm nhưng gom lối vào thành ba nhóm nhu cầu dễ hiểu trên TikTok, menu hoặc trang bán hàng.",
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Hai quầy thử: một quầy 24 hũ đầy màu sắc và một quầy 6 hũ có nhãn theo nhu cầu.",
+      "narrativeObject": "Hũ mứt nhỏ",
+      "curiosityGap": "Tại sao quầy trông phong phú hơn chưa chắc giúp khách ra quyết định dễ hơn?",
+      "hiddenMechanism": "Mỗi lựa chọn mới thêm một phép so sánh; khi không có cách thu hẹp, khách phải tự làm quá nhiều việc trước khi chọn.",
+      "marketingBridge": "Choice architecture là cách tổ chức lựa chọn để khách hiểu đường đi, không phải ép họ chỉ còn một phương án.",
+      "proofMove": "Tái hiện trung tính cấu trúc 24 lựa chọn và 6 lựa chọn từ nghiên cứu, rồi chuyển sang danh mục SME được gom theo ba tình huống sử dụng.",
+      "singleLesson": "Đừng giảm sản phẩm; hãy giảm số quyết định khách phải xử lý cùng lúc.",
+      "immediateApplication": "Chụp màn hình danh mục hiện tại và thử gom tất cả sản phẩm vào ba lối vào theo nhu cầu khách hàng.",
+      "motionPotential": [
+        "Hai mươi bốn hũ tràn vào khung rồi co lại thành ba cụm nhu cầu",
+        "Bàn tay khách lơ lửng giữa nhiều hũ rồi chọn nhanh khi ba biển nhu cầu xuất hiện"
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "quầy hai mươi bốn vị và quầy sáu vị",
+          "literalVisual": "hai kệ hũ mứt có mật độ lựa chọn khác nhau",
+          "action": "người xem được mời đoán quầy dễ chốt hơn",
+          "sceneFamily": "choice-shelf-contrast",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "khách đứng trước quá nhiều lựa chọn",
+          "literalVisual": "khách đưa tay qua lại giữa nhiều hũ",
+          "action": "do dự rồi hạ tay xuống",
+          "sceneFamily": "shopper-hesitation",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "nghiên cứu sáu và hai mươi bốn lựa chọn",
+          "literalVisual": "sơ đồ hai quầy trung tính với chú thích nguồn",
+          "action": "marker đối chiếu thu hút và quyết định",
+          "sceneFamily": "choice-study-proof",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "số phép so sánh tăng lên",
+          "literalVisual": "ba đường chọn tách thành mạng lưới đường chằng chịt",
+          "action": "Remotion gom các đường vào ba nhóm nhu cầu",
+          "sceneFamily": "comparison-load-mechanism",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "chủ shop gom danh mục theo nhu cầu",
+          "literalVisual": "chủ shop kéo thẻ sản phẩm vào ba sticky note",
+          "action": "đặt tên ba nhóm theo tình huống khách",
+          "sceneFamily": "catalog-grouping-audit",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "hook",
+          "hesitation",
+          "grouped-payoff"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.36
+      },
+      "topicKeywords": [
+        "quá tải lựa chọn",
+        "danh mục sản phẩm",
+        "choice architecture",
+        "menu",
+        "nhóm nhu cầu"
+      ],
+      "phenomenon": {
+        "observableMoment": "Khách đứng lâu trước một danh mục đầy lựa chọn nhưng vẫn chưa biết chọn gì.",
+        "businessStake": "Danh mục rộng có thể làm khách mới mất nhiều công sức để hiểu điểm bắt đầu.",
+        "viewerPrediction": "Nhiều lựa chọn hơn chắc chắn làm quầy hấp dẫn và dễ bán hơn.",
+        "visibleContradiction": "Sự phong phú hút sự chú ý nhưng quyết định lại đòi hỏi nhiều phép so sánh hơn."
+      },
+      "hookDesign": {
+        "mode": "prediction-puzzle",
+        "spokenHook": "Hai mươi bốn hũ mứt nhìn như một bữa tiệc. Với khách mới, đôi khi nó lại thành bài kiểm tra.",
+        "withheldAnswer": "Vấn đề không nằm ở số sản phẩm mà ở số quyết định khách phải tự xử lý.",
+        "broadAudienceBridge": "Người mua nhận ra cảm giác do dự; doanh nghiệp nhận ra cách tổ chức danh mục.",
+        "delivery": "observational-line",
+        "deliveryNote": "Mở bằng hình ảnh đời thường rồi lật nghĩa."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Càng nhiều phương án cùng lúc, khách càng phải tự so sánh và loại trừ trước khi chọn.",
+        "technicalLabel": "Choice overload",
+        "earliestRevealSecond": 19
+      },
+      "proofPlan": {
+        "primaryClaim": "Trong một số bối cảnh, tập lựa chọn giới hạn có thể thúc đẩy quyết định tốt hơn tập lựa chọn rất lớn.",
+        "evidenceType": "primary-experimental-study",
+        "sourceNeeded": true,
+        "visualProof": "Sơ đồ trung tính của nghiên cứu sáu so với hai mươi bốn lựa chọn, không dựng lại thương hiệu hay cửa hàng thật."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 0,
+          "trigger": "Hai quầy chênh lệch số vị",
+          "informationGain": "Mời người xem dự đoán",
+          "visualReset": "Split-screen hai kệ",
+          "sceneFamily": "choice-shelf-contrast"
+        },
+        {
+          "atSecond": 8,
+          "trigger": "Khách bị hút nhưng chưa chọn",
+          "informationGain": "Tách chú ý khỏi quyết định",
+          "visualReset": "Bàn tay do dự",
+          "sceneFamily": "shopper-hesitation"
+        },
+        {
+          "atSecond": 16,
+          "trigger": "Mỗi món thêm một phép so sánh",
+          "informationGain": "Mở cơ chế tải lựa chọn",
+          "visualReset": "Mạng lưới đường chọn",
+          "sceneFamily": "comparison-load-mechanism"
+        },
+        {
+          "atSecond": 25,
+          "trigger": "Nghiên cứu sáu và hai mươi bốn",
+          "informationGain": "Đưa bằng chứng có giới hạn",
+          "visualReset": "Sơ đồ nghiên cứu",
+          "sceneFamily": "choice-study-proof"
+        },
+        {
+          "atSecond": 34,
+          "trigger": "Không cần xóa sản phẩm",
+          "informationGain": "Lật sang tổ chức lối vào",
+          "visualReset": "Hũ gom thành ba cụm",
+          "sceneFamily": "catalog-grouping"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Bài kiểm tra ba nhóm nhu cầu",
+          "informationGain": "Cho thao tác làm ngay",
+          "visualReset": "Ba sticky note nhu cầu",
+          "sceneFamily": "catalog-grouping-audit"
+        }
+      ],
+      "evidence": [
+        {
+          "title": "When choice is demotivating: can one desire too much of a good thing?",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11138768/",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu gốc gồm các thí nghiệm so sánh tập lựa chọn giới hạn và tập lựa chọn lớn; dùng với ngôn ngữ có điều kiện, không biến thành quy luật tuyệt đối."
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED",
+        "signal": "",
+        "observedAt": ""
+      },
+      "visualSeed": "Kệ hũ mứt photoreal màu tự nhiên trên giấy hồng nhạt, từ hỗn độn thu về ba cụm có marker dẫn đường.",
+      "rightsStatus": "READY_WITH_NEUTRAL_RECONSTRUCTION",
+      "estimatedImageCalls": 6,
+      "productionCost": "MEDIUM",
+      "scores": {
+        "freshness": 4,
+        "audienceFit": 5,
+        "hookClarity": 5,
+        "storyClarity": 5,
+        "lessonUsefulness": 5,
+        "evidence": 5,
+        "visualClarity": 5,
+        "rightsReadiness": 5,
+        "productionCost": 4,
+        "shelfLife": 5,
+        "openingFamiliarity": 5,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 108
+    },
+    {
+      "id": "IDEA003",
+      "rank": 3,
+      "title": "Chưa mua mà cầm thử mười giây, sao tự nhiên khó đặt xuống?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Video hoặc điểm bán chỉ cho khách nhìn sản phẩm từ xa, dù cảm giác cầm, bề mặt, trọng lượng hoặc độ mềm mới là bằng chứng thuyết phục nhất.",
+      "viewerQuestion": "Vì sao chỉ cầm thử một món đồ có thể làm cảm giác về nó thay đổi?",
+      "caseStory": "Một khách cầm chiếc gối mềm, bóp thử rồi định đặt xuống nhưng dừng lại; đối chiếu với cùng món đồ chỉ nằm sau tủ kính.",
+      "curiosityParadox": "Quyền sở hữu chưa thay đổi nhưng cảm giác món đồ đã gần với mình hơn sau khi chạm.",
+      "brandingLesson": "Nếu thuộc tính quan trọng nằm ở xúc giác, nội dung và điểm bán phải tạo được một khoảnh khắc thử thật thay vì chỉ đọc tính năng.",
+      "actionablePayoff": "Chọn một thuộc tính cảm giác quan trọng và thiết kế một thao tác thử mười giây tại quầy hoặc trong video POV.",
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Một bàn tay cầm chiếc gối mềm rồi khựng lại ngay trước khi đặt xuống.",
+      "narrativeObject": "Chiếc gối nhỏ",
+      "curiosityGap": "Tại sao món đồ chưa thuộc về khách nhưng cảm giác sở hữu đã bắt đầu?",
+      "hiddenMechanism": "Chạm giúp khách thu nhận thông tin thật về bề mặt và đồng thời khiến món đồ được hình dung gần hơn với bản thân.",
+      "marketingBridge": "Tactile marketing dùng trải nghiệm chạm như bằng chứng sản phẩm; nó không thay thế chất lượng thật của cảm giác đó.",
+      "proofMove": "Đối chiếu cùng một chiếc gối ở sau tủ kính và trong tay khách, rồi dẫn nghiên cứu về mere touch và perceived ownership.",
+      "singleLesson": "Sản phẩm bán bằng cảm giác thì phải cho khách một cách cảm được nó.",
+      "immediateApplication": "Quay một POV mười giây cho thấy tay ấn, kéo, gập hoặc cầm sản phẩm thay vì chỉ lia máy quanh nó.",
+      "motionPotential": [
+        "Chiếc gối rời khỏi tủ kính và khớp vào hai bàn tay đang bóp thử",
+        "Sóng texture chạy từ bề mặt gối sang thẻ cảm giác sở hữu rồi biến thành cảnh POV quay thử"
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "bàn tay định đặt chiếc gối xuống",
+          "literalVisual": "tay khách giữ chiếc gối ngay trên kệ",
+          "action": "khựng lại trước khi buông",
+          "sceneFamily": "touch-hook",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "khách bóp và cảm bề mặt",
+          "literalVisual": "cận cảnh ngón tay ấn vào vải mềm",
+          "action": "bóp, kéo và xoay chiếc gối",
+          "sceneFamily": "tactile-product-action",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "nghiên cứu về chạm và cảm giác sở hữu",
+          "literalVisual": "sơ đồ trung tính vật sau kính so với vật được cầm",
+          "action": "marker nối chạm với perceived ownership có chú thích nguồn",
+          "sceneFamily": "touch-study-proof",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "thông tin xúc giác và hình dung bản thân",
+          "literalVisual": "texture, trọng lượng và nhiệt độ đi vào hai nhánh thông tin",
+          "action": "hai nhánh hội tụ thành cảm giác món đồ gần mình hơn",
+          "sceneFamily": "touch-mechanism",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "chủ shop quay thao tác thử",
+          "literalVisual": "chủ shop đặt điện thoại và quay POV bàn tay",
+          "action": "ghi lại một thao tác chạm mười giây",
+          "sceneFamily": "tactile-content-audit",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "hook",
+          "touch",
+          "content-demo"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.4
+      },
+      "topicKeywords": [
+        "trải nghiệm chạm",
+        "tactile marketing",
+        "perceived ownership",
+        "demo sản phẩm",
+        "video POV"
+      ],
+      "phenomenon": {
+        "observableMoment": "Khách cầm thử một món đồ rồi chần chừ khi đặt nó trở lại kệ.",
+        "businessStake": "Doanh nghiệp có thể đang bỏ qua bằng chứng cảm giác quan trọng nhất của sản phẩm.",
+        "viewerPrediction": "Khách chỉ đang kiểm tra chất lượng vật liệu.",
+        "visibleContradiction": "Món đồ chưa được mua nhưng cảm giác gần gũi và sở hữu có thể đã thay đổi."
+      },
+      "hookDesign": {
+        "mode": "visible-paradox",
+        "spokenHook": "Có những món đồ chưa qua quầy thanh toán, nhưng bàn tay đã không muốn trả nó về kệ.",
+        "withheldAnswer": "Chạm vừa cung cấp thông tin vừa làm món đồ được cảm nhận gần mình hơn.",
+        "broadAudienceBridge": "Người tiêu dùng nhận ra hành vi cầm thử; thương hiệu nhận ra một kiểu bằng chứng có thể quay được.",
+        "delivery": "micro-story",
+        "deliveryNote": "Mở bằng một khoảnh khắc nhỏ có nhịp kể."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Khi tay nhận được texture và trọng lượng thật, món đồ không còn là một hình ảnh xa lạ.",
+        "technicalLabel": "Mere-touch effect",
+        "earliestRevealSecond": 20
+      },
+      "proofPlan": {
+        "primaryClaim": "Chạm có thể làm tăng cảm giác sở hữu được cảm nhận, và trải nghiệm chạm tích cực liên quan tới định giá.",
+        "evidenceType": "primary-experimental-study-plus-demo",
+        "sourceNeeded": true,
+        "visualProof": "Đối chiếu sản phẩm chỉ nhìn và sản phẩm được cầm thử bằng tài nguyên tự quay hoặc không thương hiệu."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 0,
+          "trigger": "Bàn tay không muốn buông",
+          "informationGain": "Mở nghịch lý sở hữu",
+          "visualReset": "Freeze-frame tay và gối",
+          "sceneFamily": "touch-hook"
+        },
+        {
+          "atSecond": 8,
+          "trigger": "Chạm cho thông tin mà mắt thiếu",
+          "informationGain": "Thêm texture và trọng lượng",
+          "visualReset": "Macro bề mặt",
+          "sceneFamily": "tactile-product-action"
+        },
+        {
+          "atSecond": 16,
+          "trigger": "Cảm giác sở hữu xuất hiện trước thanh toán",
+          "informationGain": "Lật từ kiểm tra sang gần gũi",
+          "visualReset": "Gối đi từ kệ vào silhouette người",
+          "sceneFamily": "ownership-flip"
+        },
+        {
+          "atSecond": 25,
+          "trigger": "Nghiên cứu mere touch",
+          "informationGain": "Đưa proof có giới hạn",
+          "visualReset": "Sơ đồ nghiên cứu",
+          "sceneFamily": "touch-study-proof"
+        },
+        {
+          "atSecond": 34,
+          "trigger": "Online không có xúc giác thật",
+          "informationGain": "Đổi bối cảnh sang TikTok",
+          "visualReset": "Tay thật chuyển thành POV điện thoại",
+          "sceneFamily": "touch-to-video"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Thiết kế thao tác thử mười giây",
+          "informationGain": "Cho hành động cụ thể",
+          "visualReset": "Shot list ấn-kéo-gập-cầm",
+          "sceneFamily": "tactile-content-audit"
+        }
+      ],
+      "evidence": [
+        {
+          "title": "The Effect of Mere Touch on Perceived Ownership",
+          "url": "https://doi.org/10.1086/598614",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu gốc về ảnh hưởng của việc chạm tới perceived ownership và mối liên hệ với định giá, có điều kiện theo trải nghiệm chạm."
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED",
+        "signal": "",
+        "observedAt": ""
+      },
+      "visualSeed": "Macro bàn tay Việt Nam chạm chiếc gối matte, texture rõ, cutout photoreal trên collage giấy hồng.",
+      "rightsStatus": "READY_WITH_ORIGINAL_DEMO",
+      "estimatedImageCalls": 7,
+      "productionCost": "MEDIUM",
+      "scores": {
+        "freshness": 5,
+        "audienceFit": 5,
+        "hookClarity": 5,
+        "storyClarity": 5,
+        "lessonUsefulness": 5,
+        "evidence": 5,
+        "visualClarity": 5,
+        "rightsReadiness": 5,
+        "productionCost": 4,
+        "shelfLife": 5,
+        "openingFamiliarity": 5,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 109
+    },
+    {
+      "id": "IDEA004",
+      "rank": 4,
+      "title": "Một review một sao đang nói với khách mới, không chỉ nói với bạn",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Doanh nghiệp trả lời review tiêu cực như một cuộc tranh luận riêng với người viết và quên rằng khách tương lai cũng đang đọc.",
+      "viewerQuestion": "Khi doanh nghiệp trả lời một review xấu, người thật sự cần được thuyết phục là ai?",
+      "caseStory": "Một review một sao nằm giữa màn hình; bên trái là reply phòng thủ, bên phải là reply có giọng người, nhận phần việc và nêu bước xử lý.",
+      "curiosityParadox": "Một câu trả lời công khai hướng tới một khách cũ nhưng lại trở thành bằng chứng dịch vụ cho rất nhiều khách chưa mua.",
+      "brandingLesson": "Reply review là một điểm chạm công khai: mục tiêu không phải thắng tranh luận mà là cho người đứng ngoài thấy doanh nghiệp xử lý vấn đề thế nào.",
+      "actionablePayoff": "Viết lại một reply theo ba phần: xác nhận vấn đề, nói việc đang làm và mời tiếp tục trao đổi riêng—không chèn khuyến mãi.",
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Một review một sao được ba người khác âm thầm đọc trước khi quyết định mua.",
+      "narrativeObject": "Thẻ review một sao trung tính",
+      "curiosityGap": "Tại sao người xem im lặng mới là khán giả quan trọng nhất của câu trả lời?",
+      "hiddenMechanism": "Người chưa mua dùng cách doanh nghiệp phản ứng để suy ra mức độ quan tâm và đáng tin khi có sự cố.",
+      "marketingBridge": "Quản trị review là thiết kế bằng chứng về cách thương hiệu hành xử sau lỗi, không phải một màn PR giảm giá.",
+      "proofMove": "Đặt cùng review cạnh hai kiểu phản hồi và dẫn nghiên cứu thử nghiệm về suy luận trust và concern của khách tiềm năng.",
+      "singleLesson": "Mỗi reply review phải được viết cho cả người phàn nàn lẫn người đang đứng ngoài quan sát.",
+      "immediateApplication": "Chọn một review gần nhất và xóa mọi câu phòng thủ hoặc quảng cáo, chỉ giữ xác nhận, hành động và kênh xử lý.",
+      "motionPotential": [
+        "Thẻ review xoay từ cuộc đối thoại hai người sang khung có ba khách tiềm năng đang đọc",
+        "Reply phòng thủ bị marker gạch bỏ rồi thay bằng ba mảnh xác nhận-hành động-kênh xử lý"
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "review một sao và những người đang đọc",
+          "literalVisual": "thẻ review trung tính ở giữa, ba gương mặt khách tiềm năng phía sau",
+          "action": "ba người dừng lướt và đọc reply",
+          "sceneFamily": "public-review-hook",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "chủ shop trả lời phòng thủ",
+          "literalVisual": "chủ shop gõ nhanh trên điện thoại",
+          "action": "gõ câu phản bác rồi khựng lại",
+          "sceneFamily": "owner-defensive-reply",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "nghiên cứu về phản hồi review tiêu cực",
+          "literalVisual": "sơ đồ response so với no response có chú thích nguồn",
+          "action": "marker khoanh trust và concern, không thêm số tự chế",
+          "sceneFamily": "review-response-proof",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "khách mới suy ra cách doanh nghiệp xử lý lỗi",
+          "literalVisual": "review dẫn qua reply rồi tới suy luận của khách đứng ngoài",
+          "action": "mũi tên chuyển từ tranh luận sang bằng chứng hành vi",
+          "sceneFamily": "observer-inference-mechanism",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "người làm marketing sửa reply",
+          "literalVisual": "ba sticky note xác nhận, hành động, kênh xử lý",
+          "action": "kéo ba phần vào câu trả lời mới và bỏ coupon",
+          "sceneFamily": "reply-rewrite-audit",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "hook",
+          "reply",
+          "lesson"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.35
+      },
+      "topicKeywords": [
+        "review tiêu cực",
+        "phản hồi khách hàng",
+        "online reputation",
+        "service recovery",
+        "niềm tin"
+      ],
+      "phenomenon": {
+        "observableMoment": "Nhiều khách chưa mua đọc cả review xấu lẫn câu trả lời của doanh nghiệp.",
+        "businessStake": "Một reply phòng thủ có thể trở thành điểm chạm xấu, còn phản hồi tử tế cho thấy cách doanh nghiệp hành xử khi có vấn đề.",
+        "viewerPrediction": "Câu trả lời chỉ nhằm giải quyết với người đã viết review.",
+        "visibleContradiction": "Người quyết định mua sau đó mới là nhóm đông hơn đang quan sát cuộc trao đổi."
+      },
+      "hookDesign": {
+        "mode": "visible-paradox",
+        "spokenHook": "Một review một sao đang nói với khách mới, không chỉ nói với bạn.",
+        "withheldAnswer": "Khách tương lai dùng reply để suy ra cách doanh nghiệp xử lý sự cố.",
+        "broadAudienceBridge": "Ai từng đọc hoặc từng trả lời review đều nhận ra tình huống."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Người đứng ngoài nhìn phản ứng của doanh nghiệp để đoán họ sẽ được đối xử thế nào nếu gặp lỗi tương tự.",
+        "technicalLabel": "Observer inference",
+        "earliestRevealSecond": 18
+      },
+      "proofPlan": {
+        "primaryClaim": "Sự hiện diện và cách viết phản hồi review tiêu cực có thể ảnh hưởng suy luận của khách tiềm năng về trust và concern.",
+        "evidenceType": "experimental-study",
+        "sourceNeeded": true,
+        "visualProof": "Mock review không thương hiệu với hai kiểu reply, kèm chú thích nguồn nghiên cứu."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 0,
+          "trigger": "Ba khách mới cùng đọc một review",
+          "informationGain": "Đổi khán giả của reply",
+          "visualReset": "Review ở giữa ba người đọc",
+          "sceneFamily": "public-review-hook"
+        },
+        {
+          "atSecond": 8,
+          "trigger": "Chủ shop muốn thắng tranh luận",
+          "informationGain": "Mở sai lầm quen thuộc",
+          "visualReset": "Cận tay gõ phản bác",
+          "sceneFamily": "owner-defensive-reply"
+        },
+        {
+          "atSecond": 16,
+          "trigger": "Người im lặng mới đang đánh giá",
+          "informationGain": "Lật góc nhìn sang observer",
+          "visualReset": "Camera pull-out lộ khách đứng ngoài",
+          "sceneFamily": "observer-reveal"
+        },
+        {
+          "atSecond": 25,
+          "trigger": "Nghiên cứu response và no response",
+          "informationGain": "Đưa proof về suy luận trust",
+          "visualReset": "Sơ đồ nghiên cứu",
+          "sceneFamily": "review-response-proof"
+        },
+        {
+          "atSecond": 34,
+          "trigger": "Coupon có thể làm reply giống quảng cáo",
+          "informationGain": "Thêm giới hạn về giọng phản hồi",
+          "visualReset": "Coupon bị gạch khỏi reply",
+          "sceneFamily": "reply-tone-contrast"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Công thức ba phần",
+          "informationGain": "Cho thao tác sửa ngay",
+          "visualReset": "Ba sticky note ghép thành reply",
+          "sceneFamily": "reply-rewrite-audit"
+        }
+      ],
+      "evidence": [
+        {
+          "title": "Responding to negative online reviews: The effects of hotel responses on customer inferences of trust and concern",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0261517715300121",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu thử nghiệm về cách khách tiềm năng suy luận trust và concern khi doanh nghiệp có hoặc không có phản hồi, cùng ảnh hưởng của human voice và timing."
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED",
+        "signal": "",
+        "observedAt": ""
+      },
+      "visualSeed": "Review card trung tính do Remotion dựng, photoreal người Việt đang đọc, marker hồng gạch câu phòng thủ.",
+      "rightsStatus": "READY_WITH_NEUTRAL_UI",
+      "estimatedImageCalls": 6,
+      "productionCost": "MEDIUM",
+      "scores": {
+        "freshness": 5,
+        "audienceFit": 5,
+        "hookClarity": 5,
+        "storyClarity": 5,
+        "lessonUsefulness": 5,
+        "evidence": 5,
+        "visualClarity": 5,
+        "rightsReadiness": 5,
+        "productionCost": 4,
+        "shelfLife": 5,
+        "openingFamiliarity": 5,
+        "viewerParticipation": 4,
+        "broadAudienceReach": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 4,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 106
+    },
+    {
+      "id": "IDEA005",
+      "rank": 5,
+      "title": "Ảnh trước–sau càng khác ánh sáng, sao càng khó tin?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Doanh nghiệp có kết quả thật nhưng quay trước và sau ở hai góc, hai ánh sáng hoặc hai khoảng cách khác nhau, khiến bằng chứng trông giống quảng cáo quá tay.",
+      "viewerQuestion": "Vì sao hình ảnh kịch tính hơn đôi khi lại làm bằng chứng yếu đi?",
+      "caseStory": "Hai cặp trước–sau của cùng một bề mặt: một cặp khác ánh sáng và góc máy, một cặp khóa cùng setup để chỉ còn thay đổi cần chứng minh.",
+      "curiosityParadox": "Cặp ảnh đầu nhìn ấn tượng hơn nhưng người xem không biết kết quả đến từ sản phẩm hay từ cách quay.",
+      "brandingLesson": "Bằng chứng thuyết phục khi người xem nhìn thấy đúng biến số thay đổi, không phải khi khung hình được làm kịch tính nhất.",
+      "actionablePayoff": "Dùng tripod, đánh dấu vị trí, khóa ánh sáng và ghi ngày giờ khi quay trước–sau; nếu không kiểm soát được thì đổi sang lời chứng minh mềm hơn.",
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Hai ảnh trước–sau cùng một vật nhưng một ảnh tối và một ảnh sáng rực, đặt cạnh một cặp khóa cùng ánh sáng.",
+      "narrativeObject": "Khung ảnh trước–sau",
+      "curiosityGap": "Cặp nào trông đáng tin hơn, và chi tiết nào làm người xem nghi ngờ?",
+      "hiddenMechanism": "Khi nhiều thứ cùng đổi, người xem không thể biết yếu tố nào tạo ra kết quả; độ kịch tính tăng nhưng khả năng kiểm chứng giảm.",
+      "marketingBridge": "Creative proof tốt tách phần trình bày khỏi phần cần chứng minh và giữ các điều kiện so sánh càng nhất quán càng tốt.",
+      "proofMove": "Tự quay một demo vật thể vô hại với hai setup: cố ý đổi ánh sáng và khóa hoàn toàn tripod-ánh sáng-khoảng cách, rồi mời người xem chọn cặp dễ kiểm tra hơn.",
+      "singleLesson": "Đừng làm ảnh trước–sau đẹp hơn; hãy làm nó dễ kiểm chứng hơn.",
+      "immediateApplication": "Tạo một preset tripod và ánh sáng cố định cho mọi nội dung trước–sau của thương hiệu.",
+      "motionPotential": [
+        "Thanh trượt before-after chạy qua cặp lệch ánh sáng rồi dừng ở dấu hỏi",
+        "Tripod, đèn và vạch sàn snap-lock vào vị trí để tạo cặp so sánh kiểm soát"
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "hai cặp ảnh trước và sau",
+          "literalVisual": "một cặp lệch setup và một cặp cùng setup",
+          "action": "người xem chọn cặp đáng tin hơn",
+          "sceneFamily": "before-after-hook",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "người quay đổi góc và ánh sáng",
+          "literalVisual": "người dựng điện thoại và di chuyển đèn",
+          "action": "vô tình tạo hai điều kiện khác nhau",
+          "sceneFamily": "shooting-variable-action",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "yêu cầu bằng chứng cho claim quảng cáo",
+          "literalVisual": "checklist claim và proof có chú thích nguồn FTC",
+          "action": "đối chiếu điều đang nói với thứ hình ảnh thực sự chứng minh",
+          "sceneFamily": "claim-substantiation-proof",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "nhiều biến số cùng thay đổi",
+          "literalVisual": "ánh sáng, góc, khoảng cách và sản phẩm cùng đổ vào kết quả",
+          "action": "marker gạch ba biến phụ để chỉ giữ một biến cần test",
+          "sceneFamily": "controlled-comparison-mechanism",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "đội marketing khóa setup",
+          "literalVisual": "người đặt tripod lên vạch sàn và khóa đèn",
+          "action": "chụp preset rồi lưu thành checklist quay",
+          "sceneFamily": "proof-setup-audit",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "hook",
+          "bad-demo",
+          "locked-demo"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.36
+      },
+      "topicKeywords": [
+        "before after",
+        "bằng chứng quảng cáo",
+        "creative proof",
+        "claim substantiation",
+        "quay sản phẩm"
+      ],
+      "phenomenon": {
+        "observableMoment": "Ảnh trước và sau dùng hai ánh sáng hoặc góc máy khác nhau dù đang chứng minh cùng một kết quả.",
+        "businessStake": "Bằng chứng thật có thể mất độ tin cậy vì cách ghi hình làm người xem không tách được kết quả khỏi kỹ thuật quay.",
+        "viewerPrediction": "Khung hình sau càng sáng và đẹp thì bằng chứng càng thuyết phục.",
+        "visibleContradiction": "Độ kịch tính tăng trong khi khả năng kiểm tra nguyên nhân lại giảm."
+      },
+      "hookDesign": {
+        "mode": "prediction-puzzle",
+        "spokenHook": "Hai cặp ảnh trước sau này, cặp nào khiến bạn tin hơn?",
+        "withheldAnswer": "Cặp khóa cùng điều kiện giúp người xem biết chính xác thứ gì đã thay đổi.",
+        "broadAudienceBridge": "Người xem từng thấy before-after; marketer có một tiêu chuẩn quay làm được ngay."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Nếu ánh sáng, góc và khoảng cách cùng đổi, mắt không biết sản phẩm hay cách quay tạo ra khác biệt.",
+        "technicalLabel": "Controlled comparison",
+        "earliestRevealSecond": 17
+      },
+      "proofPlan": {
+        "primaryClaim": "Claim quảng cáo cần có bằng chứng phù hợp trước khi công bố; demo nên tránh khiến người xem hiểu sai điều được chứng minh.",
+        "evidenceType": "authoritative-guidance-plus-original-demo",
+        "sourceNeeded": true,
+        "visualProof": "Demo tự quay trên vật thể không nhạy cảm với một setup sai và một setup khóa biến số."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 0,
+          "trigger": "Mời chọn cặp đáng tin",
+          "informationGain": "Biến hook thành bài test",
+          "visualReset": "Hai cặp before-after",
+          "sceneFamily": "before-after-hook"
+        },
+        {
+          "atSecond": 8,
+          "trigger": "Cặp kịch tính đổi cả ánh sáng",
+          "informationGain": "Lộ biến số gây nhiễu",
+          "visualReset": "Đèn và góc máy bị khoanh",
+          "sceneFamily": "shooting-variable-action"
+        },
+        {
+          "atSecond": 16,
+          "trigger": "Người xem không biết thứ gì gây kết quả",
+          "informationGain": "Giải cơ chế kiểm chứng",
+          "visualReset": "Sơ đồ bốn biến vào một kết quả",
+          "sceneFamily": "controlled-comparison-mechanism"
+        },
+        {
+          "atSecond": 25,
+          "trigger": "Claim cần proof phù hợp",
+          "informationGain": "Đưa guardrail có nguồn",
+          "visualReset": "Checklist claim-proof",
+          "sceneFamily": "claim-substantiation-proof"
+        },
+        {
+          "atSecond": 34,
+          "trigger": "Tự quay lại cùng vật thể",
+          "informationGain": "Chứng minh bằng demo thật",
+          "visualReset": "Tripod snap vào vạch sàn",
+          "sceneFamily": "locked-demo-proof"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Lưu preset quay",
+          "informationGain": "Cho thao tác áp dụng",
+          "visualReset": "Checklist tripod-đèn-khoảng cách",
+          "sceneFamily": "proof-setup-audit"
+        }
+      ],
+      "evidence": [
+        {
+          "title": "Advertising FAQs: A Guide for Small Business",
+          "url": "https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business",
+          "accessedAt": "2026-08-24",
+          "supports": "Hướng dẫn chính thức rằng nhà quảng cáo phải có cơ sở chứng minh cho claim trước khi quảng cáo chạy; dùng như guardrail, không suy rộng thành tiêu chuẩn pháp lý Việt Nam."
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED",
+        "signal": "",
+        "observedAt": ""
+      },
+      "visualSeed": "Hai cặp before-after neutral, tripod và đèn như sticker thật, marker hồng khoanh biến số gây nhiễu.",
+      "rightsStatus": "READY_WITH_ORIGINAL_DEMO",
+      "estimatedImageCalls": 4,
+      "productionCost": "LOW",
+      "scores": {
+        "freshness": 5,
+        "audienceFit": 5,
+        "hookClarity": 5,
+        "storyClarity": 5,
+        "lessonUsefulness": 5,
+        "evidence": 4,
+        "visualClarity": 5,
+        "rightsReadiness": 5,
+        "productionCost": 5,
+        "shelfLife": 5,
+        "openingFamiliarity": 5,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 4,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 108
+    },
+    {
+      "id": "IDEA006",
+      "rank": 6,
+      "title": "Nói một điểm chưa hoàn hảo, vì sao quảng cáo lại đáng tin hơn?",
+      "lane": "EVERGREEN",
+      "status": "ADJACENT",
+      "painPoint": "Nội dung thương hiệu chỉ nói ưu điểm nên giống mọi quảng cáo khác và không giúp khách tự xác định sản phẩm có hợp mình không.",
+      "viewerQuestion": "Một thương hiệu tự nói ra giới hạn của sản phẩm có đang tự làm khó mình không?",
+      "caseStory": "Hai tấm mô tả cùng một quán nhỏ: một bên chỉ viết hoàn hảo mọi mặt, một bên nói thật rằng ít chỗ ngồi nhưng yên tĩnh và phù hợp làm việc một mình.",
+      "curiosityParadox": "Thêm một thông tin bất lợi có vẻ làm đề nghị yếu hơn nhưng đôi khi lại giúp phần phù hợp trở nên cụ thể và nguồn nói đáng tin hơn.",
+      "brandingLesson": "Một giới hạn thật chỉ có ích khi nó giúp khách hiểu rõ ai phù hợp; không phải cứ tự chê là tạo niềm tin.",
+      "actionablePayoff": "Viết một câu 'không phù hợp nếu...' rồi nối ngay với tình huống khách phù hợp nhất, chỉ dùng điều doanh nghiệp thực sự chấp nhận công khai.",
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Hai biển mô tả quán: 'hoàn hảo cho mọi người' và 'ít chỗ, yên tĩnh, hợp đi một mình'.",
+      "narrativeObject": "Tấm biển 'không phù hợp nếu...'",
+      "curiosityGap": "Tại sao lời mô tả có một giới hạn lại có thể giúp người phù hợp tin hơn?",
+      "hiddenMechanism": "Khi giới hạn có liên quan logic tới ưu điểm chính, người nghe vừa có thêm thông tin tự chọn vừa có lý do xem nguồn nói là thành thật hơn.",
+      "marketingBridge": "Two-sided message thừa nhận một điểm bất lợi có thật; hiệu quả phụ thuộc nội dung, mức độ và mối liên hệ với ưu điểm chứ không phải mẹo câu chữ.",
+      "proofMove": "Đối chiếu hai mô tả trung tính và dẫn meta-analysis cùng nghiên cứu về điều kiện khiến thông điệp hai mặt hiệu quả hơn.",
+      "singleLesson": "Đừng tự chê để gây chú ý; hãy công khai một giới hạn giúp đúng khách tự nhận ra mình.",
+      "immediateApplication": "Thêm một dòng 'không phù hợp nếu...' vào brief nội dung và kiểm tra xem nó có dẫn tới một nhóm khách phù hợp cụ thể hay không.",
+      "motionPotential": [
+        "Biển 'hoàn hảo cho mọi người' phồng lên rồi xẹp xuống trước các dấu hỏi của khách",
+        "Mảnh 'ít chỗ' xoay lại thành bằng chứng cho không gian yên tĩnh và ghép đúng một chân dung khách"
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "hai tấm biển mô tả cùng một quán",
+          "literalVisual": "một biển hoàn hảo mọi mặt và một biển nêu giới hạn thật",
+          "action": "người xem chọn tấm đáng tin hơn",
+          "sceneFamily": "two-message-hook",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "khách đọc giới hạn ít chỗ",
+          "literalVisual": "một khách đi nhóm lắc đầu, một khách đi một mình bước vào",
+          "action": "hai người tự phân loại mức phù hợp",
+          "sceneFamily": "customer-self-selection",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "nghiên cứu về thông điệp hai mặt",
+          "literalVisual": "sơ đồ một mặt và hai mặt kèm chú thích điều kiện",
+          "action": "marker khoanh credibility và moderator",
+          "sceneFamily": "two-sided-proof",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "giới hạn liên quan tới ưu điểm",
+          "literalVisual": "mảnh 'ít chỗ' nối logic tới 'yên tĩnh' thay vì đứng riêng",
+          "action": "mũi tên gắn bất lợi phụ với lợi ích chính",
+          "sceneFamily": "fit-mechanism",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "marketer viết câu không phù hợp nếu",
+          "literalVisual": "người làm nội dung viết giới hạn và chân dung phù hợp lên hai sticky note",
+          "action": "nối hai note rồi loại câu tự chê vô nghĩa",
+          "sceneFamily": "limitation-message-audit",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "hook",
+          "self-selection",
+          "lesson"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.34
+      },
+      "topicKeywords": [
+        "two-sided message",
+        "giới hạn sản phẩm",
+        "niềm tin quảng cáo",
+        "tự chọn khách hàng",
+        "product fit"
+      ],
+      "phenomenon": {
+        "observableMoment": "Một thương hiệu công khai một giới hạn nhỏ và người phù hợp vẫn chọn nó.",
+        "businessStake": "Thông điệp chỉ có ưu điểm dễ trở nên chung chung, còn giới hạn sai cách có thể làm hại đề nghị.",
+        "viewerPrediction": "Nói điểm bất lợi chắc chắn làm khách bỏ đi.",
+        "visibleContradiction": "Một giới hạn liên quan logic tới ưu điểm có thể làm thông điệp cụ thể và đáng tin hơn, nhưng không phải trong mọi trường hợp."
+      },
+      "hookDesign": {
+        "mode": "identity-boundary",
+        "spokenHook": "Nói một điểm chưa hoàn hảo, vì sao quảng cáo lại đáng tin hơn?",
+        "withheldAnswer": "Giới hạn có liên quan giúp khách tự chọn và làm nguồn nói có vẻ thành thật hơn.",
+        "broadAudienceBridge": "Người mua nhận ra quảng cáo quá hoàn hảo; doanh nghiệp có một bài kiểm tra thông điệp."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Một giới hạn thật giúp người nghe hiểu cả cái giá và người phù hợp với ưu điểm chính.",
+        "technicalLabel": "Two-sided advertising",
+        "earliestRevealSecond": 20
+      },
+      "proofPlan": {
+        "primaryClaim": "Thông điệp hai mặt có thể tăng perceived credibility, nhưng hiệu quả phụ thuộc loại thông tin bất lợi và mối liên hệ với ưu điểm.",
+        "evidenceType": "meta-analysis-plus-primary-study",
+        "sourceNeeded": true,
+        "visualProof": "Hai mô tả không thương hiệu với một giới hạn có liên quan logic và một câu tự chê không liên quan."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 0,
+          "trigger": "Hai biển hoàn hảo và có giới hạn",
+          "informationGain": "Mời đoán tấm đáng tin",
+          "visualReset": "Hai biển đối chiếu",
+          "sceneFamily": "two-message-hook"
+        },
+        {
+          "atSecond": 8,
+          "trigger": "Khách không phù hợp tự rời đi",
+          "informationGain": "Đổi mất khách thành tự phân loại",
+          "visualReset": "Hai chân dung tách hướng",
+          "sceneFamily": "customer-self-selection"
+        },
+        {
+          "atSecond": 16,
+          "trigger": "Giới hạn phải liên quan ưu điểm",
+          "informationGain": "Thêm điều kiện quan trọng",
+          "visualReset": "Ít chỗ nối tới yên tĩnh",
+          "sceneFamily": "fit-mechanism"
+        },
+        {
+          "atSecond": 25,
+          "trigger": "Meta-analysis cho kết quả có điều kiện",
+          "informationGain": "Chặn công thức máy móc",
+          "visualReset": "Credibility và moderator xuất hiện",
+          "sceneFamily": "two-sided-proof"
+        },
+        {
+          "atSecond": 34,
+          "trigger": "Tự chê vô nghĩa không tạo niềm tin",
+          "informationGain": "Cho phản ví dụ",
+          "visualReset": "Câu tự chê bị gạch",
+          "sceneFamily": "bad-limitation-counterexample"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Viết giới hạn nối với product fit",
+          "informationGain": "Cho thao tác áp dụng",
+          "visualReset": "Hai sticky note được nối",
+          "sceneFamily": "limitation-message-audit"
+        }
+      ],
+      "evidence": [
+        {
+          "title": "Two-sided advertising: A meta-analysis",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0167811606000267",
+          "accessedAt": "2026-08-24",
+          "supports": "Tổng hợp cho thấy tác động của thông điệp hai mặt có tính điều kiện và có ảnh hưởng tới perceived credibility; không hỗ trợ công thức cứ nêu khuyết điểm là tốt."
+        },
+        {
+          "title": "Predicting when Two-Sided Ads will be More Effective than One-Sided Ads",
+          "url": "https://journals.sagepub.com/doi/10.1177/002224379202900405",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu về vai trò của mối liên hệ giữa thuộc tính bất lợi và thuộc tính chính trong hiệu quả thông điệp hai mặt."
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED",
+        "signal": "",
+        "observedAt": ""
+      },
+      "visualSeed": "Hai bảng giấy xé mô tả quán nhỏ, người Việt tự chọn ngữ cảnh, đường marker nối giới hạn tới lợi ích phù hợp.",
+      "rightsStatus": "READY_WITH_NEUTRAL_SCENES",
+      "estimatedImageCalls": 6,
+      "productionCost": "MEDIUM",
+      "scores": {
+        "freshness": 4,
+        "audienceFit": 5,
+        "hookClarity": 5,
+        "storyClarity": 5,
+        "lessonUsefulness": 5,
+        "evidence": 5,
+        "visualClarity": 5,
+        "rightsReadiness": 5,
+        "productionCost": 4,
+        "shelfLife": 5,
+        "openingFamiliarity": 5,
+        "viewerParticipation": 4,
+        "broadAudienceReach": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 4,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 105
+    }
+  ]
+}

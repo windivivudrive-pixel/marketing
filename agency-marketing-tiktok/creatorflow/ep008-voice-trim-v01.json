@@ -1,0 +1,10 @@
+{
+  "method": "leading-trailing-silencedetect",
+  "thresholdDb": -40,
+  "minimumSilenceMs": 80,
+  "inputDurationMs": 51280,
+  "removedLeadingMs": 220,
+  "removedTrailingMs": 0,
+  "outputDurationMs": 51060,
+  "internalPausesPreserved": true
+}

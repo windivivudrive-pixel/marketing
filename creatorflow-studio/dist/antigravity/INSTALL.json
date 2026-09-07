@@ -1,0 +1,6 @@
+{
+  "sourcePlugin": "/Users/win/Documents/marketing channel/creatorflow-studio",
+  "workspaceDestination": ".agents/plugins/creatorflow-studio",
+  "globalDestination": "~/.gemini/config/plugins/creatorflow-studio",
+  "strategy": "symlink-source-to-destination"
+}

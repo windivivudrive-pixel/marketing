@@ -1,0 +1,289 @@
+[
+  {
+    "text": "Cùng phải mua thêm tám ly",
+    "startMs": 0,
+    "endMs": 960,
+    "timestampMs": 0,
+    "confidence": 1.0
+  },
+  {
+    "text": "cà phê để được một ly",
+    "startMs": 960,
+    "endMs": 2020,
+    "timestampMs": 960,
+    "confidence": 1.0
+  },
+  {
+    "text": "miễn phí. Nhưng chiếc thẻ này",
+    "startMs": 2020,
+    "endMs": 3520,
+    "timestampMs": 2020,
+    "confidence": 1.0
+  },
+  {
+    "text": "bị vứt vào sọt rác, còn",
+    "startMs": 3520,
+    "endMs": 4700,
+    "timestampMs": 3520,
+    "confidence": 1.0
+  },
+  {
+    "text": "chiếc thẻ này lại được khách",
+    "startMs": 4700,
+    "endMs": 5540,
+    "timestampMs": 4700,
+    "confidence": 1.0
+  },
+  {
+    "text": "giữ cẩn thận trong ví. Quán",
+    "startMs": 5540,
+    "endMs": 7100,
+    "timestampMs": 5540,
+    "confidence": 1.0
+  },
+  {
+    "text": "A phát thẻ tám ô trắng",
+    "startMs": 7100,
+    "endMs": 8020,
+    "timestampMs": 7100,
+    "confidence": 1.0
+  },
+  {
+    "text": "trơn. Quán B phát thẻ mười",
+    "startMs": 8020,
+    "endMs": 9640,
+    "timestampMs": 8020,
+    "confidence": 1.0
+  },
+  {
+    "text": "ô, nhưng đã đóng sẵn hai",
+    "startMs": 9640,
+    "endMs": 10940,
+    "timestampMs": 9640,
+    "confidence": 1.0
+  },
+  {
+    "text": "con dấu đỏ ngay khi trao",
+    "startMs": 10940,
+    "endMs": 11880,
+    "timestampMs": 10940,
+    "confidence": 1.0
+  },
+  {
+    "text": "tay. Về mặt toán học, cả",
+    "startMs": 11880,
+    "endMs": 13440,
+    "timestampMs": 11880,
+    "confidence": 1.0
+  },
+  {
+    "text": "hai quán đều bắt bạn bỏ",
+    "startMs": 13780,
+    "endMs": 14600,
+    "timestampMs": 13780,
+    "confidence": 1.0
+  },
+  {
+    "text": "tiền mua đúng tám ly nữa.",
+    "startMs": 14600,
+    "endMs": 15600,
+    "timestampMs": 14600,
+    "confidence": 1.0
+  },
+  {
+    "text": "Vậy tại sao chiếc thẻ mười",
+    "startMs": 15600,
+    "endMs": 16800,
+    "timestampMs": 15600,
+    "confidence": 1.0
+  },
+  {
+    "text": "ô lại có tỷ lệ khách",
+    "startMs": 16800,
+    "endMs": 17700,
+    "timestampMs": 16800,
+    "confidence": 1.0
+  },
+  {
+    "text": "quay lại hoàn thành cao gần",
+    "startMs": 17700,
+    "endMs": 18760,
+    "timestampMs": 17700,
+    "confidence": 1.0
+  },
+  {
+    "text": "gấp đôi? Trong tâm lý học",
+    "startMs": 18760,
+    "endMs": 19980,
+    "timestampMs": 18760,
+    "confidence": 1.0
+  },
+  {
+    "text": "hành vi, đó là hiệu ứng",
+    "startMs": 19980,
+    "endMs": 21100,
+    "timestampMs": 19980,
+    "confidence": 1.0
+  },
+  {
+    "text": "tiến độ mục tiêu. Khi đứng",
+    "startMs": 21100,
+    "endMs": 22440,
+    "timestampMs": 21100,
+    "confidence": 1.0
+  },
+  {
+    "text": "trước con số không, não bộ",
+    "startMs": 22440,
+    "endMs": 23620,
+    "timestampMs": 22440,
+    "confidence": 1.0
+  },
+  {
+    "text": "thấy một ngọn núi phải leo.",
+    "startMs": 23620,
+    "endMs": 24300,
+    "timestampMs": 23620,
+    "confidence": 1.0
+  },
+  {
+    "text": "Nhưng khi thấy hai con dấu",
+    "startMs": 24300,
+    "endMs": 25620,
+    "timestampMs": 24300,
+    "confidence": 1.0
+  },
+  {
+    "text": "có sẵn, não tự động hiểu:",
+    "startMs": 25620,
+    "endMs": 26820,
+    "timestampMs": 25620,
+    "confidence": 1.0
+  },
+  {
+    "text": "mình đã đi được hai mươi",
+    "startMs": 26820,
+    "endMs": 28040,
+    "timestampMs": 26820,
+    "confidence": 1.0
+  },
+  {
+    "text": "phần trăm chặng đường, bỏ dở",
+    "startMs": 28040,
+    "endMs": 29680,
+    "timestampMs": 28040,
+    "confidence": 1.0
+  },
+  {
+    "text": "thì tiếc. Khách hàng không trung",
+    "startMs": 29680,
+    "endMs": 31160,
+    "timestampMs": 29680,
+    "confidence": 1.0
+  },
+  {
+    "text": "thành vì bạn nài nỉ họ",
+    "startMs": 31160,
+    "endMs": 32220,
+    "timestampMs": 31160,
+    "confidence": 1.0
+  },
+  {
+    "text": "tích điểm. Họ trung thành vì",
+    "startMs": 32220,
+    "endMs": 33540,
+    "timestampMs": 32220,
+    "confidence": 1.0
+  },
+  {
+    "text": "bạn cho họ cảm giác là",
+    "startMs": 33540,
+    "endMs": 34460,
+    "timestampMs": 33540,
+    "confidence": 1.0
+  },
+  {
+    "text": "người chiến thắng ngay từ bước",
+    "startMs": 34460,
+    "endMs": 35460,
+    "timestampMs": 34460,
+    "confidence": 1.0
+  },
+  {
+    "text": "đầu tiên. Bài học là: đừng",
+    "startMs": 35460,
+    "endMs": 37200,
+    "timestampMs": 35460,
+    "confidence": 1.0
+  },
+  {
+    "text": "bắt khách hàng bắt đầu từ",
+    "startMs": 37200,
+    "endMs": 38100,
+    "timestampMs": 37200,
+    "confidence": 1.0
+  },
+  {
+    "text": "số không. Hãy trao cho họ",
+    "startMs": 38100,
+    "endMs": 39500,
+    "timestampMs": 38100,
+    "confidence": 1.0
+  },
+  {
+    "text": "một tiến độ có sẵn. Thử",
+    "startMs": 39500,
+    "endMs": 40240,
+    "timestampMs": 39500,
+    "confidence": 1.0
+  },
+  {
+    "text": "mở chương trình tích điểm hoặc",
+    "startMs": 40720,
+    "endMs": 41560,
+    "timestampMs": 40720,
+    "confidence": 1.0
+  },
+  {
+    "text": "tin nhắn chăm sóc của shop.",
+    "startMs": 41560,
+    "endMs": 42680,
+    "timestampMs": 41560,
+    "confidence": 1.0
+  },
+  {
+    "text": "Tặng ngay hai mươi điểm khởi",
+    "startMs": 42680,
+    "endMs": 44140,
+    "timestampMs": 42680,
+    "confidence": 1.0
+  },
+  {
+    "text": "động thay vì một tài khoản",
+    "startMs": 44140,
+    "endMs": 44980,
+    "timestampMs": 44140,
+    "confidence": 1.0
+  },
+  {
+    "text": "trắng tinh. Lưu video này để",
+    "startMs": 44980,
+    "endMs": 46540,
+    "timestampMs": 44980,
+    "confidence": 1.0
+  },
+  {
+    "text": "kiểm tra lại trải nghiệm giữ",
+    "startMs": 46540,
+    "endMs": 47740,
+    "timestampMs": 46540,
+    "confidence": 1.0
+  },
+  {
+    "text": "chân khách của bạn.",
+    "startMs": 47740,
+    "endMs": 48250,
+    "timestampMs": 47740,
+    "confidence": 1.0
+  }
+]

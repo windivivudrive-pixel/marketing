@@ -1,0 +1,247 @@
+[
+  {
+    "text": "Cốc bị vứt. Sao chiếc túi",
+    "startMs": 0,
+    "endMs": 1320,
+    "timestampMs": 0,
+    "confidence": 1.0
+  },
+  {
+    "text": "lại được gấp mang về? Cùng",
+    "startMs": 1320,
+    "endMs": 2800,
+    "timestampMs": 1320,
+    "confidence": 1.0
+  },
+  {
+    "text": "mua ở một quán đấy. Không",
+    "startMs": 2800,
+    "endMs": 4180,
+    "timestampMs": 2800,
+    "confidence": 1.0
+  },
+  {
+    "text": "hẳn vì chiếc túi đẹp hơn,",
+    "startMs": 4180,
+    "endMs": 5320,
+    "timestampMs": 4180,
+    "confidence": 1.0
+  },
+  {
+    "text": "mà vì nó vẫn còn một",
+    "startMs": 5320,
+    "endMs": 6040,
+    "timestampMs": 5320,
+    "confidence": 1.0
+  },
+  {
+    "text": "việc để làm. Hôm nay đựng",
+    "startMs": 6040,
+    "endMs": 7120,
+    "timestampMs": 6040,
+    "confidence": 1.0
+  },
+  {
+    "text": "đồ uống. Ngày mai, nó đựng",
+    "startMs": 7120,
+    "endMs": 8640,
+    "timestampMs": 7120,
+    "confidence": 1.0
+  },
+  {
+    "text": "món quà cho một người bạn.",
+    "startMs": 8640,
+    "endMs": 9900,
+    "timestampMs": 8640,
+    "confidence": 1.0
+  },
+  {
+    "text": "Khi người bạn ấy nhận quà,",
+    "startMs": 9900,
+    "endMs": 10980,
+    "timestampMs": 9900,
+    "confidence": 1.0
+  },
+  {
+    "text": "họ nhìn chiếc túi rồi hỏi:",
+    "startMs": 10980,
+    "endMs": 12480,
+    "timestampMs": 10980,
+    "confidence": 1.0
+  },
+  {
+    "text": "Mua ở đâu vậy? Thế là",
+    "startMs": 12480,
+    "endMs": 13600,
+    "timestampMs": 12480,
+    "confidence": 1.0
+  },
+  {
+    "text": "thương hiệu xuất hiện thêm một",
+    "startMs": 13600,
+    "endMs": 14680,
+    "timestampMs": 13600,
+    "confidence": 1.0
+  },
+  {
+    "text": "lần, dù cửa hàng không chạy",
+    "startMs": 14680,
+    "endMs": 15620,
+    "timestampMs": 14680,
+    "confidence": 1.0
+  },
+  {
+    "text": "thêm quảng cáo. Trong marketing, đó",
+    "startMs": 15840,
+    "endMs": 16980,
+    "timestampMs": 15840,
+    "confidence": 1.0
+  },
+  {
+    "text": "là một điểm chạm sống lâu",
+    "startMs": 16980,
+    "endMs": 17980,
+    "timestampMs": 16980,
+    "confidence": 1.0
+  },
+  {
+    "text": "hơn giao dịch. Nhưng in logo",
+    "startMs": 17980,
+    "endMs": 20000,
+    "timestampMs": 17980,
+    "confidence": 1.0
+  },
+  {
+    "text": "thật lớn chưa chắc khiến khách",
+    "startMs": 20000,
+    "endMs": 20960,
+    "timestampMs": 20000,
+    "confidence": 1.0
+  },
+  {
+    "text": "giữ lại. Món đồ ấy phải",
+    "startMs": 21560,
+    "endMs": 22300,
+    "timestampMs": 21560,
+    "confidence": 1.0
+  },
+  {
+    "text": "hữu ích, đủ đẹp, hoặc gắn",
+    "startMs": 22300,
+    "endMs": 23740,
+    "timestampMs": 22300,
+    "confidence": 1.0
+  },
+  {
+    "text": "với một kỷ niệm. Còn bao",
+    "startMs": 23740,
+    "endMs": 25300,
+    "timestampMs": 23740,
+    "confidence": 1.0
+  },
+  {
+    "text": "bì vô dụng, dù đắt đến",
+    "startMs": 25300,
+    "endMs": 26540,
+    "timestampMs": 25300,
+    "confidence": 1.0
+  },
+  {
+    "text": "đâu, vẫn đi thẳng vào thùng",
+    "startMs": 26540,
+    "endMs": 27740,
+    "timestampMs": 26540,
+    "confidence": 1.0
+  },
+  {
+    "text": "rác. Bài học là: đừng chỉ",
+    "startMs": 28140,
+    "endMs": 29620,
+    "timestampMs": 28140,
+    "confidence": 1.0
+  },
+  {
+    "text": "thiết kế khoảnh khắc khách mua.",
+    "startMs": 29620,
+    "endMs": 31200,
+    "timestampMs": 29620,
+    "confidence": 1.0
+  },
+  {
+    "text": "Hãy thiết kế một thứ có",
+    "startMs": 31200,
+    "endMs": 32020,
+    "timestampMs": 31200,
+    "confidence": 1.0
+  },
+  {
+    "text": "lý do để sống tiếp sau",
+    "startMs": 32020,
+    "endMs": 33120,
+    "timestampMs": 32020,
+    "confidence": 1.0
+  },
+  {
+    "text": "lần mua. Thử đặt túi, hộp,",
+    "startMs": 33500,
+    "endMs": 35540,
+    "timestampMs": 33500,
+    "confidence": 1.0
+  },
+  {
+    "text": "thiệp, hóa đơn và tin nhắn",
+    "startMs": 35540,
+    "endMs": 36820,
+    "timestampMs": 35540,
+    "confidence": 1.0
+  },
+  {
+    "text": "sau bán cạnh nhau. Hỏi một",
+    "startMs": 36820,
+    "endMs": 38620,
+    "timestampMs": 36820,
+    "confidence": 1.0
+  },
+  {
+    "text": "câu: ngày mai, khách còn muốn",
+    "startMs": 38570,
+    "endMs": 39800,
+    "timestampMs": 38570,
+    "confidence": 1.0
+  },
+  {
+    "text": "giữ thứ nào? Nếu chưa có",
+    "startMs": 39800,
+    "endMs": 41200,
+    "timestampMs": 39800,
+    "confidence": 1.0
+  },
+  {
+    "text": "câu trả lời, hãy bắt đầu",
+    "startMs": 41200,
+    "endMs": 42360,
+    "timestampMs": 41200,
+    "confidence": 1.0
+  },
+  {
+    "text": "từ đúng một món. Lưu video",
+    "startMs": 42360,
+    "endMs": 43740,
+    "timestampMs": 42360,
+    "confidence": 1.0
+  },
+  {
+    "text": "này để kiểm tra lại trải",
+    "startMs": 43740,
+    "endMs": 44760,
+    "timestampMs": 43740,
+    "confidence": 1.0
+  },
+  {
+    "text": "nghiệm sau bán của bạn.",
+    "startMs": 44760,
+    "endMs": 45450,
+    "timestampMs": 44760,
+    "confidence": 1.0
+  }
+]

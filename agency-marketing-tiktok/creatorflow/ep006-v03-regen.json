@@ -1,0 +1,27 @@
+{
+  "episode": "EP006",
+  "version": "v03-regen",
+  "model": "gem_pix_2",
+  "idempotencyPrefix": "agency-marketing-tiktok-ep006-v03-r1-",
+  "identityLock": "PHOTOREAL VIETNAMESE STICKER SOURCE ONLY. One complete crop-safe subject, floating isolated cutout, matte finish, soft upper-left daylight, restrained hot-pink accent and clean ink-black details. BACKGROUND REQUIREMENT: every pixel outside the subject must be one identical solid RGB 0,255,0 chroma green #00FF00; perfectly flat, no lighting variation. Keep at least 15 percent empty green margin on all four sides (top, bottom, left, right). Entire subject must be completely enclosed inside the frame and not touch any image border. Do not create a scene, card, poster, collage, paper backing, torn edge, frame, border, floor, table, cast shadow, reflection, vignette, gradient, texture, green rim light, decorative sparkle, extra object, text, logo, watermark, neon or glossy 3D.",
+  "jobs": [
+    {
+      "id": "A01",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a01-discard-cup-green-v03.png",
+      "prompt": "One floating isolated action group fully enclosed within frame: one realistic Vietnamese hand releasing one empty unbranded white takeaway cup directly above one small plain waste bin, dynamic downward motion frozen clearly, full hand, forearm, cup and bin completely visible with 15 percent empty green margin on top, bottom, left and right. Subject does not touch any edge. Background perfectly uniform solid chroma green #00FF00. No gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border or scene background."
+    },
+    {
+      "id": "A08",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a08-shop-owner-audit-green-v03.png",
+      "prompt": "One floating isolated Vietnamese small-shop owner only, waist-up leaning slightly forward, cream shirt with restrained blush-pink apron accent, both hands arranging several completely blank packaging touchpoints in front of the body, focused practical expression, full upper body, hands and touchpoints completely visible with 15 percent empty green margin on all 4 sides including bottom. Subject does not touch bottom or any edge. Background perfectly uniform solid chroma green #00FF00. No table extending to border, no room, no gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing or border."
+    },
+    {
+      "id": "A09",
+      "size": "1024x1024",
+      "output": "public/ep006/v03/generated/a09-touchpoints-sheet-green-v03.png",
+      "prompt": "Exactly three isolated blank packaging objects floating vertically top, middle, bottom: one small cream gift box, one blank blush-pink thank-you card, and one narrow blank receipt slip. Keep at least 20 percent clear green gutter between objects and at least 15 percent outer green margin on all 4 sides. Background must be perfectly uniform solid flat chroma green #00FF00 across entire canvas. No paper background, no grey floor, no gradient, texture, vignette, shadow, green rim, reflection, text, logo, watermark, paper backing, border, overlap or connected shadow."
+    }
+  ]
+}

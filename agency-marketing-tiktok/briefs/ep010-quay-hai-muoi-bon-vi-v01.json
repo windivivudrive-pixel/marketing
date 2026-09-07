@@ -1,0 +1,1756 @@
+{
+  "schemaVersion": 3,
+  "metadata": {
+    "episodeId": "EP010",
+    "slug": "quay-hai-muoi-bon-vi",
+    "version": 1,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260824-branding-ideas-v02.json#IDEA002",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 58,
+    "researchRequired": true
+  },
+  "creativeContract": {
+    "title": "Quầy 24 vị nhìn hấp dẫn hơn, sao khách lại dễ bỏ đi?",
+    "seriesLabelFromProfile": true,
+    "audience": "Chủ doanh nghiệp, đội marketing nội bộ, founder và người xây TikTok cho thương hiệu",
+    "painPoint": "Doanh nghiệp phô toàn bộ danh mục nhưng khách mới không biết bắt đầu từ đâu.",
+    "viewerQuestion": "Nhiều lựa chọn hơn có luôn giúp khách dễ chọn hơn không?",
+    "premise": "Quầy nhiều lựa chọn hút mắt nhưng có thể làm việc quyết định nặng hơn trong một số bối cảnh.",
+    "lesson": "Đừng giảm sản phẩm; hãy giảm số quyết định khách phải xử lý cùng lúc.",
+    "payoff": "Gom danh mục thành ba lối vào theo tình huống khách.",
+    "caseType": "research-backed-demonstration",
+    "caseDisclosure": "Dùng mockup trung tính hoặc demo tự thực hiện; nghiên cứu được diễn giải đúng phạm vi, không dùng số liệu hoặc kết quả tự chế.",
+    "tone": "Trẻ trung, quan sát tinh, giải trí nhẹ, thực chiến, không guru và không giáo điều.",
+    "cta": "save",
+    "narrativeObject": "Hũ mứt nhỏ",
+    "visualStrategy": {
+      "version": "subject-led-v1",
+      "recurringMotif": "Hũ mứt nhỏ",
+      "motifRule": "Chỉ xuất hiện khi còn giúp giải thích voice; rời khung khi người, hành động, bằng chứng hoặc audit trở thành chủ thể.",
+      "sceneFamilies": [
+        "choice-hook",
+        "prediction-copy",
+        "choice-comparison",
+        "visual-attraction",
+        "shopper-attention",
+        "shopper-hesitation",
+        "comparison-action",
+        "choice-anxiety",
+        "comparison-network",
+        "shopper-overload",
+        "choice-study",
+        "study-participant",
+        "study-proof",
+        "evidence-limit",
+        "lesson-flip",
+        "catalog-structure",
+        "lesson-copy",
+        "catalog-audit",
+        "owner-grouping-action",
+        "choice-path-audit",
+        "organized-choice-payoff",
+        "cta"
+      ],
+      "humanMoments": [
+        "Khách đưa tay qua lại giữa nhiều hũ rồi hạ tay xuống",
+        "Chủ shop kéo sản phẩm vào ba nhóm nhu cầu"
+      ]
+    },
+    "openingFrame": {
+      "visualTension": "Một quầy hai mươi bốn hũ đầy màu đối lập một quầy sáu hũ gọn",
+      "heroSubject": "Hai kệ hũ mứt trung tính",
+      "contrast": "Nhiều lựa chọn hút mắt đối lập lựa chọn gọn dễ xử lý",
+      "firstFrameCopy": "24 VỊ HAY 6 VỊ?"
+    },
+    "retentionPlan": {
+      "mode": "business-phenomenon-decode-v1",
+      "viewerPrediction": "Quầy nhiều lựa chọn chắc chắn dễ bán hơn.",
+      "withheldAnswer": "Sự phong phú có thể thu hút chú ý nhưng đồng thời tăng số phép so sánh trước khi chọn.",
+      "plainLanguageMechanism": "Mỗi phương án mới thêm một việc so sánh; nếu không có lối vào rõ, khách phải tự lọc cả danh mục.",
+      "theoryReveal": {
+        "technicalLabel": "Choice overload",
+        "earliestMs": 24400,
+        "plainLanguageAnchor": "Mỗi món mới là thêm một phép so sánh"
+      },
+      "resets": [
+        {
+          "id": "R01",
+          "atMs": 0,
+          "trigger": "Hai quầy chênh lệch số vị",
+          "informationGain": "Mời dự đoán quầy dễ chọn hơn",
+          "visualReset": "Hai kệ sáu và hai mươi bốn",
+          "sceneFamily": "choice-hook"
+        },
+        {
+          "id": "R02",
+          "atMs": 7600,
+          "trigger": "Khách dừng lại nhưng chưa chọn",
+          "informationGain": "Tách sự chú ý khỏi quyết định",
+          "visualReset": "Bàn tay do dự",
+          "sceneFamily": "shopper-attention"
+        },
+        {
+          "id": "R03",
+          "atMs": 14800,
+          "trigger": "Mỗi món thêm một phép so sánh",
+          "informationGain": "Lộ tải xử lý lựa chọn",
+          "visualReset": "Mạng lưới đường chọn",
+          "sceneFamily": "choice-anxiety"
+        },
+        {
+          "id": "R04",
+          "atMs": 24400,
+          "trigger": "Nhiều lựa chọn thành nhiều việc",
+          "informationGain": "Giải cơ chế đời thường",
+          "visualReset": "Hũ biến thành phép so sánh",
+          "sceneFamily": "choice-study"
+        },
+        {
+          "id": "R05",
+          "atMs": 34000,
+          "trigger": "Nghiên cứu sáu và hai mươi bốn",
+          "informationGain": "Đưa bằng chứng có giới hạn",
+          "visualReset": "Sơ đồ thí nghiệm",
+          "sceneFamily": "evidence-limit"
+        },
+        {
+          "id": "R06",
+          "atMs": 43600,
+          "trigger": "Không phải cứ xóa sản phẩm",
+          "informationGain": "Chặn kết luận đơn giản",
+          "visualReset": "Danh mục vẫn giữ nguyên",
+          "sceneFamily": "catalog-audit"
+        },
+        {
+          "id": "R07",
+          "atMs": 50800,
+          "trigger": "Gom thành ba tình huống",
+          "informationGain": "Cho hành động cụ thể",
+          "visualReset": "Ba sticky note nhu cầu",
+          "sceneFamily": "choice-path-audit"
+        }
+      ]
+    },
+    "storyArc": {
+      "familiarHook": {
+        "startMs": 0,
+        "endMs": 3000,
+        "purpose": "Đặt nghịch lý bằng vật thể và tình huống quen thuộc",
+        "voiceAnchor": "Quầy hai mươi bốn vị",
+        "visualProgression": "Hai quầy tạo trò đoán"
+      },
+      "curiosityBuild": {
+        "startMs": 3000,
+        "endMs": 10000,
+        "purpose": "Cho người xem tự đoán và theo dõi tình huống",
+        "voiceAnchor": "Bạn đoán nhé",
+        "visualProgression": "Khách dừng lại trước quầy nhiều màu"
+      },
+      "perspectiveFlip": {
+        "startMs": 10000,
+        "endMs": 19600,
+        "purpose": "Lật giả định trực giác",
+        "voiceAnchor": "Nhưng đứng trước hai mươi bốn hũ",
+        "visualProgression": "Bàn tay do dự giữa quá nhiều hũ"
+      },
+      "marketingDecode": {
+        "startMs": 19600,
+        "endMs": 31600,
+        "purpose": "Giải cơ chế bằng tiếng Việt đời thường trước thuật ngữ",
+        "voiceAnchor": "Mỗi món mới là thêm một phép so sánh",
+        "visualProgression": "Mạng lưới phép so sánh được giải mã"
+      },
+      "proof": {
+        "startMs": 31600,
+        "endMs": 41200,
+        "purpose": "Đưa bằng chứng có nguồn và giới hạn kết luận",
+        "voiceAnchor": "Một nghiên cứu nổi tiếng",
+        "visualProgression": "Sơ đồ nghiên cứu sáu và hai mươi bốn"
+      },
+      "lesson": {
+        "startMs": 41200,
+        "endMs": 50000,
+        "purpose": "Chốt đúng một bài học",
+        "voiceAnchor": "Nhưng khoan",
+        "visualProgression": "Không xóa sản phẩm mà đổi cách tổ chức"
+      },
+      "application": {
+        "startMs": 50000,
+        "endMs": 58000,
+        "purpose": "Cho thao tác áp dụng và một CTA",
+        "voiceAnchor": "Giữ đủ danh mục",
+        "visualProgression": "Chủ shop gom danh mục thành ba lối vào và CTA"
+      }
+    }
+  },
+  "topicKeywords": [
+    "quá tải lựa chọn",
+    "danh mục sản phẩm",
+    "choice architecture",
+    "menu",
+    "nhóm nhu cầu"
+  ],
+  "voiceover": {
+    "displayText": "Quầy 24 vị hấp dẫn hơn, sao khách lại dễ bỏ đi? Bạn đoán nhé: quầy 24 vị hay quầy 6 vị dễ khiến khách chọn hơn? Quầy lớn trông vui mắt, ai cũng muốn dừng lại xem. Nhưng đứng trước hai mươi bốn hũ, khách phải tự so vị này với vị kia, rồi lại sợ chọn nhầm. Mỗi món mới là thêm một phép so sánh. Đây là lúc nhiều lựa chọn biến thành nhiều việc phải làm. Một nghiên cứu nổi tiếng đã đặt người mua trước quầy 24 lựa chọn và quầy 6 lựa chọn. Tập lớn thu hút sự chú ý, còn tập giới hạn tạo điều kiện để quyết định xảy ra dễ hơn trong bối cảnh thí nghiệm. Nhưng khoan, không phải cứ xóa bớt sản phẩm là bán tốt. Bài học nằm ở cách tổ chức. Giữ đủ danh mục, nhưng gom lối vào thành ba tình huống: mới dùng lần đầu, cần giải pháp nhanh, hoặc muốn lựa chọn chuyên sâu. Khách chọn nhu cầu trước, rồi mới chọn món. Đỡ cảm giác đang làm bài thi giữa quầy hàng. Lưu video, rồi thử gom danh mục của bạn vào 3 lối vào.",
+    "voiceText": "Quầy hai mươi bốn vị hấp dẫn hơn, sao khách lại dễ bỏ đi? Bạn đoán nhé: quầy hai mươi bốn vị hay quầy sáu vị dễ khiến khách chọn hơn? Quầy lớn trông vui mắt, ai cũng muốn dừng lại xem. Nhưng đứng trước hai mươi bốn hũ, khách phải tự so vị này với vị kia, rồi lại sợ chọn nhầm. Mỗi món mới là thêm một phép so sánh. Đây là lúc nhiều lựa chọn biến thành nhiều việc phải làm. Một nghiên cứu nổi tiếng đã đặt người mua trước quầy hai mươi bốn lựa chọn và quầy sáu lựa chọn. Tập lớn thu hút sự chú ý, còn tập giới hạn tạo điều kiện để quyết định xảy ra dễ hơn trong bối cảnh thí nghiệm. Nhưng khoan, không phải cứ xóa bớt sản phẩm là bán tốt. Bài học nằm ở cách tổ chức. Giữ đủ danh mục, nhưng gom lối vào thành ba tình huống: mới dùng lần đầu, cần giải pháp nhanh, hoặc muốn lựa chọn chuyên sâu. Khách chọn nhu cầu trước, rồi mới chọn món. Đỡ cảm giác đang làm bài thi giữa quầy hàng. Lưu video, rồi thử gom danh mục của bạn vào ba lối vào.",
+    "sections": {
+      "hook": {
+        "displayText": "Quầy 24 vị hấp dẫn hơn, sao khách lại dễ bỏ đi?",
+        "voiceText": "Quầy hai mươi bốn vị hấp dẫn hơn, sao khách lại dễ bỏ đi?",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 3000
+      },
+      "body": {
+        "displayText": "Bạn đoán nhé: quầy 24 vị hay quầy 6 vị dễ khiến khách chọn hơn? Quầy lớn trông vui mắt, ai cũng muốn dừng lại xem. Nhưng đứng trước hai mươi bốn hũ, khách phải tự so vị này với vị kia, rồi lại sợ chọn nhầm. Mỗi món mới là thêm một phép so sánh. Đây là lúc nhiều lựa chọn biến thành nhiều việc phải làm. Một nghiên cứu nổi tiếng đã đặt người mua trước quầy 24 lựa chọn và quầy 6 lựa chọn. Tập lớn thu hút sự chú ý, còn tập giới hạn tạo điều kiện để quyết định xảy ra dễ hơn trong bối cảnh thí nghiệm. Nhưng khoan, không phải cứ xóa bớt sản phẩm là bán tốt. Bài học nằm ở cách tổ chức. Giữ đủ danh mục, nhưng gom lối vào thành ba tình huống: mới dùng lần đầu, cần giải pháp nhanh, hoặc muốn lựa chọn chuyên sâu. Khách chọn nhu cầu trước, rồi mới chọn món. Đỡ cảm giác đang làm bài thi giữa quầy hàng.",
+        "voiceText": "Bạn đoán nhé: quầy hai mươi bốn vị hay quầy sáu vị dễ khiến khách chọn hơn? Quầy lớn trông vui mắt, ai cũng muốn dừng lại xem. Nhưng đứng trước hai mươi bốn hũ, khách phải tự so vị này với vị kia, rồi lại sợ chọn nhầm. Mỗi món mới là thêm một phép so sánh. Đây là lúc nhiều lựa chọn biến thành nhiều việc phải làm. Một nghiên cứu nổi tiếng đã đặt người mua trước quầy hai mươi bốn lựa chọn và quầy sáu lựa chọn. Tập lớn thu hút sự chú ý, còn tập giới hạn tạo điều kiện để quyết định xảy ra dễ hơn trong bối cảnh thí nghiệm. Nhưng khoan, không phải cứ xóa bớt sản phẩm là bán tốt. Bài học nằm ở cách tổ chức. Giữ đủ danh mục, nhưng gom lối vào thành ba tình huống: mới dùng lần đầu, cần giải pháp nhanh, hoặc muốn lựa chọn chuyên sâu. Khách chọn nhu cầu trước, rồi mới chọn món. Đỡ cảm giác đang làm bài thi giữa quầy hàng.",
+        "estimatedStartMs": 3000,
+        "estimatedEndMs": 53200,
+        "story": "Đặt hai quầy lựa chọn cạnh nhau, tách thu hút khỏi quyết định, giải thích tải so sánh rồi chuyển sang cách gom danh mục theo nhu cầu.",
+        "lesson": "Đừng giảm sản phẩm; hãy giảm số quyết định khách phải xử lý cùng lúc.",
+        "actions": [
+          "Chụp danh mục hiện tại và gom thành ba lối vào theo nhu cầu khách."
+        ]
+      },
+      "close": {
+        "displayText": "Lưu video, rồi thử gom danh mục của bạn vào 3 lối vào.",
+        "voiceText": "Lưu video, rồi thử gom danh mục của bạn vào ba lối vào.",
+        "estimatedStartMs": 53200,
+        "estimatedEndMs": 58000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": []
+  },
+  "onScreenCopy": [
+    {
+      "atMs": 0,
+      "text": "24 VỊ HAY 6 VỊ?",
+      "role": "hook"
+    },
+    {
+      "atMs": 7600,
+      "text": "DỪNG LẠI ≠ CHỌN",
+      "role": "flip"
+    },
+    {
+      "atMs": 14800,
+      "text": "MỖI MÓN · THÊM 1 SO SÁNH",
+      "role": "mechanism"
+    },
+    {
+      "atMs": 24400,
+      "text": "NHIỀU LỰA CHỌN · NHIỀU VIỆC",
+      "role": "decode"
+    },
+    {
+      "atMs": 34000,
+      "text": "KẾT QUẢ PHỤ THUỘC BỐI CẢNH",
+      "role": "proof-limit"
+    },
+    {
+      "atMs": 43600,
+      "text": "KHÔNG CẦN XÓA SẢN PHẨM",
+      "role": "lesson"
+    },
+    {
+      "atMs": 50800,
+      "text": "GOM THEO 3 NHU CẦU",
+      "role": "application"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "startMs": 0,
+      "endMs": 3000,
+      "purpose": "familiarHook",
+      "headline": "24 HAY 6?",
+      "body": "Đặt nghịch lý bằng vật thể và tình huống quen thuộc",
+      "mascot": "thinking"
+    },
+    {
+      "id": "B02",
+      "startMs": 3000,
+      "endMs": 10000,
+      "purpose": "curiosityBuild",
+      "headline": "HÚT MẮT CHƯA CHẮC DỄ CHỌN",
+      "body": "Cho người xem tự đoán và theo dõi tình huống",
+      "mascot": "happy"
+    },
+    {
+      "id": "B03",
+      "startMs": 10000,
+      "endMs": 19600,
+      "purpose": "perspectiveFlip",
+      "headline": "MỖI MÓN · THÊM MỘT SO SÁNH",
+      "body": "Lật giả định trực giác",
+      "mascot": "confuse"
+    },
+    {
+      "id": "B04",
+      "startMs": 19600,
+      "endMs": 31600,
+      "purpose": "marketingDecode",
+      "headline": "NHIỀU LỰA CHỌN · NHIỀU VIỆC",
+      "body": "Giải cơ chế bằng tiếng Việt đời thường trước thuật ngữ",
+      "mascot": "research"
+    },
+    {
+      "id": "B05",
+      "startMs": 31600,
+      "endMs": 41200,
+      "purpose": "proof",
+      "headline": "BẰNG CHỨNG CÓ BỐI CẢNH",
+      "body": "Đưa bằng chứng có nguồn và giới hạn kết luận",
+      "mascot": "research"
+    },
+    {
+      "id": "B06",
+      "startMs": 41200,
+      "endMs": 50000,
+      "purpose": "lesson",
+      "headline": "ĐỪNG XÓA SẢN PHẨM",
+      "body": "Chốt đúng một bài học",
+      "mascot": "pointing"
+    },
+    {
+      "id": "B07",
+      "startMs": 50000,
+      "endMs": 58000,
+      "purpose": "application",
+      "headline": "GOM LỐI VÀO",
+      "body": "Cho thao tác áp dụng và một CTA",
+      "mascot": "working"
+    }
+  ],
+  "visualCues": [
+    {
+      "id": "C01",
+      "startMs": 0,
+      "endMs": 900,
+      "spokenAnchor": "Quầy hai mươi bốn vị",
+      "semanticIntent": "Mở prediction game",
+      "spokenSubject": "hai quầy có số lựa chọn khác nhau",
+      "visualSubject": "hai kệ hũ mứt dày và gọn cạnh nhau",
+      "visualReason": "Hai quầy là bằng chứng nhìn một lần hiểu",
+      "sceneFamily": "choice-hook",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "hook-puzzle",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "mascot": "thinking",
+      "items": [
+        {
+          "id": "choice-jam-jar-hook-stable",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "hai kệ hũ mứt dày và gọn cạnh nhau",
+          "enterMs": 0,
+          "motion": "stamp",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "motifKey": "choice-jam-jar",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "startMs": 900,
+      "endMs": 1900,
+      "spokenAnchor": "sao khách lại dễ bỏ đi",
+      "semanticIntent": "Giữ đáp án",
+      "spokenSubject": "khách chưa chọn",
+      "visualSubject": "kệ nhiều hũ giữ dấu hỏi ở giữa",
+      "visualReason": "Dấu hỏi nằm giữa hai lựa chọn chứ không thay thế vật thể",
+      "sceneFamily": "choice-hook",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "viewer-prediction",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-hook-stable",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "kệ nhiều hũ giữ dấu hỏi ở giữa",
+          "enterMs": 0,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "motifKey": "choice-jam-jar",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "startMs": 1900,
+      "endMs": 3000,
+      "spokenAnchor": "Bạn đoán nhé",
+      "semanticIntent": "Mời tham gia",
+      "spokenSubject": "người xem dự đoán",
+      "visualSubject": "copy Remotion QUẦY NÀO DỄ CHỌN",
+      "visualReason": "Câu hỏi ngắn cho phép đoán",
+      "sceneFamily": "prediction-copy",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-03",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "QUẦY NÀO DỄ CHỌN?",
+          "role": "copy Remotion QUẦY NÀO DỄ CHỌN",
+          "enterMs": 1900,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "startMs": 3000,
+      "endMs": 5200,
+      "spokenAnchor": "quầy hai mươi bốn vị hay quầy sáu vị",
+      "semanticIntent": "Cho người xem so sánh",
+      "spokenSubject": "hành động so hai quầy",
+      "visualSubject": "bàn tay chỉ qua lại giữa hai kệ",
+      "visualReason": "Voice nói hai quầy nên hình chỉ rõ hai phía",
+      "sceneFamily": "choice-comparison",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-04",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "bàn tay chỉ qua lại giữa hai kệ",
+          "enterMs": 3000,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "motifKey": "choice-jam-jar",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "startMs": 5200,
+      "endMs": 7600,
+      "spokenAnchor": "Quầy lớn trông vui mắt",
+      "semanticIntent": "Thừa nhận lợi ích của nhiều lựa chọn",
+      "spokenSubject": "sự thu hút thị giác",
+      "visualSubject": "cụm hũ nhiều màu tràn vào khung",
+      "visualReason": "Hũ nhiều màu là chủ thể literal",
+      "sceneFamily": "visual-attraction",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-05",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "cụm hũ nhiều màu tràn vào khung",
+          "enterMs": 5200,
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "startMs": 7600,
+      "endMs": 10000,
+      "spokenAnchor": "ai cũng muốn dừng lại xem",
+      "semanticIntent": "Thêm hành động người thật",
+      "spokenSubject": "khách dừng trước quầy",
+      "visualSubject": "khách dừng chân và cúi xem",
+      "visualReason": "Dừng xem khác với chọn mua",
+      "sceneFamily": "shopper-attention",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "perspective-flip",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "mascot": "happy",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-06",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "khách dừng chân và cúi xem",
+          "enterMs": 7600,
+          "motion": "pop",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "startMs": 10000,
+      "endMs": 12400,
+      "spokenAnchor": "Nhưng đứng trước",
+      "semanticIntent": "Mở mâu thuẫn",
+      "spokenSubject": "khách bắt đầu phân vân",
+      "visualSubject": "khách nhìn qua lại giữa các hũ",
+      "visualReason": "Voice nói đứng trước nên cho thấy người và kệ",
+      "sceneFamily": "shopper-hesitation",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-07",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "khách nhìn qua lại giữa các hũ",
+          "enterMs": 10000,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "motifKey": "choice-jam-jar",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "startMs": 12400,
+      "endMs": 14800,
+      "spokenAnchor": "khách phải tự so",
+      "semanticIntent": "Cho thấy số phép so sánh",
+      "spokenSubject": "bàn tay so từng vị",
+      "visualSubject": "tay cầm một hũ rồi đổi sang hũ khác",
+      "visualReason": "Hành động đổi hũ literal hóa việc so",
+      "sceneFamily": "comparison-action",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-08",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "tay cầm một hũ rồi đổi sang hũ khác",
+          "enterMs": 12400,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "startMs": 14800,
+      "endMs": 17200,
+      "spokenAnchor": "rồi lại sợ chọn nhầm",
+      "semanticIntent": "Lật từ phong phú sang áp lực",
+      "spokenSubject": "nỗi sợ chọn nhầm",
+      "visualSubject": "price board Remotion với nhiều dấu hỏi",
+      "visualReason": "Dấu hỏi thể hiện thông tin thiếu",
+      "sceneFamily": "choice-anxiety",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "perspective-flip",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "mascot": "confuse",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-09",
+          "kind": "code",
+          "codeTemplate": "price-board",
+          "text": "CHỌN NHẦM THÌ SAO?",
+          "role": "price board Remotion với nhiều dấu hỏi",
+          "enterMs": 14800,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "startMs": 17200,
+      "endMs": 19600,
+      "spokenAnchor": "Mỗi món mới là thêm một phép so sánh",
+      "semanticIntent": "Giải cơ chế",
+      "spokenSubject": "mỗi lựa chọn tạo thêm phép so",
+      "visualSubject": "sơ đồ một hũ tách thêm nhiều đường nối",
+      "visualReason": "Đường nối cho thấy quan hệ",
+      "sceneFamily": "comparison-network",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "exit": "transform",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-mechanism-stable",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "1 MÓN MỚI = THÊM SO SÁNH",
+          "role": "sơ đồ một hũ tách thêm nhiều đường nối",
+          "enterMs": 17200,
+          "motion": "slide",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "startMs": 19600,
+      "endMs": 22000,
+      "spokenAnchor": "Đây là lúc nhiều lựa chọn",
+      "semanticIntent": "Biến đổi cùng cơ chế",
+      "spokenSubject": "lựa chọn biến thành việc",
+      "visualSubject": "mạng đường nối tiếp tục dày lên",
+      "visualReason": "Transform cho thấy tải tăng",
+      "sceneFamily": "comparison-network",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "transform",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-mechanism-stable",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "LỰA CHỌN → VIỆC PHẢI LÀM",
+          "role": "mạng đường nối tiếp tục dày lên",
+          "enterMs": 17200,
+          "motion": "pop",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "startMs": 22000,
+      "endMs": 24400,
+      "spokenAnchor": "biến thành nhiều việc phải làm",
+      "semanticIntent": "Cho thấy hậu quả hành vi",
+      "spokenSubject": "khách bị quá tải",
+      "visualSubject": "khách hạ tay khỏi kệ",
+      "visualReason": "Hành động hạ tay thay cho icon cảnh báo",
+      "sceneFamily": "shopper-overload",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-12",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "khách hạ tay khỏi kệ",
+          "enterMs": 22000,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "startMs": 24400,
+      "endMs": 26800,
+      "spokenAnchor": "Một nghiên cứu nổi tiếng",
+      "semanticIntent": "Mở proof",
+      "spokenSubject": "nghiên cứu sáu và hai mươi bốn",
+      "visualSubject": "sơ đồ trung tính hai tập hũ",
+      "visualReason": "Nghiên cứu được dựng lại trung tính",
+      "sceneFamily": "choice-study",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "mascot": "research",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-13",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "6 LỰA CHỌN · 24 LỰA CHỌN",
+          "role": "sơ đồ trung tính hai tập hũ",
+          "enterMs": 24400,
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "motifKey": "choice-jam-jar",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "startMs": 26800,
+      "endMs": 29200,
+      "spokenAnchor": "đã đặt người mua",
+      "semanticIntent": "Cho thấy bối cảnh thí nghiệm",
+      "spokenSubject": "người tham gia đứng trước quầy",
+      "visualSubject": "bàn tay người mua tiếp cận hai quầy",
+      "visualReason": "Người tham gia là chủ thể voice",
+      "sceneFamily": "study-participant",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-14",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "bàn tay người mua tiếp cận hai quầy",
+          "enterMs": 26800,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "startMs": 29200,
+      "endMs": 31600,
+      "spokenAnchor": "Tập lớn thu hút sự chú ý",
+      "semanticIntent": "Nêu kết quả thứ nhất",
+      "spokenSubject": "sự chú ý với tập lớn",
+      "visualSubject": "chart Remotion tách chú ý khỏi quyết định",
+      "visualReason": "Chart có chú thích nguồn và không thêm số",
+      "sceneFamily": "study-proof",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-15",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "THU HÚT CHÚ Ý",
+          "role": "chart Remotion tách chú ý khỏi quyết định",
+          "enterMs": 29200,
+          "motion": "pop",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "startMs": 31600,
+      "endMs": 34000,
+      "spokenAnchor": "còn tập giới hạn",
+      "semanticIntent": "Nêu kết quả thứ hai có giới hạn",
+      "spokenSubject": "tập giới hạn và quyết định",
+      "visualSubject": "chart Remotion chuyển sang điều kiện chọn",
+      "visualReason": "Hũ motif quay lại cạnh bằng chứng",
+      "sceneFamily": "study-proof",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-16",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "TẬP GIỚI HẠN · DỄ XỬ LÝ HƠN",
+          "role": "chart Remotion chuyển sang điều kiện chọn",
+          "enterMs": 31600,
+          "motion": "slide",
+          "semanticRole": "evidence",
+          "motifKey": "choice-jam-jar",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "startMs": 34000,
+      "endMs": 36400,
+      "spokenAnchor": "trong bối cảnh thí nghiệm",
+      "semanticIntent": "Chặn quy luật tuyệt đối",
+      "spokenSubject": "giới hạn phạm vi kết luận",
+      "visualSubject": "chart Remotion đóng khung BỐI CẢNH THÍ NGHIỆM",
+      "visualReason": "Copy là guardrail nguồn",
+      "sceneFamily": "evidence-limit",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-17",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "KHÔNG PHẢI QUY LUẬT MỌI NƠI",
+          "role": "chart Remotion đóng khung BỐI CẢNH THÍ NGHIỆM",
+          "enterMs": 34000,
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "startMs": 36400,
+      "endMs": 38800,
+      "spokenAnchor": "Nhưng khoan",
+      "semanticIntent": "Mở phản biện",
+      "spokenSubject": "không xóa sản phẩm vội",
+      "visualSubject": "khách giữ lại cả danh mục",
+      "visualReason": "Con người giữ danh mục thay vì hũ bay một mình",
+      "sceneFamily": "lesson-flip",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-18",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "khách giữ lại cả danh mục",
+          "enterMs": 36400,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "startMs": 38800,
+      "endMs": 41200,
+      "spokenAnchor": "không phải cứ xóa bớt",
+      "semanticIntent": "Bẻ kết luận sai",
+      "spokenSubject": "danh mục vẫn đầy đủ",
+      "visualSubject": "nhiều hũ vẫn ở kệ nhưng có biển nhóm",
+      "visualReason": "Motif quay lại với quan hệ mới",
+      "sceneFamily": "catalog-structure",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-19",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "nhiều hũ vẫn ở kệ nhưng có biển nhóm",
+          "enterMs": 38800,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "motifKey": "choice-jam-jar",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "startMs": 41200,
+      "endMs": 43600,
+      "spokenAnchor": "Bài học nằm ở cách tổ chức",
+      "semanticIntent": "Chốt bài học",
+      "spokenSubject": "tổ chức lối vào",
+      "visualSubject": "copy Remotion GIẢM QUYẾT ĐỊNH, KHÔNG GIẢM SẢN PHẨM",
+      "visualReason": "Copy chính xác là kết luận",
+      "sceneFamily": "lesson-copy",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-20",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "GIẢM QUYẾT ĐỊNH · KHÔNG GIẢM SẢN PHẨM",
+          "role": "copy Remotion GIẢM QUYẾT ĐỊNH, KHÔNG GIẢM SẢN PHẨM",
+          "enterMs": 41200,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "startMs": 43600,
+      "endMs": 46000,
+      "spokenAnchor": "Giữ đủ danh mục",
+      "semanticIntent": "Mở cách làm",
+      "spokenSubject": "giữ sản phẩm và gom nhóm",
+      "visualSubject": "checklist ba nhóm nhu cầu",
+      "visualReason": "Checklist là công cụ ứng dụng",
+      "sceneFamily": "catalog-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "mascot": "pointing",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-21",
+          "kind": "code",
+          "codeTemplate": "checklist",
+          "text": "GIỮ ĐỦ · GOM ĐÚNG",
+          "role": "checklist ba nhóm nhu cầu",
+          "enterMs": 43600,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "startMs": 46000,
+      "endMs": 48400,
+      "spokenAnchor": "gom lối vào thành ba tình huống",
+      "semanticIntent": "Cho thấy thao tác",
+      "spokenSubject": "chủ shop tạo ba nhóm",
+      "visualSubject": "chủ shop kéo thẻ vào ba pile",
+      "visualReason": "Voice nói gom nên hình có người gom",
+      "sceneFamily": "owner-grouping-action",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-22",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "chủ shop kéo thẻ vào ba pile",
+          "enterMs": 46000,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "startMs": 48400,
+      "endMs": 50800,
+      "spokenAnchor": "mới dùng lần đầu",
+      "semanticIntent": "Triển khai ứng dụng",
+      "spokenSubject": "nhóm nhu cầu đầu tiên",
+      "visualSubject": "chủ shop đặt thẻ vào nhóm đầu",
+      "visualReason": "Một thao tác cụ thể thay danh sách chữ dài",
+      "sceneFamily": "owner-grouping-action",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-23",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "chủ shop đặt thẻ vào nhóm đầu",
+          "enterMs": 48400,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "motifKey": "choice-jam-jar",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "startMs": 50800,
+      "endMs": 53200,
+      "spokenAnchor": "Khách chọn nhu cầu trước",
+      "semanticIntent": "Cho quy tắc áp dụng",
+      "spokenSubject": "thứ tự chọn mới",
+      "visualSubject": "checklist nhu cầu trước món sau",
+      "visualReason": "Sơ đồ đúng thứ tự",
+      "sceneFamily": "choice-path-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "mascot": "working",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-24",
+          "kind": "code",
+          "codeTemplate": "checklist",
+          "text": "NHU CẦU TRƯỚC → SẢN PHẨM SAU",
+          "role": "checklist nhu cầu trước món sau",
+          "enterMs": 50800,
+          "motion": "pop",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "startMs": 53200,
+      "endMs": 56000,
+      "spokenAnchor": "Đỡ cảm giác đang làm bài thi",
+      "semanticIntent": "Payoff hài hước",
+      "spokenSubject": "trải nghiệm nhẹ hơn",
+      "visualSubject": "khách chọn một hũ từ kệ đã gom nhóm",
+      "visualReason": "Motif quay lại trong trạng thái đã giải quyết",
+      "sceneFamily": "organized-choice-payoff",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-25",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "",
+          "role": "khách chọn một hũ từ kệ đã gom nhóm",
+          "enterMs": 53200,
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "motifKey": "choice-jam-jar",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C26",
+      "startMs": 56000,
+      "endMs": 58000,
+      "spokenAnchor": "Lưu video",
+      "semanticIntent": "Một CTA",
+      "spokenSubject": "CTA lưu",
+      "visualSubject": "nút lưu Remotion và mascot thumbup",
+      "visualReason": "CTA rõ và không thêm follow",
+      "sceneFamily": "cta",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "cta",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "mascot": "thumbup",
+      "items": [
+        {
+          "id": "choice-jam-jar-state-26",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "LƯU ĐỂ GOM DANH MỤC",
+          "role": "nút lưu Remotion và mascot thumbup",
+          "enterMs": 56000,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "A01",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep010/v01/generated/a01-two-jam-displays-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One complete hero group of two small unbranded tasting displays side by side, one dense with many plain colorful jars and one sparse with six plain jars, no labels."
+    },
+    {
+      "id": "A02",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep010/v01/generated/a02-hesitating-shopper-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One young Vietnamese shopper standing before a display, one hand hovering undecided, mildly overwhelmed but natural expression."
+    },
+    {
+      "id": "A03",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep010/v01/generated/a03-hand-reaching-jars-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One complete Vietnamese hand reaching between several small unbranded jars, clear choosing action."
+    },
+    {
+      "id": "A04",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep010/v01/generated/a04-six-plain-jars-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: Six complete small unbranded jam jars arranged neatly with different natural colors, no labels."
+    },
+    {
+      "id": "A05",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep010/v01/generated/a05-many-plain-jars-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One dense cluster of many small unbranded sample jars, all complete and individually separated, no labels."
+    },
+    {
+      "id": "A06",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep010/v01/generated/a06-owner-sorting-products-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One Vietnamese small-shop owner sorting blank product cards into three piles, focused practical expression."
+    },
+    {
+      "id": "A07",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep010/v01/generated/a07-shopper-choosing-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One Vietnamese shopper confidently picking one plain jar from a small organized display."
+    },
+    {
+      "id": "A08",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep010/v01/generated/a08-phone-catalog-audit-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One blank smartphone beside several plain product cards being grouped by a Vietnamese hand."
+    }
+  ],
+  "editBlueprint": {
+    "motionGrammar": "continuous-stage-v1",
+    "visualGrammar": "subject-led-v1",
+    "retentionMode": "business-phenomenon-decode-v1",
+    "captionTop": 1160,
+    "wordHighlight": true,
+    "whiteSpace": "pre-wrap",
+    "maxActiveScale": 1.15,
+    "render": "local",
+    "seriesLabel": "from-profile",
+    "mascotPolicy": "Contextual punctuation only; preserve original aspect ratio with objectFit contain; never stretch or park continuously.",
+    "backgroundFrameHoldSeconds": 0.5,
+    "typography": {
+      "title": "SVN-Miller Banner",
+      "subtitle": "UTM ClassizismAntiqua",
+      "support": "SVN-Nexa Light",
+      "accent": "SVN-Vanilla Daisy Pro"
+    },
+    "cardPolicy": "Semantic evidence only; no decorative SaaS cards.",
+    "motifKey": "choice-jam-jar",
+    "motifCueTarget": 9,
+    "sceneFamilyMinimum": 5,
+    "humanActionCueMinimum": 2,
+    "safeZone": "TikTok",
+    "evidencePolicy": "Use cited sources and neutral Remotion diagrams; never generate fake branded, research, interface or outcome evidence.",
+    "batchPolicy": "Batch exactly three only for compatible simple props; all planned people, hands and hook heroes are individual jobs."
+  },
+  "sources": [
+    {
+      "title": "When choice is demotivating: can one desire too much of a good thing?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11138768/",
+      "accessedAt": "2026-08-24",
+      "supports": "Ba thí nghiệm về tập lựa chọn giới hạn và tập lựa chọn lớn; hỗ trợ cách diễn giải có điều kiện thay vì quy luật tuyệt đối."
+    }
+  ],
+  "quotaPlan": {
+    "estimatedImageCalls": 8,
+    "estimatedTtsCalls": 1,
+    "estimatedTranscriptionCalls": 1,
+    "estimatedRenderCalls": 1,
+    "reuseCandidates": [
+      "profile mascot sheets",
+      "paper backgrounds",
+      "music/background music.mp3",
+      "channel fonts"
+    ],
+    "idempotencyPrefix": "agency-marketing-tiktok-ep010-v01-choice-jam-jar-"
+  },
+  "approval": {
+    "status": "script-review",
+    "version": 1,
+    "approvedAt": null,
+    "assetPlanStatus": "pending"
+  }
+}

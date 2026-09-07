@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "ep001",
+  "slug": "manual-vs-system",
+  "title": "Manual vs reusable system",
+  "durationMs": 12000,
+  "wordsSrc": "src/data/words.json",
+  "cardA": {"label": "Manual", "sublabel": "repeat every step", "assetId": ""},
+  "cardB": {"label": "System", "sublabel": "reuse decisions", "assetId": ""},
+  "assets": [],
+  "beats": [
+    {"id":"B01","startMs":0,"endMs":4000,"purpose":"hook","focus":"both","headline":"SAME CONTENT","body":"Very different workload","assetIds":[],"transition":"cut"},
+    {"id":"B02","startMs":4000,"endMs":7200,"purpose":"compare","focus":"b","headline":"SAVE THE DECISIONS","body":"Voice, style and approvals","assetIds":[],"transition":"slide"},
+    {"id":"B03","startMs":7200,"endMs":9000,"purpose":"answer","focus":"b","headline":"REUSE THE SYSTEM","body":"One approved source of truth","assetIds":[],"transition":"push"},
+    {"id":"B04","startMs":9000,"endMs":12000,"purpose":"payoff","focus":"both","headline":"FEWER SURPRISES","body":"Voice-led production","assetIds":[],"transition":"reveal"}
+  ],
+  "visualCues": [
+    {"id":"C01","startMs":0,"endMs":1200,"spokenAnchor":"Same content","semanticIntent":"Establish the shared input","composition":"solo","exit":"replace","items":[{"id":"same-label","kind":"code","codeTemplate":"label","text":"SAME CONTENT","role":"Shared starting point","enterMs":0,"motion":"stamp"}]},
+    {"id":"C02","startMs":1200,"endMs":2500,"spokenAnchor":"very different","semanticIntent":"Contrast two outcomes","composition":"compare","exit":"replace","items":[{"id":"manual-label","kind":"code","codeTemplate":"label","text":"MANUAL","role":"Repeated work","enterMs":1200,"motion":"slide"},{"id":"system-label","kind":"code","codeTemplate":"label","text":"SYSTEM","role":"Reusable work","enterMs":1800,"motion":"slide"}]},
+    {"id":"C03","startMs":2500,"endMs":4000,"spokenAnchor":"workload changes","semanticIntent":"Show the workload gap","composition":"code","exit":"replace","items":[{"id":"workload-chart","kind":"code","codeTemplate":"chart","text":"","role":"Workload comparison","enterMs":2500,"motion":"reveal"}]},
+    {"id":"C04","startMs":4000,"endMs":5600,"spokenAnchor":"Save voice","semanticIntent":"Start the reusable decision list","composition":"sequence","exit":"carry","items":[{"id":"voice-chip","kind":"code","codeTemplate":"label","text":"VOICE","role":"Voice decision","enterMs":4000,"motion":"pop"},{"id":"style-chip","kind":"code","codeTemplate":"label","text":"STYLE","role":"Style decision","enterMs":4700,"motion":"pop"}]},
+    {"id":"C05","startMs":5600,"endMs":7200,"spokenAnchor":"and approvals","semanticIntent":"Complete the three-part decision list","composition":"sequence","exit":"transform","items":[{"id":"voice-chip","kind":"code","codeTemplate":"label","text":"VOICE","role":"Voice decision","enterMs":4000,"motion":"none"},{"id":"style-chip","kind":"code","codeTemplate":"label","text":"STYLE","role":"Style decision","enterMs":4700,"motion":"none"},{"id":"approval-chip","kind":"code","codeTemplate":"label","text":"APPROVAL","role":"Approval decision","enterMs":5600,"motion":"pop"}]},
+    {"id":"C06","startMs":7200,"endMs":9000,"spokenAnchor":"Reuse them","semanticIntent":"Compress decisions into one system","composition":"transform","exit":"replace","items":[{"id":"approval-chip","kind":"code","codeTemplate":"checklist","text":"VOICE + STYLE + APPROVAL","role":"Reusable system","enterMs":5600,"motion":"none"}]},
+    {"id":"C07","startMs":9000,"endMs":10500,"spokenAnchor":"Fewer surprises","semanticIntent":"Deliver the practical payoff","composition":"solo","exit":"replace","items":[{"id":"payoff-label","kind":"code","codeTemplate":"label","text":"FEWER SURPRISES","role":"Payoff","enterMs":9000,"motion":"stamp"}]},
+    {"id":"C08","startMs":10500,"endMs":12000,"spokenAnchor":"Start approved","semanticIntent":"Close with the approval action","composition":"code","exit":"replace","items":[{"id":"approved-button","kind":"code","codeTemplate":"button","text":"START APPROVED","role":"Final action","enterMs":10500,"motion":"pop"}]}
+  ],
+  "audio": {"voiceSrc":"","voiceVolume":1,"musicSrc":"","musicVolume":0.2}
+}

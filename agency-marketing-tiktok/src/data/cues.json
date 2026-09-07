@@ -1,0 +1,474 @@
+[
+  {
+    "id": "C01",
+    "beat": "B01",
+    "startMs": 0,
+    "endMs": 3460,
+    "headline": "PHÊ LA 65K/LY?",
+    "subHeadline": "Đắt gấp đôi sao khách vẫn ngồi kín vỉa hè?",
+    "layout": "compare",
+    "uiType": null,
+    "sfx": "sticker-popup.mp3",
+    "items": [
+      {
+        "id": "s01",
+        "src": "ep005/v01/crops/s01.png",
+        "x": -180,
+        "y": 0,
+        "scale": 1.0,
+        "enterMs": 0
+      },
+      {
+        "id": "s02",
+        "src": "ep005/v01/crops/s02.png",
+        "x": 180,
+        "y": 0,
+        "scale": 1.0,
+        "enterMs": 1900
+      }
+    ]
+  },
+  {
+    "id": "C02",
+    "beat": "B01",
+    "startMs": 3460,
+    "endMs": 6760,
+    "headline": "PHÊ LA 65K/LY?",
+    "subHeadline": "Đắt gấp đôi sao khách vẫn ngồi kín vỉa hè?",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "ding.wav",
+    "items": [
+      {
+        "id": "s03",
+        "src": "ep005/v01/crops/s03.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C03",
+    "beat": "B01",
+    "startMs": 6760,
+    "endMs": 8431,
+    "headline": "PHÊ LA 65K/LY?",
+    "subHeadline": "Đắt gấp đôi sao khách vẫn ngồi kín vỉa hè?",
+    "layout": "compare",
+    "uiType": null,
+    "sfx": "sticker-popup.mp3",
+    "items": [
+      {
+        "id": "s04",
+        "src": "ep005/v01/crops/s04.png",
+        "x": -150,
+        "y": 0,
+        "scale": 1.0,
+        "enterMs": 0
+      },
+      {
+        "id": "s03",
+        "src": "ep005/v01/crops/s03.png",
+        "x": 180,
+        "y": -20,
+        "scale": 0.95,
+        "enterMs": 1500
+      }
+    ]
+  },
+  {
+    "id": "C04",
+    "beat": "B02",
+    "startMs": 8431,
+    "endMs": 11241,
+    "headline": "ĐỪNG TỰ GỌI TRÀ SỮA",
+    "subHeadline": "Tự nhận trà sữa là rơi vào bẫy so sánh giá",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "click.wav",
+    "items": [
+      {
+        "id": "s05",
+        "src": "ep005/v01/crops/s05.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.2,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C05",
+    "beat": "B02",
+    "startMs": 11241,
+    "endMs": 14052,
+    "headline": "ĐỪNG TỰ GỌI TRÀ SỮA",
+    "subHeadline": "Tự nhận trà sữa là rơi vào bẫy so sánh giá",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "ding.wav",
+    "items": [
+      {
+        "id": "s06",
+        "src": "ep005/v01/crops/s06.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.1,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C06",
+    "beat": "B02",
+    "startMs": 14052,
+    "endMs": 20340,
+    "headline": "ĐỪNG TỰ GỌI TRÀ SỮA",
+    "subHeadline": "Tự nhận trà sữa là rơi vào bẫy so sánh giá",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "buzzer.wav",
+    "items": [
+      {
+        "id": "s07",
+        "src": "ep005/v01/crops/s07.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C07",
+    "beat": "B02",
+    "startMs": 20340,
+    "endMs": 25560,
+    "headline": "ĐỪNG TỰ GỌI TRÀ SỮA",
+    "subHeadline": "Tự nhận trà sữa là rơi vào bẫy so sánh giá",
+    "layout": "ui",
+    "uiType": "UI01_PriceComparisonTrap",
+    "sfx": "whoosh.wav",
+    "items": []
+  },
+  {
+    "id": "C08",
+    "beat": "B03",
+    "startMs": 25560,
+    "endMs": 27060,
+    "headline": "TẠO SÂN CHƠI MỚI",
+    "subHeadline": "Định vị: Trà Ô Long Đặc Sản Đà Lạt",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "sticker-popup.mp3",
+    "items": [
+      {
+        "id": "s08",
+        "src": "ep005/v01/crops/s08.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C09",
+    "beat": "B03",
+    "startMs": 27060,
+    "endMs": 28560,
+    "headline": "TẠO SÂN CHƠI MỚI",
+    "subHeadline": "Định vị: Trà Ô Long Đặc Sản Đà Lạt",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "ding.wav",
+    "items": [
+      {
+        "id": "s09",
+        "src": "ep005/v01/crops/s09.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.2,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C10",
+    "beat": "B03",
+    "startMs": 28560,
+    "endMs": 33260,
+    "headline": "TẠO SÂN CHƠI MỚI",
+    "subHeadline": "Định vị: Trà Ô Long Đặc Sản Đà Lạt",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "click.wav",
+    "items": [
+      {
+        "id": "s10",
+        "src": "ep005/v01/crops/s10.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C11",
+    "beat": "B04",
+    "startMs": 33260,
+    "endMs": 34760,
+    "headline": "TRẢI NGHIỆM CAMPING",
+    "subHeadline": "Ghế dù cắm trại: Bán cảm giác chill giữa phố",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "sticker-popup.mp3",
+    "items": [
+      {
+        "id": "s11",
+        "src": "ep005/v01/crops/s11.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C12",
+    "beat": "B04",
+    "startMs": 34760,
+    "endMs": 39460,
+    "headline": "TRẢI NGHIỆM CAMPING",
+    "subHeadline": "Ghế dù cắm trại: Bán cảm giác chill giữa phố",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "click.wav",
+    "items": [
+      {
+        "id": "s12",
+        "src": "ep005/v01/crops/s12.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.1,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C13",
+    "beat": "B04",
+    "startMs": 39460,
+    "endMs": 41720,
+    "headline": "TRẢI NGHIỆM CAMPING",
+    "subHeadline": "Ghế dù cắm trại: Bán cảm giác chill giữa phố",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "ding.wav",
+    "items": [
+      {
+        "id": "s13",
+        "src": "ep005/v01/crops/s13.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C14",
+    "beat": "B05",
+    "startMs": 41720,
+    "endMs": 43220,
+    "headline": "CHỤP ẢNH KHOE ĐƯỢC",
+    "subHeadline": "Khách flex lối sống sành điệu lên Story",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "sticker-popup.mp3",
+    "items": [
+      {
+        "id": "s03",
+        "src": "ep005/v01/crops/s03.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.1,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C15",
+    "beat": "B05",
+    "startMs": 43220,
+    "endMs": 44720,
+    "headline": "CHỤP ẢNH KHOE ĐƯỢC",
+    "subHeadline": "Khách flex lối sống sành điệu lên Story",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "ding.wav",
+    "items": [
+      {
+        "id": "s14",
+        "src": "ep005/v01/crops/s14.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C16",
+    "beat": "B06",
+    "startMs": 44720,
+    "endMs": 44966,
+    "headline": "CHIẾN LƯỢC ÍT MÓN",
+    "subHeadline": "Dồn lực vào Ô Long Khói & Ô Long Sữa",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "buzzer.wav",
+    "items": [
+      {
+        "id": "s15",
+        "src": "ep005/v01/crops/s15.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.1,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C17",
+    "beat": "B06",
+    "startMs": 44966,
+    "endMs": 51960,
+    "headline": "CHIẾN LƯỢC ÍT MÓN",
+    "subHeadline": "Dồn lực vào Ô Long Khói & Ô Long Sữa",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "ding.wav",
+    "items": [
+      {
+        "id": "s16",
+        "src": "ep005/v01/crops/s16.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C18",
+    "beat": "B07",
+    "startMs": 51960,
+    "endMs": 54440,
+    "headline": "TỐI ƯU VẬN HÀNH",
+    "subHeadline": "Menu tinh gọn → Pha nhanh & Chất lượng chuẩn",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "click.wav",
+    "items": [
+      {
+        "id": "s17",
+        "src": "ep005/v01/crops/s17.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C19",
+    "beat": "B07",
+    "startMs": 54440,
+    "endMs": 55420,
+    "headline": "TỐI ƯU VẬN HÀNH",
+    "subHeadline": "Menu tinh gọn → Pha nhanh & Chất lượng chuẩn",
+    "layout": "ui",
+    "uiType": "UI02_ConsistencyScorecard",
+    "sfx": "whoosh.wav",
+    "items": []
+  },
+  {
+    "id": "C20",
+    "beat": "B08",
+    "startMs": 55420,
+    "endMs": 60080,
+    "headline": "TỰ TẠO SÂN CHƠI RIÊNG",
+    "subHeadline": "Một góc nhìn dễ hiểu · Một việc làm ngay",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "buzzer.wav",
+    "items": [
+      {
+        "id": "s18",
+        "src": "ep005/v01/crops/s18.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C21",
+    "beat": "B08",
+    "startMs": 60080,
+    "endMs": 61580,
+    "headline": "TỰ TẠO SÂN CHƠI RIÊNG",
+    "subHeadline": "Một góc nhìn dễ hiểu · Một việc làm ngay",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "click.wav",
+    "items": [
+      {
+        "id": "s19",
+        "src": "ep005/v01/crops/s19.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C22",
+    "beat": "B08",
+    "startMs": 61580,
+    "endMs": 64400,
+    "headline": "TỰ TẠO SÂN CHƠI RIÊNG",
+    "subHeadline": "Một góc nhìn dễ hiểu · Một việc làm ngay",
+    "layout": "solo",
+    "uiType": null,
+    "sfx": "ding.wav",
+    "items": [
+      {
+        "id": "s20",
+        "src": "ep005/v01/crops/s20.png",
+        "x": 0,
+        "y": 0,
+        "scale": 1.15,
+        "enterMs": 0
+      }
+    ]
+  },
+  {
+    "id": "C23",
+    "beat": "B08",
+    "startMs": 64400,
+    "endMs": 64640,
+    "headline": "TỰ TẠO SÂN CHƠI RIÊNG",
+    "subHeadline": "Một góc nhìn dễ hiểu · Một việc làm ngay",
+    "layout": "ui",
+    "uiType": "UI03_CategoryCreationActionCard",
+    "sfx": "page-turn.wav",
+    "items": []
+  }
+]

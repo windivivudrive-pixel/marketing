@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "projectName": "agency-marketing-tiktok",
+  "channelName": "Agency Marketing Series",
+  "seriesLabel": "CHUYỆN BRANDING MỖI NGÀY",
+  "topicSpace": "Marketing thực chiến dành cho doanh nghiệp vừa và nhỏ",
+  "audience": "Chủ doanh nghiệp, đội marketing nội bộ, founder và người đang xây dựng TikTok cho thương hiệu",
+  "language": "vi",
+  "platform": "TikTok",
+  "contentStrategy": {
+    "mode": "business-phenomenon-decode-v1",
+    "positioning": "Kênh giải mã những hiện tượng kinh doanh và hành vi mua hàng đời thường bằng marketing hoặc branding; không phải kênh giảng thuật ngữ marketing.",
+    "episodePromise": "Mỗi tập bắt đầu bằng một tình huống người xem nhận ra, tạo một câu hỏi để họ tự đoán, giải thích cơ chế bằng ngôn ngữ đời thường, đưa bằng chứng đủ tin cậy và kết thúc bằng một hành động áp dụng ngay.",
+    "defaultHookModes": [
+      "prediction-puzzle",
+      "visible-paradox",
+      "price-context-contrast",
+      "identity-boundary"
+    ],
+    "hookDeliveryPatterns": [
+      "aphoristic-contrast: một câu có hai vế đối lập để mở nghĩa, như ví dụ trứng phá từ trong và phá từ ngoài",
+      "micro-story: mở ngay bằng một hành động nhỏ rồi lật ý nghĩa của hành động đó",
+      "observational-line: một nhận xét đời thường, ngắn, có nhịp và có hình để người xem tự nối ý",
+      "direct-question: chỉ dùng khi câu hỏi thật sự là cách nhanh nhất để người xem tự dự đoán"
+    ],
+    "hookRotationRule": "Không dùng direct-question cho hai tập liên tiếp. Hook mode mô tả việc thông tin cần làm; hook delivery mô tả cách câu đầu vang lên. Ưu tiên aphoristic-contrast, micro-story hoặc observational-line khi một hình ảnh/tình huống có thể tự tạo tò mò.",
+    "voiceoverRule": "Viết như đang kể cho một người bạn thông minh: câu ngắn, có nhịp ngắt tự nhiên, từ đời thường, cho phép một câu quan sát hoặc hình ảnh bất ngờ. Không viết theo kiểu đoạn văn giải thích, không chồng nhiều mệnh đề, không dùng câu hỏi liên tục để kéo nhịp.",
+    "topicRules": {
+      "prefer": [
+        "một hiện tượng quan sát được trong cửa hàng, TikTok, menu, bao bì, giá, dịch vụ hoặc hành vi khách hàng",
+        "một nghịch lý mà founder, chủ doanh nghiệp, marketer và người tiêu dùng đều hiểu",
+        "một cơ chế nhân quả có thể giải thích trong 45–60 giây",
+        "một bài kiểm tra hoặc thay đổi nhỏ doanh nghiệp có thể làm ngay"
+      ],
+      "avoid": [
+        "tiêu đề kiểu ba nguyên tắc, năm bước hoặc định nghĩa thuật ngữ",
+        "mở đầu bằng tên học thuyết hoặc jargon marketing",
+        "case thương hiệu cần quá nhiều bối cảnh mới hiểu",
+        "số liệu, kết quả hoặc thực hành thương hiệu không có nguồn trực tiếp"
+      ]
+    },
+    "retention": {
+      "curiosityResetSeconds": "6-10",
+      "requiredVisualLayers": [
+        "hook-puzzle",
+        "story-action",
+        "proof-evidence",
+        "mechanism-decode",
+        "application-audit"
+      ],
+      "rule": "Mỗi reset phải thêm câu hỏi, hệ quả, góc nhìn, bằng chứng hoặc hành động mới; chuyển động trang trí không được tính là reset."
+    },
+    "theoryRule": "Giải thích cơ chế bằng tiếng Việt đời thường trước; chỉ gọi tên lý thuyết sau khi người xem đã hiểu và chỉ khi tên gọi thực sự hữu ích.",
+    "evidenceRule": "Không bịa tỷ lệ, doanh số, thông số, hành vi hay thực hành của thương hiệu. Dùng nguồn trực tiếp, bỏ con số hoặc ghi rõ chưa xác minh."
+  },
+  "brand": {
+    "name": "Agency Marketing",
+    "companyType": "marketing agency",
+    "promise": "Giúp doanh nghiệp hiểu đúng chiến lược marketing và có một hành động cụ thể sau mỗi video.",
+    "voice": "Tiếng Việt trẻ trung, tự nhiên, có tính giải trí nhẹ và thân thiện chuyên nghiệp; nói như người làm marketing có kinh nghiệm đang chia sẻ một quan sát thú vị.",
+    "explanationStyle": "Ưu tiên kể tình huống, ví dụ đời thường và hài hước quan sát; giảm mật độ thuật ngữ và cảm giác bài giảng nhưng vẫn chốt một hành động thực tế.",
+    "avoid": [
+      "giọng guru hoặc giáo điều",
+      "hứa hẹn viral hay tăng doanh thu chắc chắn",
+      "văn phong giống bài giảng",
+      "quảng cáo agency quá lộ liễu",
+      "liệt kê tính năng mà thiếu bối cảnh khách hàng",
+      "stock photo doanh nghiệp tạo dáng sáo rỗng"
+    ],
+    "requiredPhrases": [],
+    "episodePayoffRule": "Mỗi video phải kết thúc bằng một hành động cụ thể, có thể áp dụng ngay.",
+    "mascotRole": "Nhân vật dẫn chuyện cố định; giữ nguyên khuôn mặt, tỉ lệ, bộ đồ trắng, mảng hồng và biểu tượng trên ngực.",
+    "footerLeft": "MỘT CÂU CHUYỆN. MỘT BÀI HỌC.",
+    "footerRight": "BRANDING, DỄ HIỂU HƠN"
+  },
+  "style": {
+    "preset": "branding-story-paper-pink",
+    "vibe": "Vox style trẻ trung, photoreal cutout kết hợp editorial illustration và clean scrapbook, thủ công nhưng gọn gàng",
+    "palette": {
+      "background": "trắng ngà",
+      "accent": "hồng đậm theo mascot",
+      "secondary": "hồng rất nhạt",
+      "text": "đen hoặc gần đen",
+      "rule": "Hồng đậm chỉ dùng làm điểm nhấn; không phủ toàn bộ khung hình."
+    },
+    "background": "Composition cuối dùng giấy trắng ngà hơi nhăn và lưới hồng rất nhạt; source image cần tách nền có thể dùng chroma green phẳng theo cutout pipeline.",
+    "visualVocabulary": [
+      "giấy xé",
+      "nét bút marker",
+      "mũi tên vẽ tay",
+      "sticky note",
+      "biểu đồ đơn giản",
+      "icon marketing"
+    ],
+    "avoid": [
+      "dark SaaS UI",
+      "gradient tím xanh",
+      "neon",
+      "3D bóng ngoài mascot",
+      "AI-generated text",
+      "logo giả",
+      "watermark",
+      "UI giả"
+    ],
+    "pace": "nhanh vừa phải, rõ ý",
+    "motion": "Chuyển động nhẹ và chính xác; ưu tiên Remotion cho chữ, số, tiêu đề, biểu đồ, layout và transition.",
+    "captionStyle": "editorial-highlight",
+    "layout": "Sáng, thoáng, trẻ trung, dễ đọc trên điện thoại; kiểm tra độ tương phản và TikTok safe zone.",
+    "visualMix": "Ưu tiên người và sản phẩm photoreal được art-direct, tách nền thành cutout; kết hợp torn paper, marker, icon, chart và typography do Remotion dựng. Mỗi cutout có nền giấy pastel hồng watercolor được mask theo silhouette của chính element, viền trắng xé không đều, bóng giấy rất mềm và offset hot pink; tuyệt đối không dùng thẻ nền vuông hoặc chữ nhật.",
+    "cutoutPipeline": {
+      "defaultSourceBackground": "solid chroma green #00FF00",
+      "conditions": "Chỉ dùng khi chủ thể không có màu xanh; nền phải phẳng, không texture, không gradient, không bóng đổ và không green rim light.",
+      "exceptions": "Vật trong suốt, tóc quá mảnh hoặc bề mặt bóng phản chiếu mạnh phải được QA riêng; chuyển sang nền tương phản khác hoặc phương pháp matting nếu green spill không sạch.",
+      "finalFormat": "transparent PNG after chroma key, despill and edge decontamination"
+    },
+    "identityLock": "Photoreal Vietnamese sticker source, matte and soft upper-left daylight, with a restrained hot-pink accent on the element and clean ink-black details. One complete crop-safe subject on uniform chroma green #00FF00 with 12% empty margin. In Remotion, its alpha silhouette—not a rectangle—gets a soft pastel-pink watercolor paper backing, irregular ripped-white contour, very soft paper shadow and hot-pink offset. No background, card, text, logo, watermark, neon or glossy 3D.",
+    "sourceTreatment": {
+      "default": "uniform chroma green #00FF00",
+      "greenSubjectException": "Use uniform chroma magenta #FF00CC for an unpeeled durian or a crate containing green durian; key this exception with the approved matte path, never force green-on-green.",
+      "final": "Key to transparent PNG with despill and preserved margin. Mask soft pastel-pink watercolor paper to each extracted silhouette, then add an irregular ripped-white contour, hot-pink offset and very soft paper shadow in Remotion; never use a rectangular backing."
+    }
+  },
+  "resources": {
+    "logo": "",
+    "character": "../mascot/thinking.png",
+    "characterSheets": [
+      "../mascot/camera.png",
+      "../mascot/chill drink milk tea.png",
+      "../mascot/clap hand.png",
+      "../mascot/cool.png",
+      "../mascot/disconect.png",
+      "../mascot/eat popcorn.png",
+      "../mascot/find.png",
+      "../mascot/hello.png",
+      "../mascot/idea.png",
+      "../mascot/sad cry.png",
+      "../mascot/scare.png",
+      "../mascot/serious.png",
+      "../mascot/thinking.png",
+      "../mascot/working cool.png"
+    ],
+    "voiceSample": "",
+    "referenceImages": [
+      "../reference style/scene.png",
+      "../reference style/thumbnail.png"
+    ],
+    "fontFiles": [
+      "../font/SVN-Miller Banner.ttf",
+      "../font/UTM ClassizismAntiqua.ttf",
+      "../font/SVN-Nexa Light.ttf",
+      "../font/SVN-Vanilla Daisy Pro.ttf"
+    ],
+    "backgroundFrames": [
+      "../background/bg1.png",
+      "../background/bg2.png",
+      "../background/bg3.png"
+    ],
+    "music": "../music/background music.mp3",
+    "soundEffects": []
+  },
+  "providers": {
+    "images": "flow-agent",
+    "flowAgent": {
+      "autoStart": true,
+      "startCwd": "/Users/win/Documents/so sánh/tools/google-flow-batch-extension",
+      "startCommand": ["npm", "run", "bridge:all"],
+      "checkTimeoutMs": 5000,
+      "startupTimeoutMs": 45000,
+      "pollIntervalMs": 2000
+    },
+    "voice": "cartesia",
+    "cartesia": {
+      "voiceId": "b143fdf3-029f-4f00-aa3f-0c171fb170bd",
+      "keychainService": "creatorflow-cartesia",
+      "apiVersion": "2026-03-01",
+      "modelId": "sonic-3.5-2026-05-04",
+      "outputFormat": {"container": "wav", "encoding": "pcm_s16le", "sample_rate": 48000}
+    }
+  },
+  "production": {
+    "width": 1080,
+    "height": 1920,
+    "aspectRatio": "9:16",
+    "fps": 30,
+    "captionTop": 1160,
+    "targetSeconds": 58,
+    "minSeconds": 45,
+    "maxSeconds": 60,
+    "textRendering": "Remotion only",
+    "safeZone": "TikTok safe zone required",
+    "visualRefreshSeconds": "0.9-2.0; hook 0.6-1.2; each refresh must map to a voice-to-visual cue",
+    "backgroundFrameHoldSeconds": 0.5,
+    "typography": {
+      "primaryTitle": "SVN-Miller Banner",
+      "subtitle": "UTM ClassizismAntiqua",
+      "supportingText": "SVN-Nexa Light",
+      "decorativeAccent": "SVN-Vanilla Daisy Pro",
+      "decorativeRule": "Use sparingly for curved or playful accent copy, never for long captions or critical information."
+    },
+    "mediaApprovalGate": "No TTS, image generation, Flow Agent call, transcription or render before explicit script approval."
+  },
+  "episodeSeed": {
+    "episodeId": "EP001",
+    "topic": "Xây dựng TikTok cho doanh nghiệp nên bắt đầu từ sản phẩm hay khách hàng?",
+    "nonNegotiableThesis": "Bắt đầu từ khách hàng và tình huống hoặc vấn đề của họ; sau đó dùng đặc điểm và bằng chứng sản phẩm phù hợp để chứng minh lời giải.",
+    "avoidFalseConclusion": "Không được kết luận rằng sản phẩm không quan trọng."
+  },
+  "rights": {
+    "commercialUseConfirmation": "confirmed",
+    "confirmedAt": "2026-08-12T06:45:00.000Z",
+    "scope": ["mascot", "reference images", "background music"],
+    "note": "Người dùng xác nhận có quyền sử dụng thương mại trong task CreatorFlow EP001."
+  }
+}

@@ -1,0 +1,1785 @@
+{
+  "schemaVersion": 3,
+  "metadata": {
+    "episodeId": "EP012",
+    "slug": "so-khong-co-tieng-noi-rieng",
+    "version": 1,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260825-phenomenon-ideas-v01.json#IDEA002",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 58,
+    "researchRequired": true
+  },
+  "creativeContract": {
+    "title": "Một đồng rất nhỏ. Số 0 lại là một câu chuyện khác.",
+    "caseType": "research",
+    "hookDelivery": "aphoristic-contrast",
+    "openingFrame": {
+      "visualTension": "Cùng chênh lệch giá nhưng một tag chạm số không.",
+      "heroSubject": "Hai tag giá giấy và tag số 0",
+      "contrast": "một nghìn và không đồng",
+      "firstFrameCopy": "SỐ 0 KHÔNG CHỈ LÀ MỘT CON SỐ"
+    },
+    "narrativeObject": "tag giá số 0",
+    "visualStrategy": {
+      "version": "subject-led-v1",
+      "recurringMotif": "tag giá số 0",
+      "motifRule": "Motif chỉ xuất hiện khi voice còn nói về nó; rời khung khi chuyển sang người, hành động, bằng chứng hoặc audit.",
+      "sceneFamilies": [
+        "hook-contrast",
+        "viewer-reaction",
+        "literal-action",
+        "context-detail",
+        "mechanism-map",
+        "human-choice",
+        "evidence-source",
+        "proof-comparison",
+        "perspective-split",
+        "application-audit",
+        "cta-close"
+      ],
+      "humanMoments": [
+        "người mua lật tag đọc điều kiện",
+        "chủ shop audit ưu đãi trên điện thoại"
+      ]
+    },
+    "storyArc": {
+      "familiarHook": {
+        "startMs": 0,
+        "endMs": 6000,
+        "purpose": "Mở bằng vật thể quen thuộc và một nghịch lý nhìn thấy được.",
+        "voiceAnchor": "Một đồng rất nhỏ.",
+        "visualProgression": "Một khung hình crop-safe đặt hai trạng thái cạnh nhau."
+      },
+      "curiosityBuild": {
+        "startMs": 6000,
+        "endMs": 15000,
+        "purpose": "Cho người xem tự đoán trước khi gọi tên cơ chế.",
+        "voiceAnchor": "Một món từ mười nghìn xuống một nghìn.",
+        "visualProgression": "Bàn tay hoặc màn hình làm lộ thêm một biến số."
+      },
+      "perspectiveFlip": {
+        "startMs": 15000,
+        "endMs": 27000,
+        "purpose": "Lật từ trực giác sang cách nhìn trải nghiệm.",
+        "voiceAnchor": "Và tay cũng dễ nghiêng về món có số không.",
+        "visualProgression": "Motif rời khung để nhường chỗ cho hành động và so sánh."
+      },
+      "marketingDecode": {
+        "startMs": 27000,
+        "endMs": 39000,
+        "purpose": "Giải thích cơ chế đời thường rồi mới đặt tên.",
+        "voiceAnchor": "Trong các thí nghiệm về giá, lựa chọn thay đổi khi một giá thấp chuyển thành bằng không.",
+        "visualProgression": "Sơ đồ Remotion nối nguyên nhân với phản ứng."
+      },
+      "proof": {
+        "startMs": 39000,
+        "endMs": 48000,
+        "purpose": "Đưa bằng chứng có giới hạn và không hứa hẹn quá mức.",
+        "voiceAnchor": "Nghe rất hợp lý cho chữ miễn phí.",
+        "visualProgression": "Thẻ nguồn, demo trung tính và ranh giới diễn giải."
+      },
+      "lesson": {
+        "startMs": 48000,
+        "endMs": 53000,
+        "purpose": "Chốt một bài học duy nhất cho SME.",
+        "voiceAnchor": "Một ưu đãi tốt làm khách hiểu mình đang nhận gì.",
+        "visualProgression": "Mascot pointing và một câu lesson dựng bằng Remotion."
+      },
+      "application": {
+        "startMs": 53000,
+        "endMs": 58000,
+        "purpose": "Đưa một audit cụ thể và CTA lưu video.",
+        "voiceAnchor": "Khoanh mọi điều kiện trước nút quyết định.",
+        "visualProgression": "Checklist một hành động rồi trở về motif ở outro."
+      }
+    },
+    "retentionPlan": {
+      "mode": "business-phenomenon-decode-v1",
+      "viewerPrediction": "Chỉ độ lớn của mức giảm mới quyết định lựa chọn.",
+      "withheldAnswer": "Giá bằng không có thể được cảm nhận khác với một mức giá dương rất thấp.",
+      "plainLanguageMechanism": "Khi không phải trả gì cho một phần ưu đãi, người mua không còn xử lý nó như một phép trừ đơn giản.",
+      "theoryReveal": {
+        "technicalLabel": "Zero-price effect",
+        "earliestMs": 27000,
+        "plainLanguageAnchor": "não không chỉ làm phép trừ đơn giản nữa"
+      },
+      "resets": [
+        {
+          "id": "R01",
+          "atMs": 0,
+          "trigger": "Hai tag cùng giảm chín nghìn",
+          "informationGain": "Mở nghịch lý số không",
+          "visualReset": "Hai tag tách đôi",
+          "sceneFamily": "hook-contrast"
+        },
+        {
+          "id": "R02",
+          "atMs": 7700,
+          "trigger": "Mắt dừng ở chữ miễn phí",
+          "informationGain": "Cho thấy phản ứng trước lý thuyết",
+          "visualReset": "Ngón tay dừng trên tag",
+          "sceneFamily": "viewer-reaction"
+        },
+        {
+          "id": "R03",
+          "atMs": 16900,
+          "trigger": "Giá thấp chuyển thành bằng không",
+          "informationGain": "Lật từ phép trừ sang cảm nhận lợi ích",
+          "visualReset": "Số một rơi khỏi tag",
+          "sceneFamily": "perspective-split"
+        },
+        {
+          "id": "R04",
+          "atMs": 26100,
+          "trigger": "Nghiên cứu giữ nguyên khoảng chênh",
+          "informationGain": "Đưa bằng chứng",
+          "visualReset": "Thẻ nguồn xuất hiện",
+          "sceneFamily": "evidence-source"
+        },
+        {
+          "id": "R05",
+          "atMs": 35300,
+          "trigger": "Miễn phí không che điều kiện",
+          "informationGain": "Đặt ranh giới minh bạch",
+          "visualReset": "Receipt mở rộng dòng phí",
+          "sceneFamily": "mechanism-map"
+        },
+        {
+          "id": "R06",
+          "atMs": 44500,
+          "trigger": "Kiểm tra ưu đãi trên điện thoại",
+          "informationGain": "Chuyển thành audit",
+          "visualReset": "Checklist điều kiện",
+          "sceneFamily": "application-audit"
+        }
+      ]
+    }
+  },
+  "topicKeywords": [
+    "miễn phí",
+    "zero-price effect",
+    "ưu đãi",
+    "minh bạch điều kiện",
+    "checkout"
+  ],
+  "voiceover": {
+    "displayText": "Một đồng rất nhỏ. Nhưng số không lại có tiếng nói riêng. Hai món này cùng giảm chín nghìn. Một món từ mười nghìn xuống một nghìn. Món kia từ chín nghìn xuống không đồng. Nếu chỉ làm phép trừ, hai tag này phải cho cảm giác y hệt nhau. Nhưng mắt mình thường dừng lâu hơn ở chữ miễn phí. Và tay cũng dễ nghiêng về món có số không. Không phải vì món đó tự nhiên tốt hơn. Chỉ là giá bằng không không còn giống một mức giá thấp bình thường. Lúc này, não không chỉ làm phép trừ đơn giản nữa. Nó còn đọc số không như một món quà. Đó là phần lật của câu chuyện. Trong các thí nghiệm về giá, lựa chọn thay đổi khi một giá thấp chuyển thành bằng không. Khoảng chênh giữa hai món vẫn được giữ nguyên. Nhưng cảm giác về lợi ích lại đổi khác. Trong hành vi giá, người ta gọi đây là hiệu ứng giá bằng không. Nghe rất hợp lý cho chữ miễn phí. Nhưng miễn phí không phải tấm khăn phủ lên điều kiện khó đọc. Nếu còn phí bắt buộc, nói sớm. Nếu có giới hạn số lượng, nói rõ. Một ưu đãi tốt làm khách hiểu mình đang nhận gì. Nó không bắt khách đi hết checkout rồi mới phát hiện phần còn lại. Thử mở các ưu đãi của shop trên điện thoại. Khoanh mọi điều kiện trước nút quyết định. Lưu video này và kiểm tra lại chữ miễn phí của bạn.",
+    "voiceText": "Một đồng rất nhỏ. Nhưng số không lại có tiếng nói riêng. Hai món này cùng giảm chín nghìn. Một món từ mười nghìn xuống một nghìn. Món kia từ chín nghìn xuống không đồng. Nếu chỉ làm phép trừ, hai tag này phải cho cảm giác y hệt nhau. Nhưng mắt mình thường dừng lâu hơn ở chữ miễn phí. Và tay cũng dễ nghiêng về món có số không. Không phải vì món đó tự nhiên tốt hơn. Chỉ là giá bằng không không còn giống một mức giá thấp bình thường. Lúc này, não không chỉ làm phép trừ đơn giản nữa. Nó còn đọc số không như một món quà. Đó là phần lật của câu chuyện. Trong các thí nghiệm về giá, lựa chọn thay đổi khi một giá thấp chuyển thành bằng không. Khoảng chênh giữa hai món vẫn được giữ nguyên. Nhưng cảm giác về lợi ích lại đổi khác. Trong hành vi giá, người ta gọi đây là hiệu ứng giá bằng không. Nghe rất hợp lý cho chữ miễn phí. Nhưng miễn phí không phải tấm khăn phủ lên điều kiện khó đọc. Nếu còn phí bắt buộc, nói sớm. Nếu có giới hạn số lượng, nói rõ. Một ưu đãi tốt làm khách hiểu mình đang nhận gì. Nó không bắt khách đi hết checkout rồi mới phát hiện phần còn lại. Thử mở các ưu đãi của shop trên điện thoại. Khoanh mọi điều kiện trước nút quyết định. Lưu video này và kiểm tra lại chữ miễn phí của bạn.",
+    "sections": {
+      "hook": {
+        "displayText": "Một đồng rất nhỏ. Nhưng số không lại có tiếng nói riêng.",
+        "voiceText": "Một đồng rất nhỏ. Nhưng số không lại có tiếng nói riêng.",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 3000
+      },
+      "body": {
+        "displayText": "Hai món này cùng giảm chín nghìn. Một món từ mười nghìn xuống một nghìn. Món kia từ chín nghìn xuống không đồng. Nếu chỉ làm phép trừ, hai tag này phải cho cảm giác y hệt nhau. Nhưng mắt mình thường dừng lâu hơn ở chữ miễn phí. Và tay cũng dễ nghiêng về món có số không. Không phải vì món đó tự nhiên tốt hơn. Chỉ là giá bằng không không còn giống một mức giá thấp bình thường. Lúc này, não không chỉ làm phép trừ đơn giản nữa. Nó còn đọc số không như một món quà. Đó là phần lật của câu chuyện. Trong các thí nghiệm về giá, lựa chọn thay đổi khi một giá thấp chuyển thành bằng không. Khoảng chênh giữa hai món vẫn được giữ nguyên. Nhưng cảm giác về lợi ích lại đổi khác. Trong hành vi giá, người ta gọi đây là hiệu ứng giá bằng không. Nghe rất hợp lý cho chữ miễn phí. Nhưng miễn phí không phải tấm khăn phủ lên điều kiện khó đọc. Nếu còn phí bắt buộc, nói sớm. Nếu có giới hạn số lượng, nói rõ. Một ưu đãi tốt làm khách hiểu mình đang nhận gì. Nó không bắt khách đi hết checkout rồi mới phát hiện phần còn lại. Thử mở các ưu đãi của shop trên điện thoại.",
+        "voiceText": "Hai món này cùng giảm chín nghìn. Một món từ mười nghìn xuống một nghìn. Món kia từ chín nghìn xuống không đồng. Nếu chỉ làm phép trừ, hai tag này phải cho cảm giác y hệt nhau. Nhưng mắt mình thường dừng lâu hơn ở chữ miễn phí. Và tay cũng dễ nghiêng về món có số không. Không phải vì món đó tự nhiên tốt hơn. Chỉ là giá bằng không không còn giống một mức giá thấp bình thường. Lúc này, não không chỉ làm phép trừ đơn giản nữa. Nó còn đọc số không như một món quà. Đó là phần lật của câu chuyện. Trong các thí nghiệm về giá, lựa chọn thay đổi khi một giá thấp chuyển thành bằng không. Khoảng chênh giữa hai món vẫn được giữ nguyên. Nhưng cảm giác về lợi ích lại đổi khác. Trong hành vi giá, người ta gọi đây là hiệu ứng giá bằng không. Nghe rất hợp lý cho chữ miễn phí. Nhưng miễn phí không phải tấm khăn phủ lên điều kiện khó đọc. Nếu còn phí bắt buộc, nói sớm. Nếu có giới hạn số lượng, nói rõ. Một ưu đãi tốt làm khách hiểu mình đang nhận gì. Nó không bắt khách đi hết checkout rồi mới phát hiện phần còn lại. Thử mở các ưu đãi của shop trên điện thoại.",
+        "estimatedStartMs": 3000,
+        "estimatedEndMs": 53000,
+        "story": "Hai tag giá có cùng khoảng giảm nhưng số không tạo ra một phản ứng khác; từ đó chuyển sang cách SME dùng ưu đãi mà không che điều kiện.",
+        "lesson": "Đừng biến free thành mồi; hãy biến nó thành một lời hứa rõ ràng mà khách thật sự nhận được.",
+        "actions": [
+          "Mở mọi ưu đãi đang chạy và kiểm tra xem điều kiện nhận miễn phí đã xuất hiện trước khi khách phải quyết định chưa."
+        ]
+      },
+      "close": {
+        "displayText": "Khoanh mọi điều kiện trước nút quyết định. Lưu video này và kiểm tra lại chữ miễn phí của bạn.",
+        "voiceText": "Khoanh mọi điều kiện trước nút quyết định. Lưu video này và kiểm tra lại chữ miễn phí của bạn.",
+        "estimatedStartMs": 53000,
+        "estimatedEndMs": 58000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": [
+      {
+        "term": "zero-price effect",
+        "spoken": "hiệu ứng giá bằng không",
+        "reason": "Giữ TTS tiếng Việt tự nhiên."
+      }
+    ]
+  },
+  "onScreenCopy": [
+    {
+      "atMs": 0,
+      "text": "SỐ 0 KHÔNG CHỈ LÀ MỘT CON SỐ",
+      "role": "hook"
+    },
+    {
+      "atMs": 7700,
+      "text": "CÙNG GIẢM 9K",
+      "role": "comparison"
+    },
+    {
+      "atMs": 16900,
+      "text": "GIÁ BẰNG KHÔNG ≠ GIÁ THẤP",
+      "role": "mechanism"
+    },
+    {
+      "atMs": 26100,
+      "text": "BẰNG CHỨNG NGHIÊN CỨU",
+      "role": "proof"
+    },
+    {
+      "atMs": 44500,
+      "text": "CHECK ĐIỀU KIỆN TRƯỚC CHECKOUT",
+      "role": "application"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "startMs": 0,
+      "endMs": 6000,
+      "label": "HOOK",
+      "voiceAnchor": "Một đồng rất nhỏ.",
+      "visualGoal": "One-glance contradiction"
+    },
+    {
+      "id": "B02",
+      "startMs": 6000,
+      "endMs": 15000,
+      "label": "TÌNH HUỐNG",
+      "voiceAnchor": "Một món từ mười nghìn xuống một nghìn.",
+      "visualGoal": "Let viewer predict"
+    },
+    {
+      "id": "B03",
+      "startMs": 15000,
+      "endMs": 27000,
+      "label": "LẬT GÓC NHÌN",
+      "voiceAnchor": "Và tay cũng dễ nghiêng về món có số không.",
+      "visualGoal": "Concrete consequence"
+    },
+    {
+      "id": "B04",
+      "startMs": 27000,
+      "endMs": 39000,
+      "label": "GIẢI MÃ",
+      "voiceAnchor": "Trong các thí nghiệm về giá, lựa chọn thay đổi khi một giá thấp chuyển thành bằng không.",
+      "visualGoal": "Plain-language mechanism"
+    },
+    {
+      "id": "B05",
+      "startMs": 39000,
+      "endMs": 48000,
+      "label": "BẰNG CHỨNG",
+      "voiceAnchor": "Nghe rất hợp lý cho chữ miễn phí.",
+      "visualGoal": "Sourced evidence"
+    },
+    {
+      "id": "B06",
+      "startMs": 48000,
+      "endMs": 53000,
+      "label": "BÀI HỌC",
+      "voiceAnchor": "Một ưu đãi tốt làm khách hiểu mình đang nhận gì.",
+      "visualGoal": "One lesson"
+    },
+    {
+      "id": "B07",
+      "startMs": 53000,
+      "endMs": 58000,
+      "label": "AUDIT",
+      "voiceAnchor": "Khoanh mọi điều kiện trước nút quyết định.",
+      "visualGoal": "One action and save CTA"
+    }
+  ],
+  "visualCues": [
+    {
+      "id": "C01",
+      "startMs": 0,
+      "endMs": 800,
+      "spokenAnchor": "Một đồng rất nhỏ.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "một đồng rất nhỏ",
+      "visualSubject": "hai tag giá giấy",
+      "visualReason": "Cho thấy trực tiếp một đồng rất nhỏ đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "hook-contrast",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "hook-puzzle",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c01-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep012-v01-c01-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá đối chiếu",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "startMs": 800,
+      "endMs": 3100,
+      "spokenAnchor": "Nhưng số không lại có tiếng nói riêng.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "số không",
+      "visualSubject": "tag số không",
+      "visualReason": "Cho thấy trực tiếp số không đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "viewer-reaction",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "viewer-prediction",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "carry",
+      "items": [
+        {
+          "id": "ep012-v01-c02-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "startMs": 3100,
+      "endMs": 5400,
+      "spokenAnchor": "Hai món này cùng giảm chín nghìn.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "hai tag cùng giảm",
+      "visualSubject": "hai cặp tag",
+      "visualReason": "Cho thấy trực tiếp hai tag cùng giảm đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "literal-action",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c03-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "startMs": 5400,
+      "endMs": 7700,
+      "spokenAnchor": "Một món từ mười nghìn xuống một nghìn.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "giá bắt đầu mười nghìn",
+      "visualSubject": "tag mười nghìn",
+      "visualReason": "Cho thấy trực tiếp giá bắt đầu mười nghìn đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "context-detail",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c04-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "startMs": 7700,
+      "endMs": 10000,
+      "spokenAnchor": "Món kia từ chín nghìn xuống không đồng.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "giá bắt đầu chín nghìn",
+      "visualSubject": "tag không đồng",
+      "visualReason": "Cho thấy trực tiếp giá bắt đầu chín nghìn đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "perspective-flip",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c05-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep012-v01-c05-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá đối chiếu",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "startMs": 10000,
+      "endMs": 12300,
+      "spokenAnchor": "Nếu chỉ làm phép trừ, hai tag này phải cho cảm giác y hệt nhau.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "khoảng chênh",
+      "visualSubject": "thước chênh lệch",
+      "visualReason": "Cho thấy trực tiếp khoảng chênh đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "human-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "transform",
+      "items": [
+        {
+          "id": "ep012-v01-c06-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "startMs": 12300,
+      "endMs": 14600,
+      "spokenAnchor": "Nhưng mắt mình thường dừng lâu hơn ở chữ miễn phí.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "mắt người xem",
+      "visualSubject": "mắt người xem nhìn tag",
+      "visualReason": "Cho thấy trực tiếp mắt người xem đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "literal-action",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c07-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "startMs": 14600,
+      "endMs": 16900,
+      "spokenAnchor": "Và tay cũng dễ nghiêng về món có số không.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "tay người mua",
+      "visualSubject": "ngón tay người mua",
+      "visualReason": "Cho thấy trực tiếp tay người mua đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "evidence-source",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "mechanism-decode",
+      "composition": "code",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c08-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "startMs": 16900,
+      "endMs": 19200,
+      "spokenAnchor": "Không phải vì món đó tự nhiên tốt hơn.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "chất lượng món hàng",
+      "visualSubject": "hai sản phẩm trung tính",
+      "visualReason": "Cho thấy trực tiếp chất lượng món hàng đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "context-detail",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c09-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "startMs": 19200,
+      "endMs": 21500,
+      "spokenAnchor": "Chỉ là giá bằng không không còn giống một mức giá thấp bình thường.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "giá bằng không",
+      "visualSubject": "tag số không bật sáng",
+      "visualReason": "Cho thấy trực tiếp giá bằng không đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "proof-comparison",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "proof-evidence",
+      "composition": "compare",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c10-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep012-v01-c10-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá đối chiếu",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "startMs": 21500,
+      "endMs": 23800,
+      "spokenAnchor": "Lúc này, não không chỉ làm phép trừ đơn giản nữa.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "cách não tính giá",
+      "visualSubject": "sơ đồ phép tính",
+      "visualReason": "Cho thấy trực tiếp cách não tính giá đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c11-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "startMs": 23800,
+      "endMs": 26100,
+      "spokenAnchor": "Nó còn đọc số không như một món quà.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "số không như món quà",
+      "visualSubject": "biểu tượng món quà",
+      "visualReason": "Cho thấy trực tiếp số không như món quà đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "human-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c12-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "startMs": 26100,
+      "endMs": 28400,
+      "spokenAnchor": "Đó là phần lật của câu chuyện.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "phần lật",
+      "visualSubject": "hai nhánh cảm nhận",
+      "visualReason": "Cho thấy trực tiếp phần lật đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "perspective-split",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "perspective-flip",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c13-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep012-v01-c13-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá đối chiếu",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "startMs": 28400,
+      "endMs": 30700,
+      "spokenAnchor": "Trong các thí nghiệm về giá, lựa chọn thay đổi khi một giá thấp chuyển thành bằng không.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "thí nghiệm về giá",
+      "visualSubject": "thẻ nghiên cứu",
+      "visualReason": "Cho thấy trực tiếp thí nghiệm về giá đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c14-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "startMs": 30700,
+      "endMs": 33000,
+      "spokenAnchor": "Khoảng chênh giữa hai món vẫn được giữ nguyên.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "khoảng chênh giữ nguyên",
+      "visualSubject": "hai tag cùng khoảng chênh",
+      "visualReason": "Cho thấy trực tiếp khoảng chênh giữ nguyên đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "literal-action",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c15-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "startMs": 33000,
+      "endMs": 35300,
+      "spokenAnchor": "Nhưng cảm giác về lợi ích lại đổi khác.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "cảm giác lợi ích",
+      "visualSubject": "sơ đồ lợi ích",
+      "visualReason": "Cho thấy trực tiếp cảm giác lợi ích đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "viewer-reaction",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c16-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "startMs": 35300,
+      "endMs": 37600,
+      "spokenAnchor": "Trong hành vi giá, người ta gọi đây là hiệu ứng giá bằng không.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "tên cơ chế",
+      "visualSubject": "thẻ tên hiệu ứng",
+      "visualReason": "Cho thấy trực tiếp tên cơ chế đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "evidence-source",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c17-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep012-v01-c17-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá đối chiếu",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "startMs": 37600,
+      "endMs": 39900,
+      "spokenAnchor": "Nghe rất hợp lý cho chữ miễn phí.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "chữ miễn phí",
+      "visualSubject": "chữ miễn phí Remotion",
+      "visualReason": "Cho thấy trực tiếp chữ miễn phí đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "context-detail",
+      "continuityRole": "proof",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c18-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "startMs": 39900,
+      "endMs": 42200,
+      "spokenAnchor": "Nhưng miễn phí không phải tấm khăn phủ lên điều kiện khó đọc.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "điều kiện ưu đãi",
+      "visualSubject": "dòng điều kiện",
+      "visualReason": "Cho thấy trực tiếp điều kiện ưu đãi đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "proof",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c19-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "startMs": 42200,
+      "endMs": 44500,
+      "spokenAnchor": "Nếu còn phí bắt buộc, nói sớm.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "phí bắt buộc",
+      "visualSubject": "phí bắt buộc trên receipt",
+      "visualReason": "Cho thấy trực tiếp phí bắt buộc đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "human-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c20-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "startMs": 44500,
+      "endMs": 46800,
+      "spokenAnchor": "Nếu có giới hạn số lượng, nói rõ.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "giới hạn số lượng",
+      "visualSubject": "dòng giới hạn",
+      "visualReason": "Cho thấy trực tiếp giới hạn số lượng đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c21-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep012-v01-c21-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá đối chiếu",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "startMs": 46800,
+      "endMs": 49100,
+      "spokenAnchor": "Một ưu đãi tốt làm khách hiểu mình đang nhận gì.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "ưu đãi rõ ràng",
+      "visualSubject": "receipt rõ ràng",
+      "visualReason": "Cho thấy trực tiếp ưu đãi rõ ràng đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c22-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "startMs": 49100,
+      "endMs": 51400,
+      "spokenAnchor": "Nó không bắt khách đi hết checkout rồi mới phát hiện phần còn lại.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "checkout",
+      "visualSubject": "checkout minh bạch",
+      "visualReason": "Cho thấy trực tiếp checkout đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c23-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "startMs": 51400,
+      "endMs": 53700,
+      "spokenAnchor": "Thử mở các ưu đãi của shop trên điện thoại.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "điện thoại của shop",
+      "visualSubject": "điện thoại chủ shop",
+      "visualReason": "Cho thấy trực tiếp điện thoại của shop đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c24-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "startMs": 53700,
+      "endMs": 56000,
+      "spokenAnchor": "Khoanh mọi điều kiện trước nút quyết định.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "điều kiện trước nút quyết định",
+      "visualSubject": "checklist điều kiện",
+      "visualReason": "Cho thấy trực tiếp điều kiện trước nút quyết định đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c25-i1",
+          "motifKey": "tag giá số 0",
+          "semanticRole": "motif",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C26",
+      "startMs": 56000,
+      "endMs": 58000,
+      "spokenAnchor": "Lưu video này và kiểm tra lại chữ miễn phí của bạn.",
+      "semanticIntent": "Giữ tag giá và hành động người mua thay đổi đúng theo câu voice.",
+      "spokenSubject": "chữ miễn phí của shop",
+      "visualSubject": "mascot lưu video",
+      "visualReason": "Cho thấy trực tiếp chữ miễn phí của shop đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "cta-close",
+      "continuityRole": "application",
+      "retentionRole": "cta",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep012-v01-c26-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tag giá số 0",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "ep012-a01",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "hook price-tag contrast",
+      "sceneFamily": "hook-contrast",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: two neutral paper price tags with one zero tag. Action: the left digit slides away to reveal zero. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep012-a02",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "buyer hand and tag",
+      "sceneFamily": "viewer-reaction",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: Vietnamese shopper hand holding a small price tag. Action: turning the tag to read conditions. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep012-a03",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "neutral small products",
+      "sceneFamily": "literal-action",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: two identical small hair accessories without logos. Action: placed beside contrasting tags. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep012-a04",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "receipt proof",
+      "sceneFamily": "evidence-source",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: two clean neutral receipts without readable baked text. Action: same price gap represented by blank lines. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep012-a05",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "free icon object",
+      "sceneFamily": "mechanism-map",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: small gift box with a pink paper zero marker. Action: marker points to the zero. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep012-a06",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "shop owner audit",
+      "sceneFamily": "human-choice",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: Vietnamese shop owner using a smartphone. Action: checking offer conditions. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep012-a07",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "checkout detail",
+      "sceneFamily": "application-audit",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: neutral smartphone checkout interface without generated text. Action: cost line revealed before final button. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep012-a08",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "mascot outro",
+      "sceneFamily": "cta-close",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: approved channel mascot pointing at a save gesture. Action: holding a paper checklist. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    }
+  ],
+  "editBlueprint": {
+    "visualGrammar": "subject-led-v1",
+    "motionGrammar": "continuous-stage-v1",
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "background": "ivory paper with pale pink grid",
+    "typography": {
+      "title": "SVN-Miller Banner",
+      "subtitle": "UTM ClassizismAntiqua",
+      "supporting": "SVN-Nexa Light",
+      "accent": "SVN-Vanilla Daisy Pro"
+    },
+    "safeZone": "TikTok 9:16 safe zone; caption top 1160",
+    "backgroundFrameHoldSeconds": 0.5,
+    "mascotRatio": "preserve original ratio"
+  },
+  "sources": [
+    {
+      "title": "Zero as a Special Price: The True Value of Free Products",
+      "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.1060.0254",
+      "accessedAt": "2026-08-25",
+      "supports": "Nghiên cứu Marketing Science kiểm tra lựa chọn khi giá thấp chuyển thành bằng không dù khoảng chênh được giữ cố định."
+    }
+  ],
+  "quotaPlan": {
+    "idempotencyPrefix": "agency-marketing-tiktok-ep012-v01",
+    "estimatedImageCalls": 8,
+    "estimatedTtsCalls": 1,
+    "estimatedTranscriptionCalls": 1,
+    "estimatedRenderCalls": 1,
+    "batchRule": "Batch exactly three only for compatible simple props; people, hands, complex heroes, and evidence are individual."
+  },
+  "approval": {
+    "status": "script-review",
+    "mediaGeneration": false,
+    "note": "User requested scripts for ideas 2, 4 and 5; no TTS, image, transcription, Flow Agent call or render before explicit approval."
+  }
+}

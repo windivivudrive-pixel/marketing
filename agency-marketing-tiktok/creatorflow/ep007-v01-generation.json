@@ -1,0 +1,63 @@
+{
+  "episode": "EP007",
+  "version": "v01",
+  "model": "gem_pix_2",
+  "idempotencyPrefix": "agency-marketing-tiktok-ep007-v01-run2-",
+  "identityLock": "PHOTOREAL VIETNAMESE STICKER SOURCE ONLY. One complete crop-safe subject, matte finish, soft upper-left daylight, restrained hot-pink accent and clean ink-black details. BACKGROUND REQUIREMENT: every pixel outside the subject must be one identical solid RGB 0,255,0 chroma green #00FF00; perfectly flat, no lighting variation. Keep at least 12 percent empty green margin on every side. Do not create a scene, card, poster, collage, paper backing, torn edge, frame, border, floor, table, cast shadow, reflection, vignette, gradient, texture, green rim light, decorative sparkle, extra object, text, logo, watermark, neon or glossy 3D. Remotion alone adds the silhouette-backed watercolor paper, ripped-white contour, hot-pink offset, shadows, arrows and all readable copy.",
+  "jobs": [
+    {
+      "id": "A01",
+      "size": "1024x1024",
+      "output": "public/ep007/v01/generated/a01-card-contrast-green-v01.png",
+      "prompt": "Top-down photoreal cutout of two loyalty cards on uniform chroma green #00FF00 with 12% margin: on the left an 8-slot blank paper card falling toward a sleek office trash bin, on the right a 10-slot kraft card being tucked neatly into an open brown leather wallet, matte studio lighting, crisp edges, no text overlays, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A02",
+      "size": "1024x1024",
+      "output": "public/ep007/v01/generated/a02-ten-slot-kraft-card-green-v01.png",
+      "prompt": "Direct front photoreal cutout of a rectangular brown kraft paper loyalty punch card on uniform chroma green #00FF00 with 12% margin, showing a grid of ten circular slots, the first two slots prominently stamped with bright red ink seals, the remaining eight slots clean and empty, natural paper texture, soft diffuse daylight, no text, clean isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A03",
+      "size": "1024x1024",
+      "output": "public/ep007/v01/generated/a03-two-cards-counter-green-v01.png",
+      "prompt": "Top-down photoreal cutout of two coffee loyalty cards side by side on uniform chroma green #00FF00 with 12% margin: card A is a plain white 8-slot blank punch card, card B is a warm kraft 10-slot card with two red stamped circles, soft coffee shop ambient lighting, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A04",
+      "size": "1024x1024",
+      "output": "public/ep007/v01/generated/a04-stamp-action-green-v01.png",
+      "prompt": "Close-up photoreal cutout of a barista hand holding a wooden rubber stamp firmly pressing red ink onto a kraft paper card on uniform chroma green #00FF00 with 12% margin, dynamic action moment, soft warm lighting, sharp fingers, clean isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A05",
+      "size": "1024x1024",
+      "output": "public/ep007/v01/generated/a05-happy-customer-wallet-green-v01.png",
+      "prompt": "Photoreal waist-up cutout of an Asian young professional smiling happily while sliding a loyalty card into a pocket leather wallet on uniform chroma green #00FF00 with 12% margin, genuine satisfaction expression, crisp clothing details, soft daylight, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A06",
+      "size": "1024x1024",
+      "output": "public/ep007/v01/generated/a06-progress-bar-green-v01.png",
+      "prompt": "Sleek modern 3D tactile progress bar cutout on uniform chroma green #00FF00 with 12% margin, horizontal bar filled 20% with vibrant hot-pink and coral gradient, a shiny glowing star badge at the 20% mark, clean clean matte finish, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A07",
+      "size": "1024x1024",
+      "output": "public/ep007/v01/generated/a07-mountain-climber-green-v01.png",
+      "prompt": "Photoreal side-profile cutout of a hiker in outdoor gear standing at the base of a steep rocky cliff looking up with hesitation on uniform chroma green #00FF00 with 12% margin, metaphor for starting from zero obstacle, clear silhouette, soft outdoor lighting, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A08",
+      "size": "1024x1024",
+      "output": "public/ep007/v01/generated/a08-research-chart-green-v01.png",
+      "prompt": "Clean 3D tactile bar chart cutout on uniform chroma green #00FF00 with 12% margin: two distinct comparison columns, left column at 19% in muted gray, right column soaring at 34% in bold hot pink, clear upward arrow, clean isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A09",
+      "size": "1024x1024",
+      "output": "public/ep007/v01/generated/a09-phone-welcome-points-green-v01.png",
+      "prompt": "Front-facing photoreal cutout of a modern smartphone on uniform chroma green #00FF00 with 12% margin, screen showing a clean mobile loyalty app interface with a pop-up card 'Tặng bạn 20 điểm khởi động!', gift box icon, crisp UI details, clean cutout, no gradient, texture, vignette, shadow."
+    }
+  ]
+}

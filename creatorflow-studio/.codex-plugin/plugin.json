@@ -1,0 +1,29 @@
+{
+  "name": "creatorflow-studio",
+  "version": "1.4.1",
+  "description": "A portable gated idea-to-video workflow with shared Flow and Cartesia providers across Antigravity, Codex, Cherry Studio, and local command hosts.",
+  "author": {
+    "name": "CreatorFlow Studio"
+  },
+  "license": "SEE-LICENSE-IN-LICENSE.md",
+  "keywords": ["content workflow", "short video", "remotion", "flow agent", "ideation", "scriptwriting"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "CreatorFlow Studio",
+    "shortDescription": "Turn a topic and vibe into a finished short video.",
+    "longDescription": "CreatorFlow Studio inventories past content, finds distinct ideas, creates an approval-ready production brief, then builds a voice-led Remotion video. It delays paid image and voice calls until approval and reuses cached assets whenever possible.",
+    "developerName": "CreatorFlow Studio",
+    "category": "Productivity",
+    "capabilities": ["Research", "Write", "Image generation", "Video rendering"],
+    "defaultPrompt": [
+      "Topic: home coffee. Vibe: warm editorial.",
+      "Find fresh ideas for my channel without repeats.",
+      "Produce my approved brief and render the video."
+    ],
+    "brandColor": "#FF5A47",
+    "composerIcon": "./assets/creatorflow-icon.svg",
+    "logo": "./assets/creatorflow-logo.svg",
+    "logoDark": "./assets/creatorflow-logo-dark.svg"
+  },
+  "mcpServers": "./.mcp.json"
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-17T09:48:00.000Z",
+  "profile": "creatorflow/profile.json",
+  "ideas": [
+    {
+      "id": "brand-story-009-kept-bag",
+      "rank": 1,
+      "title": "EP006 mới — Vì sao người ta vứt chiếc cốc nhưng lại giữ chiếc túi?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Khách mua xong là thương hiệu biến mất khỏi đời sống của họ.",
+      "viewerQuestion": "Cùng là bao bì đã dùng xong, vì sao chiếc cốc bị vứt còn chiếc túi được gấp lại và mang về?",
+      "caseStory": "Một tình huống minh họa: khách uống xong, ném cốc vào thùng rác nhưng giữ chiếc túi giấy. Vài ngày sau chiếc túi được dùng để mang quà cho bạn, khiến một người khác chú ý và hỏi về nơi mua.",
+      "curiosityParadox": "Cả hai đều đã hoàn thành nhiệm vụ, nhưng chỉ một món tiếp tục sống sau lần mua.",
+      "brandingLesson": "Một thương hiệu dễ được nhớ hơn khi nó thiết kế được một điểm chạm còn hữu ích sau khi giao dịch kết thúc.",
+      "actionablePayoff": "Đặt bao bì, hóa đơn, thiệp, tin nhắn và quà kèm cạnh nhau; khoanh đúng một thứ khách vẫn muốn dùng hoặc giữ vào ngày mai.",
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Một bàn tay ném cốc rỗng vào thùng rác, rồi dừng lại để gấp chiếc túi giấy và cất vào ngăn kéo.",
+      "narrativeObject": "Chiếc túi giấy là motif quay lại ở hook, lúc được tái sử dụng và phần kết; nó rời khung khi câu chuyện chuyển sang hành động của khách, phản ứng của người bạn và bài test của chủ shop.",
+      "curiosityGap": "Điều gì khiến một món bao bì bị coi là rác, còn món kia trở thành thứ đáng giữ?",
+      "hiddenMechanism": "Món đồ được giữ lại vì nó còn một công việc mới trong đời sống: đựng quà, mang đồ hoặc giúp người dùng thể hiện gu.",
+      "marketingBridge": "Trong marketing, đây là thiết kế một điểm chạm còn tiếp tục hoạt động sau khi khách đã mua xong.",
+      "proofMove": "Theo chiếc túi sang lần sử dụng thứ hai: một người mang quà tới bạn, người nhận nhìn thấy và hỏi mua ở đâu; sau đó đối chiếu với bao bì vô dụng bị vò và bỏ đi.",
+      "singleLesson": "Đừng chỉ thiết kế khoảnh khắc mua; hãy thiết kế một thứ có lý do để sống tiếp sau lần mua.",
+      "immediateApplication": "Chụp toàn bộ điểm chạm sau bán của bạn và khoanh một thứ khách có lý do giữ lại tới ngày mai.",
+      "motionPotential": [
+        "Cốc trượt vào thùng rác trong khi túi được bàn tay kéo ngược trở lại.",
+        "Túi được gấp phẳng rồi match-cut thành túi đang mở để đựng món quà.",
+        "Máy quay follow người mang túi tới cửa nhà bạn và reframe sang ánh mắt người nhận.",
+        "Các điểm chạm sau bán tỏa ra trên bàn, rồi camera push-in vào đúng một món được khoanh chọn."
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "cốc bị vứt, túi được giữ",
+          "literalVisual": "hai bàn tay tách hai món: cốc rơi vào thùng rác, túi được kéo về",
+          "action": "vứt một món và giữ một món",
+          "sceneFamily": "hook-action-contrast",
+          "humanAction": true,
+          "motifPresent": true
+        },
+        {
+          "voiceSubject": "món đồ còn một công việc mới",
+          "literalVisual": "túi được gấp phẳng trong ngăn kéo rồi mở ra cạnh một món quà",
+          "action": "gấp, cất và mở lại",
+          "sceneFamily": "object-state-change",
+          "humanAction": true,
+          "motifPresent": true
+        },
+        {
+          "voiceSubject": "khách mang quà cho bạn",
+          "literalVisual": "một người Việt trẻ bước tới cửa, tay xách món quà",
+          "action": "đi bộ và trao quà",
+          "sceneFamily": "human-delivery",
+          "humanAction": true,
+          "motifPresent": true
+        },
+        {
+          "voiceSubject": "người bạn chú ý và hỏi mua ở đâu",
+          "literalVisual": "người nhận nhìn món quà, chỉ tay và đặt câu hỏi",
+          "action": "nhìn, chỉ và hỏi",
+          "sceneFamily": "human-reaction",
+          "humanAction": true,
+          "motifPresent": false
+        },
+        {
+          "voiceSubject": "bao bì không còn ích lợi",
+          "literalVisual": "một lớp giấy gói chung chung bị vò lại cạnh thùng rác",
+          "action": "vò và bỏ đi",
+          "sceneFamily": "proof-contrast",
+          "humanAction": true,
+          "motifPresent": false
+        },
+        {
+          "voiceSubject": "chủ shop kiểm tra các điểm chạm",
+          "literalVisual": "chủ shop trải hộp, thiệp, hóa đơn, sticker và tin nhắn in trên một bàn làm việc",
+          "action": "xếp và so sánh từng điểm chạm",
+          "sceneFamily": "owner-audit",
+          "humanAction": true,
+          "motifPresent": false
+        },
+        {
+          "voiceSubject": "khoanh một thứ khách muốn giữ tới ngày mai",
+          "literalVisual": "camera điện thoại chụp bàn điểm chạm rồi một vòng tròn hồng đánh dấu món được chọn",
+          "action": "chụp và khoanh chọn",
+          "sceneFamily": "phone-application",
+          "humanAction": true,
+          "motifPresent": true
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "nghịch lý ở hook",
+          "lần sử dụng thứ hai",
+          "khung hình ứng dụng cuối"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.42
+      },
+      "topicKeywords": [
+        "điểm chạm sau bán",
+        "bao bì tái sử dụng",
+        "ghi nhớ thương hiệu",
+        "trải nghiệm khách hàng",
+        "thiết kế bao bì",
+        "truyền miệng"
+      ],
+      "evidence": [],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED",
+        "signal": "",
+        "observedAt": ""
+      },
+      "visualSeed": "Một chuỗi hành động đời thường gồm thùng rác, ngăn kéo, người mang quà, người nhận phản ứng, bàn audit và camera điện thoại; chiếc túi chỉ quay lại ở ba điểm neo.",
+      "rightsStatus": "ORIGINAL_ILLUSTRATIVE",
+      "estimatedImageCalls": 7,
+      "productionCost": "MEDIUM",
+      "scores": {
+        "freshness": 5,
+        "audienceFit": 5,
+        "hookClarity": 5,
+        "storyClarity": 5,
+        "lessonUsefulness": 5,
+        "visualClarity": 5,
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 4,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5
+      },
+      "totalScore": 69
+    }
+  ]
+}

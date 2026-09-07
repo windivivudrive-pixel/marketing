@@ -1,0 +1,17 @@
+{
+  "episode": "EP006",
+  "version": "v01",
+  "model": "gem_pix_2",
+  "idempotencyPrefix": "agency-marketing-tiktok-ep006-v01-",
+  "identityLock": "Photoreal Vietnamese sticker source, matte and soft upper-left daylight, with a restrained hot-pink accent on the element and clean ink-black details. One complete crop-safe subject on uniform chroma green #00FF00 with 12% empty margin. In Remotion, its alpha silhouette—not a rectangle—gets a soft pastel-pink watercolor paper backing, irregular ripped-white contour, very soft paper shadow and hot-pink offset. No background, card, text, logo, watermark, neon or glossy 3D.",
+  "jobs": [
+    {"id":"A01","size":"1024x1024","output":"public/ep006/v01/generated/a01-cafe-owner-green-v01.png","prompt":"Vietnamese small cafe owner in a clean white shirt with one blush-pink apron accent, waist-up, holding a completely blank rectangular price card, mildly puzzled expression, three-quarter view, complete hands visible."},
+    {"id":"A02","size":"1024x1024","output":"public/ep006/v01/generated/a02-menu-board-green-v01.png","prompt":"Isolated upright cafe menu board with three large completely blank rows and small blank price tabs, straight-on view, clean edges, no readable marks."},
+    {"id":"A03","size":"1024x1024","output":"public/ep006/v01/generated/a03-cup-basic-green-v01.png","prompt":"Simple unbranded white takeaway coffee cup with plain lid, slight three-quarter angle, modest everyday appearance, complete object visible."},
+    {"id":"A04","size":"1024x1024","output":"public/ep006/v01/generated/a04-cup-signature-green-v01.png","prompt":"Distinctive signature coffee in an unbranded ceramic cup, visible layered drink and one real ingredient garnish, restrained blush-pink saucer, three-quarter view, complete object visible."},
+    {"id":"A05","size":"1024x1024","output":"public/ep006/v01/generated/a05-cup-limited-green-v01.png","prompt":"Limited-occasion unbranded coffee served on a small refined tray with one seasonal edible garnish and a tiny blank occasion card, restrained hot-pink accent, complete isolated arrangement visible."},
+    {"id":"A06","size":"1024x1024","output":"public/ep006/v01/generated/a06-customer-compare-green-v01.png","prompt":"Young Vietnamese customer in simple neutral clothing, waist-up, comparing two completely blank menu cards, curious slightly skeptical expression, complete hands and cards visible."},
+    {"id":"A07","size":"1024x1024","output":"public/ep006/v01/generated/a07-service-hand-green-v01.png","prompt":"Realistic barista hand carefully placing an unbranded ceramic coffee cup on a small clean tray, full hand and complete objects visible, precise attentive service gesture."},
+    {"id":"A08","size":"1024x1024","output":"public/ep006/v01/generated/a08-proof-sheet-green-v01.png","prompt":"Tall three-by-four source sheet containing exactly three simple vertically separated proof objects: sealed unbranded ingredient pouch, small service bell, blank quality card with no marks; at least 18% clear green gutter between subjects, no overlap, complete objects visible."}
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "CreatorFlow Ideate"
+  short_description: "Find real stories with one branding lesson"
+  default_prompt: "Use $creatorflow-ideate to find real or current stories with one practical branding lesson."

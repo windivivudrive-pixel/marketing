@@ -1,0 +1,4 @@
+interface:
+  display_name: "CreatorFlow Script"
+  short_description: "Write JSON-first scripts with thumbnail hooks"
+  default_prompt: "Use $creatorflow-script to turn my approved idea into a JSON-first branding story script with a compelling opening thumbnail frame."

@@ -1,0 +1,1657 @@
+{
+  "schemaVersion": 3,
+  "metadata": {
+    "episodeId": "EP015",
+    "slug": "ten-mon-dai-hon",
+    "version": 1,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260826-phenomenon-ideas-v01.json#IDEA001",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 58,
+    "researchRequired": true
+  },
+  "creativeContract": {
+    "title": "Tên món dài hơn, sao khách lại thấy đáng gọi hơn?",
+    "audience": "Chủ quán, founder và đội marketing nội bộ muốn làm giá trị sản phẩm dễ hình dung hơn.",
+    "premise": "Cùng một món có thể tạo hai mức hình dung khác nhau chỉ bằng cách gọi tên; cơ chế nằm ở chi tiết trải nghiệm mà câu chữ gợi ra.",
+    "payoff": "Người xem có thể test tên cũ và tên mới với một người chưa biết sản phẩm ngay trong ngày.",
+    "caseType": "research",
+    "hookDelivery": "observational-line",
+    "openingFrame": {
+      "visualTension": "Cùng một món được đặt dưới hai cách gọi: một tên chung chung và một tên gợi rõ nguyên liệu, cách làm.",
+      "heroSubject": "tờ menu giấy với hai dòng tên cho cùng một món",
+      "contrast": "tên ngắn không gợi hình ảnh đối lập với tên mô tả cụ thể",
+      "firstFrameCopy": "CÙNG MỘT MÓN, TÊN DÀI HƠN LẠI NGHE NGON HƠN?"
+    },
+    "narrativeObject": "tờ menu giấy có hai cách gọi cho cùng một món ăn",
+    "visualStrategy": {
+      "version": "subject-led-v1",
+      "recurringMotif": "tờ menu giấy có hai cách gọi cho cùng một món ăn",
+      "motifRule": "Menu chỉ trở lại khi voice đang nói về tên gọi hoặc bài test; rời khung khi chuyển sang khách, thao tác bếp, bằng chứng và sơ đồ cơ chế.",
+      "sceneFamilies": [
+        "menu-contrast",
+        "customer-choice",
+        "kitchen-action",
+        "sensory-detail",
+        "mechanism-map",
+        "proof-study",
+        "copy-edit",
+        "application-test",
+        "cta-close"
+      ],
+      "humanMoments": [
+        "khách Việt dừng ngón tay ở tên món mô tả",
+        "hai người đọc tên cũ và tên mới rồi ghi lại hình dung đầu tiên"
+      ]
+    },
+    "storyArc": {
+      "familiarHook": {
+        "startMs": 0,
+        "endMs": 3000,
+        "purpose": "Mở bằng một menu quen thuộc và nghịch lý nhìn thấy ngay.",
+        "voiceAnchor": "Cùng một món, sao tên dài hơn lại nghe ngon hơn?",
+        "visualProgression": "Một tờ menu duy nhất giữ hai dòng tên trong cùng khung hình, chưa lộ cơ chế."
+      },
+      "curiosityBuild": {
+        "startMs": 3000,
+        "endMs": 10000,
+        "purpose": "Cho người xem tự đoán họ sẽ hình dung được gì từ mỗi tên.",
+        "voiceAnchor": "Trong menu, một dòng chỉ ghi gà nướng.",
+        "visualProgression": "Tên chung chung hiện trước, rồi khách lướt menu và dừng ở tên mô tả."
+      },
+      "perspectiveFlip": {
+        "startMs": 10000,
+        "endMs": 18000,
+        "purpose": "Lật từ chữ trên menu sang trải nghiệm mà khách tự nếm thử trong đầu.",
+        "voiceAnchor": "Món trong đĩa không đổi.",
+        "visualProgression": "Menu rời khung, nhường chỗ cho sốt, lớp da và phản ứng của khách."
+      },
+      "marketingDecode": {
+        "startMs": 18000,
+        "endMs": 31000,
+        "purpose": "Giải thích cơ chế bằng tiếng Việt đời thường rồi mới gọi tên lý thuyết.",
+        "voiceAnchor": "Khách chưa ăn vẫn phải dự đoán trải nghiệm.",
+        "visualProgression": "Sơ đồ từ câu chữ cụ thể sang hình ảnh, cảm giác và kỳ vọng."
+      },
+      "proof": {
+        "startMs": 31000,
+        "endMs": 42000,
+        "purpose": "Đưa nguồn nghiên cứu và giới hạn diễn giải, không biến thành lời hứa doanh số.",
+        "voiceAnchor": "Một nghiên cứu thực địa về menu cho thấy cách đặt tên mô tả có thể tác động tới cách khách đánh giá món và kết quả bán hàng.",
+        "visualProgression": "Bảng đối chiếu hai nhãn menu xuất hiện cạnh thẻ nguồn, sau đó một tên dài bị gạch để chỉ ra giới hạn."
+      },
+      "lesson": {
+        "startMs": 42000,
+        "endMs": 50000,
+        "purpose": "Chốt một kết luận duy nhất về việc làm giá trị vô hình dễ nhìn thấy.",
+        "voiceAnchor": "Bài học là: giá trị vô hình phải được nhìn thấy trước khi khách phải hỏi.",
+        "visualProgression": "Một câu lesson ngắn nổi lên trên menu đã được làm rõ."
+      },
+      "application": {
+        "startMs": 50000,
+        "endMs": 58000,
+        "purpose": "Cho người xem một bài test tên sản phẩm và một CTA lưu video.",
+        "voiceAnchor": "Thử ngay: chọn ba sản phẩm.",
+        "visualProgression": "Hai người đọc tên cũ và tên mới trên điện thoại, ghi lại hình dung đầu tiên, rồi trở về motif menu ở CTA."
+      }
+    },
+    "retentionPlan": {
+      "mode": "business-phenomenon-decode-v1",
+      "viewerPrediction": "Món ngon hơn hoặc giá thấp hơn mới là lý do khách thích tên đó.",
+      "withheldAnswer": "Tên mô tả cho khách một hình ảnh để tự dự đoán trải nghiệm trước khi nếm.",
+      "plainLanguageMechanism": "Câu chữ cụ thể biến một sản phẩm còn vô hình thành cảnh, mùi, vị hoặc thao tác mà khách có thể tưởng tượng.",
+      "theoryReveal": {
+        "technicalLabel": "descriptive menu labels",
+        "earliestMs": 26300,
+        "plainLanguageAnchor": "tên sản phẩm không chỉ trả lời đây là gì"
+      },
+      "resets": [
+        {
+          "id": "R01",
+          "atMs": 0,
+          "trigger": "Hai tên cho cùng một món",
+          "informationGain": "Mở nghịch lý và cho người xem đoán",
+          "visualReset": "Hai dòng tên trượt vào cùng một menu",
+          "sceneFamily": "menu-contrast"
+        },
+        {
+          "id": "R02",
+          "atMs": 7600,
+          "trigger": "Khách phải hình dung trước khi ăn",
+          "informationGain": "Đưa người xem vào đầu của khách",
+          "visualReset": "Ngón tay dừng ở tên mô tả, khuôn mặt khách đổi phản ứng",
+          "sceneFamily": "customer-choice"
+        },
+        {
+          "id": "R03",
+          "atMs": 15100,
+          "trigger": "Một tên gọi mở ra cảnh món ăn",
+          "informationGain": "Lật từ chữ sang cảm giác",
+          "visualReset": "Sốt, lớp da và thao tác bếp xuất hiện",
+          "sceneFamily": "kitchen-action"
+        },
+        {
+          "id": "R04",
+          "atMs": 23300,
+          "trigger": "Tên mô tả menu",
+          "informationGain": "Gọi tên cơ chế sau khi đã hiểu",
+          "visualReset": "Sơ đồ câu chữ nối sang hình ảnh và kỳ vọng",
+          "sceneFamily": "mechanism-map"
+        },
+        {
+          "id": "R05",
+          "atMs": 31000,
+          "trigger": "Nghiên cứu thực địa",
+          "informationGain": "Thêm bằng chứng có nguồn",
+          "visualReset": "Bảng so sánh hai nhãn và thẻ nguồn DOI",
+          "sceneFamily": "proof-study"
+        },
+        {
+          "id": "R06",
+          "atMs": 39100,
+          "trigger": "Không phải tên càng dài càng tốt",
+          "informationGain": "Đặt giới hạn cho cơ chế",
+          "visualReset": "Khách lướt qua tên dài nhưng mơ hồ",
+          "sceneFamily": "customer-choice"
+        },
+        {
+          "id": "R07",
+          "atMs": 48000,
+          "trigger": "Bài test tên sản phẩm",
+          "informationGain": "Biến bài học thành hành động ngay",
+          "visualReset": "Hai người ghi lại hình dung đầu tiên trên điện thoại",
+          "sceneFamily": "application-test"
+        }
+      ]
+    }
+  },
+  "topicKeywords": [
+    "mô tả menu",
+    "đặt tên sản phẩm",
+    "value perception",
+    "food branding",
+    "descriptive menu labels"
+  ],
+  "voiceover": {
+    "displayText": "Cùng một món, sao tên dài hơn lại nghe ngon hơn? Trong menu, một dòng chỉ ghi gà nướng. Dòng kia ghi gà nướng sốt tiêu xanh, da giòn. Món trong đĩa không đổi. Nhưng mắt mình đã bắt đầu nếm bằng chữ. Nếu chỉ nhìn tên đầu tiên, bạn đoán được gì? Có lẽ là gần như không gì cả. Còn tên thứ hai cho bạn một cảnh nhỏ: mùi sốt, lớp da, cảm giác khi cắn. Đó là điểm lật. Khách chưa ăn vẫn phải dự đoán trải nghiệm. Câu chữ cụ thể làm khoảng trống đó nhỏ lại. Trong marketing, cách này thường được gọi là nhãn mô tả menu. Nói đơn giản: tên sản phẩm không chỉ trả lời đây là gì; nó gợi mình sẽ nhận được cảm giác gì. Một nghiên cứu thực địa về menu cho thấy cách đặt tên mô tả có thể tác động tới cách khách đánh giá món và kết quả bán hàng. Nhưng đừng hiểu thành viết tên càng dài càng tốt. Gà nướng sốt tiêu xanh, da giòn có hình ảnh. Một câu dài toàn tính từ thì chỉ làm khách mệt. Bài học là: giá trị vô hình phải được nhìn thấy trước khi khách phải hỏi. Thử ngay: chọn ba sản phẩm. Viết lại mỗi tên bằng một chi tiết khách có thể nếm, chạm, nghe hoặc hình dung. Đưa tên cũ và tên mới cho một người chưa biết sản phẩm. Hỏi họ tưởng tượng gì đầu tiên. Nếu họ vẫn không hình dung được, tên chưa làm xong việc. Lưu video này để audit menu của bạn.",
+    "voiceText": "Cùng một món, sao tên dài hơn lại nghe ngon hơn? Trong menu, một dòng chỉ ghi gà nướng. Dòng kia ghi gà nướng sốt tiêu xanh, da giòn. Món trong đĩa không đổi. Nhưng mắt mình đã bắt đầu nếm bằng chữ. Nếu chỉ nhìn tên đầu tiên, bạn đoán được gì? Có lẽ là gần như không gì cả. Còn tên thứ hai cho bạn một cảnh nhỏ: mùi sốt, lớp da, cảm giác khi cắn. Đó là điểm lật. Khách chưa ăn vẫn phải dự đoán trải nghiệm. Câu chữ cụ thể làm khoảng trống đó nhỏ lại. Trong marketing, cách này thường được gọi là nhãn mô tả menu. Nói đơn giản: tên sản phẩm không chỉ trả lời đây là gì; nó gợi mình sẽ nhận được cảm giác gì. Một nghiên cứu thực địa về menu cho thấy cách đặt tên mô tả có thể tác động tới cách khách đánh giá món và kết quả bán hàng. Nhưng đừng hiểu thành viết tên càng dài càng tốt. Gà nướng sốt tiêu xanh, da giòn có hình ảnh. Một câu dài toàn tính từ thì chỉ làm khách mệt. Bài học là: giá trị vô hình phải được nhìn thấy trước khi khách phải hỏi. Thử ngay: chọn ba sản phẩm. Viết lại mỗi tên bằng một chi tiết khách có thể nếm, chạm, nghe hoặc hình dung. Đưa tên cũ và tên mới cho một người chưa biết sản phẩm. Hỏi họ tưởng tượng gì đầu tiên. Nếu họ vẫn không hình dung được, tên chưa làm xong việc. Lưu video này để audit menu của bạn.",
+    "sections": {
+      "hook": {
+        "displayText": "Cùng một món, sao tên dài hơn lại nghe ngon hơn?",
+        "voiceText": "Cùng một món, sao tên dài hơn lại nghe ngon hơn?",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 3000
+      },
+      "body": {
+        "displayText": "Trong menu, một dòng chỉ ghi gà nướng. Dòng kia ghi gà nướng sốt tiêu xanh, da giòn. Món trong đĩa không đổi. Nhưng mắt mình đã bắt đầu nếm bằng chữ. Nếu chỉ nhìn tên đầu tiên, bạn đoán được gì? Có lẽ là gần như không gì cả. Còn tên thứ hai cho bạn một cảnh nhỏ: mùi sốt, lớp da, cảm giác khi cắn. Đó là điểm lật. Khách chưa ăn vẫn phải dự đoán trải nghiệm. Câu chữ cụ thể làm khoảng trống đó nhỏ lại. Trong marketing, cách này thường được gọi là nhãn mô tả menu. Nói đơn giản: tên sản phẩm không chỉ trả lời đây là gì; nó gợi mình sẽ nhận được cảm giác gì. Một nghiên cứu thực địa về menu cho thấy cách đặt tên mô tả có thể tác động tới cách khách đánh giá món và kết quả bán hàng. Nhưng đừng hiểu thành viết tên càng dài càng tốt. Gà nướng sốt tiêu xanh, da giòn có hình ảnh. Một câu dài toàn tính từ thì chỉ làm khách mệt. Bài học là: giá trị vô hình phải được nhìn thấy trước khi khách phải hỏi. Thử ngay: chọn ba sản phẩm. Viết lại mỗi tên bằng một chi tiết khách có thể nếm, chạm, nghe hoặc hình dung. Đưa tên cũ và tên mới cho một người chưa biết sản phẩm. Hỏi họ tưởng tượng gì đầu tiên.",
+        "voiceText": "Trong menu, một dòng chỉ ghi gà nướng. Dòng kia ghi gà nướng sốt tiêu xanh, da giòn. Món trong đĩa không đổi. Nhưng mắt mình đã bắt đầu nếm bằng chữ. Nếu chỉ nhìn tên đầu tiên, bạn đoán được gì? Có lẽ là gần như không gì cả. Còn tên thứ hai cho bạn một cảnh nhỏ: mùi sốt, lớp da, cảm giác khi cắn. Đó là điểm lật. Khách chưa ăn vẫn phải dự đoán trải nghiệm. Câu chữ cụ thể làm khoảng trống đó nhỏ lại. Trong marketing, cách này thường được gọi là nhãn mô tả menu. Nói đơn giản: tên sản phẩm không chỉ trả lời đây là gì; nó gợi mình sẽ nhận được cảm giác gì. Một nghiên cứu thực địa về menu cho thấy cách đặt tên mô tả có thể tác động tới cách khách đánh giá món và kết quả bán hàng. Nhưng đừng hiểu thành viết tên càng dài càng tốt. Gà nướng sốt tiêu xanh, da giòn có hình ảnh. Một câu dài toàn tính từ thì chỉ làm khách mệt. Bài học là: giá trị vô hình phải được nhìn thấy trước khi khách phải hỏi. Thử ngay: chọn ba sản phẩm. Viết lại mỗi tên bằng một chi tiết khách có thể nếm, chạm, nghe hoặc hình dung. Đưa tên cũ và tên mới cho một người chưa biết sản phẩm. Hỏi họ tưởng tượng gì đầu tiên.",
+        "estimatedStartMs": 3000,
+        "estimatedEndMs": 53000,
+        "story": "Một món ăn giữ nguyên nhưng hai cách gọi tạo ra hai mức hình dung khác nhau, rồi cơ chế được nối với một nghiên cứu thực địa và giới hạn viết tên.",
+        "lesson": "Giá trị vô hình phải được làm cho khách nhìn thấy bằng một chi tiết cụ thể, không phải bằng một chuỗi tính từ.",
+        "actions": [
+          "Chọn ba sản phẩm và viết lại mỗi tên bằng một chi tiết khách có thể nếm, chạm, nghe hoặc hình dung.",
+          "Đưa tên cũ và tên mới cho một người chưa biết sản phẩm để xem họ tưởng tượng gì đầu tiên."
+        ]
+      },
+      "close": {
+        "displayText": "Nếu họ vẫn không hình dung được, tên chưa làm xong việc. Lưu video này để audit menu của bạn.",
+        "voiceText": "Nếu họ vẫn không hình dung được, tên chưa làm xong việc. Lưu video này để audit menu của bạn.",
+        "estimatedStartMs": 53000,
+        "estimatedEndMs": 58000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": []
+  },
+  "onScreenCopy": [
+    {
+      "atMs": 0,
+      "text": "CÙNG MỘT MÓN, TÊN DÀI HƠN LẠI NGHE NGON HƠN?",
+      "role": "hook"
+    },
+    {
+      "atMs": 7600,
+      "text": "BẠN HÌNH DUNG ĐƯỢC GÌ?",
+      "role": "prediction"
+    },
+    {
+      "atMs": 15100,
+      "text": "MẮT ĐÃ BẮT ĐẦU NẾM BẰNG CHỮ",
+      "role": "perspective-flip"
+    },
+    {
+      "atMs": 23900,
+      "text": "NHÃN MÔ TẢ MENU",
+      "role": "theory"
+    },
+    {
+      "atMs": 32700,
+      "text": "CÓ NGUỒN, NHƯNG ĐỪNG VIẾT DÀI VÔ TẬN",
+      "role": "proof"
+    },
+    {
+      "atMs": 42000,
+      "text": "GIÁ TRỊ VÔ HÌNH PHẢI ĐƯỢC NHÌN THẤY",
+      "role": "lesson"
+    },
+    {
+      "atMs": 50300,
+      "text": "TEST TÊN CŨ VÀ TÊN MỚI",
+      "role": "application"
+    },
+    {
+      "atMs": 55000,
+      "text": "LƯU VIDEO ĐỂ AUDIT MENU",
+      "role": "cta"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "startMs": 0,
+      "endMs": 3000,
+      "label": "HOOK",
+      "voiceAnchor": "Cùng một món, sao tên dài hơn lại nghe ngon hơn?",
+      "visualGoal": "One-glance menu paradox"
+    },
+    {
+      "id": "B02",
+      "startMs": 3000,
+      "endMs": 10000,
+      "label": "KHƠI CÂU HỎI",
+      "voiceAnchor": "Trong menu, một dòng chỉ ghi gà nướng.",
+      "visualGoal": "Let viewer predict from two names"
+    },
+    {
+      "id": "B03",
+      "startMs": 10000,
+      "endMs": 18000,
+      "label": "LẬT GÓC NHÌN",
+      "voiceAnchor": "Món trong đĩa không đổi.",
+      "visualGoal": "Turn copy into sensory expectation"
+    },
+    {
+      "id": "B04",
+      "startMs": 18000,
+      "endMs": 31000,
+      "label": "GIẢI MÃ",
+      "voiceAnchor": "Khách chưa ăn vẫn phải dự đoán trải nghiệm.",
+      "visualGoal": "Plain mechanism before theory label"
+    },
+    {
+      "id": "B05",
+      "startMs": 31000,
+      "endMs": 42000,
+      "label": "CHỨNG MINH",
+      "voiceAnchor": "Một nghiên cứu thực địa về menu cho thấy cách đặt tên mô tả có thể tác động tới cách khách đánh giá món và kết quả bán hàng.",
+      "visualGoal": "Sourced field study and boundary"
+    },
+    {
+      "id": "B06",
+      "startMs": 42000,
+      "endMs": 50000,
+      "label": "BÀI HỌC",
+      "voiceAnchor": "Bài học là: giá trị vô hình phải được nhìn thấy trước khi khách phải hỏi.",
+      "visualGoal": "One memorable lesson"
+    },
+    {
+      "id": "B07",
+      "startMs": 50000,
+      "endMs": 58000,
+      "label": "ỨNG DỤNG",
+      "voiceAnchor": "Thử ngay: chọn ba sản phẩm.",
+      "visualGoal": "One audit and save CTA"
+    }
+  ],
+  "visualCues": [
+    {
+      "id": "C01",
+      "startMs": 0,
+      "endMs": 800,
+      "spokenAnchor": "Cùng một món, sao tên dài hơn lại nghe ngon hơn?",
+      "semanticIntent": "Mở một tờ menu với hai cách gọi cho cùng một món để người xem tự đoán vì sao tên khác lại nghe hấp dẫn hơn.",
+      "spokenSubject": "hai cách gọi cho cùng một món",
+      "visualSubject": "tờ menu giấy với hai dòng tên trống và một đĩa món phía sau",
+      "visualReason": "Tạo đúng nghịch lý bằng cùng một món và hai dòng tên trong một khung hình, không dùng title card chung chung.",
+      "sceneFamily": "menu-contrast",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "hook-puzzle",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "exit": "carry",
+      "items": [
+        {
+          "id": "ep015-v01-c01-i1",
+          "motifKey": "menu-hai-cach-goi",
+          "semanticRole": "motif",
+          "subject": "tờ menu giấy có hai dòng tên cho cùng một món",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0.02,
+              "scale": 0.9,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep015-v01-c01-i2",
+          "semanticRole": "evidence",
+          "subject": "hai dòng tên món do Remotion dựng",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {"x": 0.05, "y": 0.08, "scale": 0.8, "rotation": 0, "opacity": 0},
+            "to": {"x": 0.05, "y": -0.02, "scale": 1, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "startMs": 800,
+      "endMs": 3000,
+      "spokenAnchor": "Trong menu, một dòng chỉ ghi gà nướng.",
+      "semanticIntent": "Đưa dòng tên chung chung vào vị trí dễ đọc để người xem thấy nó chưa cho đủ thông tin.",
+      "spokenSubject": "tên gà nướng chung chung",
+      "visualSubject": "một dòng menu ghi tên món chung chung do Remotion dựng",
+      "visualReason": "Chữ chính xác được dựng trên sân khấu, còn menu giấy vẫn là motif vật lý nối từ hook.",
+      "sceneFamily": "menu-contrast",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "viewer-prediction",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "transform",
+      "items": [
+        {
+          "id": "ep015-v01-c01-i1",
+          "motifKey": "menu-hai-cach-goi",
+          "semanticRole": "motif",
+          "subject": "tờ menu giấy có dòng tên chung chung",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -0.16,
+              "y": -0.04,
+              "scale": 1.08,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "startMs": 3000,
+      "endMs": 5500,
+      "spokenAnchor": "Dòng kia ghi gà nướng sốt tiêu xanh, da giòn.",
+      "semanticIntent": "Cho dòng tên mô tả xuất hiện như một thay đổi nhỏ nhưng có chi tiết cảm giác.",
+      "spokenSubject": "tên món mô tả",
+      "visualSubject": "dòng menu mô tả nguyên liệu và kết cấu do Remotion dựng",
+      "visualReason": "Cho người xem thấy chính xác chi tiết nào được thêm vào, thay vì chỉ nói tên dài hơn một cách trừu tượng.",
+      "sceneFamily": "menu-contrast",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "story-progress",
+      "composition": "compare",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c01-i1",
+          "motifKey": "menu-hai-cach-goi",
+          "semanticRole": "motif",
+          "subject": "tờ menu giấy với dòng tên mô tả",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.16,
+              "y": -0.04,
+              "scale": 1.08,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.1,
+              "y": -0.02,
+              "scale": 1.04,
+              "rotation": 1,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep015-v01-c03-i2",
+          "semanticRole": "evidence",
+          "subject": "dòng tên chung chung để đối chiếu",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {"x": -0.25, "y": 0.04, "scale": 0.8, "rotation": -1, "opacity": 0},
+            "to": {"x": -0.2, "y": -0.02, "scale": 0.96, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "startMs": 5500,
+      "endMs": 7600,
+      "spokenAnchor": "Món trong đĩa không đổi.",
+      "semanticIntent": "Đưa món ăn thật ra khỏi menu để chứng minh sản phẩm vật lý không thay đổi.",
+      "spokenSubject": "món trong đĩa",
+      "visualSubject": "đĩa gà nướng giống nhau trong hai khung",
+      "visualReason": "Đối chiếu hai đĩa giống nhau để người xem thấy biến số duy nhất là cách gọi.",
+      "sceneFamily": "sensory-detail",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "perspective-flip",
+      "composition": "compare",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "cut",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c04-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "đĩa gà nướng không chữ",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.82,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.04,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep015-v01-c04-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "đĩa gà nướng giống hệt để đối chiếu",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {"x": 0.12, "y": 0.02, "scale": 0.82, "rotation": 2, "opacity": 0},
+            "to": {"x": 0.18, "y": -0.04, "scale": 1, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "startMs": 7600,
+      "endMs": 10000,
+      "spokenAnchor": "Nhưng mắt mình đã bắt đầu nếm bằng chữ.",
+      "semanticIntent": "Cho thấy chữ trên menu biến thành các chi tiết giác quan mà khách có thể tưởng tượng.",
+      "spokenSubject": "mắt bắt đầu nếm bằng chữ",
+      "visualSubject": "khách Việt đọc menu rồi tưởng tượng sốt và lớp da giòn",
+      "visualReason": "Một người thật đang đọc và phản ứng giúp câu nói về hình dung trở thành hành động có thể nhìn thấy.",
+      "sceneFamily": "customer-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c05-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "khách Việt cầm menu và dừng ngón tay ở tên mô tả",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.12,
+              "y": 0.06,
+              "scale": 0.86,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 1,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "startMs": 10000,
+      "endMs": 12500,
+      "spokenAnchor": "Nếu chỉ nhìn tên đầu tiên, bạn đoán được gì?",
+      "semanticIntent": "Đặt người xem vào vị trí khách đang cố đoán trải nghiệm từ một tên quá chung.",
+      "spokenSubject": "khách đoán trải nghiệm từ tên đầu tiên",
+      "visualSubject": "khách nhìn dòng tên chung chung và nhún vai",
+      "visualReason": "Phản ứng lúng túng của khách là bằng chứng trực quan cho khoảng trống thông tin, không thay bằng chữ giải thích.",
+      "sceneFamily": "customer-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "viewer-prediction",
+      "composition": "solo",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c06-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "khách Việt nhìn tên món chung chung rồi nhún vai",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.08,
+              "y": 0.03,
+              "scale": 0.9,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "startMs": 12500,
+      "endMs": 15100,
+      "spokenAnchor": "Còn tên thứ hai cho bạn một cảnh nhỏ:",
+      "semanticIntent": "Tách từ menu sang cảnh cụ thể mà tên mô tả vừa gợi ra.",
+      "spokenSubject": "cảnh nhỏ do tên thứ hai gợi ra",
+      "visualSubject": "đầu bếp rưới sốt tiêu xanh lên món ăn",
+      "visualReason": "Thao tác rưới sốt là cảnh literal cho chi tiết nằm trong tên, giúp người xem hiểu vì sao câu chữ tạo hình ảnh.",
+      "sceneFamily": "kitchen-action",
+      "continuityRole": "human-action",
+      "retentionRole": "perspective-flip",
+      "composition": "solo",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "zoom-through",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c07-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "tay đầu bếp rưới sốt tiêu xanh lên đĩa gà nướng",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0.08,
+              "scale": 0.78,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 1.04,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "startMs": 15100,
+      "endMs": 18000,
+      "spokenAnchor": "mùi sốt, lớp da, cảm giác khi cắn.",
+      "semanticIntent": "Cho ba chi tiết giác quan lần lượt xuất hiện để minh họa một tên mô tả có thể gợi trải nghiệm.",
+      "spokenSubject": "mùi sốt, lớp da và cảm giác khi cắn",
+      "visualSubject": "sốt, lớp da giòn và khách chuẩn bị cắn một miếng",
+      "visualReason": "Ba hình ảnh lần lượt bám đúng ba chi tiết được nói, tạo nhịp sequence thay vì để một món đứng yên.",
+      "sceneFamily": "sensory-detail",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "sequence",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c08-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "đĩa gà nướng với sốt bóng và lớp da giòn",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.14,
+              "y": 0.03,
+              "scale": 0.82,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.03,
+              "scale": 1.03,
+              "rotation": 1,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep015-v01-c08-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "macro lớp da gà giòn",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {"x": 0.16, "y": 0.08, "scale": 0.7, "rotation": 2, "opacity": 0},
+            "to": {"x": 0.18, "y": -0.02, "scale": 0.9, "rotation": -1, "opacity": 1},
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep015-v01-c08-i3",
+          "semanticRole": "literal-evidence",
+          "subject": "khách chuẩn bị cắn một miếng",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {"x": 0.28, "y": 0.1, "scale": 0.7, "rotation": -2, "opacity": 0},
+            "to": {"x": 0.28, "y": 0.02, "scale": 0.9, "rotation": 1, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "startMs": 18000,
+      "endMs": 20500,
+      "spokenAnchor": "Đó là điểm lật.",
+      "semanticIntent": "Đánh dấu khoảnh khắc từ tên món chuyển sang trải nghiệm được dự đoán.",
+      "spokenSubject": "điểm lật từ chữ sang trải nghiệm",
+      "visualSubject": "menu giấy gập thành hình đĩa món ăn",
+      "visualReason": "Một biến đổi vật thể duy nhất cho thấy menu không biến mất vô cớ mà dẫn trực tiếp sang món.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "perspective-flip",
+      "composition": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "zoom-through",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c09-i1",
+          "motifKey": "menu-hai-cach-goi",
+          "semanticRole": "motif",
+          "subject": "tờ menu gập thành hình đĩa món ăn",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0,
+              "scale": 0.92,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": -0.06,
+              "scale": 1.12,
+              "rotation": 5,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "startMs": 20500,
+      "endMs": 23300,
+      "spokenAnchor": "Khách chưa ăn vẫn phải dự đoán trải nghiệm.",
+      "semanticIntent": "Cho thấy khách cầm menu trước khi món đến và tự điền phần chưa biết.",
+      "spokenSubject": "khách dự đoán trải nghiệm trước khi ăn",
+      "visualSubject": "khách Việt nhìn menu, rồi nhìn về phía bếp đang chờ món",
+      "visualReason": "Ánh mắt giữa menu và bếp thể hiện đúng khoảng thời gian khách chưa có trải nghiệm thật.",
+      "sceneFamily": "customer-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "viewer-prediction",
+      "composition": "solo",
+      "camera": {
+        "mode": "follow",
+        "intensity": "subtle"
+      },
+      "transition": "cut",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c10-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "khách Việt nhìn menu rồi nhìn về phía bếp",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.08,
+              "y": 0.05,
+              "scale": 0.84,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 1,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "startMs": 23300,
+      "endMs": 26300,
+      "spokenAnchor": "Câu chữ cụ thể làm khoảng trống đó nhỏ lại.",
+      "semanticIntent": "Giải thích bằng sơ đồ đơn giản cách một chi tiết cụ thể làm giảm phần khách phải tự đoán.",
+      "spokenSubject": "câu chữ cụ thể làm khoảng trống nhỏ lại",
+      "visualSubject": "sơ đồ Remotion từ tên cụ thể đến hình ảnh món ăn",
+      "visualReason": "Sơ đồ cho thấy quan hệ nguyên nhân - kết quả, không dùng icon trang trí thay cho cơ chế.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "proof",
+      "retentionRole": "mechanism-decode",
+      "composition": "process",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c11-i1",
+          "semanticRole": "evidence",
+          "subject": "sơ đồ tên cụ thể → hình ảnh → kỳ vọng",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0.02,
+              "scale": 0.88,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.03,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep015-v01-c11-i2",
+          "semanticRole": "evidence",
+          "subject": "sơ đồ hình ảnh và cảm giác",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {"x": 0.12, "y": 0.06, "scale": 0.75, "rotation": 0, "opacity": 0},
+            "to": {"x": 0.16, "y": -0.03, "scale": 0.92, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep015-v01-c11-i3",
+          "semanticRole": "evidence",
+          "subject": "sơ đồ khoảng trống dự đoán thu hẹp",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {"x": 0.25, "y": 0.08, "scale": 0.7, "rotation": 0, "opacity": 0},
+            "to": {"x": 0.28, "y": -0.04, "scale": 0.86, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "startMs": 26300,
+      "endMs": 29000,
+      "spokenAnchor": "Trong marketing, cách này thường được gọi là nhãn mô tả menu.",
+      "semanticIntent": "Chỉ gọi tên khái niệm sau khi cơ chế đã được giải thích bằng hình ảnh đời thường.",
+      "spokenSubject": "nhãn mô tả menu",
+      "visualSubject": "menu giấy trở lại với nhãn lý thuyết nhỏ bên cạnh sơ đồ",
+      "visualReason": "Motif quay lại cùng một nhãn được Remotion dựng, cho thấy thuật ngữ là tên của cơ chế vừa hiểu chứ không phải premise.",
+      "sceneFamily": "menu-contrast",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "carry",
+      "items": [
+        {
+          "id": "ep015-v01-c12-i1",
+          "motifKey": "menu-hai-cach-goi",
+          "semanticRole": "motif",
+          "subject": "tờ menu giấy với nhãn nhãn mô tả menu do Remotion dựng",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.1,
+              "y": -0.02,
+              "scale": 0.96,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": -0.04,
+              "y": -0.04,
+              "scale": 1.02,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "startMs": 29000,
+      "endMs": 31000,
+      "spokenAnchor": "Nói đơn giản: tên sản phẩm không chỉ trả lời đây là gì;",
+      "semanticIntent": "Tách hai câu hỏi mà tên sản phẩm có thể trả lời để làm rõ cầu nối marketing.",
+      "spokenSubject": "tên sản phẩm trả lời đây là gì và mình nhận gì",
+      "visualSubject": "hai nhánh Remotion: vật thể là gì và trải nghiệm nhận được gì",
+      "visualReason": "Hai nhánh chữ đi ra từ cùng một nhãn menu giúp người xem thấy khác biệt giữa định danh và hình dung giá trị.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "proof",
+      "retentionRole": "story-progress",
+      "composition": "compare",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c13-i1",
+          "semanticRole": "evidence",
+          "subject": "sơ đồ hai câu hỏi về sản phẩm",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0.04,
+              "scale": 0.86,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep015-v01-c13-i2",
+          "semanticRole": "evidence",
+          "subject": "nhánh trải nghiệm khách nhận được",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {"x": 0.12, "y": 0.04, "scale": 0.8, "rotation": 0, "opacity": 0},
+            "to": {"x": 0.2, "y": -0.02, "scale": 0.94, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "startMs": 31000,
+      "endMs": 33700,
+      "spokenAnchor": "Một nghiên cứu thực địa về menu cho thấy cách đặt tên mô tả có thể tác động tới cách khách đánh giá món và kết quả bán hàng.",
+      "semanticIntent": "Đưa bằng chứng nghiên cứu thực địa vào đúng lúc voice nói về nguồn, không giả lập ảnh chụp nghiên cứu.",
+      "spokenSubject": "nghiên cứu thực địa về tên menu",
+      "visualSubject": "bảng nghiên cứu được Remotion vẽ lại từ nguồn DOI",
+      "visualReason": "Bảng đồ họa có nhãn nguồn và phạm vi claim giúp phân biệt bằng chứng với hình minh họa AI.",
+      "sceneFamily": "proof-study",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "code",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "cut",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c14-i1",
+          "semanticRole": "evidence",
+          "subject": "bảng đối chiếu nhãn menu và kết quả đánh giá",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0.03,
+              "scale": 0.9,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.03,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "startMs": 33700,
+      "endMs": 36400,
+      "spokenAnchor": "Nhưng đừng hiểu thành viết tên càng dài càng tốt.",
+      "semanticIntent": "Đặt giới hạn để người xem không biến cơ chế thành công thức viết dài.",
+      "spokenSubject": "giới hạn của tên dài",
+      "visualSubject": "một tên menu dài bị gạch và một chi tiết cụ thể được giữ lại",
+      "visualReason": "Biến giới hạn thành thao tác biên tập có thể nhìn thấy, thay vì chỉ thêm chữ cảnh báo.",
+      "sceneFamily": "copy-edit",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "perspective-flip",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c15-i1",
+          "semanticRole": "evidence",
+          "subject": "hai phiên bản tên menu được biên tập",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {
+              "x": 0.1,
+              "y": 0.02,
+              "scale": 0.86,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep015-v01-c15-i2",
+          "semanticRole": "evidence",
+          "subject": "một chi tiết cụ thể được giữ lại",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {"x": 0.12, "y": 0.05, "scale": 0.8, "rotation": -1, "opacity": 0},
+            "to": {"x": 0.18, "y": -0.03, "scale": 0.92, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "startMs": 36400,
+      "endMs": 39100,
+      "spokenAnchor": "Gà nướng sốt tiêu xanh, da giòn có hình ảnh.",
+      "semanticIntent": "Đối chiếu một tên có chi tiết cảm giác với một chuỗi tính từ trống nghĩa.",
+      "spokenSubject": "tên có hình ảnh cụ thể",
+      "visualSubject": "dòng tên mô tả cạnh đĩa món và các chi tiết sốt, da giòn",
+      "visualReason": "Tên cụ thể được nối trực tiếp với nguyên liệu và kết cấu thật để chứng minh nó có thể được hình dung.",
+      "sceneFamily": "sensory-detail",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "compare",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c16-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "đĩa gà nướng với sốt tiêu xanh và lớp da giòn",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.1,
+              "y": 0.06,
+              "scale": 0.8,
+              "rotation": -1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 1.02,
+              "rotation": 1,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep015-v01-c16-i2",
+          "semanticRole": "evidence",
+          "subject": "dòng tên mô tả nối với chi tiết món",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {"x": 0.12, "y": 0.06, "scale": 0.78, "rotation": 1, "opacity": 0},
+            "to": {"x": 0.2, "y": -0.02, "scale": 0.92, "rotation": 0, "opacity": 1},
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "startMs": 39100,
+      "endMs": 42000,
+      "spokenAnchor": "Một câu dài toàn tính từ thì chỉ làm khách mệt.",
+      "semanticIntent": "Cho thấy khách bỏ qua một tên dài nhưng không có chi tiết có thể tưởng tượng.",
+      "spokenSubject": "một câu dài toàn tính từ",
+      "visualSubject": "khách lướt qua dòng tên dài và thở ra",
+      "visualReason": "Hành động lướt qua cho thấy độ dài không tự tạo giá trị nếu người đọc không có hình ảnh cụ thể.",
+      "sceneFamily": "customer-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "cut",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c17-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "khách Việt lướt qua tên món dài nhưng mơ hồ",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.08,
+              "y": 0.03,
+              "scale": 0.86,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.03,
+              "scale": 1,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "startMs": 42000,
+      "endMs": 45000,
+      "spokenAnchor": "Bài học là: giá trị vô hình phải được nhìn thấy trước khi khách phải hỏi.",
+      "semanticIntent": "Chốt lesson duy nhất bằng một menu đã biến chi tiết vô hình thành hình ảnh cụ thể.",
+      "spokenSubject": "bài học về giá trị vô hình",
+      "visualSubject": "menu giấy mở ra hình ảnh nguyên liệu, thao tác và cảm giác món ăn",
+      "visualReason": "Menu trở lại như sợi dây hình ảnh nhưng đã đổi trạng thái: từ hai dòng chữ thành bằng chứng dễ hình dung.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "mechanism-decode",
+      "composition": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "exit": "carry",
+      "items": [
+        {
+          "id": "ep015-v01-c18-i1",
+          "motifKey": "menu-hai-cach-goi",
+          "semanticRole": "motif",
+          "subject": "tờ menu mở ra ba mảnh hình ảnh của trải nghiệm",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.04,
+              "y": -0.02,
+              "scale": 0.9,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.04,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "startMs": 45000,
+      "endMs": 48000,
+      "spokenAnchor": "Thử ngay: chọn ba sản phẩm.",
+      "semanticIntent": "Chuyển lesson thành bài audit mà founder hoặc marketer có thể thực hiện ngay.",
+      "spokenSubject": "chọn ba sản phẩm để audit",
+      "visualSubject": "chủ shop đặt ba sản phẩm và mở bảng tên cũ trên điện thoại",
+      "visualReason": "Một người thật bắt đầu thao tác audit, làm hành động áp dụng trở nên cụ thể thay vì chỉ là lời khuyên.",
+      "sceneFamily": "application-test",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c19-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "chủ shop Việt đặt ba sản phẩm cạnh điện thoại",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0.08,
+              "scale": 0.82,
+              "rotation": -1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.03,
+              "scale": 1,
+              "rotation": 1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "startMs": 48000,
+      "endMs": 51000,
+      "spokenAnchor": "Viết lại mỗi tên bằng một chi tiết khách có thể nếm, chạm, nghe hoặc hình dung.",
+      "semanticIntent": "Cho thấy người làm nội dung sửa tên cũ thành một chi tiết cảm giác, bám đúng bốn loại bằng chứng được voice nói.",
+      "spokenSubject": "viết lại tên bằng chi tiết cảm giác",
+      "visualSubject": "bàn tay gạch tên cũ và viết tên mới cạnh sản phẩm",
+      "visualReason": "Thao tác viết và gạch giúp người xem thấy ngay cách áp dụng, không cần một checklist chung chung.",
+      "sceneFamily": "copy-edit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "process",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "carry",
+      "items": [
+        {
+          "id": "ep015-v01-c20-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "bàn tay sửa tên sản phẩm trên giấy cạnh sản phẩm thật",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.1,
+              "y": 0.04,
+              "scale": 0.82,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0.02,
+              "y": -0.02,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep015-v01-c20-i2",
+          "semanticRole": "evidence",
+          "subject": "tên mới được nối với chi tiết nếm, chạm, nghe hoặc hình dung",
+          "sourceType": "code-drawn",
+          "transform": {
+            "from": {"x": 0.14, "y": 0.05, "scale": 0.75, "rotation": 0, "opacity": 0},
+            "to": {"x": 0.18, "y": -0.03, "scale": 0.9, "rotation": 0, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "startMs": 51000,
+      "endMs": 53500,
+      "spokenAnchor": "Đưa tên cũ và tên mới cho một người chưa biết sản phẩm.",
+      "semanticIntent": "Cho một người mới đọc hai tên để kiểm tra hình dung mà không nghe phần giới thiệu của người bán.",
+      "spokenSubject": "người chưa biết sản phẩm đọc hai tên",
+      "visualSubject": "hai người Việt đọc tên cũ và tên mới trên điện thoại",
+      "visualReason": "Đúng người và đúng hành động được voice nhắc đến, giúp bài test có thể làm lại ngoài đời.",
+      "sceneFamily": "application-test",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "compare",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c21-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "hai người Việt đọc hai tên sản phẩm trên điện thoại",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.1,
+              "y": 0.05,
+              "scale": 0.84,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 1,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep015-v01-c21-i2",
+          "semanticRole": "human-action",
+          "subject": "người mới ghi lại hình dung đầu tiên",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {"x": -0.16, "y": 0.06, "scale": 0.8, "rotation": -1, "opacity": 0},
+            "to": {"x": -0.16, "y": -0.02, "scale": 0.92, "rotation": 1, "opacity": 1},
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "startMs": 53500,
+      "endMs": 55800,
+      "spokenAnchor": "Nếu họ vẫn không hình dung được, tên chưa làm xong việc.",
+      "semanticIntent": "Cho thấy người đọc vẫn lúng túng để biến tiêu chí audit thành một kết quả dễ nhận biết.",
+      "spokenSubject": "người đọc không hình dung được",
+      "visualSubject": "người đọc nhìn hai tên rồi lắc đầu, mascot working đứng cạnh",
+      "visualReason": "Phản ứng không hiểu là tín hiệu fail của bài test, không phải một dòng checklist trang trí.",
+      "sceneFamily": "application-test",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "cut",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c22-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "người đọc lắc đầu trước hai tên sản phẩm",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0.04,
+              "scale": 0.86,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "startMs": 55800,
+      "endMs": 58000,
+      "spokenAnchor": "Lưu video này để audit menu của bạn.",
+      "semanticIntent": "Kết thúc bằng motif menu đã được làm rõ và một CTA lưu video duy nhất.",
+      "spokenSubject": "lưu video để audit menu",
+      "visualSubject": "tờ menu gấp lại bên cạnh mascot pointing và chữ CTA",
+      "visualReason": "Menu quay lại để khép vòng câu chuyện, còn mascot chỉ là dấu chấm cảm xúc ngắn cho CTA.",
+      "sceneFamily": "cta-close",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "cta",
+      "composition": "solo",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep015-v01-c23-i1",
+          "motifKey": "menu-hai-cach-goi",
+          "semanticRole": "motif",
+          "subject": "tờ menu giấy gấp lại bên cạnh mascot pointing",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": -0.02,
+              "scale": 0.9,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": -0.06,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "A01",
+      "description": "menu giấy có hai dòng tên trống, không chữ tạo sẵn",
+      "kind": "object",
+      "provider": "flow-agent",
+      "sourceType": "generated",
+      "stickerTreatment": "remotion-paper",
+      "generationCount": 1,
+      "mediaPrompt": "VISUAL IDENTITY LOCK. Clean source cutout of a menu paper prop with blank editable rows, no readable text. Uniform chroma green #00FF00, twelve percent empty margin, no gradient, no texture, no vignette, no shadow, no green rim light, no logo, no watermark."
+    },
+    {
+      "id": "A02",
+      "description": "đĩa gà nướng với sốt tiêu xanh và lớp da giòn",
+      "kind": "product",
+      "provider": "flow-agent",
+      "sourceType": "generated",
+      "stickerTreatment": "remotion-paper",
+      "generationCount": 1,
+      "mediaPrompt": "VISUAL IDENTITY LOCK. Clean source cutout of a plated Vietnamese grilled chicken dish with sauce and crisp skin, no readable text. Uniform chroma green #00FF00, twelve percent empty margin, no gradient, no texture, no vignette, no shadow, no green rim light, no logo, no watermark."
+    },
+    {
+      "id": "A03",
+      "description": "khách Việt cầm menu và phản ứng khi chọn tên món",
+      "kind": "person",
+      "provider": "flow-agent",
+      "sourceType": "generated",
+      "stickerTreatment": "remotion-paper",
+      "generationCount": 1,
+      "mediaPrompt": "VISUAL IDENTITY LOCK. Clean source cutout of a Vietnamese customer holding a menu and reacting naturally, no readable text. Uniform chroma green #00FF00, twelve percent empty margin, no gradient, no texture, no vignette, no shadow, no green rim light, no logo, no watermark."
+    },
+    {
+      "id": "A04",
+      "description": "tay đầu bếp rưới sốt lên món ăn",
+      "kind": "hands",
+      "provider": "flow-agent",
+      "sourceType": "generated",
+      "stickerTreatment": "remotion-paper",
+      "generationCount": 1,
+      "mediaPrompt": "VISUAL IDENTITY LOCK. Clean source cutout of Vietnamese chef hands drizzling green pepper sauce over a dish, no readable text. Uniform chroma green #00FF00, twelve percent empty margin, no gradient, no texture, no vignette, no shadow, no green rim light, no logo, no watermark."
+    },
+    {
+      "id": "A05",
+      "description": "khách Việt nhìn menu rồi nhìn về phía bếp",
+      "kind": "person",
+      "provider": "flow-agent",
+      "sourceType": "generated",
+      "stickerTreatment": "remotion-paper",
+      "generationCount": 1,
+      "mediaPrompt": "VISUAL IDENTITY LOCK. Clean source cutout of a Vietnamese customer looking from a menu toward a kitchen, no readable text. Uniform chroma green #00FF00, twelve percent empty margin, no gradient, no texture, no vignette, no shadow, no green rim light, no logo, no watermark."
+    },
+    {
+      "id": "A06",
+      "description": "chủ shop Việt audit ba sản phẩm bằng điện thoại và giấy",
+      "kind": "person",
+      "provider": "flow-agent",
+      "sourceType": "generated",
+      "stickerTreatment": "remotion-paper",
+      "generationCount": 1,
+      "mediaPrompt": "VISUAL IDENTITY LOCK. Clean source cutout of a Vietnamese shop owner auditing three products with paper and phone, no readable text. Uniform chroma green #00FF00, twelve percent empty margin, no gradient, no texture, no vignette, no shadow, no green rim light, no logo, no watermark."
+    },
+    {
+      "id": "A07",
+      "description": "hai người đọc tên cũ và tên mới trên điện thoại",
+      "kind": "people",
+      "provider": "flow-agent",
+      "sourceType": "generated",
+      "stickerTreatment": "remotion-paper",
+      "generationCount": 1,
+      "mediaPrompt": "VISUAL IDENTITY LOCK. Clean source cutout of two Vietnamese people reading product names on a phone and writing their first mental image, no readable text. Uniform chroma green #00FF00, twelve percent empty margin, no gradient, no texture, no vignette, no shadow, no green rim light, no logo, no watermark."
+    },
+    {
+      "id": "A08",
+      "description": "mascot pointing và working dùng từ tài nguyên đã duyệt",
+      "kind": "mascot",
+      "provider": "local-approved",
+      "sourceType": "legacy-precut",
+      "stickerTreatment": "legacy-precut",
+      "generationCount": 0
+    }
+  ],
+  "editBlueprint": {
+    "visualGrammar": "subject-led-v1",
+    "motionGrammar": "continuous-stage-v1",
+    "stage": "paper-pink-vertical",
+    "transitionPolicy": "Ưu tiên match-move khi menu dẫn sang món hoặc sơ đồ; cut khi chuyển sang người, thao tác bếp, bằng chứng và bài test.",
+    "cameraGrammar": [
+      "static",
+      "push-in",
+      "pull-out",
+      "pan",
+      "follow"
+    ],
+    "transitionGrammar": [
+      "cut",
+      "match-move",
+      "zoom-through",
+      "mask-reveal",
+      "reframe"
+    ],
+    "cardPolicy": "Chỉ dùng code-drawn menu, sơ đồ và bảng nghiên cứu khi chúng là bằng chứng; không dùng card làm container mặc định.",
+    "textRendering": "Remotion only",
+    "safeZone": "TikTok safe zone; giữ copy chính trong vùng trung tâm và không chạm caption zone.",
+    "mascotPolicy": "Mascot tối đa 0,35 giây ở cuối và chỉ làm dấu chấm cảm xúc; không đứng thường trực.",
+    "assetIdentityLock": "Photoreal Vietnamese sticker source, matte and soft upper-left daylight, with a restrained hot-pink accent on the element and clean ink-black details. One complete crop-safe subject on uniform chroma green #00FF00 with 12% empty margin. In Remotion, its alpha silhouette—not a rectangle—gets a soft pastel-pink watercolor paper backing, irregular ripped-white contour, very soft paper shadow and hot-pink offset. No background, card, text, logo, watermark, neon or glossy 3D."
+  },
+  "sources": [
+    {
+      "title": "Descriptive Menu Labels' Effect on Sales",
+      "url": "https://doi.org/10.1177/0010880401426008",
+      "accessedAt": "2026-08-26",
+      "supports": "Nghiên cứu field study về việc nhãn mô tả menu liên quan tới đánh giá của khách và kết quả bán hàng; không dùng số liệu cụ thể ngoài bài gốc."
+    }
+  ],
+  "quotaPlan": {
+    "idempotencyPrefix": "agency-marketing-tiktok-ep015-v01",
+    "estimatedImageCalls": 7,
+    "ttsCalls": 1,
+    "transcriptionCalls": 1,
+    "renderCalls": 1,
+    "mediaStatus": "not-started-until-script-approval"
+  },
+  "approval": {
+    "status": "script-review",
+    "reviewArtifact": "briefs/ep015-ten-mon-dai-hon-v01.review.md",
+    "notes": "Chưa tạo voice, transcription, hình hoặc render. Bản này giữ story arc bảy chặng, motif menu quay lại có chủ đích và cue subject-led theo voice."
+  }
+}

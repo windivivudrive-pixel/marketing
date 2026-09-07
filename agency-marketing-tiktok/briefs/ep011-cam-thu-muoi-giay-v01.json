@@ -1,0 +1,1756 @@
+{
+  "schemaVersion": 3,
+  "metadata": {
+    "episodeId": "EP011",
+    "slug": "cam-thu-muoi-giay",
+    "version": 1,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260824-branding-ideas-v02.json#IDEA003",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 58,
+    "researchRequired": true
+  },
+  "creativeContract": {
+    "title": "Chưa mua mà cầm thử mười giây, sao tự nhiên khó đặt xuống?",
+    "seriesLabelFromProfile": true,
+    "audience": "Chủ doanh nghiệp, đội marketing nội bộ, founder và người xây TikTok cho thương hiệu",
+    "painPoint": "Điểm bán và video chỉ cho khách nhìn từ xa dù texture, trọng lượng hoặc độ mềm mới là bằng chứng sản phẩm.",
+    "viewerQuestion": "Vì sao cầm thử một món đồ có thể làm cảm giác về nó thay đổi?",
+    "premise": "Món đồ chưa được mua nhưng cảm giác gần gũi có thể bắt đầu sau khi chạm.",
+    "lesson": "Sản phẩm bán bằng cảm giác thì phải cho khách một cách cảm được nó.",
+    "payoff": "Thiết kế một thao tác thử mười giây ở quầy hoặc trong video POV.",
+    "caseType": "research-backed-demonstration",
+    "caseDisclosure": "Dùng mockup trung tính hoặc demo tự thực hiện; nghiên cứu được diễn giải đúng phạm vi, không dùng số liệu hoặc kết quả tự chế.",
+    "tone": "Trẻ trung, quan sát tinh, giải trí nhẹ, thực chiến, không guru và không giáo điều.",
+    "cta": "save",
+    "narrativeObject": "Chiếc gối nhỏ",
+    "visualStrategy": {
+      "version": "subject-led-v1",
+      "recurringMotif": "Chiếc gối nhỏ",
+      "motifRule": "Chỉ xuất hiện khi còn giúp giải thích voice; rời khung khi người, hành động, bằng chứng hoặc audit trở thành chủ thể.",
+      "sceneFamilies": [
+        "touch-hook",
+        "prediction-copy",
+        "shopper-touch-action",
+        "fabric-macro",
+        "shopper-hesitation",
+        "pre-ownership-action",
+        "shopper-closeness",
+        "ownership-flip",
+        "touch-information",
+        "tactile-inspection",
+        "touch-valence",
+        "look-versus-touch",
+        "touch-study",
+        "evidence-limit",
+        "online-friction",
+        "screen-joke",
+        "lesson-copy",
+        "tactile-demo-audit",
+        "filming-action",
+        "application-audit",
+        "pov-demo-payoff",
+        "cta"
+      ],
+      "humanMoments": [
+        "Khách bóp chiếc gối rồi khựng lại trước khi buông",
+        "Chủ shop đặt điện thoại và quay POV thao tác chạm"
+      ]
+    },
+    "openingFrame": {
+      "visualTension": "Bàn tay giữ chiếc gối ngay trước khi buông xuống kệ",
+      "heroSubject": "Bàn tay Việt Nam và chiếc gối mềm",
+      "contrast": "Chưa mua nhưng đã chần chừ khi trả lại",
+      "firstFrameCopy": "SAO KHÓ ĐẶT XUỐNG?"
+    },
+    "retentionPlan": {
+      "mode": "business-phenomenon-decode-v1",
+      "viewerPrediction": "Khách chỉ đang kiểm tra chất lượng vật liệu.",
+      "withheldAnswer": "Chạm vừa cho thông tin thật vừa có thể làm món đồ được cảm nhận gần với bản thân hơn.",
+      "plainLanguageMechanism": "Khi tay nhận texture và trọng lượng thật, món đồ không còn chỉ là một hình ảnh xa lạ.",
+      "theoryReveal": {
+        "technicalLabel": "Mere-touch effect",
+        "earliestMs": 24400,
+        "plainLanguageAnchor": "món đồ không còn chỉ là một hình ảnh xa lạ"
+      },
+      "resets": [
+        {
+          "id": "R01",
+          "atMs": 0,
+          "trigger": "Bàn tay không muốn buông",
+          "informationGain": "Mở nghịch lý sở hữu trước thanh toán",
+          "visualReset": "Freeze-frame tay và gối",
+          "sceneFamily": "touch-hook"
+        },
+        {
+          "id": "R02",
+          "atMs": 7600,
+          "trigger": "Tay lấy thông tin mắt không đo hết",
+          "informationGain": "Thêm texture, trọng lượng và nhiệt độ",
+          "visualReset": "Macro bề mặt và ngón tay",
+          "sceneFamily": "shopper-hesitation"
+        },
+        {
+          "id": "R03",
+          "atMs": 14800,
+          "trigger": "Món đồ hơi giống của mình",
+          "informationGain": "Lật từ kiểm tra sang gần gũi",
+          "visualReset": "Gối đi từ kệ vào silhouette người",
+          "sceneFamily": "ownership-flip"
+        },
+        {
+          "id": "R04",
+          "atMs": 24400,
+          "trigger": "Món đồ không còn là hình ảnh xa lạ",
+          "informationGain": "Giải cơ chế đời thường",
+          "visualReset": "Sơ đồ xúc giác tới gần gũi",
+          "sceneFamily": "touch-valence"
+        },
+        {
+          "id": "R05",
+          "atMs": 34000,
+          "trigger": "Nghiên cứu về mere touch",
+          "informationGain": "Đưa proof và điều kiện",
+          "visualReset": "Sơ đồ nghiên cứu trung tính",
+          "sceneFamily": "evidence-limit"
+        },
+        {
+          "id": "R06",
+          "atMs": 43600,
+          "trigger": "Online không có xúc giác thật",
+          "informationGain": "Đổi bối cảnh sang TikTok",
+          "visualReset": "Tay chạm màn hình rồi chuyển POV",
+          "sceneFamily": "tactile-demo-audit"
+        },
+        {
+          "id": "R07",
+          "atMs": 50800,
+          "trigger": "Quay một thao tác mười giây",
+          "informationGain": "Cho hành động áp dụng",
+          "visualReset": "Shot list ấn-kéo-gập-đóng",
+          "sceneFamily": "application-audit"
+        }
+      ]
+    },
+    "storyArc": {
+      "familiarHook": {
+        "startMs": 0,
+        "endMs": 3000,
+        "purpose": "Đặt nghịch lý bằng vật thể và tình huống quen thuộc",
+        "voiceAnchor": "Chưa mua mà cầm thử mười giây",
+        "visualProgression": "Bàn tay khựng lại trước khi buông gối"
+      },
+      "curiosityBuild": {
+        "startMs": 3000,
+        "endMs": 10000,
+        "purpose": "Cho người xem tự đoán và theo dõi tình huống",
+        "voiceAnchor": "Nhìn cảnh này quen không",
+        "visualProgression": "Khách bóp và xoay chiếc gối"
+      },
+      "perspectiveFlip": {
+        "startMs": 10000,
+        "endMs": 19600,
+        "purpose": "Lật giả định trực giác",
+        "voiceAnchor": "Chưa thanh toán",
+        "visualProgression": "Món đồ chuyển từ kệ sang cảm giác gần bản thân"
+      },
+      "marketingDecode": {
+        "startMs": 19600,
+        "endMs": 31600,
+        "purpose": "Giải cơ chế bằng tiếng Việt đời thường trước thuật ngữ",
+        "voiceAnchor": "món đồ không còn chỉ là một hình ảnh xa lạ",
+        "visualProgression": "Sơ đồ texture-trọng lượng tới cảm giác gần gũi"
+      },
+      "proof": {
+        "startMs": 31600,
+        "endMs": 41200,
+        "purpose": "Đưa bằng chứng có nguồn và giới hạn kết luận",
+        "voiceAnchor": "Nghiên cứu về hành vi tiêu dùng",
+        "visualProgression": "Sơ đồ nghiên cứu mere touch với điều kiện trải nghiệm tích cực"
+      },
+      "lesson": {
+        "startMs": 41200,
+        "endMs": 50000,
+        "purpose": "Chốt đúng một bài học",
+        "voiceAnchor": "Vậy online thì làm sao",
+        "visualProgression": "Điện thoại không có xúc giác nhưng có thể cho thấy thao tác"
+      },
+      "application": {
+        "startMs": 50000,
+        "endMs": 58000,
+        "purpose": "Cho thao tác áp dụng và một CTA",
+        "voiceAnchor": "Chọn đúng một thuộc tính",
+        "visualProgression": "Chủ shop quay POV một thuộc tính và CTA"
+      }
+    }
+  },
+  "topicKeywords": [
+    "trải nghiệm chạm",
+    "tactile marketing",
+    "perceived ownership",
+    "demo sản phẩm",
+    "video POV"
+  ],
+  "voiceover": {
+    "displayText": "Chưa mua mà cầm thử 10 giây, sao tự nhiên khó đặt xuống? Nhìn cảnh này quen không? Bạn cầm chiếc gối lên, bóp thử một cái, rồi tay khựng lại ngay trước khi đặt xuống. Chưa thanh toán, nhưng món đồ đã có cảm giác hơi giống của mình. Một phần vì bàn tay lấy được thứ mắt không đo hết: độ mềm, bề mặt, trọng lượng, nhiệt độ. Và khi trải nghiệm chạm dễ chịu, món đồ không còn chỉ là một hình ảnh xa lạ. Nghiên cứu về hành vi tiêu dùng cho thấy chỉ việc chạm cũng có thể làm tăng cảm giác sở hữu được cảm nhận; còn việc định giá vẫn phụ thuộc trải nghiệm chạm có tích cực hay không. Vậy online thì làm sao, chẳng lẽ đưa tay xuyên màn hình? Không cần. Nếu sản phẩm bán bằng cảm giác, video phải cho người xem thấy thao tác cảm nó: tay ấn vào nệm, kéo độ co giãn, gập chiếc túi, hay nghe tiếng nắp đóng. Chọn đúng một thuộc tính quan trọng và quay POV mười giây. Đừng chỉ lia máy quanh sản phẩm như đang kiểm kê kho. Lưu video, rồi quay thử một thao tác chạm của sản phẩm.",
+    "voiceText": "Chưa mua mà cầm thử mười giây, sao tự nhiên khó đặt xuống? Nhìn cảnh này quen không? Bạn cầm chiếc gối lên, bóp thử một cái, rồi tay khựng lại ngay trước khi đặt xuống. Chưa thanh toán, nhưng món đồ đã có cảm giác hơi giống của mình. Một phần vì bàn tay lấy được thứ mắt không đo hết: độ mềm, bề mặt, trọng lượng, nhiệt độ. Và khi trải nghiệm chạm dễ chịu, món đồ không còn chỉ là một hình ảnh xa lạ. Nghiên cứu về hành vi tiêu dùng cho thấy chỉ việc chạm cũng có thể làm tăng cảm giác sở hữu được cảm nhận; còn việc định giá vẫn phụ thuộc trải nghiệm chạm có tích cực hay không. Vậy online thì làm sao, chẳng lẽ đưa tay xuyên màn hình? Không cần. Nếu sản phẩm bán bằng cảm giác, video phải cho người xem thấy thao tác cảm nó: tay ấn vào nệm, kéo độ co giãn, gập chiếc túi, hay nghe tiếng nắp đóng. Chọn đúng một thuộc tính quan trọng và quay POV mười giây. Đừng chỉ lia máy quanh sản phẩm như đang kiểm kê kho. Lưu video, rồi quay thử một thao tác chạm của sản phẩm.",
+    "sections": {
+      "hook": {
+        "displayText": "Chưa mua mà cầm thử 10 giây, sao tự nhiên khó đặt xuống?",
+        "voiceText": "Chưa mua mà cầm thử mười giây, sao tự nhiên khó đặt xuống?",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 3000
+      },
+      "body": {
+        "displayText": "Nhìn cảnh này quen không? Bạn cầm chiếc gối lên, bóp thử một cái, rồi tay khựng lại ngay trước khi đặt xuống. Chưa thanh toán, nhưng món đồ đã có cảm giác hơi giống của mình. Một phần vì bàn tay lấy được thứ mắt không đo hết: độ mềm, bề mặt, trọng lượng, nhiệt độ. Và khi trải nghiệm chạm dễ chịu, món đồ không còn chỉ là một hình ảnh xa lạ. Nghiên cứu về hành vi tiêu dùng cho thấy chỉ việc chạm cũng có thể làm tăng cảm giác sở hữu được cảm nhận; còn việc định giá vẫn phụ thuộc trải nghiệm chạm có tích cực hay không. Vậy online thì làm sao, chẳng lẽ đưa tay xuyên màn hình? Không cần. Nếu sản phẩm bán bằng cảm giác, video phải cho người xem thấy thao tác cảm nó: tay ấn vào nệm, kéo độ co giãn, gập chiếc túi, hay nghe tiếng nắp đóng. Chọn đúng một thuộc tính quan trọng và quay POV mười giây. Đừng chỉ lia máy quanh sản phẩm như đang kiểm kê kho.",
+        "voiceText": "Nhìn cảnh này quen không? Bạn cầm chiếc gối lên, bóp thử một cái, rồi tay khựng lại ngay trước khi đặt xuống. Chưa thanh toán, nhưng món đồ đã có cảm giác hơi giống của mình. Một phần vì bàn tay lấy được thứ mắt không đo hết: độ mềm, bề mặt, trọng lượng, nhiệt độ. Và khi trải nghiệm chạm dễ chịu, món đồ không còn chỉ là một hình ảnh xa lạ. Nghiên cứu về hành vi tiêu dùng cho thấy chỉ việc chạm cũng có thể làm tăng cảm giác sở hữu được cảm nhận; còn việc định giá vẫn phụ thuộc trải nghiệm chạm có tích cực hay không. Vậy online thì làm sao, chẳng lẽ đưa tay xuyên màn hình? Không cần. Nếu sản phẩm bán bằng cảm giác, video phải cho người xem thấy thao tác cảm nó: tay ấn vào nệm, kéo độ co giãn, gập chiếc túi, hay nghe tiếng nắp đóng. Chọn đúng một thuộc tính quan trọng và quay POV mười giây. Đừng chỉ lia máy quanh sản phẩm như đang kiểm kê kho.",
+        "estimatedStartMs": 3000,
+        "estimatedEndMs": 53200,
+        "story": "Theo bàn tay cầm chiếc gối, giải thích thông tin xúc giác và cảm giác sở hữu, đưa nghiên cứu rồi chuyển sang shot POV cho TikTok.",
+        "lesson": "Sản phẩm bán bằng cảm giác thì phải cho khách một cách cảm được nó.",
+        "actions": [
+          "Chọn một thuộc tính cảm giác và quay một thao tác ấn, kéo, gập hoặc đóng mở trong mười giây."
+        ]
+      },
+      "close": {
+        "displayText": "Lưu video, rồi quay thử một thao tác chạm của sản phẩm.",
+        "voiceText": "Lưu video, rồi quay thử một thao tác chạm của sản phẩm.",
+        "estimatedStartMs": 53200,
+        "estimatedEndMs": 58000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": []
+  },
+  "onScreenCopy": [
+    {
+      "atMs": 0,
+      "text": "SAO KHÓ ĐẶT XUỐNG?",
+      "role": "hook"
+    },
+    {
+      "atMs": 7600,
+      "text": "TAY BIẾT THỨ MẮT KHÔNG ĐO HẾT",
+      "role": "story"
+    },
+    {
+      "atMs": 14800,
+      "text": "CHƯA MUA · ĐÃ THẤY GẦN",
+      "role": "flip"
+    },
+    {
+      "atMs": 24400,
+      "text": "TEXTURE + TRỌNG LƯỢNG",
+      "role": "mechanism"
+    },
+    {
+      "atMs": 34000,
+      "text": "CÓ THỂ TĂNG CẢM GIÁC SỞ HỮU",
+      "role": "proof"
+    },
+    {
+      "atMs": 43600,
+      "text": "ONLINE KHÔNG CÓ XÚC GIÁC THẬT",
+      "role": "context"
+    },
+    {
+      "atMs": 50800,
+      "text": "QUAY MỘT THAO TÁC 10 GIÂY",
+      "role": "application"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "startMs": 0,
+      "endMs": 3000,
+      "purpose": "familiarHook",
+      "headline": "SAO KHÓ ĐẶT XUỐNG?",
+      "body": "Đặt nghịch lý bằng vật thể và tình huống quen thuộc",
+      "mascot": "thinking"
+    },
+    {
+      "id": "B02",
+      "startMs": 3000,
+      "endMs": 10000,
+      "purpose": "curiosityBuild",
+      "headline": "TAY BIẾT THỨ MẮT KHÔNG BIẾT",
+      "body": "Cho người xem tự đoán và theo dõi tình huống",
+      "mascot": "happy"
+    },
+    {
+      "id": "B03",
+      "startMs": 10000,
+      "endMs": 19600,
+      "purpose": "perspectiveFlip",
+      "headline": "CHƯA MUA · ĐÃ THẤY GẦN",
+      "body": "Lật giả định trực giác",
+      "mascot": "confuse"
+    },
+    {
+      "id": "B04",
+      "startMs": 19600,
+      "endMs": 31600,
+      "purpose": "marketingDecode",
+      "headline": "TỪ HÌNH ẢNH THÀNH CẢM GIÁC",
+      "body": "Giải cơ chế bằng tiếng Việt đời thường trước thuật ngữ",
+      "mascot": "research"
+    },
+    {
+      "id": "B05",
+      "startMs": 31600,
+      "endMs": 41200,
+      "purpose": "proof",
+      "headline": "BẰNG CHỨNG CÓ ĐIỀU KIỆN",
+      "body": "Đưa bằng chứng có nguồn và giới hạn kết luận",
+      "mascot": "research"
+    },
+    {
+      "id": "B06",
+      "startMs": 41200,
+      "endMs": 50000,
+      "purpose": "lesson",
+      "headline": "ONLINE VẪN CHO THẤY ĐƯỢC",
+      "body": "Chốt đúng một bài học",
+      "mascot": "pointing"
+    },
+    {
+      "id": "B07",
+      "startMs": 50000,
+      "endMs": 58000,
+      "purpose": "application",
+      "headline": "QUAY MỘT THAO TÁC",
+      "body": "Cho thao tác áp dụng và một CTA",
+      "mascot": "working"
+    }
+  ],
+  "visualCues": [
+    {
+      "id": "C01",
+      "startMs": 0,
+      "endMs": 900,
+      "spokenAnchor": "Chưa mua mà cầm thử mười giây",
+      "semanticIntent": "Mở nghịch lý bằng hành động",
+      "spokenSubject": "bàn tay cầm thử chiếc gối",
+      "visualSubject": "tay giữ gối ngay trước khi đặt xuống",
+      "visualReason": "Khoảnh khắc khựng là bằng chứng literal",
+      "sceneFamily": "touch-hook",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "hook-puzzle",
+      "composition": "solo",
+      "exit": "carry",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "mascot": "thinking",
+      "items": [
+        {
+          "id": "touch-pillow-hook-stable",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "tay giữ gối ngay trước khi đặt xuống",
+          "enterMs": 0,
+          "motion": "stamp",
+          "sfx": "whoosh",
+          "semanticRole": "subject",
+          "motifKey": "touch-pillow",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "startMs": 900,
+      "endMs": 1900,
+      "spokenAnchor": "sao tự nhiên khó đặt xuống",
+      "semanticIntent": "Giữ câu trả lời",
+      "spokenSubject": "sự chần chừ khi buông",
+      "visualSubject": "tay và gối giữ nguyên ở khoảnh khắc lưỡng lự",
+      "visualReason": "Stable hero cho người xem tự đoán",
+      "sceneFamily": "touch-hook",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "viewer-prediction",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-hook-stable",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "tay và gối giữ nguyên ở khoảnh khắc lưỡng lự",
+          "enterMs": 0,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "motifKey": "touch-pillow",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "startMs": 1900,
+      "endMs": 3000,
+      "spokenAnchor": "Nhìn cảnh này quen không",
+      "semanticIntent": "Kích hoạt viewer prediction",
+      "spokenSubject": "lời mời nhận diện",
+      "visualSubject": "copy Remotion BẠN CŨNG TỪNG VẬY?",
+      "visualReason": "Câu hỏi ngắn nối trải nghiệm người xem",
+      "sceneFamily": "prediction-copy",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-03",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "BẠN CŨNG TỪNG VẬY?",
+          "role": "copy Remotion BẠN CŨNG TỪNG VẬY?",
+          "enterMs": 1900,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "startMs": 3000,
+      "endMs": 5200,
+      "spokenAnchor": "Bạn cầm chiếc gối lên",
+      "semanticIntent": "Cho hành động tiến triển",
+      "spokenSubject": "khách cầm gối",
+      "visualSubject": "người mua nhấc gối khỏi kệ",
+      "visualReason": "Voice nói cầm nên hình có người cầm",
+      "sceneFamily": "shopper-touch-action",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-04",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "người mua nhấc gối khỏi kệ",
+          "enterMs": 3000,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "motifKey": "touch-pillow",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "startMs": 5200,
+      "endMs": 7600,
+      "spokenAnchor": "bóp thử một cái",
+      "semanticIntent": "Cho thấy thông tin xúc giác",
+      "spokenSubject": "tay bóp bề mặt",
+      "visualSubject": "cận cảnh ngón tay làm lõm vải",
+      "visualReason": "Macro bề mặt thay cho text tính năng",
+      "sceneFamily": "fabric-macro",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-05",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "cận cảnh ngón tay làm lõm vải",
+          "enterMs": 5200,
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "startMs": 7600,
+      "endMs": 10000,
+      "spokenAnchor": "tay khựng lại",
+      "semanticIntent": "Tạo reset hành vi",
+      "spokenSubject": "bàn tay dừng trước khi buông",
+      "visualSubject": "người mua giữ gối giữa không trung",
+      "visualReason": "Hành động khựng thay đổi kỳ vọng",
+      "sceneFamily": "shopper-hesitation",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "perspective-flip",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "mascot": "happy",
+      "items": [
+        {
+          "id": "touch-pillow-state-06",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "người mua giữ gối giữa không trung",
+          "enterMs": 7600,
+          "motion": "pop",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "startMs": 10000,
+      "endMs": 12400,
+      "spokenAnchor": "Chưa thanh toán",
+      "semanticIntent": "Lật từ mua sang cảm giác",
+      "spokenSubject": "khách chưa sở hữu pháp lý",
+      "visualSubject": "người mua nhìn gối trong tay và quầy thanh toán xa phía sau",
+      "visualReason": "Người và bối cảnh làm rõ chưa thanh toán",
+      "sceneFamily": "pre-ownership-action",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "touch-pillow-state-07",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "người mua nhìn gối trong tay và quầy thanh toán xa phía sau",
+          "enterMs": 10000,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "motifKey": "touch-pillow",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "startMs": 12400,
+      "endMs": 14800,
+      "spokenAnchor": "món đồ đã có cảm giác",
+      "semanticIntent": "Cho thấy hệ quả cảm xúc",
+      "spokenSubject": "cảm giác món đồ gần mình",
+      "visualSubject": "khách ôm gối gần hơn",
+      "visualReason": "Cử chỉ literal hóa gần gũi",
+      "sceneFamily": "shopper-closeness",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-08",
+          "kind": "asset",
+          "assetId": "A02",
+          "role": "khách ôm gối gần hơn",
+          "enterMs": 12400,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "startMs": 14800,
+      "endMs": 17200,
+      "spokenAnchor": "hơi giống của mình",
+      "semanticIntent": "Hoàn tất perspective flip",
+      "spokenSubject": "cảm giác sở hữu được cảm nhận",
+      "visualSubject": "price board Remotion chuyển từ CHƯA MUA sang THẤY GẦN",
+      "visualReason": "Copy chính xác làm rõ thay đổi",
+      "sceneFamily": "ownership-flip",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "perspective-flip",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "mascot": "confuse",
+      "items": [
+        {
+          "id": "touch-pillow-state-09",
+          "kind": "code",
+          "codeTemplate": "price-board",
+          "text": "CHƯA MUA → THẤY GẦN",
+          "role": "price board Remotion chuyển từ CHƯA MUA sang THẤY GẦN",
+          "enterMs": 14800,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "startMs": 17200,
+      "endMs": 19600,
+      "spokenAnchor": "bàn tay lấy được thứ mắt không đo hết",
+      "semanticIntent": "Giải cơ chế",
+      "spokenSubject": "thông tin xúc giác",
+      "visualSubject": "sơ đồ tay dẫn tới texture và trọng lượng",
+      "visualReason": "Sơ đồ biểu diễn quan hệ",
+      "sceneFamily": "touch-information",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "exit": "transform",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-mechanism-stable",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "TAY → TEXTURE · TRỌNG LƯỢNG",
+          "role": "sơ đồ tay dẫn tới texture và trọng lượng",
+          "enterMs": 17200,
+          "motion": "slide",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "startMs": 19600,
+      "endMs": 22000,
+      "spokenAnchor": "độ mềm, bề mặt",
+      "semanticIntent": "Mở rộng cùng cơ chế",
+      "spokenSubject": "các thuộc tính cảm giác",
+      "visualSubject": "sơ đồ tiếp tục hiện độ mềm và nhiệt độ",
+      "visualReason": "Stable transform giữ mạch",
+      "sceneFamily": "touch-information",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "transform",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-mechanism-stable",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "MỀM · BỀ MẶT · NHIỆT ĐỘ",
+          "role": "sơ đồ tiếp tục hiện độ mềm và nhiệt độ",
+          "enterMs": 17200,
+          "motion": "pop",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "startMs": 22000,
+      "endMs": 24400,
+      "spokenAnchor": "trọng lượng, nhiệt độ",
+      "semanticIntent": "Trở lại hành động literal",
+      "spokenSubject": "trải nghiệm đa thuộc tính",
+      "visualSubject": "người mua xoay và cân gối trong tay",
+      "visualReason": "Người thật thay sơ đồ khi voice nói trải nghiệm",
+      "sceneFamily": "tactile-inspection",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-12",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "người mua xoay và cân gối trong tay",
+          "enterMs": 22000,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "startMs": 24400,
+      "endMs": 26800,
+      "spokenAnchor": "khi trải nghiệm chạm dễ chịu",
+      "semanticIntent": "Tạo reset cơ chế",
+      "spokenSubject": "chạm tích cực",
+      "visualSubject": "sơ đồ cảm giác tích cực dẫn tới gần gũi",
+      "visualReason": "Điều kiện tích cực được nhìn rõ",
+      "sceneFamily": "touch-valence",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "mascot": "research",
+      "items": [
+        {
+          "id": "touch-pillow-state-13",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "CHẠM DỄ CHỊU",
+          "role": "sơ đồ cảm giác tích cực dẫn tới gần gũi",
+          "enterMs": 24400,
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "motifKey": "touch-pillow",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "startMs": 26800,
+      "endMs": 29200,
+      "spokenAnchor": "món đồ không còn chỉ là một hình ảnh xa lạ",
+      "semanticIntent": "Đối chiếu nhìn và chạm",
+      "spokenSubject": "món đồ trở nên gần hơn",
+      "visualSubject": "khách nhìn gối sau tấm kính rồi cầm trên tay",
+      "visualReason": "So sánh literal giúp hiểu không cần jargon",
+      "sceneFamily": "look-versus-touch",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-14",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "khách nhìn gối sau tấm kính rồi cầm trên tay",
+          "enterMs": 26800,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "startMs": 29200,
+      "endMs": 31600,
+      "spokenAnchor": "Nghiên cứu về hành vi tiêu dùng",
+      "semanticIntent": "Mở proof",
+      "spokenSubject": "nghiên cứu mere touch",
+      "visualSubject": "chart Remotion nhìn so với chạm có chú thích nguồn",
+      "visualReason": "Dùng sơ đồ nguồn thay screenshot giả",
+      "sceneFamily": "touch-study",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-15",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "NHÌN · CHẠM",
+          "role": "chart Remotion nhìn so với chạm có chú thích nguồn",
+          "enterMs": 29200,
+          "motion": "pop",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "startMs": 31600,
+      "endMs": 34000,
+      "spokenAnchor": "chỉ việc chạm cũng có thể",
+      "semanticIntent": "Nêu claim mềm đúng nguồn",
+      "spokenSubject": "khả năng tăng cảm giác sở hữu",
+      "visualSubject": "bàn tay và gối cạnh nhãn CÓ THỂ",
+      "visualReason": "Motif quay lại để gắn proof",
+      "sceneFamily": "touch-study",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "touch-pillow-state-16",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "CÓ THỂ TĂNG CẢM GIÁC SỞ HỮU",
+          "role": "bàn tay và gối cạnh nhãn CÓ THỂ",
+          "enterMs": 31600,
+          "motion": "slide",
+          "semanticRole": "evidence",
+          "motifKey": "touch-pillow",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "startMs": 34000,
+      "endMs": 36400,
+      "spokenAnchor": "còn việc định giá vẫn phụ thuộc",
+      "semanticIntent": "Nêu giới hạn nguồn",
+      "spokenSubject": "định giá phụ thuộc chất lượng trải nghiệm",
+      "visualSubject": "chart Remotion thêm điều kiện trải nghiệm tích cực",
+      "visualReason": "Chart chặn kết luận cứ chạm là bán được",
+      "sceneFamily": "evidence-limit",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-17",
+          "kind": "code",
+          "codeTemplate": "chart",
+          "text": "PHỤ THUỘC TRẢI NGHIỆM CHẠM",
+          "role": "chart Remotion thêm điều kiện trải nghiệm tích cực",
+          "enterMs": 34000,
+          "motion": "reveal",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "startMs": 36400,
+      "endMs": 38800,
+      "spokenAnchor": "Vậy online thì làm sao",
+      "semanticIntent": "Đổi bối cảnh",
+      "spokenSubject": "bối cảnh online thiếu xúc giác",
+      "visualSubject": "khách chạm màn hình điện thoại nhưng không chạm được gối",
+      "visualReason": "Người và điện thoại literal hóa khoảng cách",
+      "sceneFamily": "online-friction",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-18",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "khách chạm màn hình điện thoại nhưng không chạm được gối",
+          "enterMs": 36400,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "startMs": 38800,
+      "endMs": 41200,
+      "spokenAnchor": "chẳng lẽ đưa tay xuyên màn hình",
+      "semanticIntent": "Tạo nhịp giải trí",
+      "spokenSubject": "hài hước về giới hạn màn hình",
+      "visualSubject": "tay và gối hai phía màn hình",
+      "visualReason": "Motif quay lại ở punchline có nghĩa",
+      "sceneFamily": "screen-joke",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "touch-pillow-state-19",
+          "kind": "asset",
+          "assetId": "A01",
+          "role": "tay và gối hai phía màn hình",
+          "enterMs": 38800,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "motifKey": "touch-pillow",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "startMs": 41200,
+      "endMs": 43600,
+      "spokenAnchor": "Không cần",
+      "semanticIntent": "Chặn giải pháp sai",
+      "spokenSubject": "không mô phỏng xúc giác giả",
+      "visualSubject": "copy Remotion KHÔNG CẦN GIẢ VỜ",
+      "visualReason": "Copy ngắn là câu trả lời",
+      "sceneFamily": "lesson-copy",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-20",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "KHÔNG CẦN GIẢ VỜ",
+          "role": "copy Remotion KHÔNG CẦN GIẢ VỜ",
+          "enterMs": 41200,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "startMs": 43600,
+      "endMs": 46000,
+      "spokenAnchor": "video phải cho người xem thấy thao tác",
+      "semanticIntent": "Chuyển sang bài học",
+      "spokenSubject": "video trình diễn hành động",
+      "visualSubject": "checklist các thao tác chạm",
+      "visualReason": "Checklist là công cụ ứng dụng",
+      "sceneFamily": "tactile-demo-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "mascot": "pointing",
+      "items": [
+        {
+          "id": "touch-pillow-state-21",
+          "kind": "code",
+          "codeTemplate": "checklist",
+          "text": "CHO THẤY THAO TÁC",
+          "role": "checklist các thao tác chạm",
+          "enterMs": 43600,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "startMs": 46000,
+      "endMs": 48400,
+      "spokenAnchor": "tay ấn vào nệm",
+      "semanticIntent": "Cho ví dụ literal",
+      "spokenSubject": "người quay động tác ấn",
+      "visualSubject": "chủ shop quay tay ấn vật liệu",
+      "visualReason": "Voice nói tay ấn nên hình có tay và camera",
+      "sceneFamily": "filming-action",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-22",
+          "kind": "asset",
+          "assetId": "A06",
+          "role": "chủ shop quay tay ấn vật liệu",
+          "enterMs": 46000,
+          "motion": "slide",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "startMs": 48400,
+      "endMs": 50800,
+      "spokenAnchor": "kéo độ co giãn",
+      "semanticIntent": "Cho ví dụ thứ hai",
+      "spokenSubject": "người quay động tác kéo",
+      "visualSubject": "chủ shop kéo vật liệu trước điện thoại",
+      "visualReason": "Hành động mới thay đổi thông tin",
+      "sceneFamily": "filming-action",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "touch-pillow-state-23",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "chủ shop kéo vật liệu trước điện thoại",
+          "enterMs": 48400,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "motifKey": "touch-pillow",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "startMs": 50800,
+      "endMs": 53200,
+      "spokenAnchor": "Chọn đúng một thuộc tính",
+      "semanticIntent": "Thu hẹp thành hành động",
+      "spokenSubject": "một thuộc tính cảm giác chính",
+      "visualSubject": "checklist chỉ giữ một thuộc tính",
+      "visualReason": "Một lựa chọn giúp video không thành list tính năng",
+      "sceneFamily": "application-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "mascot": "working",
+      "items": [
+        {
+          "id": "touch-pillow-state-24",
+          "kind": "code",
+          "codeTemplate": "checklist",
+          "text": "CHỌN 1 CẢM GIÁC",
+          "role": "checklist chỉ giữ một thuộc tính",
+          "enterMs": 50800,
+          "motion": "pop",
+          "sfx": "sticker-popup",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "startMs": 53200,
+      "endMs": 56000,
+      "spokenAnchor": "quay POV mười giây",
+      "semanticIntent": "Payoff sản xuất cụ thể",
+      "spokenSubject": "shot POV mười giây",
+      "visualSubject": "hai tay gập sản phẩm trước điện thoại",
+      "visualReason": "Motif trở lại trong trạng thái có thể quay",
+      "sceneFamily": "pov-demo-payoff",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "touch-pillow-state-25",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "",
+          "role": "hai tay gập sản phẩm trước điện thoại",
+          "enterMs": 53200,
+          "motion": "reveal",
+          "semanticRole": "subject",
+          "motifKey": "touch-pillow",
+          "transform": {
+            "from": {
+              "x": -36,
+              "y": 22,
+              "scale": 0.94,
+              "rotation": -1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C26",
+      "startMs": 56000,
+      "endMs": 58000,
+      "spokenAnchor": "Lưu video",
+      "semanticIntent": "Một CTA",
+      "spokenSubject": "CTA lưu",
+      "visualSubject": "nút lưu Remotion và mascot thumbup",
+      "visualReason": "CTA rõ và không thêm follow",
+      "sceneFamily": "cta",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "cta",
+      "composition": "solo",
+      "exit": "replace",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "mascot": "thumbup",
+      "items": [
+        {
+          "id": "touch-pillow-state-26",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "LƯU ĐỂ QUAY POV",
+          "role": "nút lưu Remotion và mascot thumbup",
+          "enterMs": 56000,
+          "motion": "pop",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 36,
+              "y": -18,
+              "scale": 0.94,
+              "rotation": 1.2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "A01",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep011/v01/generated/a01-hand-holding-pillow-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One complete Vietnamese hand holding one small soft unbranded pillow just above a shelf edge, frozen at the moment before putting it down."
+    },
+    {
+      "id": "A02",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep011/v01/generated/a02-hand-pressing-fabric-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One complete Vietnamese hand pressing into a soft matte fabric pillow, visible indentation and realistic texture."
+    },
+    {
+      "id": "A03",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep011/v01/generated/a03-pillow-behind-glass-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One small unbranded pillow visible behind one clear plain display panel, complete objects and no reflections."
+    },
+    {
+      "id": "A04",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep011/v01/generated/a04-shopper-holding-pillow-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One young Vietnamese shopper holding a small pillow close to the torso, thoughtful mild hesitation, casual white outfit with restrained pink accent."
+    },
+    {
+      "id": "A05",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep011/v01/generated/a05-owner-filming-pov-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One Vietnamese small-shop owner setting a smartphone on a small tripod and filming a hand demonstration, full action visible."
+    },
+    {
+      "id": "A06",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep011/v01/generated/a06-phone-and-hand-demo-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: One blank smartphone on a compact tripod aimed at one complete hand pressing a plain material sample."
+    },
+    {
+      "id": "A07",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep011/v01/generated/a07-hands-folding-product-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: Two complete Vietnamese hands folding a soft unbranded fabric product to demonstrate flexibility."
+    },
+    {
+      "id": "A08",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false,
+      "outputPath": "public/ep011/v01/generated/a08-hands-closing-lid-alpha-v01.png",
+      "approvalStatus": "pending",
+      "rights": "Original unbranded illustrative asset planned for this episode; generation remains blocked until script and asset-plan approval.",
+      "mediaPrompt": "VISUAL IDENTITY LOCK: photoreal Vietnamese commercial sticker source, matte natural materials, soft upper-left daylight, restrained hot-pink accent, clean ink-black details, complete crop-safe subject. Background must be perfectly uniform chroma green #00FF00 with at least 12 percent empty green margin. No gradient, texture, vignette, shadow, green rim light, reflection, text, number, logo, watermark, paper backing, border, decorative mark, extra object, interface or scene background. SUBJECT: Two complete Vietnamese hands closing one plain unbranded container lid, clear tactile click action frozen before contact."
+    }
+  ],
+  "editBlueprint": {
+    "motionGrammar": "continuous-stage-v1",
+    "visualGrammar": "subject-led-v1",
+    "retentionMode": "business-phenomenon-decode-v1",
+    "captionTop": 1160,
+    "wordHighlight": true,
+    "whiteSpace": "pre-wrap",
+    "maxActiveScale": 1.15,
+    "render": "local",
+    "seriesLabel": "from-profile",
+    "mascotPolicy": "Contextual punctuation only; preserve original aspect ratio with objectFit contain; never stretch or park continuously.",
+    "backgroundFrameHoldSeconds": 0.5,
+    "typography": {
+      "title": "SVN-Miller Banner",
+      "subtitle": "UTM ClassizismAntiqua",
+      "support": "SVN-Nexa Light",
+      "accent": "SVN-Vanilla Daisy Pro"
+    },
+    "cardPolicy": "Semantic evidence only; no decorative SaaS cards.",
+    "motifKey": "touch-pillow",
+    "motifCueTarget": 9,
+    "sceneFamilyMinimum": 5,
+    "humanActionCueMinimum": 2,
+    "safeZone": "TikTok",
+    "evidencePolicy": "Use cited sources and neutral Remotion diagrams; never generate fake branded, research, interface or outcome evidence.",
+    "batchPolicy": "Batch exactly three only for compatible simple props; all planned people, hands and hook heroes are individual jobs."
+  },
+  "sources": [
+    {
+      "title": "The Effect of Mere Touch on Perceived Ownership",
+      "url": "https://doi.org/10.1086/598614",
+      "accessedAt": "2026-08-24",
+      "supports": "Nghiên cứu gốc về mere touch, perceived ownership và điều kiện trải nghiệm chạm trong định giá."
+    }
+  ],
+  "quotaPlan": {
+    "estimatedImageCalls": 8,
+    "estimatedTtsCalls": 1,
+    "estimatedTranscriptionCalls": 1,
+    "estimatedRenderCalls": 1,
+    "reuseCandidates": [
+      "profile mascot sheets",
+      "paper backgrounds",
+      "music/background music.mp3",
+      "channel fonts"
+    ],
+    "idempotencyPrefix": "agency-marketing-tiktok-ep011-v01-touch-pillow-"
+  },
+  "approval": {
+    "status": "script-review",
+    "version": 1,
+    "approvedAt": null,
+    "assetPlanStatus": "pending"
+  }
+}

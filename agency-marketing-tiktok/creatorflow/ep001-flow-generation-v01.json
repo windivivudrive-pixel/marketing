@@ -1,0 +1,43 @@
+{
+  "model": "gem_pix_2",
+  "aspect": "9:16 portrait (Flow currently rejects its 3:4 image enum; the three-zone sheet semantics are unchanged)",
+  "clientIdPolicy": "Pin to the verified healthy Flow client at runtime; do not persist browser credentials.",
+  "referenceMediaIds": [
+    "3a3026af-0935-4c9d-8bf2-f1448eb72bdb",
+    "f70dc833-4c17-41eb-9a77-ae058ee9a7d4"
+  ],
+  "runtimeReference": "../reference style/scene.png is attached inline to each pinned-client request; thumbnail.png remains a visual QA reference because this Flow image route accepts only one local reference.",
+  "sheets": [
+    {
+      "id": "S01",
+      "output": "public/ep001/v03/generated/s01-product-kit-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep001-v03-s01-product-kit-green-recovery-03",
+      "note": "Third recovery key after pre-generation failures: reference revalidation on the wrong bridge client, a Google-rejected 3:4 enum, then a stale history ID. None returned generated media.",
+      "prompt": "Create one clean 3:4 vertical studio cutout sheet with exactly three separate photoreal commercial objects arranged top, middle, and bottom with very wide spacing. Match the supplied references only for bright youthful pink editorial art direction; do not reproduce any text or interface from them. Top: one generic satin metallic insulated bottle in bright warm pink, three-quarter view. Middle: one matching generic rectangular product box in pale pink with a simple embossed bottle silhouette but no branding. Bottom: one modern black smartphone shell at a slight angle with a completely blank neutral-dark screen, no interface. Every object must be isolated and fully visible, with crisp edges, soft neutral frontal light, controlled satin surfaces, no transparency and no green reflections. Background must be one perfectly uniform solid chroma key green #00FF00 across the entire image, flat and shadowless, with no gradient, texture, vignette or floor. No people, no mascot, no text, no letters, no numbers, no logo, no watermark, no user interface, no fourth object, no green-colored subject details, no glossy mirror reflections."
+    },
+    {
+      "id": "S02",
+      "output": "public/ep001/v03/generated/s02-coffee-story-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep001-v03-s02-coffee-story-green-01",
+      "prompt": "Create one clean 3:4 vertical studio cutout sheet with exactly three separate photoreal character vignettes arranged top, middle, and bottom with very wide spacing. Match the supplied references only for bright youthful pink editorial art direction; do not reproduce any text or interface from them. Use the same fictional young Vietnamese office worker in all three scenes with identical face, tidy dark hair silhouette, white and pink casual-office clothing, body proportions, mug and satin pink insulated bottle. Top: cheerful morning moment, pouring fresh steaming coffee into a mug. Middle: afternoon moment, taking a sip and reacting with mild amused disappointment because the drink is cold. Bottom: late-day resolution, holding a pleasantly warm mug beside the insulated bottle with a relaxed smile. Natural youthful expressions, bright neutral studio lighting, crisp full-body or three-quarter cutout edges, no flyaway hair, no exaggerated acting. Background must be one perfectly uniform solid chroma key green #00FF00 across the entire image, flat and shadowless, with no gradient, texture, vignette or floor. No mascot, no text, no letters, no numbers, no clock, no logo, no watermark, no interface, no fourth scene, no green clothing or props, no green rim light, no green reflection, no transparent glass."
+    },
+    {
+      "id": "S03",
+      "output": "public/ep001/v03/generated/s03-customer-portraits-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep001-v03-s03-customer-portraits-green-01",
+      "prompt": "Create one clean 3:4 vertical studio portrait cutout sheet with exactly three separate fictional Vietnamese young professionals arranged top, middle, and bottom with very wide spacing. Match the supplied references only for bright youthful pink editorial art direction; do not reproduce any text or interface from them. Top: a small-business owner with a curious, slightly unsure expression. Middle: an in-house marketer with a mildly frustrated but friendly expression. Bottom: a founder thoughtfully comparing options, looking left and right. Head-and-shoulder portraits, contemporary white, black, denim-blue or pink clothing, youthful natural styling, credible expressions, bright soft neutral studio lighting, tidy dark hair silhouettes and crisp edges. Background must be one perfectly uniform solid chroma key green #00FF00 across the entire image, flat and shadowless, with no gradient, texture or vignette. No circular frames, no props, no mascot, no text, no logo, no watermark, no fourth person, no green clothing, no green accessories, no green rim light, no corporate stock-photo pose."
+    },
+    {
+      "id": "S04",
+      "output": "public/ep001/v03/generated/s04-marketing-props-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep001-v03-s04-marketing-props-green-01",
+      "prompt": "Create one clean 3:4 vertical studio cutout sheet with exactly three separate bright editorial marketing props arranged top, middle, and bottom with very wide spacing. Match the supplied references only for bright youthful pink editorial art direction; do not reproduce any text or interface from them. Top: two tactile pink-and-white paper speech bubbles with no symbols or writing. Middle: one physical paper funnel in bright pink and warm white, upright and clearly readable. Bottom: one physical target with alternating pink and white rings and a black arrow hitting near the center. Mix photoreal crafted-paper texture with polished editorial prop styling, bright neutral frontal light, crisp isolated edges and matte surfaces. Background must be one perfectly uniform solid chroma key green #00FF00 across the entire image, flat and shadowless, with no gradient, texture, vignette or floor. No people, no mascot, no text, no letters, no numbers, no logo, no watermark, no fourth prop, no green details, no green reflections, no glossy 3D plastic look."
+    },
+    {
+      "id": "S05",
+      "output": "public/ep001/v03/generated/s05-content-actions-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep001-v03-s05-content-actions-green-01",
+      "prompt": "Create one clean 3:4 vertical studio cutout sheet with exactly three separate hand-and-paper action scenes arranged top, middle, and bottom with very wide spacing. Match the supplied references only for bright youthful pink editorial art direction; do not reproduce any text or interface from them. Top: a realistic youthful hand swipes a cluttered stack of blank white-and-pink paper cards sideways. Middle: two realistic hands replace one product-centered blank card, illustrated only with a small bottle silhouette, with one customer-situation card, illustrated only with a tiny person and coffee mug silhouette. Bottom: two tactile torn-paper paths, one beginning with a person silhouette and one with a product silhouette, merge into one forward-pointing pink arrow; the customer path visibly enters first. Bright youthful art direction, photoreal hands combined with crafted-paper props, neutral frontal lighting, matte surfaces, crisp isolated edges. Background must be one perfectly uniform solid chroma key green #00FF00 across the entire image, flat and shadowless, with no gradient, texture, vignette or floor. No mascot, no text, no letters, no numbers, no logo, no watermark, no interface, no fourth scene, no green details, no green spill, no extra fingers, no malformed hands."
+    }
+  ]
+}

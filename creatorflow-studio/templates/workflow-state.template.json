@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "stage": "needs-setup",
+  "approvals": {
+    "idea": null,
+    "script": null,
+    "assetPlan": null
+  },
+  "artifacts": {},
+  "quota": {
+    "estimatedImageCalls": 0,
+    "actualImageCalls": 0,
+    "estimatedTtsCharacters": 0,
+    "actualTtsCharacters": 0,
+    "reusedAssets": 0,
+    "idempotencyKeys": []
+  },
+  "updatedAt": ""
+}
+

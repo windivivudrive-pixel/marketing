@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "creatorflow-images": {
+      "command": "flow",
+      "args": [
+        "mcp"
+      ]
+    },
+    "creatorflow-media": {
+      "command": "node",
+      "args": [
+        "/Users/win/Documents/so sánh/creatorflow-marketplace/plugins/creatorflow-studio/scripts/creatorflow-media-mcp.mjs"
+      ]
+    }
+  }
+}

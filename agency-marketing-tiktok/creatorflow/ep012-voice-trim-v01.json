@@ -1,0 +1,11 @@
+{
+  "method": "atempo-1.1-silenceremove",
+  "speed": 1.1,
+  "thresholdDb": -40,
+  "minimumSilenceMs": 80,
+  "inputDurationMs": 54570,
+  "removedLeadingMs": 5150,
+  "removedTrailingMs": 0,
+  "outputDurationMs": 49420,
+  "internalPausesPreserved": true
+}

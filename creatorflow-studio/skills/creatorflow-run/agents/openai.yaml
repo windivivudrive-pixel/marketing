@@ -1,0 +1,4 @@
+interface:
+  display_name: "CreatorFlow Run"
+  short_description: "Run the complete content production workflow"
+  default_prompt: "Use $creatorflow-run with my topic and editing vibe."

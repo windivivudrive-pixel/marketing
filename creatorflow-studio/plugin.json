@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "creatorflow-studio",
+  "description": "Portable, approval-gated short-video production skills with Flow-Agent-only image generation and configurable voice, research, and rendering providers."
+}

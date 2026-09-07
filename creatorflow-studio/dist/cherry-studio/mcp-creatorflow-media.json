@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "creatorflow-media": {
+      "command": "node",
+      "args": [
+        "/Users/win/Documents/marketing channel/creatorflow-studio/scripts/creatorflow-media-mcp.mjs"
+      ]
+    }
+  }
+}

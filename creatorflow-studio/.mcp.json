@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "creatorflow-images": {
+      "command": "flow",
+      "args": ["mcp"]
+    },
+    "creatorflow-media": {
+      "command": "node",
+      "args": ["scripts/creatorflow-media-mcp.mjs"]
+    }
+  }
+}

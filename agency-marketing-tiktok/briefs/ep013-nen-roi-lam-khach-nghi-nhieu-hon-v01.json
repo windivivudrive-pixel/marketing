@@ -1,0 +1,1790 @@
+{
+  "schemaVersion": 3,
+  "metadata": {
+    "episodeId": "EP013",
+    "slug": "nen-roi-lam-khach-nghi-nhieu-hon",
+    "version": 1,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260825-phenomenon-ideas-v01.json#IDEA004",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 58,
+    "researchRequired": true
+  },
+  "creativeContract": {
+    "title": "Cùng một sản phẩm, đặt lên nền rối là khách phải nghĩ nhiều hơn.",
+    "caseType": "research",
+    "hookDelivery": "observational-line",
+    "openingFrame": {
+      "visualTension": "Cùng một máy xay nhưng một màn hình quá nhiều layer.",
+      "heroSubject": "hai điện thoại cùng hiển thị máy xay",
+      "contrast": "nền rõ và nền rối",
+      "firstFrameCopy": "NỀN RỐI, KHÁCH NGHĨ NHIỀU HƠN"
+    },
+    "narrativeObject": "chiếc máy xay trên màn hình điện thoại",
+    "visualStrategy": {
+      "version": "subject-led-v1",
+      "recurringMotif": "chiếc máy xay trên màn hình điện thoại",
+      "motifRule": "Motif chỉ xuất hiện khi voice còn nói về nó; rời khung khi chuyển sang người, hành động, bằng chứng hoặc audit.",
+      "sceneFamilies": [
+        "hook-contrast",
+        "viewer-reaction",
+        "literal-action",
+        "context-detail",
+        "mechanism-map",
+        "human-choice",
+        "evidence-source",
+        "proof-comparison",
+        "perspective-split",
+        "application-audit",
+        "cta-close"
+      ],
+      "humanMoments": [
+        "người xem dừng rồi lướt qua khung rối",
+        "chủ shop audit storyboard trên điện thoại"
+      ]
+    },
+    "storyArc": {
+      "familiarHook": {
+        "startMs": 0,
+        "endMs": 6000,
+        "purpose": "Mở bằng vật thể quen thuộc và một nghịch lý nhìn thấy được.",
+        "voiceAnchor": "Cùng một sản phẩm.",
+        "visualProgression": "Một khung hình crop-safe đặt hai trạng thái cạnh nhau."
+      },
+      "curiosityBuild": {
+        "startMs": 6000,
+        "endMs": 15000,
+        "purpose": "Cho người xem tự đoán trước khi gọi tên cơ chế.",
+        "voiceAnchor": "Một bên chỉ có bàn tay, trái cây và một việc rõ ràng.",
+        "visualProgression": "Bàn tay hoặc màn hình làm lộ thêm một biến số."
+      },
+      "perspectiveFlip": {
+        "startMs": 15000,
+        "endMs": 27000,
+        "purpose": "Lật từ trực giác sang cách nhìn trải nghiệm.",
+        "voiceAnchor": "Lọc xem thứ gì mới đáng chú ý.",
+        "visualProgression": "Motif rời khung để nhường chỗ cho hành động và so sánh."
+      },
+      "marketingDecode": {
+        "startMs": 27000,
+        "endMs": 39000,
+        "purpose": "Giải thích cơ chế đời thường rồi mới đặt tên.",
+        "voiceAnchor": "Não không đọc mọi thứ với trọng lượng như nhau.",
+        "visualProgression": "Sơ đồ Remotion nối nguyên nhân với phản ứng."
+      },
+      "proof": {
+        "startMs": 39000,
+        "endMs": 48000,
+        "purpose": "Đưa bằng chứng có giới hạn và không hứa hẹn quá mức.",
+        "voiceAnchor": "Nói đời thường là khách phải tốn thêm công để hiểu.",
+        "visualProgression": "Thẻ nguồn, demo trung tính và ranh giới diễn giải."
+      },
+      "lesson": {
+        "startMs": 48000,
+        "endMs": 53000,
+        "purpose": "Chốt một bài học duy nhất cho SME.",
+        "voiceAnchor": "Chỉ cần mỗi khung có một việc chính cho mắt làm.",
+        "visualProgression": "Mascot pointing và một câu lesson dựng bằng Remotion."
+      },
+      "application": {
+        "startMs": 53000,
+        "endMs": 58000,
+        "purpose": "Đưa một audit cụ thể và CTA lưu video.",
+        "voiceAnchor": "Gạch mọi thứ không trả lời sản phẩm này là gì, dùng lúc nào.",
+        "visualProgression": "Checklist một hành động rồi trở về motif ở outro."
+      }
+    },
+    "retentionPlan": {
+      "mode": "business-phenomenon-decode-v1",
+      "viewerPrediction": "Nhiều layer thông tin sẽ làm video thuyết phục hơn.",
+      "withheldAnswer": "Tín hiệu thừa có thể làm cảm giác chọn khó trước khi khách đánh giá sản phẩm.",
+      "plainLanguageMechanism": "Não phải lọc nhiều thứ không liên quan trước khi hiểu sản phẩm, nên việc chọn trở nên nặng hơn.",
+      "theoryReveal": {
+        "technicalLabel": "Processing fluency",
+        "earliestMs": 27000,
+        "plainLanguageAnchor": "cảm giác lựa chọn trở nên nặng hơn"
+      },
+      "resets": [
+        {
+          "id": "R01",
+          "atMs": 0,
+          "trigger": "Hai màn hình cùng máy xay",
+          "informationGain": "Mở đối lập sạch và rối",
+          "visualReset": "Split-screen điện thoại",
+          "sceneFamily": "hook-contrast"
+        },
+        {
+          "id": "R02",
+          "atMs": 7700,
+          "trigger": "Mắt phải lọc layer",
+          "informationGain": "Cho thấy ma sát trước lý thuyết",
+          "visualReset": "Marker khoanh tín hiệu",
+          "sceneFamily": "viewer-reaction"
+        },
+        {
+          "id": "R03",
+          "atMs": 16900,
+          "trigger": "Nền rối kéo dài đường hiểu",
+          "informationGain": "Lật từ gu sang trải nghiệm",
+          "visualReset": "Layer rơi khỏi khung",
+          "sceneFamily": "perspective-split"
+        },
+        {
+          "id": "R04",
+          "atMs": 26100,
+          "trigger": "Tín hiệu liên quan được giữ lại",
+          "informationGain": "Đưa cơ chế đời thường",
+          "visualReset": "Sơ đồ tín hiệu",
+          "sceneFamily": "mechanism-map"
+        },
+        {
+          "id": "R05",
+          "atMs": 35300,
+          "trigger": "Nghiên cứu về processing fluency",
+          "informationGain": "Đưa bằng chứng",
+          "visualReset": "Thẻ nguồn",
+          "sceneFamily": "evidence-source"
+        },
+        {
+          "id": "R06",
+          "atMs": 44500,
+          "trigger": "Audit ba giây đầu",
+          "informationGain": "Chuyển thành hành động",
+          "visualReset": "Storyboard bị gạch bớt",
+          "sceneFamily": "application-audit"
+        }
+      ]
+    }
+  },
+  "topicKeywords": [
+    "processing fluency",
+    "video bán hàng",
+    "clarity",
+    "TikTok",
+    "thiết kế nội dung"
+  ],
+  "voiceover": {
+    "displayText": "Cùng một sản phẩm. Nền càng rối, khách càng phải nghĩ nhiều hơn. Hai màn hình này đang cho cùng một chiếc máy xay. Một bên chỉ có bàn tay, trái cây và một việc rõ ràng. Bên kia có ảnh nền, icon, sticker và mấy dòng chữ chen nhau. Thông tin sản phẩm thật ra không đổi. Nhưng mắt người xem phải làm thêm một việc. Lọc xem thứ gì mới đáng chú ý. Đến lúc hiểu được máy dùng để làm gì, ngón tay có thể đã lướt rồi. Nền rối không tự làm sản phẩm kém đi. Nó chỉ làm đường đi tới sản phẩm dài hơn. Và cảm giác lựa chọn trở nên nặng hơn. Đó là phần nhiều video bán hàng hay bỏ qua. Não không đọc mọi thứ với trọng lượng như nhau. Tín hiệu nào liên quan sẽ được giữ lại. Tín hiệu thừa thì thành một lớp ma sát. Trong nghiên cứu về lựa chọn, cảm giác khó xử lý này được gọi là processing fluency. Nói đời thường là khách phải tốn thêm công để hiểu. Vì vậy, nền sạch không phải chỉ để nhìn sang. Nó để một lợi ích có cơ hội được nhìn thấy. Không có nghĩa video phải trắng trơn và buồn ngủ. Chỉ cần mỗi khung có một việc chính cho mắt làm. Thử lấy một video cũ của shop. Tắt âm thanh và nhìn riêng ba giây đầu. Gạch mọi thứ không trả lời sản phẩm này là gì, dùng lúc nào. Lưu video này rồi thử quay lại một khung rõ hơn.",
+    "voiceText": "Cùng một sản phẩm. Nền càng rối, khách càng phải nghĩ nhiều hơn. Hai màn hình này đang cho cùng một chiếc máy xay. Một bên chỉ có bàn tay, trái cây và một việc rõ ràng. Bên kia có ảnh nền, icon, sticker và mấy dòng chữ chen nhau. Thông tin sản phẩm thật ra không đổi. Nhưng mắt người xem phải làm thêm một việc. Lọc xem thứ gì mới đáng chú ý. Đến lúc hiểu được máy dùng để làm gì, ngón tay có thể đã lướt rồi. Nền rối không tự làm sản phẩm kém đi. Nó chỉ làm đường đi tới sản phẩm dài hơn. Và cảm giác lựa chọn trở nên nặng hơn. Đó là phần nhiều video bán hàng hay bỏ qua. Não không đọc mọi thứ với trọng lượng như nhau. Tín hiệu nào liên quan sẽ được giữ lại. Tín hiệu thừa thì thành một lớp ma sát. Trong nghiên cứu về lựa chọn, cảm giác khó xử lý này được gọi là processing fluency. Nói đời thường là khách phải tốn thêm công để hiểu. Vì vậy, nền sạch không phải chỉ để nhìn sang. Nó để một lợi ích có cơ hội được nhìn thấy. Không có nghĩa video phải trắng trơn và buồn ngủ. Chỉ cần mỗi khung có một việc chính cho mắt làm. Thử lấy một video cũ của shop. Tắt âm thanh và nhìn riêng ba giây đầu. Gạch mọi thứ không trả lời sản phẩm này là gì, dùng lúc nào. Lưu video này rồi thử quay lại một khung rõ hơn.",
+    "sections": {
+      "hook": {
+        "displayText": "Cùng một sản phẩm. Nền càng rối, khách càng phải nghĩ nhiều hơn.",
+        "voiceText": "Cùng một sản phẩm. Nền càng rối, khách càng phải nghĩ nhiều hơn.",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 3000
+      },
+      "body": {
+        "displayText": "Hai màn hình này đang cho cùng một chiếc máy xay. Một bên chỉ có bàn tay, trái cây và một việc rõ ràng. Bên kia có ảnh nền, icon, sticker và mấy dòng chữ chen nhau. Thông tin sản phẩm thật ra không đổi. Nhưng mắt người xem phải làm thêm một việc. Lọc xem thứ gì mới đáng chú ý. Đến lúc hiểu được máy dùng để làm gì, ngón tay có thể đã lướt rồi. Nền rối không tự làm sản phẩm kém đi. Nó chỉ làm đường đi tới sản phẩm dài hơn. Và cảm giác lựa chọn trở nên nặng hơn. Đó là phần nhiều video bán hàng hay bỏ qua. Não không đọc mọi thứ với trọng lượng như nhau. Tín hiệu nào liên quan sẽ được giữ lại. Tín hiệu thừa thì thành một lớp ma sát. Trong nghiên cứu về lựa chọn, cảm giác khó xử lý này được gọi là processing fluency. Nói đời thường là khách phải tốn thêm công để hiểu. Vì vậy, nền sạch không phải chỉ để nhìn sang. Nó để một lợi ích có cơ hội được nhìn thấy. Không có nghĩa video phải trắng trơn và buồn ngủ. Chỉ cần mỗi khung có một việc chính cho mắt làm. Thử lấy một video cũ của shop. Tắt âm thanh và nhìn riêng ba giây đầu.",
+        "voiceText": "Hai màn hình này đang cho cùng một chiếc máy xay. Một bên chỉ có bàn tay, trái cây và một việc rõ ràng. Bên kia có ảnh nền, icon, sticker và mấy dòng chữ chen nhau. Thông tin sản phẩm thật ra không đổi. Nhưng mắt người xem phải làm thêm một việc. Lọc xem thứ gì mới đáng chú ý. Đến lúc hiểu được máy dùng để làm gì, ngón tay có thể đã lướt rồi. Nền rối không tự làm sản phẩm kém đi. Nó chỉ làm đường đi tới sản phẩm dài hơn. Và cảm giác lựa chọn trở nên nặng hơn. Đó là phần nhiều video bán hàng hay bỏ qua. Não không đọc mọi thứ với trọng lượng như nhau. Tín hiệu nào liên quan sẽ được giữ lại. Tín hiệu thừa thì thành một lớp ma sát. Trong nghiên cứu về lựa chọn, cảm giác khó xử lý này được gọi là processing fluency. Nói đời thường là khách phải tốn thêm công để hiểu. Vì vậy, nền sạch không phải chỉ để nhìn sang. Nó để một lợi ích có cơ hội được nhìn thấy. Không có nghĩa video phải trắng trơn và buồn ngủ. Chỉ cần mỗi khung có một việc chính cho mắt làm. Thử lấy một video cũ của shop. Tắt âm thanh và nhìn riêng ba giây đầu.",
+        "estimatedStartMs": 3000,
+        "estimatedEndMs": 53000,
+        "story": "Hai phiên bản cùng một video máy xay cho thấy nền rối và nền rõ tạo hai mức nặng nhẹ khác nhau khi xử lý thông tin.",
+        "lesson": "Không phải mọi khoảng trống đều là thiếu nội dung; đôi khi đó là chỗ để khách hiểu sản phẩm.",
+        "actions": [
+          "Lấy một video hiện có, tắt âm thanh và trong ba giây đầu gạch bỏ từng element không trả lời đây là gì và dùng lúc nào."
+        ]
+      },
+      "close": {
+        "displayText": "Gạch mọi thứ không trả lời sản phẩm này là gì, dùng lúc nào. Lưu video này rồi thử quay lại một khung rõ hơn.",
+        "voiceText": "Gạch mọi thứ không trả lời sản phẩm này là gì, dùng lúc nào. Lưu video này rồi thử quay lại một khung rõ hơn.",
+        "estimatedStartMs": 53000,
+        "estimatedEndMs": 58000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": [
+      {
+        "term": "processing fluency",
+        "spoken": "độ dễ xử lý thông tin",
+        "reason": "Giải thích tiếng Việt trước khi gọi tên."
+      }
+    ]
+  },
+  "onScreenCopy": [
+    {
+      "atMs": 0,
+      "text": "NỀN RỐI, KHÁCH NGHĨ NHIỀU HƠN",
+      "role": "hook"
+    },
+    {
+      "atMs": 7700,
+      "text": "MẮT ĐANG LỌC GÌ?",
+      "role": "prediction"
+    },
+    {
+      "atMs": 16900,
+      "text": "ĐỪNG BẮT KHÁCH TỰ LỌC",
+      "role": "flip"
+    },
+    {
+      "atMs": 26100,
+      "text": "MỘT KHUNG, MỘT VIỆC CHÍNH",
+      "role": "mechanism"
+    },
+    {
+      "atMs": 35300,
+      "text": "PROCESSING FLUENCY",
+      "role": "proof"
+    },
+    {
+      "atMs": 44500,
+      "text": "AUDIT 3 GIÂY ĐẦU",
+      "role": "application"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "startMs": 0,
+      "endMs": 6000,
+      "label": "HOOK",
+      "voiceAnchor": "Cùng một sản phẩm.",
+      "visualGoal": "One-glance contradiction"
+    },
+    {
+      "id": "B02",
+      "startMs": 6000,
+      "endMs": 15000,
+      "label": "TÌNH HUỐNG",
+      "voiceAnchor": "Một bên chỉ có bàn tay, trái cây và một việc rõ ràng.",
+      "visualGoal": "Let viewer predict"
+    },
+    {
+      "id": "B03",
+      "startMs": 15000,
+      "endMs": 27000,
+      "label": "LẬT GÓC NHÌN",
+      "voiceAnchor": "Lọc xem thứ gì mới đáng chú ý.",
+      "visualGoal": "Concrete consequence"
+    },
+    {
+      "id": "B04",
+      "startMs": 27000,
+      "endMs": 39000,
+      "label": "GIẢI MÃ",
+      "voiceAnchor": "Não không đọc mọi thứ với trọng lượng như nhau.",
+      "visualGoal": "Plain-language mechanism"
+    },
+    {
+      "id": "B05",
+      "startMs": 39000,
+      "endMs": 48000,
+      "label": "BẰNG CHỨNG",
+      "voiceAnchor": "Nói đời thường là khách phải tốn thêm công để hiểu.",
+      "visualGoal": "Sourced evidence"
+    },
+    {
+      "id": "B06",
+      "startMs": 48000,
+      "endMs": 53000,
+      "label": "BÀI HỌC",
+      "voiceAnchor": "Chỉ cần mỗi khung có một việc chính cho mắt làm.",
+      "visualGoal": "One lesson"
+    },
+    {
+      "id": "B07",
+      "startMs": 53000,
+      "endMs": 58000,
+      "label": "AUDIT",
+      "voiceAnchor": "Gạch mọi thứ không trả lời sản phẩm này là gì, dùng lúc nào.",
+      "visualGoal": "One action and save CTA"
+    }
+  ],
+  "visualCues": [
+    {
+      "id": "C01",
+      "startMs": 0,
+      "endMs": 800,
+      "spokenAnchor": "Cùng một sản phẩm.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "một sản phẩm",
+      "visualSubject": "hai điện thoại cùng máy xay",
+      "visualReason": "Cho thấy trực tiếp một sản phẩm đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "hook-contrast",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "hook-puzzle",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c01-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep013-v01-c01-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "layer thông tin",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "startMs": 800,
+      "endMs": 3100,
+      "spokenAnchor": "Nền càng rối, khách càng phải nghĩ nhiều hơn.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "nền rối",
+      "visualSubject": "màn hình nền rối",
+      "visualReason": "Cho thấy trực tiếp nền rối đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "viewer-reaction",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "viewer-prediction",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "carry",
+      "items": [
+        {
+          "id": "ep013-v01-c02-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "startMs": 3100,
+      "endMs": 5400,
+      "spokenAnchor": "Hai màn hình này đang cho cùng một chiếc máy xay.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "hai màn hình",
+      "visualSubject": "hai điện thoại split-screen",
+      "visualReason": "Cho thấy trực tiếp hai màn hình đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "literal-action",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c03-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "startMs": 5400,
+      "endMs": 7700,
+      "spokenAnchor": "Một bên chỉ có bàn tay, trái cây và một việc rõ ràng.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "bàn tay và trái cây",
+      "visualSubject": "bàn tay bỏ trái cây vào máy xay",
+      "visualReason": "Cho thấy trực tiếp bàn tay và trái cây đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "context-detail",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c04-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "startMs": 7700,
+      "endMs": 10000,
+      "spokenAnchor": "Bên kia có ảnh nền, icon, sticker và mấy dòng chữ chen nhau.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "ảnh nền icon sticker",
+      "visualSubject": "ảnh nền và icon rời khỏi màn hình",
+      "visualReason": "Cho thấy trực tiếp ảnh nền icon sticker đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "perspective-flip",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c05-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep013-v01-c05-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "layer thông tin",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "startMs": 10000,
+      "endMs": 12300,
+      "spokenAnchor": "Thông tin sản phẩm thật ra không đổi.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "thông tin sản phẩm",
+      "visualSubject": "hai bản thông tin giống nhau",
+      "visualReason": "Cho thấy trực tiếp thông tin sản phẩm đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "human-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "transform",
+      "items": [
+        {
+          "id": "ep013-v01-c06-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "startMs": 12300,
+      "endMs": 14600,
+      "spokenAnchor": "Nhưng mắt người xem phải làm thêm một việc.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "mắt người xem",
+      "visualSubject": "ngón tay người xem",
+      "visualReason": "Cho thấy trực tiếp mắt người xem đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "literal-action",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c07-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "startMs": 14600,
+      "endMs": 16900,
+      "spokenAnchor": "Lọc xem thứ gì mới đáng chú ý.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "tín hiệu đáng chú ý",
+      "visualSubject": "marker khoanh tín hiệu",
+      "visualReason": "Cho thấy trực tiếp tín hiệu đáng chú ý đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "evidence-source",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "mechanism-decode",
+      "composition": "code",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c08-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "startMs": 16900,
+      "endMs": 19200,
+      "spokenAnchor": "Đến lúc hiểu được máy dùng để làm gì, ngón tay có thể đã lướt rồi.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "ngón tay lướt",
+      "visualSubject": "ngón tay vuốt qua màn hình",
+      "visualReason": "Cho thấy trực tiếp ngón tay lướt đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "context-detail",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c09-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "startMs": 19200,
+      "endMs": 21500,
+      "spokenAnchor": "Nền rối không tự làm sản phẩm kém đi.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "nền rối",
+      "visualSubject": "máy xay trên nền rối",
+      "visualReason": "Cho thấy trực tiếp nền rối đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "proof-comparison",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "proof-evidence",
+      "composition": "compare",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c10-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep013-v01-c10-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "layer thông tin",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "startMs": 21500,
+      "endMs": 23800,
+      "spokenAnchor": "Nó chỉ làm đường đi tới sản phẩm dài hơn.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "đường đi tới sản phẩm",
+      "visualSubject": "mũi tên đường đi",
+      "visualReason": "Cho thấy trực tiếp đường đi tới sản phẩm đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c11-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "startMs": 23800,
+      "endMs": 26100,
+      "spokenAnchor": "Và cảm giác lựa chọn trở nên nặng hơn.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "cảm giác lựa chọn",
+      "visualSubject": "sơ đồ tải nhận thức",
+      "visualReason": "Cho thấy trực tiếp cảm giác lựa chọn đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "human-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c12-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "startMs": 26100,
+      "endMs": 28400,
+      "spokenAnchor": "Đó là phần nhiều video bán hàng hay bỏ qua.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "video bán hàng",
+      "visualSubject": "khung video bán hàng",
+      "visualReason": "Cho thấy trực tiếp video bán hàng đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "perspective-split",
+      "continuityRole": "motif-anchor",
+      "retentionRole": "perspective-flip",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c13-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "ep013-v01-c13-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "layer thông tin",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "startMs": 28400,
+      "endMs": 30700,
+      "spokenAnchor": "Não không đọc mọi thứ với trọng lượng như nhau.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "não xử lý thông tin",
+      "visualSubject": "sơ đồ tín hiệu",
+      "visualReason": "Cho thấy trực tiếp não xử lý thông tin đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c14-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "startMs": 30700,
+      "endMs": 33000,
+      "spokenAnchor": "Tín hiệu nào liên quan sẽ được giữ lại.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "tín hiệu liên quan",
+      "visualSubject": "tín hiệu liên quan",
+      "visualReason": "Cho thấy trực tiếp tín hiệu liên quan đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "literal-action",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c15-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "startMs": 33000,
+      "endMs": 35300,
+      "spokenAnchor": "Tín hiệu thừa thì thành một lớp ma sát.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "tín hiệu thừa",
+      "visualSubject": "layer thừa",
+      "visualReason": "Cho thấy trực tiếp tín hiệu thừa đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "viewer-reaction",
+      "continuityRole": "literal-evidence",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c16-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "startMs": 35300,
+      "endMs": 37600,
+      "spokenAnchor": "Trong nghiên cứu về lựa chọn, cảm giác khó xử lý này được gọi là processing fluency.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "nghiên cứu lựa chọn",
+      "visualSubject": "thẻ nghiên cứu",
+      "visualReason": "Cho thấy trực tiếp nghiên cứu lựa chọn đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "evidence-source",
+      "continuityRole": "proof",
+      "retentionRole": "proof-evidence",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c17-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep013-v01-c17-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "layer thông tin",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "startMs": 37600,
+      "endMs": 39900,
+      "spokenAnchor": "Nói đời thường là khách phải tốn thêm công để hiểu.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "công sức để hiểu",
+      "visualSubject": "mascot lọc layer",
+      "visualReason": "Cho thấy trực tiếp công sức để hiểu đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "context-detail",
+      "continuityRole": "proof",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c18-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "startMs": 39900,
+      "endMs": 42200,
+      "spokenAnchor": "Vì vậy, nền sạch không phải chỉ để nhìn sang.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "nền sạch",
+      "visualSubject": "nền giấy sạch",
+      "visualReason": "Cho thấy trực tiếp nền sạch đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "mechanism-map",
+      "continuityRole": "proof",
+      "retentionRole": "mechanism-decode",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c19-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "startMs": 42200,
+      "endMs": 44500,
+      "spokenAnchor": "Nó để một lợi ích có cơ hội được nhìn thấy.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "lợi ích sản phẩm",
+      "visualSubject": "một lợi ích lớn",
+      "visualReason": "Cho thấy trực tiếp lợi ích sản phẩm đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "human-choice",
+      "continuityRole": "human-action",
+      "retentionRole": "story-progress",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c20-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "startMs": 44500,
+      "endMs": 46800,
+      "spokenAnchor": "Không có nghĩa video phải trắng trơn và buồn ngủ.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "video không buồn ngủ",
+      "visualSubject": "khung sạch có chuyển động",
+      "visualReason": "Cho thấy trực tiếp video không buồn ngủ đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "compare",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c21-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "ep013-v01-c21-i2",
+          "semanticRole": "literal-evidence",
+          "subject": "layer thông tin",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": 0.07,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.24,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "startMs": 46800,
+      "endMs": 49100,
+      "spokenAnchor": "Chỉ cần mỗi khung có một việc chính cho mắt làm.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "việc chính cho mắt",
+      "visualSubject": "một điểm marker chính",
+      "visualReason": "Cho thấy trực tiếp việc chính cho mắt đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c22-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "startMs": 49100,
+      "endMs": 51400,
+      "spokenAnchor": "Thử lấy một video cũ của shop.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "video cũ của shop",
+      "visualSubject": "điện thoại có video cũ",
+      "visualReason": "Cho thấy trực tiếp video cũ của shop đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c23-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "startMs": 51400,
+      "endMs": 53700,
+      "spokenAnchor": "Tắt âm thanh và nhìn riêng ba giây đầu.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "ba giây đầu",
+      "visualSubject": "timeline ba giây",
+      "visualReason": "Cho thấy trực tiếp ba giây đầu đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "human-action",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c24-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.05,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": 0.01,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "startMs": 53700,
+      "endMs": 56000,
+      "spokenAnchor": "Gạch mọi thứ không trả lời sản phẩm này là gì, dùng lúc nào.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "element thừa",
+      "visualSubject": "storyboard bị gạch",
+      "visualReason": "Cho thấy trực tiếp element thừa đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "application-audit",
+      "continuityRole": "application",
+      "retentionRole": "application-audit",
+      "composition": "solo",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c25-i1",
+          "motifKey": "chiếc máy xay trên màn hình điện thoại",
+          "semanticRole": "motif",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": -0.009999999999999998,
+              "scale": 0.92,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.05,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C26",
+      "startMs": 56000,
+      "endMs": 58000,
+      "spokenAnchor": "Lưu video này rồi thử quay lại một khung rõ hơn.",
+      "semanticIntent": "Làm rõ đúng tín hiệu hình ảnh đang được voice nói tới, rồi cho layer thừa rời khỏi khung.",
+      "spokenSubject": "khung rõ hơn",
+      "visualSubject": "khung máy xay rõ",
+      "visualReason": "Cho thấy trực tiếp khung rõ hơn đúng lúc voice nói tới, để người xem nhìn thấy cơ chế thay vì đọc một nhãn giải thích.",
+      "sceneFamily": "cta-close",
+      "continuityRole": "application",
+      "retentionRole": "cta",
+      "composition": "solo",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "exit": "replace",
+      "items": [
+        {
+          "id": "ep013-v01-c26-i1",
+          "semanticRole": "literal-evidence",
+          "subject": "máy xay trên màn hình",
+          "sourceType": "generated",
+          "provider": "flow-agent",
+          "stickerTreatment": "remotion-paper",
+          "transform": {
+            "from": {
+              "x": -0.12,
+              "y": 0.02,
+              "scale": 0.92,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0.05,
+              "y": -0.03,
+              "scale": 1.02,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "ep013-a01",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "hook clean and busy phone screens",
+      "sceneFamily": "hook-contrast",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: two smartphones showing the same neutral blender video without readable UI text. Action: one screen has a clean composition and one has abstract extra layers. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep013-a02",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "viewer scrolling hand",
+      "sceneFamily": "viewer-reaction",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: Vietnamese viewer hand hovering over a smartphone. Action: hesitating then swiping across a busy frame. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep013-a03",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "product use",
+      "sceneFamily": "literal-action",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: realistic Vietnamese hand placing fruit into an unbranded blender. Action: turning on the blender and pouring into a glass. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep013-a04",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "paper layer bundle",
+      "sceneFamily": "mechanism-map",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: small paper icons and abstract sticker shapes. Action: falling away from the product silhouette. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep013-a05",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "research source composition",
+      "sceneFamily": "evidence-source",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: neutral research paper sheet with no generated readable text. Action: mascot marker points to a highlighted method area. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep013-a06",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "content audit owner",
+      "sceneFamily": "human-choice",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: Vietnamese shop owner reviewing a storyboard on a smartphone. Action: crossing out extra visual elements. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep013-a07",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "clean video frame",
+      "sceneFamily": "application-audit",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: unbranded blender and fruit on ivory paper. Action: one marker arrow connects situation to product. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    },
+    {
+      "id": "ep013-a08",
+      "sourceType": "generated",
+      "provider": "flow-agent",
+      "stickerTreatment": "remotion-paper",
+      "role": "mascot outro",
+      "sceneFamily": "cta-close",
+      "mediaPrompt": "Bright ivory paper, pale blush paper accents, deep pink marker details, soft upper-left daylight, matte photoreal Vietnamese cutout, clean scrapbook composition, no logo, no watermark, no readable generated text, no neon, no dark SaaS, no gradient, no texture, no vignette, no shadow, uniform chroma green #00FF00, twelve percent empty green margin. Subject: approved channel mascot pointing at a save gesture. Action: holding a three-second audit note. Composition: isolated complete source cutout with twelve percent empty margin. No gradient, texture, vignette, shadow, green rim light, reflections, decorative marks, typography, logo, watermark, fake UI, or baked paper backing."
+    }
+  ],
+  "editBlueprint": {
+    "visualGrammar": "subject-led-v1",
+    "motionGrammar": "continuous-stage-v1",
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "background": "ivory paper with pale pink grid",
+    "typography": {
+      "title": "SVN-Miller Banner",
+      "subtitle": "UTM ClassizismAntiqua",
+      "supporting": "SVN-Nexa Light",
+      "accent": "SVN-Vanilla Daisy Pro"
+    },
+    "safeZone": "TikTok 9:16 safe zone; caption top 1160",
+    "backgroundFrameHoldSeconds": 0.5,
+    "mascotRatio": "preserve original ratio"
+  },
+  "sources": [
+    {
+      "title": "How Perceptual Disfluency Affects Consumer Choices",
+      "url": "https://academic.oup.com/jcr/advance-article/doi/10.1093/jcr/ucaf062/8342352",
+      "accessedAt": "2026-08-25",
+      "supports": "Nghiên cứu Journal of Consumer Research về cảm giác khó xử lý, choice difficulty và cách người tiêu dùng xử lý lựa chọn."
+    }
+  ],
+  "quotaPlan": {
+    "idempotencyPrefix": "agency-marketing-tiktok-ep013-v01",
+    "estimatedImageCalls": 8,
+    "estimatedTtsCalls": 1,
+    "estimatedTranscriptionCalls": 1,
+    "estimatedRenderCalls": 1,
+    "batchRule": "Batch exactly three only for compatible simple props; people, hands, complex heroes, and evidence are individual."
+  },
+  "approval": {
+    "status": "script-review",
+    "mediaGeneration": false,
+    "note": "User requested scripts for ideas 2, 4 and 5; no TTS, image, transcription, Flow Agent call or render before explicit approval."
+  }
+}

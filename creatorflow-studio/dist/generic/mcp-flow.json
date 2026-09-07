@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "creatorflow-images": {
+      "command": "flow",
+      "args": [
+        "mcp"
+      ]
+    }
+  }
+}

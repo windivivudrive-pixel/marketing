@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160">
+  <rect width="720" height="160" rx="28" fill="#F7F1E8"/>
+  <g transform="translate(28 16) scale(.9)">
+    <rect width="128" height="128" rx="30" fill="#151312"/>
+    <path d="M31 38h31c15 0 27 12 27 27v7" fill="none" stroke="#FF5A47" stroke-width="12" stroke-linecap="round"/>
+    <path d="M97 90H66c-15 0-27-12-27-27v-7" fill="none" stroke="#F5EBDD" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="30" cy="38" r="10" fill="#F5EBDD"/><circle cx="98" cy="90" r="10" fill="#FF5A47"/>
+  </g>
+  <text x="170" y="78" fill="#151312" font-family="Arial, sans-serif" font-size="48" font-weight="700">CreatorFlow</text>
+  <text x="172" y="116" fill="#6E655E" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">STUDIO</text>
+</svg>
+

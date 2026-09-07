@@ -1,0 +1,1414 @@
+{
+  "schemaVersion": 3,
+  "generatedAt": "2026-08-24T09:35:00.000Z",
+  "profile": "creatorflow/profile.json",
+  "ideas": [
+    {
+      "id": "IDEA001",
+      "rank": 1,
+      "title": "Bẫy ly nước size vừa: Vì sao quán không bao giờ muốn bán size M?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Shop tung ra nhiều gói sản phẩm hoặc kích cỡ nhưng khách hàng chỉ mua loại rẻ nhất, kéo doanh thu trên mỗi đơn hàng (AOV) xuống rất thấp.",
+      "viewerQuestion": "Làm sao để khách tự động chọn gói cao cấp mà không có cảm giác bị ép giá?",
+      "caseStory": "Quan sát menu đồ uống tại các chuỗi lớn: Size S giá 35k, Size M giá 48k, Size L giá 52k. 80% khách hàng quyết định nâng thẳng lên Size L chỉ vì \"thêm có 4k được hẳn ly to gấp rưỡi\".",
+      "curiosityParadox": "Size M sinh ra không phải để bán, vậy tại sao mọi quán đều phải in nó lên bảng giá?",
+      "brandingLesson": "Hiệu ứng chim mồi (Decoy Effect) — Đặt một lựa chọn bất đối xứng làm mồi so sánh để khách hàng tự thuyết phục bản thân rằng lựa chọn cao cấp là món hời nhất.",
+      "actionablePayoff": "Tạo ra một gói sản phẩm \"mồi\" có giá sát nút gói cao cấp nhưng tính năng chỉ nhỉnh hơn gói cơ bản một chút.",
+      "topicKeywords": [
+        "pricing strategy",
+        "decoy effect",
+        "menu engineering",
+        "tang gia tri don",
+        "tam ly khach hang"
+      ],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Ngón tay lướt trên bảng menu cà phê, phân vân giữa 3 chiếc ly kích cỡ S, M, L in giá tiền.",
+      "narrativeObject": "Bộ ba ly đồ uống size S, M, L với nhãn giá dán trên thân ly",
+      "curiosityGap": "Tại sao khoảng cách giá giữa S và M là 13k, nhưng từ M lên L lại chỉ có 4k?",
+      "hiddenMechanism": "Size M đóng vai trò \"vật tế thần\" làm mốc so sánh, khiến cho size L trông giống như một phần thưởng giá rẻ không thể bỏ qua.",
+      "marketingBridge": "Khách hàng không biết giá trị tuyệt đối của sản phẩm, họ chỉ so sánh các con số được đặt cạnh nhau.",
+      "proofMove": "Thử nghiệm bỏ size M khỏi menu: khách lập tức quay lại mua size S rẻ nhất.",
+      "singleLesson": "Muốn bán gói mục tiêu, hãy tạo một lựa chọn phụ làm mồi so sánh.",
+      "immediateApplication": "Mở bảng giá của bạn, thêm một gói ở giữa có giá gần bằng gói cao nhất để kích cầu.",
+      "motionPotential": [
+        "Ba chiếc ly xuất hiện cạnh nhau rồi ly size M mờ đi thành vật mồi",
+        "Mũi tên so sánh nhảy từ mức chênh lệch 13k sang mức chênh lệch 4k"
+      ],
+      "phenomenon": {
+        "observableMoment": "Bước vào quán cà phê gọi đồ, nhìn bảng menu có 3 size S (35k), M (48k), L (52k) và tự động chọn size to nhất.",
+        "businessStake": "Doanh thu trên mỗi lượt khách (AOV) quyết định sống còn của cửa hàng và khả năng sinh lời.",
+        "viewerPrediction": "Người xem đoán quán muốn bán nhiều nước để giải phóng nguyên liệu hoặc ép khách chi thêm tiền.",
+        "visibleContradiction": "Nếu chỉ muốn bán size to, tại sao quán không bỏ luôn size vừa để tiết kiệm chi phí in ấn bao bì?"
+      },
+      "hookDesign": {
+        "mode": "prediction-puzzle",
+        "spokenHook": "Cùng một menu nước, tại sao ly vừa lại đắt gần bằng ly to nhất?",
+        "withheldAnswer": "Ly cỡ vừa sinh ra không phải để bán mà là bẫy so sánh ép khách mua ly cỡ lớn.",
+        "broadAudienceBridge": "Bất kỳ ai từng đi mua trà sữa, cà phê hay bắp rang bơ đều từng trải qua cảm giác chọn ly to vì thấy hời."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Khách hàng không biết giá trị thực tế của một món đồ, não bộ chỉ so sánh khoảng cách giữa các con số đặt cạnh nhau.",
+        "technicalLabel": "Hiệu ứng chim mồi",
+        "earliestRevealSecond": 22
+      },
+      "proofPlan": {
+        "primaryClaim": "Bỏ size mồi ở giữa làm tỷ lệ khách chọn gói cao cấp giảm từ 80% xuống còn 15%.",
+        "evidenceType": "documented-case",
+        "sourceNeeded": true,
+        "visualProof": "Biểu đồ thực nghiệm định giá Economist của Dan Ariely và bảng menu so sánh doanh thu."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 2,
+          "trigger": "Mở đầu menu 3 size",
+          "informationGain": "Đặt câu hỏi nghịch lý khoảng cách giá 13k vs 4k",
+          "visualReset": "Ba chiếc ly S M L xuất hiện trên quầy bar",
+          "sceneFamily": "storefront"
+        },
+        {
+          "atSecond": 10,
+          "trigger": "Phân tích tâm lý người mua",
+          "informationGain": "Khách tưởng mình kiếm được món hời nhưng quán đã tính trước",
+          "visualReset": "Ngón tay chỉ vào ly L kèm nhãn giá 52k phát sáng",
+          "sceneFamily": "customer-reaction"
+        },
+        {
+          "atSecond": 19,
+          "trigger": "Lật mở bí mật size M",
+          "informationGain": "Size M sinh ra không phải để bán mà làm mốc so sánh",
+          "visualReset": "Ly size M mờ đi biến thành bóng mờ mồi nhử",
+          "sceneFamily": "comparison"
+        },
+        {
+          "atSecond": 28,
+          "trigger": "Bằng chứng thực nghiệm Dan Ariely",
+          "informationGain": "Bỏ size mồi khiến khách quay lại mua gói rẻ nhất",
+          "visualReset": "Bảng menu bị gạch bỏ cột ở giữa kèm biểu đồ sụt giảm",
+          "sceneFamily": "evidence-board"
+        },
+        {
+          "atSecond": 36,
+          "trigger": "Giải mã cơ chế định giá đòn bẩy",
+          "informationGain": "Khách chỉ so sánh các con số đặt cạnh nhau",
+          "visualReset": "Sơ đồ đòn bẩy tâm lý đẩy quyết định mua về gói mục tiêu",
+          "sceneFamily": "framework"
+        },
+        {
+          "atSecond": 44,
+          "trigger": "Bài học hành động cho chủ shop",
+          "informationGain": "Cách thêm một gói mồi vào bảng giá ngay hôm nay",
+          "visualReset": "Màn hình điện thoại chỉnh sửa menu trên app quản lý",
+          "sceneFamily": "application-phone"
+        }
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "Khách hàng nhìn menu",
+          "literalVisual": "Bàn tay cầm menu cà phê lướt qua 3 cột giá",
+          "action": "lướt ngón tay chọn món",
+          "sceneFamily": "storefront",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "Ba chiếc ly S M L",
+          "literalVisual": "Bộ ba ly đặt trên quầy bar với nhãn 35k - 48k - 52k",
+          "action": "so sánh chiều cao và mức giá",
+          "sceneFamily": "comparison",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Tâm lý khách hàng",
+          "literalVisual": "Góc nhìn người mua đắn đo và chỉ tay vào ly L",
+          "action": "chỉ tay quyết định mua size to",
+          "sceneFamily": "customer-reaction",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Thử nghiệm bỏ size M",
+          "literalVisual": "Bảng menu chỉ còn 2 cột giá S và L",
+          "action": "gạch bỏ cột ở giữa",
+          "sceneFamily": "evidence-board",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "Cơ chế định giá mồi",
+          "literalVisual": "Sơ đồ đòn bẩy tâm lý đẩy quyết định mua về phía gói mục tiêu",
+          "action": "kích hoạt đòn bẩy giá trị",
+          "sceneFamily": "framework",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "Hành động cho chủ shop",
+          "literalVisual": "Màn hình điện thoại chỉnh sửa menu bảng giá trên app quản lý",
+          "action": "thêm gói mồi so sánh",
+          "sceneFamily": "application-phone",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "mở đầu menu",
+          "phân tích khoảng cách giá",
+          "chốt bài học"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.45
+      },
+      "evidence": [
+        {
+          "title": "The Decoy Effect in Consumer Decision Making",
+          "url": "https://www.psychologytoday.com/us/basics/decoy-effect",
+          "accessedAt": "2026-08-24",
+          "supports": "Cơ chế tâm lý so sánh bất đối xứng khi có 3 lựa chọn"
+        },
+        {
+          "title": "Economist Subscription Pricing Experiment by Dan Ariely",
+          "url": "https://danariely.com/the-economist-experiment/",
+          "accessedAt": "2026-08-24",
+          "supports": "Bằng chứng thực nghiệm khi bỏ gói trung gian làm mồi"
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED"
+      },
+      "visualSeed": "Photoreal Vietnamese coffee menu with 3 cup sizes on counter, clean cutouts",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 5,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5
+      },
+      "totalScore": 60
+    },
+    {
+      "id": "IDEA002",
+      "rank": 2,
+      "title": "Chiếc gương nghiêng 3 độ: Bí mật phòng thử đồ khiến khách chốt đơn",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Khách hàng thích mẫu áo trên ma-nơ-canh nhưng bước vào phòng thử đồ xong lại trả lại vì cảm thấy mặc lên không đẹp như kỳ vọng.",
+      "viewerQuestion": "Làm sao để tối ưu điểm chạm ra quyết định cuối cùng ngay tại thời điểm khách phân vân?",
+      "caseStory": "Các thương hiệu thời trang lớn thiết kế gương phòng thử đồ nghiêng góc 3 độ và dùng ánh sáng vàng ấm 2700K chiếu nghiêng 45 độ, giúp vóc dáng người thử trông thon thả và da sáng hơn 20%.",
+      "curiosityParadox": "Không phải chiếc áo tự đẹp lên khi mặc thử, mà không gian thử đồ đã âm thầm xóa tan nỗi bất an lớn nhất của khách.",
+      "brandingLesson": "Tối ưu điểm chạm ra quyết định (Decision-Point Sensory Optimization) — Loại bỏ hoàn toàn ma sát tâm lý và sự tự ti ngay tại giây phút khách chuẩn bị quẹt thẻ.",
+      "actionablePayoff": "Kiểm tra lại không gian thử đồ, góc chụp ảnh hoặc ánh sáng quay video sản phẩm để không tạo cảm giác \"dìm\" khách.",
+      "topicKeywords": [
+        "fitting room",
+        "in-store experience",
+        "retail branding",
+        "diem cham khach hang",
+        "chot don"
+      ],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Bước vào phòng thử đồ nhỏ hẹp, kéo rèm lại và đứng trước chiếc gương soi toàn thân.",
+      "narrativeObject": "Chiếc gương phòng thử đồ có khung gỗ và ánh đèn vàng viền xung quanh",
+      "curiosityGap": "Tại sao cùng một bộ đồ, soi gương ở shop thì mê mẩn mà về nhà soi gương toilet lại thấy bình thường?",
+      "hiddenMechanism": "Góc nghiêng 3 độ kéo dài tỷ lệ đôi chân, kết hợp dải đèn 2700K xóa mờ khuyết điểm nếp nhăn.",
+      "marketingBridge": "Người mua không mua chiếc áo, họ mua phiên bản tự tin và xinh đẹp hơn của chính mình.",
+      "proofMove": "Shop đổi gương phẳng đèn huỳnh quang trắng: tỷ lệ trả đồ sau khi thử tăng vọt 35%.",
+      "singleLesson": "Đừng chỉ làm sản phẩm tốt, hãy tối ưu khoảnh khắc khách hàng nhìn thấy mình trong sản phẩm.",
+      "immediateApplication": "Kiểm tra lại góc máy và ánh sáng review sản phẩm của shop xem có làm khách tự tin hơn không.",
+      "motionPotential": [
+        "Góc nghiêng của chiếc gương từ 0 độ từ từ ngả về 3 độ",
+        "Luồng ánh sáng vàng 2 bên hắt vào làm nổi bật bóng dáng người mặc"
+      ],
+      "phenomenon": {
+        "observableMoment": "Bước vào phòng thử đồ shop thời trang, soi gương thấy người thon thả và da sáng hơn hẳn khi về nhà.",
+        "businessStake": "Tỷ lệ chốt đơn tại phòng thử đồ là điểm chuyển đổi cao nhất của một cửa hàng thời trang.",
+        "viewerPrediction": "Người xem đoán do tâm lý vui vẻ khi được mặc quần áo mới.",
+        "visibleContradiction": "Cùng một cơ thể và chiếc áo, tại sao 2 chiếc gương cách nhau vài cây số lại tạo ra cảm giác đối lập hoàn toàn?"
+      },
+      "hookDesign": {
+        "mode": "visible-paradox",
+        "spokenHook": "Cùng một bộ đồ, tại sao soi gương ở shop lại thấy đẹp hơn ở nhà?",
+        "withheldAnswer": "Góc nghiêng 3 độ và dải đèn vàng 2700K chiếu nghiêng 45 độ giấu khuyết điểm vóc dáng.",
+        "broadAudienceBridge": "Bất cứ ai từng đi mua sắm quần áo đều từng trải qua cảm giác soi gương ở shop thấy đẹp nhưng về nhà lại thất vọng."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Xóa bỏ rào cản tự ti và lo âu ngoại hình ngay tại giây phút khách phân vân sẽ thúc đẩy hành động quẹt thẻ.",
+        "technicalLabel": "Tối ưu điểm chạm ra quyết định",
+        "earliestRevealSecond": 20
+      },
+      "proofPlan": {
+        "primaryClaim": "Chuyển từ gương phẳng đèn trắng sang gương nghiêng đèn vàng 2700K làm giảm 35% tỷ lệ trả đồ sau khi thử.",
+        "evidenceType": "documented-case",
+        "sourceNeeded": true,
+        "visualProof": "Sơ đồ góc nghiêng 3 độ của gương và biểu đồ so sánh tỷ lệ hoàn tất mua hàng."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 2,
+          "trigger": "Mở đầu phòng thử đồ",
+          "informationGain": "Đặt nghịch lý cùng một bộ đồ nhưng 2 cảm giác soi gương đối lập",
+          "visualReset": "Bàn tay kéo rèm vải nhung bước vào phòng thay đồ",
+          "sceneFamily": "storefront"
+        },
+        {
+          "atSecond": 9,
+          "trigger": "Cận cảnh chiếc gương shop",
+          "informationGain": "Phát hiện góc nghiêng 3 độ và dải đèn vàng 2 bên",
+          "visualReset": "Khung gương nghiêng góc 3 độ kèm tia sáng vàng ấm",
+          "sceneFamily": "comparison"
+        },
+        {
+          "atSecond": 18,
+          "trigger": "Tâm lý tự tin khi nhìn thấy mình",
+          "informationGain": "Khách mua phiên bản tự tin hơn của chính mình",
+          "visualReset": "Nụ cười rạng rỡ của người mua khi ngắm dáng trong gương",
+          "sceneFamily": "customer-reaction"
+        },
+        {
+          "atSecond": 26,
+          "trigger": "Đối lập gương phẳng đèn neon",
+          "informationGain": "Ánh sáng trắng lộ khuyết điểm làm tụt cảm xúc",
+          "visualReset": "Gương phẳng đèn trắng mờ đục đối lập",
+          "sceneFamily": "evidence-board"
+        },
+        {
+          "atSecond": 35,
+          "trigger": "Cơ chế tối ưu điểm chạm chốt đơn",
+          "informationGain": "Xóa bỏ sự tự ti ngay tại thời điểm quyết định",
+          "visualReset": "Biểu đồ đường cong cảm xúc đẩy điểm chạm lên đỉnh",
+          "sceneFamily": "framework"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Hành động cho chủ thương hiệu",
+          "informationGain": "Cách chỉnh góc đèn và camera livestream tôn dáng sản phẩm",
+          "visualReset": "Chủ shop căn chỉnh lại góc đèn livestream trên điện thoại",
+          "sceneFamily": "application-phone"
+        }
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "Khách bước vào phòng thử đồ",
+          "literalVisual": "Bàn tay kéo rèm vải nhung phòng thay đồ",
+          "action": "kéo rèm bước vào",
+          "sceneFamily": "storefront",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "Chiếc gương soi toàn thân",
+          "literalVisual": "Cận cảnh khung gương với góc nghiêng 3 độ và đèn vàng",
+          "action": "hiển thị góc nghiêng kỹ thuật",
+          "sceneFamily": "comparison",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Cảm xúc tự tin của khách",
+          "literalVisual": "Nụ cười hài lòng của cô gái khi ngắm mình trong gương",
+          "action": "xoay người ngắm áo mới",
+          "sceneFamily": "customer-reaction",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Đối lập gương phẳng đèn trắng",
+          "literalVisual": "Gương phẳng đèn neon trắng lộ khuyết điểm",
+          "action": "gương tối mờ đối lập",
+          "sceneFamily": "evidence-board",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "Cơ chế tâm lý điểm chạm",
+          "literalVisual": "Biểu đồ đường cong cảm xúc đẩy điểm chạm chốt đơn lên đỉnh",
+          "action": "kích hoạt quyết định mua",
+          "sceneFamily": "framework",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "Hành động cho chủ thương hiệu",
+          "literalVisual": "Chủ shop căn chỉnh lại góc đèn livestream trên điện thoại",
+          "action": "căn chỉnh ánh sáng",
+          "sceneFamily": "application-phone",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "mở đầu phòng thử đồ",
+          "giải mã góc nghiêng 3 độ",
+          "chốt cảm giác tự tin"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.4
+      },
+      "evidence": [
+        {
+          "title": "The Science of Fitting Room Mirrors and Retail Lighting",
+          "url": "https://www.retaildive.com/news/fitting-room-experience-retail-mirrors/",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu góc nghiêng gương và nhiệt độ màu 2700K tác động đến tỷ lệ mua hàng"
+        },
+        {
+          "title": "Sensory Marketing in Retail Environments",
+          "url": "https://hbr.org/2015/03/the-science-of-sensory-marketing",
+          "accessedAt": "2026-08-24",
+          "supports": "Tác động của điểm chạm thị giác không gian đến quyết định mua"
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED"
+      },
+      "visualSeed": "Fitting room full-length mirror with warm perimeter lighting, stylish cutout silhouette",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 4,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 4,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5
+      },
+      "totalScore": 58
+    },
+    {
+      "id": "IDEA003",
+      "rank": 3,
+      "title": "Đuôi giá 99k: Tại sao não bộ bỏ qua một nghìn đồng cuối cùng?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Chủ shop đặt giá tròn trịa (200k, 500k) cho gọn sổ sách nhưng khách lướt qua cảm thấy đắt và thoát khỏi giỏ hàng.",
+      "viewerQuestion": "Tại sao chỉ giảm đúng 1.000 đồng lại tạo ra cảm giác món đồ rẻ hơn hẳn một bậc?",
+      "caseStory": "Hai chiếc áo thun giống hệt nhau: chiếc giá 199.000đ bán chạy gấp 2.4 lần chiếc giá 200.000đ dù số tiền chênh lệch chỉ bằng một cái kẹo cao su.",
+      "curiosityParadox": "Chỉ lệch nhau đúng 1.000 đồng, tại sao não bộ lại bị đánh lừa là rẻ hơn cả chục nghìn?",
+      "brandingLesson": "Thiên kiến chữ số bên trái (Left-Digit Bias & Charm Pricing) — Não người đọc từ trái sang phải và neo tâm lý vào con số đầu tiên (1xx vs 2xx) trước khi kịp đọc hết mức giá.",
+      "actionablePayoff": "Đổi toàn bộ các mức giá chẵn trên TikTok Shop/Website sang đuôi lẻ 99k hoặc 499k.",
+      "topicKeywords": [
+        "charm pricing",
+        "left-digit bias",
+        "dinh gia san pham",
+        "tang ty le chuyen doi",
+        "tam ly gia"
+      ],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Thẻ tag giá giấy gắn trên cổ áo với 2 con số in đậm: 199.000đ đặt cạnh 200.000đ.",
+      "narrativeObject": "Chiếc tag giá quần áo có số 199.000đ in chữ đen nổi bật",
+      "curiosityGap": "Tại sao con số 1 lại làm não bộ cảm thấy nhẹ nhõm hơn hẳn con số 2 dù giá trị gần như y hệt?",
+      "hiddenMechanism": "Quá trình mã hóa thông tin của mắt dừng lại ở chữ số đầu tiên trước khi kịp phân tích logic toàn bộ số tiền.",
+      "marketingBridge": "Giá bán không chỉ là con số doanh thu, mà là tín hiệu thị giác kích hoạt rào cản chi tiêu.",
+      "proofMove": "Thực nghiệm tăng giá từ 190.000đ lên 199.000đ: doanh số không đổi nhưng tăng từ 199.000đ lên 200.000đ thì doanh số tụt 40%.",
+      "singleLesson": "Đặt giá bằng mắt người đọc, đừng đặt giá theo tính toán sổ sách.",
+      "immediateApplication": "Mở kho sản phẩm trên TikTok Shop, sửa giá 200k thành 199k ngay hôm nay.",
+      "motionPotential": [
+        "Tag giá 200k bị bóc tách số 2 đổi thành số 1 và đuôi 99k",
+        "Thanh quét mắt laser lướt qua chữ số đầu tiên sáng rực"
+      ],
+      "phenomenon": {
+        "observableMoment": "Lướt sản phẩm thấy mức giá 199.000đ và 200.000đ chỉ lệch nhau một nghìn lẻ nhưng cảm giác món 199k rẻ hơn rất nhiều.",
+        "businessStake": "Tỷ lệ bấm Thêm vào giỏ hàng quyết định chi phí quảng cáo và lợi nhuận bán hàng.",
+        "viewerPrediction": "Người xem đoán là do người mua không thèm để ý vài đồng tiền lẻ.",
+        "visibleContradiction": "Ai cũng biết 199k thực chất là 200k, nhưng tại sao não bộ vẫn bị thuyết phục để bấm mua?"
+      },
+      "hookDesign": {
+        "mode": "price-context-contrast",
+        "spokenHook": "Chỉ lệch nhau đúng một nghìn đồng, tại sao chiếc áo này bán chạy gấp đôi?",
+        "withheldAnswer": "Mắt người đọc từ trái sang phải và neo vào chữ số đầu tiên trước khi kịp xử lý phần đuôi.",
+        "broadAudienceBridge": "Ai mua hàng online hay đi siêu thị cũng từng bị hút mắt bởi những mức giá đuôi chín mươi chín nghìn."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Giá bán là một kích thích thị giác; mắt mã hóa chữ số đầu tiên trước khi não bộ kịp suy nghĩ logic.",
+        "technicalLabel": "Thiên kiến chữ số bên trái",
+        "earliestRevealSecond": 19
+      },
+      "proofPlan": {
+        "primaryClaim": "Giá 199k có tỷ lệ chuyển đổi cao hơn 2.4 lần so với giá 200k trên cùng một mã hàng.",
+        "evidenceType": "empirical-study",
+        "sourceNeeded": true,
+        "visualProof": "Đồ thị nghiên cứu Journal of Consumer Research và 2 tag giá đặt cạnh nhau."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 2,
+          "trigger": "Mở đầu hai tag giá",
+          "informationGain": "Đặt nghịch lý chênh lệch 1k nhưng doanh số gấp đôi",
+          "visualReset": "Hai tag giá 199k và 200k đặt sát cạnh nhau",
+          "sceneFamily": "storefront"
+        },
+        {
+          "atSecond": 8,
+          "trigger": "Hành vi bấm mua ngay",
+          "informationGain": "Khách ra quyết định mua chiếc 199k mà không cần đắn đo",
+          "visualReset": "Ngón tay bấm nút mua hàng trên màn hình điện thoại",
+          "sceneFamily": "customer-reaction"
+        },
+        {
+          "atSecond": 17,
+          "trigger": "Khám phá tia quét mắt",
+          "informationGain": "Não bộ chỉ ghi nhớ chữ số đầu tiên 1xx vs 2xx",
+          "visualReset": "Tia quét laser làm sáng bừng con số 1 bên trái",
+          "sceneFamily": "comparison"
+        },
+        {
+          "atSecond": 25,
+          "trigger": "Bằng chứng đồ thị sụt giảm",
+          "informationGain": "Vượt qua mốc số 2 làm tỷ lệ mua rơi tự do",
+          "visualReset": "Đường đồ thị doanh số rơi mạnh khi chuyển từ 1 sang 2",
+          "sceneFamily": "evidence-board"
+        },
+        {
+          "atSecond": 34,
+          "trigger": "Cơ chế tín hiệu thị giác",
+          "informationGain": "Giá bán là hình ảnh chứ không phải bài toán kế toán",
+          "visualReset": "Sơ đồ luồng mã hóa thông tin mắt vào não bộ",
+          "sceneFamily": "framework"
+        },
+        {
+          "atSecond": 42,
+          "trigger": "Hành động đổi giá trên app",
+          "informationGain": "Cách đổi giá chẵn thành đuôi lẻ ngay trong ngày",
+          "visualReset": "Giao diện quản lý giá trên app người bán đổi sang đuôi 99k",
+          "sceneFamily": "application-phone"
+        }
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "Khách cầm tag giá",
+          "literalVisual": "Bàn tay lật xem tag giá quần áo 199k vs 200k",
+          "action": "lật xem nhãn giá",
+          "sceneFamily": "storefront",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "Hai tag giá đặt cạnh nhau",
+          "literalVisual": "Tag giá 199.000đ và tag giá 200.000đ",
+          "action": "so sánh 2 tag giá",
+          "sceneFamily": "comparison",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Khách bấm thêm vào giỏ",
+          "literalVisual": "Ngón tay bấm nút mua ngay trên màn hình điện thoại",
+          "action": "bấm nút chốt đơn",
+          "sceneFamily": "customer-reaction",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Biểu đồ sụt giảm doanh số",
+          "literalVisual": "Đường đồ thị rơi mạnh khi vượt qua mốc số 2",
+          "action": "đồ thị tụt dốc",
+          "sceneFamily": "evidence-board",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "Cơ chế quét số bên trái",
+          "literalVisual": "Tia quét mắt dừng lại ở số 1 làm sáng vùng nhớ não bộ",
+          "action": "quét chữ số đầu",
+          "sceneFamily": "framework",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "Hành động cho nhà bán hàng",
+          "literalVisual": "Giao diện quản lý giá trên app người bán đổi số 000 thành 99k",
+          "action": "gõ sửa giá sản phẩm",
+          "sceneFamily": "application-phone",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "mở đầu tag giá",
+          "phân tích số 1 vs số 2",
+          "chốt bài học đổi giá"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.4
+      },
+      "evidence": [
+        {
+          "title": "The Left-Digit Bias in Price Perception",
+          "url": "https://www.jstor.org/stable/10.1086/429600",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu Journal of Consumer Research về tác động tâm lý của chữ số đầu tiên"
+        },
+        {
+          "title": "Charm Pricing Effects in Modern E-commerce",
+          "url": "https://hbr.org/2019/04/why-99-cent-pricing-still-works",
+          "accessedAt": "2026-08-24",
+          "supports": "Hiệu quả của đuôi giá .99 trong chuyển đổi online"
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED"
+      },
+      "visualSeed": "Kraft clothing price tag with 199.000d printed bold, clean sticker cutout",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 4,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5
+      },
+      "totalScore": 59
+    },
+    {
+      "id": "IDEA004",
+      "rank": 4,
+      "title": "Mùi bánh mì lúc 5h chiều: Vì sao siêu thị nướng bánh khi sắp đóng cửa?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Quảng cáo online chỉ tập trung liệt kê tính năng và hình ảnh chụp xa khô cứng, không tạo được cảm giác thèm muốn tức thì.",
+      "viewerQuestion": "Làm sao để đánh thức khao khát mua hàng của khách chỉ trong 3 giây đầu tiên?",
+      "caseStory": "Các siêu thị luôn nướng mẻ bánh mì bơ tỏi vào đúng 5h chiều và thổi quạt gió ra cửa chính: doanh số các mặt hàng thực phẩm tươi sống tăng thêm 28% dù khách không hề mua bánh mì.",
+      "curiosityParadox": "Bánh mì thơm phức không phải để bán bánh mì, mà để \"mở ví\" khách hàng cho toàn bộ siêu thị.",
+      "brandingLesson": "Tiếp thị khứu giác & đa giác quan (Sensory Priming) — Kích thích bản năng sinh học của não bộ trước khi khách hàng kịp suy nghĩ logic.",
+      "actionablePayoff": "Đưa các khung hình cận cảnh giàu xúc giác (tiếng xèo xèo, bốc khói, giọt nước đọng) vào mở đầu video.",
+      "topicKeywords": [
+        "sensory marketing",
+        "scent marketing",
+        "ambient priming",
+        "cam xuc khach hang",
+        "video retention"
+      ],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Ổ bánh mì nướng vàng giòn vừa ra lò, bốc khói nghi ngút kèm lát bơ tan chảy.",
+      "narrativeObject": "Ổ bánh mì baguette vàng ruộm bốc khói thơm",
+      "curiosityGap": "Tại sao mùi thơm của một ổ bánh mì lại khiến bạn nhặt thêm 3 gói xúc xích và 2 chai nước ngọt vào giỏ?",
+      "hiddenMechanism": "Khứu giác là giác quan duy nhất nối thẳng vào hệ viền (limbic system) kích hoạt cảm xúc thèm muốn mà không qua màng lọc lý trí.",
+      "marketingBridge": "Trên online, âm thanh và hình ảnh cận cảnh chất liệu (texture) chính là \"mùi hương\" kích thích xúc giác.",
+      "proofMove": "Video bán nước chỉ quay toàn cảnh chai nước: người xem lướt qua; video quay cận cảnh tiếng bật nắp \"tách\" và bọt ga sủi bọt: tỷ lệ giữ chân tăng gấp đôi.",
+      "singleLesson": "Đừng bắt khách hàng đọc hiểu tính năng, hãy làm các giác quan của họ thèm muốn trước.",
+      "immediateApplication": "Quay lại video sản phẩm với 1 góc quay macro cận cảnh chi tiết bề mặt hoặc âm thanh đặc trưng.",
+      "motionPotential": [
+        "Ổ bánh mì bốc khói nghi ngút với làn khói uốn lượn",
+        "Làn sóng hương thơm lan tỏa vào giỏ hàng siêu thị đầy ắp"
+      ],
+      "phenomenon": {
+        "observableMoment": "Bước vào siêu thị sau giờ tan sở, ngửi thấy mùi bơ tỏi nướng thơm lừng và tự động nhặt thêm nhiều món ăn vặt vào giỏ.",
+        "businessStake": "Kích thích giỏ hàng mở rộng (Cross-selling) tăng giá trị trung bình đơn hàng.",
+        "viewerPrediction": "Người xem đoán là siêu thị nướng bánh để phục vụ khách mua bữa tối.",
+        "visibleContradiction": "Hầu hết khách bị hấp dẫn bởi mùi bánh mì lại không mua bánh, mà nhặt thêm xúc xích, thịt bò và bia."
+      },
+      "hookDesign": {
+        "mode": "visible-paradox",
+        "spokenHook": "Siêu thị nướng bánh mì thơm phức lúc năm giờ chiều, nhưng không phải để bán bánh mì.",
+        "withheldAnswer": "Mùi thơm kích hoạt phản xạ thèm ăn sinh học làm khách nhặt thêm 28% thực phẩm tươi sống.",
+        "broadAudienceBridge": "Ai từng đi siêu thị lúc đói bụng đều từng trải qua cảm giác mua gấp đôi số đồ dự tính ban đầu."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Khứu giác và hình ảnh giàu xúc giác đi thẳng vào trung tâm cảm xúc của não bộ mà không qua màng lọc lý trí.",
+        "technicalLabel": "Tiếp thị khứu giác và đa giác quan",
+        "earliestRevealSecond": 21
+      },
+      "proofPlan": {
+        "primaryClaim": "Khuếch tán mùi hương bơ nướng làm tăng 28% doanh số khu thực phẩm tươi sống.",
+        "evidenceType": "empirical-study",
+        "sourceNeeded": true,
+        "visualProof": "Nghiên cứu American Psychological Association về tiếp thị mùi hương và biểu đồ giỏ hàng."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 2,
+          "trigger": "Mở đầu ổ bánh mì bốc khói",
+          "informationGain": "Đặt nghịch lý nướng bánh thơm nhưng không để bán bánh",
+          "visualReset": "Cận cảnh ổ bánh mì vàng ruộm bốc khói nghi ngút",
+          "sceneFamily": "storefront"
+        },
+        {
+          "atSecond": 9,
+          "trigger": "Hành vi nhặt đồ vào giỏ",
+          "informationGain": "Mùi hương kích thích cơn đói và mở ví khách hàng",
+          "visualReset": "Bàn tay hào hứng nhặt đồ ăn vặt vào xe đẩy siêu thị",
+          "sceneFamily": "customer-reaction"
+        },
+        {
+          "atSecond": 18,
+          "trigger": "Khám phá hệ viền não bộ",
+          "informationGain": "Khứu giác nối thẳng vào cảm xúc thèm muốn sinh học",
+          "visualReset": "Sơ đồ não bộ với luồng kích thích từ mũi vào cảm xúc",
+          "sceneFamily": "framework"
+        },
+        {
+          "atSecond": 27,
+          "trigger": "So sánh 2 dạng video online",
+          "informationGain": "Hình ảnh macro cận cảnh chính là mùi hương trên màn hình",
+          "visualReset": "Màn hình chia đôi: ảnh chụp xa khô cứng vs video cận cảnh sủi bọt",
+          "sceneFamily": "evidence-board"
+        },
+        {
+          "atSecond": 35,
+          "trigger": "Bài học đánh thức giác quan",
+          "informationGain": "Làm giác quan thèm muốn trước khi giải thích tính năng",
+          "visualReset": "Hình ảnh giọt nước đọng trên trái cây tươi mát",
+          "sceneFamily": "comparison"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Hành động quay video macro",
+          "informationGain": "Cách tự quay 1 shot cận cảnh bằng điện thoại",
+          "visualReset": "Chủ shop dùng điện thoại bấm quay cận cảnh chi tiết sản phẩm",
+          "sceneFamily": "application-phone"
+        }
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "Khách bước vào siêu thị",
+          "literalVisual": "Bàn tay đẩy xe đẩy siêu thị qua cửa kính",
+          "action": "đẩy xe vào siêu thị",
+          "sceneFamily": "storefront",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "Ổ bánh mì nướng thơm phức",
+          "literalVisual": "Cận cảnh ổ bánh mì vàng giòn bốc khói trên khay nướng",
+          "action": "bánh mì tỏa khói nóng",
+          "sceneFamily": "comparison",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Khách nhặt đồ vào giỏ",
+          "literalVisual": "Bàn tay hào hứng nhặt thêm đồ ăn vặt vào xe đẩy",
+          "action": "nhặt đồ vào giỏ hàng",
+          "sceneFamily": "customer-reaction",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Cơ chế hệ viền não bộ",
+          "literalVisual": "Sơ đồ não bộ với luồng kích thích nối thẳng từ mũi vào cảm xúc",
+          "action": "kích hoạt hệ viền não",
+          "sceneFamily": "framework",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "So sánh 2 video online",
+          "literalVisual": "Màn hình điện thoại chia đôi: ảnh tĩnh phẳng vs video macro sủi bọt",
+          "action": "so sánh tương phản",
+          "sceneFamily": "evidence-board",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "Hành động quay cận cảnh",
+          "literalVisual": "Chủ shop dùng điện thoại quay cận cảnh giọt nước đọng trên sản phẩm",
+          "action": "bấm máy quay macro",
+          "sceneFamily": "application-phone",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "mở đầu bánh mì nướng",
+          "phân tích luồng hương thơm",
+          "chốt bài học cận cảnh giác quan"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.35
+      },
+      "evidence": [
+        {
+          "title": "The Scent of Commerce: How Ambient Smells Influence Shoppers",
+          "url": "https://www.apa.org/monitor/2011/02/scents",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu của American Psychological Association về tiếp thị mùi hương trong bán lẻ"
+        },
+        {
+          "title": "Sensory Video Retention in Social Commerce",
+          "url": "https://www.tiktok.com/business/en/insights",
+          "accessedAt": "2026-08-24",
+          "supports": "Hiệu quả giữ chân người xem của âm thanh ASMR và hình ảnh macro cận cảnh"
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED"
+      },
+      "visualSeed": "Golden crust baguette loaf steaming with aroma swirls on paper background, crisp cutout",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 4,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 4,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5
+      },
+      "totalScore": 58
+    },
+    {
+      "id": "IDEA005",
+      "rank": 5,
+      "title": "Góc trên bên phải menu: Mắt người đọc thực đơn theo hình tam giác",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Trang bán hàng, bảng giá hoặc bio link trình bày dày đặc thông tin khiến khách hàng bị ngợp và lướt qua mà không chọn món nào.",
+      "viewerQuestion": "Làm sao để dẫn dắt ánh nhìn của khách hàng thẳng vào món mang lại nhiều lợi nhuận nhất?",
+      "caseStory": "Nghiên cứu Eye-tracking (theo dõi chuyển động mắt) trên menu nhà hàng: 70% ánh nhìn đầu tiên luôn rơi vào góc 1/3 phía trên bên phải (The Golden Triangle), nơi quán luôn đặt món signature.",
+      "curiosityParadox": "Người ta không đọc bảng giá như đọc một cuốn sách từ trái sang phải, mà quét theo một tam giác thị giác có chủ đích.",
+      "brandingLesson": "Thiết kế điều hướng thị giác (Menu Engineering & Eye-tracking) — Món bán chạy không phải do may mắn, mà do vị trí đón đầu ánh nhìn tự nhiên.",
+      "actionablePayoff": "Đưa sản phẩm chủ lực sinh lời cao nhất vào đúng vị trí góc trên cùng bên phải của banner hoặc trang bán hàng.",
+      "topicKeywords": [
+        "menu engineering",
+        "golden triangle",
+        "eye tracking",
+        "bo cuc landing page",
+        "dieu huong thi giac"
+      ],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Cầm trên tay tờ menu nhà hàng gấp 3, mở bung ra và ánh mắt bắt đầu lướt tìm món.",
+      "narrativeObject": "Tờ menu gấp 3 bằng giấy kraft với các ô món ăn có viền bo tròn",
+      "curiosityGap": "Tại sao hầu hết mọi người đều gọi đúng cái món nằm ở góc trên bên phải dù menu có hàng chục món khác nhau?",
+      "hiddenMechanism": "Mắt người quét thông tin theo hình tam giác vàng: bắt đầu ở giữa, nhảy lên góc trên phải, rồi lướt sang góc trên trái.",
+      "marketingBridge": "Khách hàng không bao giờ đọc hết, họ chỉ dừng lại ở điểm nhấn thị giác đầu tiên thu hút họ.",
+      "proofMove": "Chuyển món signature từ dưới đáy menu lên góc trên phải: lượng gọi món tăng ngay 45% mà không cần giảm giá.",
+      "singleLesson": "Đừng dàn trải sản phẩm, hãy đặt món chủ lực vào điểm rơi tự nhiên của ánh mắt.",
+      "immediateApplication": "Sắp xếp lại trang bio link hoặc bảng giá: đặt sản phẩm muốn bán nhất lên vị trí trên cùng bên phải.",
+      "motionPotential": [
+        "Đường nét đứt màu hồng vẽ biểu đồ tam giác vàng lướt qua 3 điểm trên menu",
+        "Ô món ăn ở góc trên phải phát sáng với nhãn Best Seller bo tròn"
+      ],
+      "phenomenon": {
+        "observableMoment": "Mở tờ menu gấp 3 trong quán ăn, mắt tự động nhìn vào giữa rồi liếc ngay lên góc trên cùng bên phải.",
+        "businessStake": "Vị trí đặt sản phẩm quyết định tỷ lệ gọi món chủ lực và biên lợi nhuận của quán.",
+        "viewerPrediction": "Người xem đoán mắt người đọc từ góc trên bên trái sang như đọc một trang sách.",
+        "visibleContradiction": "Dù menu có hàng chục món, tại sao phần lớn khách đều gọi đúng món nằm ở góc trên bên phải?"
+      },
+      "hookDesign": {
+        "mode": "prediction-puzzle",
+        "spokenHook": "Cầm một cuốn menu dày cộp, bạn có biết mắt mình sẽ nhìn vào đâu đầu tiên?",
+        "withheldAnswer": "Mắt quét theo tam giác vàng: bắt đầu ở giữa rồi nhảy thẳng lên góc trên cùng bên phải.",
+        "broadAudienceBridge": "Ai từng đi ăn nhà hàng, xem menu hay lướt app đặt đồ ăn đều trải qua phản xạ quét mắt này."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Khách hàng không đọc từng chữ; họ quét nhanh theo các điểm neo thị giác nổi bật nhất.",
+        "technicalLabel": "Kỹ thuật thực đơn và tam giác vàng",
+        "earliestRevealSecond": 20
+      },
+      "proofPlan": {
+        "primaryClaim": "Chuyển món signature lên góc trên bên phải làm tăng 45% lượt gọi món mà không cần khuyến mãi.",
+        "evidenceType": "empirical-study",
+        "sourceNeeded": true,
+        "visualProof": "Bản đồ nhiệt theo dõi chuyển động mắt Eye-tracking trên thực đơn nhà hàng."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 2,
+          "trigger": "Mở đầu tờ menu gấp 3",
+          "informationGain": "Đặt câu hỏi mắt nhìn vào đâu đầu tiên trên menu",
+          "visualReset": "Bàn tay mở bung tờ menu nhà hàng gấp 3",
+          "sceneFamily": "storefront"
+        },
+        {
+          "atSecond": 9,
+          "trigger": "Khám phá luồng quét mắt",
+          "informationGain": "Mắt nhảy từ giữa lên góc trên bên phải",
+          "visualReset": "Đường nét đứt vẽ tam giác vàng nối giữa và góc phải",
+          "sceneFamily": "comparison"
+        },
+        {
+          "atSecond": 18,
+          "trigger": "Khách gọi món signature",
+          "informationGain": "Món đặt ở góc vàng luôn có tỷ lệ gọi cao nhất",
+          "visualReset": "Khách hàng mỉm cười chỉ tay vào món nổi bật góc phải",
+          "sceneFamily": "customer-reaction"
+        },
+        {
+          "atSecond": 27,
+          "trigger": "Bằng chứng tăng 45% doanh số",
+          "informationGain": "Đổi vị trí tăng lượng đặt hàng mà không cần giảm giá",
+          "visualReset": "Cột biểu đồ doanh số vọt lên 45% sau khi chuyển vị trí",
+          "sceneFamily": "evidence-board"
+        },
+        {
+          "atSecond": 35,
+          "trigger": "Cơ chế tam giác thị giác di động",
+          "informationGain": "Ứng dụng 3 điểm vàng trên banner và landing page",
+          "visualReset": "Sơ đồ 3 điểm vàng trên giao diện màn hình điện thoại",
+          "sceneFamily": "framework"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Hành động sắp xếp lại link",
+          "informationGain": "Cách đưa sản phẩm chủ lực vào vị trí vàng",
+          "visualReset": "Màn hình kéo thả sắp xếp lại vị trí sản phẩm trên bio link",
+          "sceneFamily": "application-phone"
+        }
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "Khách mở menu gấp 3",
+          "literalVisual": "Bàn tay mở bung tờ menu nhà hàng gấp 3",
+          "action": "mở bung menu",
+          "sceneFamily": "storefront",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "Tờ menu với sơ đồ mắt quét",
+          "literalVisual": "Tờ menu với luồng mắt quét hình tam giác vàng nối giữa và góc phải",
+          "action": "vẽ luồng mắt quét",
+          "sceneFamily": "comparison",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Khách chỉ tay gọi món signature",
+          "literalVisual": "Khách hàng mỉm cười chỉ tay vào món nổi bật góc phải",
+          "action": "chỉ tay chọn món",
+          "sceneFamily": "customer-reaction",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Bằng chứng doanh số tăng 45%",
+          "literalVisual": "Thanh biểu đồ so sánh lượng gọi món trước và sau khi đổi vị trí",
+          "action": "cột doanh số tăng vọt",
+          "sceneFamily": "evidence-board",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "Cơ chế tam giác thị giác",
+          "literalVisual": "Sơ đồ 3 điểm vàng điều hướng thị giác trên thiết bị di động",
+          "action": "hiển thị 3 điểm vàng",
+          "sceneFamily": "framework",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "Hành động sắp xếp lại bio link",
+          "literalVisual": "Màn hình điện thoại kéo thả sắp xếp lại vị trí sản phẩm trên link in bio",
+          "action": "kéo thả đổi vị trí",
+          "sceneFamily": "application-phone",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "mở đầu menu gấp 3",
+          "giải mã tam giác vàng",
+          "chốt bài học sắp xếp link"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.4
+      },
+      "evidence": [
+        {
+          "title": "The Psychology of Menu Engineering and the Golden Triangle",
+          "url": "https://www.restaurantowner.com/public/Menu-Engineering-Psychology.cfm",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu Eye-tracking và mô hình Tam giác vàng trong thiết kế thực đơn"
+        },
+        {
+          "title": "F-Pattern and Visual Hierarchy in Mobile UI",
+          "url": "https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu Nielsen Norman Group về hành vi quét mắt người dùng trên màn hình"
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED"
+      },
+      "visualSeed": "Tri-fold kraft paper restaurant menu with eye-tracking path overlay, clean cutout",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 4,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5
+      },
+      "totalScore": 59
+    },
+    {
+      "id": "IDEA006",
+      "rank": 6,
+      "title": "Nút hoàn tác năm giây: Vì sao cho phép đổi ý lại khiến khách mua nhanh hơn?",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Khách hàng ngập ngừng ở bước thanh toán vì sợ mua nhầm kích cỡ, màu sắc không hợp hoặc sản phẩm không như hình quảng cáo.",
+      "viewerQuestion": "Làm sao để khách hàng ra quyết định mua ngay lập tức mà không đắn đo lo sợ?",
+      "caseStory": "Tính năng \"Hoàn tác gửi trong 5 giây\" của Gmail giúp người dùng bớt 80% nỗi sợ bấm nhầm. Tương tự, chính sách đổi trả 60 ngày miễn phí của Coolmate giúp tăng tỷ lệ chốt đơn gấp 3 lần.",
+      "curiosityParadox": "Cho phép khách hàng đổi ý dễ dàng không làm tăng tỷ lệ trả hàng, mà lại làm họ mua hàng nhiều hơn.",
+      "brandingLesson": "Gỡ bỏ hoàn toàn rủi ro (Risk Reversal & Reversible Decision) — Khi rủi ro thuộc về người bán, người mua sẽ không còn lý do để trì hoãn.",
+      "actionablePayoff": "Bổ sung cam kết \"Đổi trả miễn phí không cần lý do trong 7 ngày\" ngay sát cạnh nút Mua hàng.",
+      "topicKeywords": [
+        "risk reversal",
+        "reversible decision",
+        "chinh sach doi tra",
+        "giam ma sat mua hang",
+        "coolmate case"
+      ],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Bấm nút gửi email trên màn hình, thanh thông báo màu đen góc dưới hiện lên kèm chữ \"Hoàn tác\" nhấp nháy.",
+      "narrativeObject": "Nút bấm \"Hoàn tác\" dạng pop-up đen nhỏ với mũi tên quay ngược",
+      "curiosityGap": "Tại sao chỉ một chiếc nút nhỏ cho phép đổi ý lại khiến người ta tự tin bấm gửi mà không cần kiểm tra lại 5 lần?",
+      "hiddenMechanism": "Tâm lý con người tê liệt khi đối mặt với quyết định không thể đảo ngược (Irreversible); nhưng khi biết có thể quay đầu, họ hành động ngay tức khắc.",
+      "marketingBridge": "Chính sách đổi trả không phải là chi phí rủi ro, mà là vũ khí bán hàng mạnh nhất.",
+      "proofMove": "Shop thêm cam kết \"Shipper chờ thử đồ nếu không vừa trả lại miễn phí\": tỷ lệ chuyển đổi tăng 60% trong khi tỷ lệ hoàn hàng chỉ tăng 2%.",
+      "singleLesson": "Muốn khách hàng quyết định nhanh, hãy gánh hết rủi ro về phía mình.",
+      "immediateApplication": "Thêm một dòng chữ cam kết đổi trả không điều kiện ngay bên dưới nút Mua trên trang sản phẩm.",
+      "motionPotential": [
+        "Nút Hoàn tác đếm ngược 5 giây rồi biến thành biểu tượng an tâm tick xanh",
+        "Mũi tên rủi ro chuyển hướng từ vai khách hàng sang chiếc hộp cam kết của thương hiệu"
+      ],
+      "phenomenon": {
+        "observableMoment": "Bấm gửi email rồi thở phào khi thấy nút Hoàn tác 5 giây, tương tự như việc tự tin mua hàng khi có cam kết đổi trả miễn phí.",
+        "businessStake": "Tỷ lệ bỏ rơi giỏ hàng ở bước thanh toán cuối cùng là rào cản lớn nhất của thương mại điện tử.",
+        "viewerPrediction": "Người xem đoán là cho đổi trả dễ dàng sẽ khiến khách quỵt hàng hoặc trả hàng vô tội vạ.",
+        "visibleContradiction": "Tại sao các thương hiệu áp dụng chính sách đổi trả miễn phí 60 ngày lại có doanh thu tăng gấp ba và tỷ lệ hoàn hàng cực thấp?"
+      },
+      "hookDesign": {
+        "mode": "visible-paradox",
+        "spokenHook": "Cho phép khách hàng đổi ý dễ dàng không làm tăng hủy đơn, mà làm họ mua nhanh gấp ba.",
+        "withheldAnswer": "Bộ não người sợ quyết định một chiều; khi được gỡ bỏ rủi ro, họ sẽ quẹt thẻ ngay.",
+        "broadAudienceBridge": "Ai từng mua hàng online cũng từng đắn đo sợ mua nhầm size và chỉ dám mua khi có cam kết đổi trả."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Khi người bán gánh trọn vẹn rủi ro, người mua không còn lý do tâm lý để trì hoãn quyết định.",
+        "technicalLabel": "Gỡ bỏ rủi ro và quyết định có thể đảo ngược",
+        "earliestRevealSecond": 22
+      },
+      "proofPlan": {
+        "primaryClaim": "Chính sách đổi trả 60 ngày miễn phí của Coolmate giúp tăng gấp 3 lần tỷ lệ chốt đơn khách mới.",
+        "evidenceType": "documented-case",
+        "sourceNeeded": true,
+        "visualProof": "Giao diện nút Hoàn tác Gmail và hộp cam kết đổi trả 60 ngày của Coolmate."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 2,
+          "trigger": "Mở đầu nút Hoàn tác Gmail",
+          "informationGain": "Đặt nghịch lý cho phép đổi ý giúp người ta hành động nhanh hơn",
+          "visualReset": "Bàn tay bấm gửi email rồi thở phào thấy nút Hoàn tác",
+          "sceneFamily": "storefront"
+        },
+        {
+          "atSecond": 10,
+          "trigger": "Nỗi đắn đo của người mua hàng",
+          "informationGain": "Khách ngập ngừng vì sợ rủi ro mua nhầm",
+          "visualReset": "Góc nhìn người mua tay ngập ngừng trên nút Đặt hàng",
+          "sceneFamily": "customer-reaction"
+        },
+        {
+          "atSecond": 19,
+          "trigger": "Case study hộp đổi trả Coolmate",
+          "informationGain": "Chính sách đổi trả 60 ngày gỡ bỏ hoàn toàn nỗi sợ",
+          "visualReset": "Hộp hàng Coolmate mở ra với thiệp cam kết đổi trả",
+          "sceneFamily": "evidence-board"
+        },
+        {
+          "atSecond": 28,
+          "trigger": "Cơ chế quyết định đảo ngược",
+          "informationGain": "Tâm lý tự do hành động khi có đường lui",
+          "visualReset": "Cán cân rủi ro chuyển dịch hoàn toàn sang phía thương hiệu",
+          "sceneFamily": "framework"
+        },
+        {
+          "atSecond": 36,
+          "trigger": "Bằng chứng tỷ lệ chuyển đổi tăng 60%",
+          "informationGain": "Tỷ lệ hoàn hàng chỉ tăng 2% nhưng đơn hàng tăng vọt",
+          "visualReset": "Đồ thị so sánh tỷ lệ chốt đơn trước và sau cam kết",
+          "sceneFamily": "comparison"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Hành động thêm cam kết đổi trả",
+          "informationGain": "Cách đặt câu cam kết ngay cạnh nút mua hàng",
+          "visualReset": "Màn hình điện thoại thêm dòng cam kết đổi trả 7 ngày dưới nút mua",
+          "sceneFamily": "application-phone"
+        }
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "Người dùng bấm gửi email",
+          "literalVisual": "Bàn tay bấm chuột gửi email rồi thở phào khi thấy nút Hoàn tác",
+          "action": "bấm nút gửi",
+          "sceneFamily": "storefront",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "Nút bấm Hoàn tác 5 giây",
+          "literalVisual": "Cận cảnh thanh thông báo đen với chữ Hoàn tác và đồng hồ 5s",
+          "action": "đếm ngược 5 giây",
+          "sceneFamily": "comparison",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Khách hàng ngập ngừng mua hàng",
+          "literalVisual": "Góc nhìn người mua đắn đo tay ngập ngừng trên nút Đặt hàng",
+          "action": "ngập ngừng đắn đo",
+          "sceneFamily": "customer-reaction",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Hộp hàng Coolmate cam kết 60 ngày",
+          "literalVisual": "Chiếc hộp giấy mở ra với thiệp cam kết đổi trả 60 ngày",
+          "action": "mở hộp thiệp cam kết",
+          "sceneFamily": "evidence-board",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "Cơ chế quyết định đảo ngược",
+          "literalVisual": "Cán cân rủi ro nghiêng hoàn toàn về phía thương hiệu bảo trợ",
+          "action": "cán cân chuyển dịch",
+          "sceneFamily": "framework",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "Hành động thêm cam kết đổi trả",
+          "literalVisual": "Màn hình điện thoại thêm dòng chữ cam kết đổi trả 7 ngày bên dưới nút mua",
+          "action": "soạn dòng cam kết",
+          "sceneFamily": "application-phone",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "mở đầu nút Undo",
+          "hộp cam kết đổi trả",
+          "chốt bài học gỡ bỏ rủi ro"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.4
+      },
+      "evidence": [
+        {
+          "title": "The Power of Risk Reversal in Direct Response Marketing by Jay Abraham",
+          "url": "https://www.abraham.com/risk-reversal-strategy/",
+          "accessedAt": "2026-08-24",
+          "supports": "Nguyên lý gỡ bỏ rủi ro gia tăng tỷ lệ chuyển đổi bán hàng"
+        },
+        {
+          "title": "Type 1 vs Type 2 Decisions by Jeff Bezos (Amazon Shareholder Letter)",
+          "url": "https://www.aboutamazon.com/news/company-news/2015-letter-to-shareholders",
+          "accessedAt": "2026-08-24",
+          "supports": "Mô hình quyết định 2 chiều (Two-Way Doors / Reversible Decisions)"
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED"
+      },
+      "visualSeed": "Black floating Undo notification pill button with reverse arrow icon, clean sticker cutout",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 4,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 5,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5
+      },
+      "totalScore": 59
+    },
+    {
+      "id": "IDEA007",
+      "rank": 7,
+      "title": "Tiếng tách trên nắp ly: Một âm thanh cơ học định vị sản phẩm cao cấp",
+      "lane": "EVERGREEN",
+      "status": "NEW",
+      "painPoint": "Sản phẩm tốt nhưng bao bì, phụ kiện ọp ẹp tạo cảm giác rẻ tiền và thiếu chuyên nghiệp ngay trong lần đầu sử dụng.",
+      "viewerQuestion": "Làm sao để một chi tiết vật lý nhỏ tạo ra cảm giác cao cấp và đáng tin cậy?",
+      "caseStory": "Các hãng cà phê cao cấp chi hàng triệu đô để thiết kế nắp ly có tiếng \"tách\" đanh gọn khi đóng lại: khách hàng cảm nhận ngay sự chắc chắn và chống tràn mà không cần đọc cam kết.",
+      "curiosityParadox": "Tại sao một tiếng kêu cơ học nửa giây lại quyết định khách hàng nghĩ sản phẩm này sang hay rẻ tiền?",
+      "brandingLesson": "Tiếp thị âm thanh & xúc giác vi mô (Haptic & Sonic Micro-interactions) — Cảm giác an tâm được xây dựng từ những tương tác vật lý nhỏ nhất.",
+      "actionablePayoff": "Kiểm tra lại âm thanh đóng gói, tiếng kéo zip hoặc cảm giác mở nắp sản phẩm để loại bỏ mọi cảm giác ọp ẹp.",
+      "topicKeywords": [
+        "sonic branding",
+        "haptic feedback",
+        "micro interactions",
+        "bao bi cao cap",
+        "trai nghiem khach hang"
+      ],
+      "storyPattern": "everyday-object-reveal",
+      "familiarOpening": "Ngón tay cái ấn nhẹ lên lẫy nắp ly nhựa takeaway, phát ra tiếng \"tách\" đanh gọn và khít chặt.",
+      "narrativeObject": "Chiếc nắp ly takeaway màu trắng đục với lẫy bấm nắp bật mở",
+      "curiosityGap": "Tại sao tiếng \"tách\" giòn tan của chiếc nắp ly lại làm bạn thấy ly cà phê 60k đáng tiền hơn ly 20k vỉa hè?",
+      "hiddenMechanism": "Âm thanh dứt khoát kích hoạt tín hiệu \"đã khóa an toàn\" trong não bộ, xóa bỏ nỗi lo cà phê đổ tràn ra xe.",
+      "marketingBridge": "Chất lượng thương hiệu không nằm ở lời giới thiệu, mà nằm ở độ đầm chắc của từng điểm chạm cơ học.",
+      "proofMove": "Hãng xe hơi Mercedes thuê kỹ sư âm thanh chuyên biệt chỉ để tinh chỉnh tiếng đóng cửa xe \"phập\" trầm đục để khẳng định đẳng cấp.",
+      "singleLesson": "Đừng để bao bì ọp ẹp phá hủy chất lượng sản phẩm bên trong.",
+      "immediateApplication": "Tự tay đóng gói và mở thử 1 đơn hàng của shop, lắng nghe âm thanh và cảm giác vật lý khi chạm vào.",
+      "motionPotential": [
+        "Chiếc nắp ly khép chặt với sóng âm thanh \"tách\" lan tỏa",
+        "Khóa zip túi đựng sản phẩm kéo một đường mượt mà không kẹt"
+      ],
+      "phenomenon": {
+        "observableMoment": "Ấn nắp ly cà phê takeaway nghe tiếng \"tách\" đanh gọn và cảm nhận ngay độ đầm chắc chống tràn.",
+        "businessStake": "Trải nghiệm vật lý trong lần chạm đầu tiên định vị chất lượng sản phẩm trong tâm trí người dùng.",
+        "viewerPrediction": "Người xem đoán tiếng tách chỉ là âm thanh nhựa va vào nhau ngẫu nhiên.",
+        "visibleContradiction": "Tại sao các thương hiệu lớn lại chi tiền tỷ để tinh chỉnh một tiếng kêu cơ học chỉ kéo dài nửa giây?"
+      },
+      "hookDesign": {
+        "mode": "identity-boundary",
+        "spokenHook": "Chỉ một tiếng tách nửa giây của nắp ly, tại sao lại quyết định một cốc nước sang hay rẻ?",
+        "withheldAnswer": "Âm thanh đanh dứt khoát gửi tín hiệu an toàn và tay nghề gia công cao cấp vào não bộ.",
+        "broadAudienceBridge": "Bất cứ ai từng cầm một ly nước mang đi đều từng trải qua nỗi lo bị bung nắp và đổ tràn ra xe."
+      },
+      "theoryBridge": {
+        "plainLanguageMechanism": "Chất lượng thương hiệu được cảm nhận qua âm thanh và độ đầm chắc của từng điểm chạm cơ học nhỏ nhất.",
+        "technicalLabel": "Điểm chạm âm thanh và xúc giác vi mô",
+        "earliestRevealSecond": 20
+      },
+      "proofPlan": {
+        "primaryClaim": "Hãng xe Mercedes thiết kế tiếng đóng cửa xe đầm chắc để tạo cảm giác an toàn và khẳng định chất lượng xe sang.",
+        "evidenceType": "documented-case",
+        "sourceNeeded": true,
+        "visualProof": "Biểu đồ phân tích sóng âm thanh tiếng nắp ly và khuôn rãnh khóa cơ học."
+      },
+      "retentionResets": [
+        {
+          "atSecond": 2,
+          "trigger": "Mở đầu tiếng tách nắp ly",
+          "informationGain": "Đặt câu hỏi tiếng kêu nửa giây định vị ly nước sang hay rẻ",
+          "visualReset": "Ngón tay ấn nắp ly nghe tiếng tách giòn rụm",
+          "sceneFamily": "storefront"
+        },
+        {
+          "atSecond": 9,
+          "trigger": "Cận cảnh rãnh khóa cơ học",
+          "informationGain": "Rãnh khóa chống tràn kích hoạt cảm giác an tâm",
+          "visualReset": "Cận cảnh cấu trúc rãnh khóa nắp ly màu trắng",
+          "sceneFamily": "comparison"
+        },
+        {
+          "atSecond": 18,
+          "trigger": "Khách tự tin cầm ly đi",
+          "informationGain": "Loại bỏ hoàn toàn nỗi sợ cà phê đổ tràn ra xe",
+          "visualReset": "Khách cầm ly cà phê sải bước tự tin",
+          "sceneFamily": "customer-reaction"
+        },
+        {
+          "atSecond": 26,
+          "trigger": "Case study âm thanh cửa xe Mercedes",
+          "informationGain": "Hãng xe sang tinh chỉnh âm thanh để khẳng định đẳng cấp",
+          "visualReset": "Cửa xe hơi đóng lại với biểu tượng sóng âm thanh đầm chắc",
+          "sceneFamily": "evidence-board"
+        },
+        {
+          "atSecond": 35,
+          "trigger": "Cơ chế tương tác vi mô",
+          "informationGain": "Niềm tin thương hiệu đến từ từng điểm chạm vật lý",
+          "visualReset": "Sơ đồ micro-interactions kết nối điểm chạm với niềm tin",
+          "sceneFamily": "framework"
+        },
+        {
+          "atSecond": 43,
+          "trigger": "Hành động tự test bao bì",
+          "informationGain": "Cách tự kiểm tra âm thanh và cảm giác đóng gói của shop",
+          "visualReset": "Chủ shop dùng tay test thử độ đầm của hộp và khóa kéo",
+          "sceneFamily": "application-phone"
+        }
+      ],
+      "sceneOpportunities": [
+        {
+          "voiceSubject": "Khách đóng nắp ly cà phê",
+          "literalVisual": "Ngón tay ấn lẫy nắp ly nghe tiếng tách giòn",
+          "action": "ấn nắp ly khít chặt",
+          "sceneFamily": "storefront",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "hook-puzzle"
+        },
+        {
+          "voiceSubject": "Chiếc nắp ly takeaway",
+          "literalVisual": "Cận cảnh cấu trúc rãnh khóa chống tràn của nắp ly",
+          "action": "hiển thị cấu trúc rãnh khóa",
+          "sceneFamily": "comparison",
+          "humanAction": false,
+          "motifPresent": true,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Khách yên tâm cầm ly đi",
+          "literalVisual": "Khách cầm ly cà phê sải bước tự tin không sợ đổ",
+          "action": "sải bước cầm ly",
+          "sceneFamily": "customer-reaction",
+          "humanAction": true,
+          "motifPresent": false,
+          "retentionLayer": "story-action"
+        },
+        {
+          "voiceSubject": "Âm thanh đóng cửa xe Mercedes",
+          "literalVisual": "Cửa xe hơi đóng lại với biểu tượng sóng âm thanh đầm chắc",
+          "action": "đóng cửa xe đầm chắc",
+          "sceneFamily": "evidence-board",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "proof-evidence"
+        },
+        {
+          "voiceSubject": "Cơ chế tương tác vi mô",
+          "literalVisual": "Sơ đồ micro-interactions kết nối điểm chạm vật lý với niềm tin thương hiệu",
+          "action": "kết nối niềm tin",
+          "sceneFamily": "framework",
+          "humanAction": false,
+          "motifPresent": false,
+          "retentionLayer": "mechanism-decode"
+        },
+        {
+          "voiceSubject": "Hành động kiểm tra bao bì",
+          "literalVisual": "Chủ shop dùng tay test thử độ đầm của nắp hộp và khóa kéo bao bì",
+          "action": "thử nghiệm đóng gói",
+          "sceneFamily": "application-phone",
+          "humanAction": true,
+          "motifPresent": true,
+          "retentionLayer": "application-audit"
+        }
+      ],
+      "motifUsage": {
+        "returnPoints": [
+          "mở đầu nắp ly",
+          "cấu trúc rãnh khóa",
+          "chốt bài học test bao bì"
+        ],
+        "maxConsecutiveMotifOnlyScenes": 2,
+        "targetCueShare": 0.4
+      },
+      "evidence": [
+        {
+          "title": "The Psychology of Sound in Product Design",
+          "url": "https://www.fastcompany.com/3052210/the-sound-of-design",
+          "accessedAt": "2026-08-24",
+          "supports": "Nghiên cứu về thiết kế âm thanh sản phẩm (Sonic Branding & Haptics)"
+        },
+        {
+          "title": "Micro-Interactions in Physical and Digital Product Design",
+          "url": "https://www.nngroup.com/articles/microinteractions/",
+          "accessedAt": "2026-08-24",
+          "supports": "Tác động của tương tác vi mô đến cảm nhận chất lượng của người dùng"
+        }
+      ],
+      "viralEvidence": {
+        "status": "NOT_CLAIMED"
+      },
+      "visualSeed": "White takeaway coffee cup lid with snap lock mechanism, clean matte sticker cutout",
+      "rightsStatus": "CLEARED",
+      "estimatedImageCalls": 8,
+      "productionCost": "LOW",
+      "scores": {
+        "openingFamiliarity": 5,
+        "curiosityGap": 5,
+        "narrativeObjectStrength": 5,
+        "semanticVisualCoverage": 5,
+        "sceneVariety": 5,
+        "motionPotential": 4,
+        "singleLessonClarity": 5,
+        "immediateApplicability": 4,
+        "viewerParticipation": 5,
+        "broadAudienceReach": 5,
+        "proofReadiness": 5,
+        "retentionResetStrength": 5
+      },
+      "totalScore": 58
+    }
+  ]
+}

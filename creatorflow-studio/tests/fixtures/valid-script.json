@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "metadata": {
+    "episodeId": "ep101",
+    "slug": "chai-nuoc-ben-bo-hoa",
+    "version": 1,
+    "status": "script-review",
+    "approvedIdea": "ideas/20260817-ideas-v01.json#idea-1",
+    "language": "vi",
+    "stylePreset": "branding-story-paper-pink",
+    "targetSeconds": 50,
+    "researchRequired": true
+  },
+  "creativeContract": {
+    "title": "Vì sao chai nước bên bó hoa bán đắt hơn?",
+    "audience": "Chủ shop nhỏ và người xây thương hiệu cá nhân",
+    "premise": "Bối cảnh có thể đổi cách khách hiểu giá trị.",
+    "payoff": "Viết lại một tình huống sử dụng cụ thể.",
+    "caseType": "real",
+    "openingFrame": {
+      "visualTension": "Chai nước bình thường xuất hiện cạnh bó hoa nhưng có giá cao hơn.",
+      "heroSubject": "Một chai nước cạnh bó hoa.",
+      "contrast": "Đồ uống giải khát đối lập với món quà chỉn chu.",
+      "firstFrameCopy": "CHAI NƯỚC ĐẮT GẤP BA?"
+    }
+  },
+  "topicKeywords": ["định vị", "bối cảnh sử dụng", "giá trị cảm nhận", "bao bì"],
+  "voiceover": {
+    "displayText": "Một chai nước đắt gấp 3 vẫn bán hết. Khách không mua nước nhiều hơn... họ mua cảm giác món quà chỉn chu. Cửa hàng đặt chai bên cạnh bó hoa thay vì tủ lạnh. Cách trưng bày đổi cách khách hiểu. Bài học branding: giá trị không nằm trong món đồ, mà nằm trong hoàn cảnh. Hãy viết ra một tình huống khách cần sản phẩm. Lưu video này để thử cho sản phẩm của bạn.",
+    "voiceText": "Một chai nước đắt gấp ba vẫn bán hết. Khách không mua nước nhiều hơn... họ mua cảm giác món quà chỉn chu. Cửa hàng đặt chai bên cạnh bó hoa thay vì tủ lạnh. Cách trưng bày đổi cách khách hiểu. Bài học về thương hiệu: giá trị không nằm trong món đồ, mà nằm trong hoàn cảnh. Hãy viết ra một tình huống khách cần sản phẩm. Lưu video này để thử cho sản phẩm của bạn.",
+    "sections": {
+      "hook": {
+        "displayText": "Một chai nước đắt gấp 3 vẫn bán hết.",
+        "voiceText": "Một chai nước đắt gấp ba vẫn bán hết.",
+        "estimatedStartMs": 0,
+        "estimatedEndMs": 2500
+      },
+      "body": {
+        "displayText": "Khách không mua nước nhiều hơn... họ mua cảm giác món quà chỉn chu. Cửa hàng đặt chai bên cạnh bó hoa thay vì tủ lạnh. Cách trưng bày đổi cách khách hiểu. Bài học branding: giá trị không nằm trong món đồ, mà nằm trong hoàn cảnh. Hãy viết ra một tình huống khách cần sản phẩm.",
+        "voiceText": "Khách không mua nước nhiều hơn... họ mua cảm giác món quà chỉn chu. Cửa hàng đặt chai bên cạnh bó hoa thay vì tủ lạnh. Cách trưng bày đổi cách khách hiểu. Bài học về thương hiệu: giá trị không nằm trong món đồ, mà nằm trong hoàn cảnh. Hãy viết ra một tình huống khách cần sản phẩm.",
+        "estimatedStartMs": 2500,
+        "estimatedEndMs": 46000,
+        "story": "Chai nước được đặt trong ngữ cảnh quà tặng thay vì giải khát.",
+        "lesson": "Bối cảnh sử dụng làm thay đổi giá trị cảm nhận.",
+        "actions": ["Viết một tình huống khách thật sự cần sản phẩm", "Đặt sản phẩm trong đúng bối cảnh đó"]
+      },
+      "close": {
+        "displayText": "Lưu video này để thử cho sản phẩm của bạn.",
+        "voiceText": "Lưu video này để thử cho sản phẩm của bạn.",
+        "estimatedStartMs": 46000,
+        "estimatedEndMs": 50000,
+        "cta": "save"
+      }
+    },
+    "pronunciationOverrides": []
+  },
+  "onScreenCopy": [{"id": "T01", "text": "BỐI CẢNH ĐỔI GIÁ TRỊ"}],
+  "beats": [
+    {"id": "B01", "startMs": 0, "endMs": 2500, "purpose": "hook"},
+    {"id": "B02", "startMs": 2500, "endMs": 46000, "purpose": "body"},
+    {"id": "B03", "startMs": 46000, "endMs": 50000, "purpose": "close"}
+  ],
+  "visualCues": [
+    {"id":"C01","startMs":0,"endMs":1000,"spokenAnchor":"Một chai nước","semanticIntent":"Giới thiệu chai nước","composition":"code","exit":"replace","items":[{"id":"i01","kind":"code","role":"chai nước"}]},
+    {"id":"C02","startMs":1000,"endMs":2500,"spokenAnchor":"đắt gấp ba","semanticIntent":"Hiện tương phản giá","composition":"code","exit":"replace","items":[{"id":"i02","kind":"code","role":"giá"}]},
+    {"id":"C03","startMs":2500,"endMs":5000,"spokenAnchor":"vẫn bán hết","semanticIntent":"Hiện kết quả bán hàng","composition":"code","exit":"replace","items":[{"id":"i03","kind":"code","role":"hết hàng"}]},
+    {"id":"C04","startMs":5000,"endMs":7500,"spokenAnchor":"Khách không mua","semanticIntent":"Phủ định giả định","composition":"code","exit":"replace","items":[{"id":"i04","kind":"code","role":"phủ định"}]},
+    {"id":"C05","startMs":7500,"endMs":10000,"spokenAnchor":"nước nhiều hơn","semanticIntent":"So lượng sản phẩm","composition":"code","exit":"replace","items":[{"id":"i05","kind":"code","role":"dung tích"}]},
+    {"id":"C06","startMs":10000,"endMs":12500,"spokenAnchor":"họ mua cảm giác","semanticIntent":"Chuyển sang cảm nhận","composition":"code","exit":"replace","items":[{"id":"i06","kind":"code","role":"cảm giác"}]},
+    {"id":"C07","startMs":12500,"endMs":15000,"spokenAnchor":"món quà chỉn chu","semanticIntent":"Hiện ngữ cảnh quà","composition":"code","exit":"replace","items":[{"id":"i07","kind":"code","role":"quà tặng"}]},
+    {"id":"C08","startMs":15000,"endMs":17500,"spokenAnchor":"Cửa hàng đặt chai","semanticIntent":"Hiện hành động trưng bày","composition":"code","exit":"replace","items":[{"id":"i08","kind":"code","role":"trưng bày"}]},
+    {"id":"C09","startMs":17500,"endMs":20000,"spokenAnchor":"bên cạnh bó hoa","semanticIntent":"Hiện quan hệ sản phẩm","composition":"compare","exit":"replace","items":[{"id":"i09a","kind":"code","role":"chai"},{"id":"i09b","kind":"code","role":"hoa"}]},
+    {"id":"C10","startMs":20000,"endMs":22500,"spokenAnchor":"thay vì tủ lạnh","semanticIntent":"So bối cảnh cũ","composition":"compare","exit":"replace","items":[{"id":"i10a","kind":"code","role":"quà"},{"id":"i10b","kind":"code","role":"tủ lạnh"}]},
+    {"id":"C11","startMs":22500,"endMs":25000,"spokenAnchor":"Cách trưng bày","semanticIntent":"Nhấn mạnh cách đặt","composition":"code","exit":"replace","items":[{"id":"i11","kind":"code","role":"trưng bày"}]},
+    {"id":"C12","startMs":25000,"endMs":27500,"spokenAnchor":"đổi cách khách hiểu","semanticIntent":"Hiện thay đổi nhận thức","composition":"transform","exit":"replace","items":[{"id":"i12","kind":"code","role":"nhận thức"}]},
+    {"id":"C13","startMs":27500,"endMs":30000,"spokenAnchor":"Bài học về thương hiệu","semanticIntent":"Mở bài học","composition":"code","exit":"replace","items":[{"id":"i13","kind":"code","role":"bài học"}]},
+    {"id":"C14","startMs":30000,"endMs":32500,"spokenAnchor":"giá trị không nằm","semanticIntent":"Phủ định vị trí giá trị","composition":"code","exit":"replace","items":[{"id":"i14","kind":"code","role":"giá trị"}]},
+    {"id":"C15","startMs":32500,"endMs":35000,"spokenAnchor":"trong món đồ","semanticIntent":"Hiện sản phẩm đơn lẻ","composition":"code","exit":"replace","items":[{"id":"i15","kind":"code","role":"món đồ"}]},
+    {"id":"C16","startMs":35000,"endMs":37500,"spokenAnchor":"nằm trong hoàn cảnh","semanticIntent":"Hiện bối cảnh quyết định","composition":"code","exit":"replace","items":[{"id":"i16","kind":"code","role":"hoàn cảnh"}]},
+    {"id":"C17","startMs":37500,"endMs":40000,"spokenAnchor":"Hãy viết ra","semanticIntent":"Bắt đầu hành động","composition":"code","exit":"replace","items":[{"id":"i17","kind":"code","role":"viết"}]},
+    {"id":"C18","startMs":40000,"endMs":42500,"spokenAnchor":"một tình huống","semanticIntent":"Định nghĩa tình huống","composition":"code","exit":"replace","items":[{"id":"i18","kind":"code","role":"tình huống"}]},
+    {"id":"C19","startMs":42500,"endMs":45000,"spokenAnchor":"khách cần sản phẩm","semanticIntent":"Gắn nhu cầu khách","composition":"code","exit":"replace","items":[{"id":"i19","kind":"code","role":"nhu cầu"}]},
+    {"id":"C20","startMs":45000,"endMs":47500,"spokenAnchor":"Lưu video này","semanticIntent":"Kêu gọi lưu video","composition":"code","exit":"replace","items":[{"id":"i20","kind":"code","role":"lưu"}]},
+    {"id":"C21","startMs":47500,"endMs":50000,"spokenAnchor":"thử cho sản phẩm của bạn","semanticIntent":"Khép CTA lưu","composition":"code","exit":"replace","items":[{"id":"i21","kind":"code","role":"áp dụng"}]}
+  ],
+  "assets": [{"id":"A01","sourceType":"generated","provider":"flow-agent","stickerTreatment":"remotion-paper","hasBakedContour":false,"outputPath":"public/illustrations/ep101/a01-v01.png","mediaPrompt":"Photoreal source cutout on uniform chroma green #00FF00. No gradient, texture, vignette, shadow, green rim, text, logo, watermark, background or baked paper."}],
+  "editBlueprint": {"captionTop":1110,"wordHighlight":true,"whiteSpace":"pre-wrap","maxActiveScale":1.15,"render":"local"},
+  "sources": [{"title":"Example source","url":"https://example.com/brand-story","accessedAt":"2026-08-17","supports":"Case context used for the fixture"}],
+  "quotaPlan": {"estimatedImageCalls":1,"estimatedTtsCalls":0,"idempotencyPrefix":"ep101-v01"},
+  "approval": {"status":"script-review","version":1,"approvedAt":null}
+}

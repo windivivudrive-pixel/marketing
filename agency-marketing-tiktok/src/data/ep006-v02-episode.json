@@ -1,0 +1,1866 @@
+{
+  "schemaVersion": 2,
+  "id": "EP006",
+  "slug": "gia-cao-khong-tu-tao-cao-cap-v02",
+  "title": "Cùng một ly, đổi giá là thành cao cấp?",
+  "durationMs": 49150,
+  "cardA": {
+    "label": "49K",
+    "sublabel": "Hôm qua",
+    "assetId": "A03"
+  },
+  "cardB": {
+    "label": "69K",
+    "sublabel": "Hôm nay",
+    "assetId": "A04"
+  },
+  "assets": [
+    {
+      "id": "A03",
+      "src": "ep006/v02/generated/a03-cup-basic-alpha-v02.png",
+      "alt": "Ly cà phê cơ bản",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A04",
+      "src": "ep006/v02/generated/a04-cup-signature-alpha-v02.png",
+      "alt": "Ly cà phê đặc trưng",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    },
+    {
+      "id": "A05",
+      "src": "ep006/v02/generated/a05-cup-limited-alpha-v02.png",
+      "alt": "Ly cà phê giới hạn",
+      "kind": "image",
+      "stickerTreatment": "remotion-paper",
+      "hasBakedContour": false
+    }
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "startMs": 0,
+      "endMs": 2542,
+      "purpose": "hook",
+      "focus": "both",
+      "headline": "familiarHook",
+      "body": "Mở bằng một thay đổi giá rất quen thuộc",
+      "assetIds": [
+        "A03"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B02",
+      "startMs": 2542,
+      "endMs": 8474,
+      "purpose": "answer",
+      "focus": "both",
+      "headline": "curiosityBuild",
+      "body": "Đặt người xem vào phản ứng tự nhiên của khách",
+      "assetIds": [
+        "A03"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B03",
+      "startMs": 8474,
+      "endMs": 15253,
+      "purpose": "compare",
+      "focus": "both",
+      "headline": "perspectiveFlip",
+      "body": "Lật từ con số sang lý do để chọn",
+      "assetIds": [
+        "A03"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B04",
+      "startMs": 15253,
+      "endMs": 26270,
+      "purpose": "example",
+      "focus": "both",
+      "headline": "marketingDecode",
+      "body": "Giải thích cơ chế bằng ba tình huống sử dụng",
+      "assetIds": [
+        "A03"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B05",
+      "startMs": 26270,
+      "endMs": 35591,
+      "purpose": "example",
+      "focus": "both",
+      "headline": "proof",
+      "body": "Chứng minh khách so tình huống và khác biệt",
+      "assetIds": [
+        "A03"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B06",
+      "startMs": 35591,
+      "endMs": 43218,
+      "purpose": "payoff",
+      "focus": "both",
+      "headline": "lesson",
+      "body": "Gọi tên nguyên lý marketing sau khi cơ chế đã rõ",
+      "assetIds": [
+        "A03"
+      ],
+      "transition": "push"
+    },
+    {
+      "id": "B07",
+      "startMs": 43218,
+      "endMs": 49150,
+      "purpose": "cta",
+      "focus": "both",
+      "headline": "application",
+      "body": "Cho một bài test có thể làm ngay và một CTA",
+      "assetIds": [
+        "A03"
+      ],
+      "transition": "push"
+    }
+  ],
+  "audio": {
+    "voiceSrc": "audio/ep006-voice-cartesia-v02.wav",
+    "voiceVolume": 1,
+    "musicSrc": "audio/background-music-v01.mp3",
+    "musicVolume": 0.08
+  },
+  "wordsSrc": "src/data/ep006-v02-words.json",
+  "motionGrammar": "continuous-stage-v1",
+  "visualCues": [
+    {
+      "id": "C01",
+      "startMs": 0,
+      "endMs": 980,
+      "spokenAnchor": "Cùng",
+      "semanticIntent": "Đặt ly cà phê quen thuộc và cú nhảy giá vào cùng một khung",
+      "composition": "compare",
+      "exit": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "cut",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "scale",
+          "sfx": "sticker-popup",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 20,
+              "scale": 0.88,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": -80,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        },
+        {
+          "id": "price-board",
+          "kind": "code",
+          "codeTemplate": "price-board",
+          "text": "49K → 69K",
+          "role": "bằng chứng giá đổi",
+          "enterMs": 0,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 220,
+              "y": 30,
+              "scale": 0.82,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 180,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "startMs": 980,
+      "endMs": 1620,
+      "spokenAnchor": "đổi",
+      "semanticIntent": "Giữ nguyên ly và chỉ biến đổi con số",
+      "composition": "compare",
+      "exit": "transform",
+      "camera": {
+        "mode": "follow",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -80,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -110,
+              "y": 0,
+              "scale": 1.08,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "price-board",
+          "kind": "code",
+          "codeTemplate": "price-board",
+          "text": "49K → 69K",
+          "role": "bằng chứng giá đổi",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 180,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 1.12,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "startMs": 1620,
+      "endMs": 2680,
+      "spokenAnchor": "cao",
+      "semanticIntent": "Khóa nghịch lý bằng câu hỏi trực tiếp",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -110,
+              "y": 0,
+              "scale": 1.08,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -150,
+              "y": 20,
+              "scale": 0.95,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "hook-question",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "THÀNH CAO CẤP?",
+          "role": "câu hỏi mở",
+          "enterMs": 1620,
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 170,
+              "y": 40,
+              "scale": 0.8,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "startMs": 2680,
+      "endMs": 4760,
+      "spokenAnchor": "qua",
+      "semanticIntent": "Đưa thẻ giá về mốc hôm qua",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -150,
+              "y": 20,
+              "scale": 0.95,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "to": {
+              "x": -120,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "yesterday-price",
+          "kind": "code",
+          "codeTemplate": "metric",
+          "text": "49K",
+          "role": "giá hôm qua",
+          "enterMs": 2680,
+          "motion": "stamp",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.75,
+              "rotation": 3,
+              "opacity": 0
+            },
+            "to": {
+              "x": 170,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "startMs": 4760,
+      "endMs": 6720,
+      "spokenAnchor": "nay",
+      "semanticIntent": "Match-move thẻ giá sang mốc hôm nay mà ly không đổi",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -120,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -120,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "today-price",
+          "kind": "code",
+          "codeTemplate": "metric",
+          "text": "69K",
+          "role": "giá hôm nay",
+          "enterMs": 4760,
+          "motion": "stamp",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 170,
+              "y": 0,
+              "scale": 0.78,
+              "rotation": -2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 170,
+              "y": 0,
+              "scale": 1.12,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "startMs": 6720,
+      "endMs": 8480,
+      "spokenAnchor": "nghìn.",
+      "semanticIntent": "Đưa câu hỏi thật của khách lên cạnh đúng chiếc ly",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -120,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 20,
+              "scale": 0.92,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "value-question",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "THÊM TIỀN CHO ĐIỀU GÌ?",
+          "role": "câu hỏi giá trị",
+          "enterMs": 6720,
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 180,
+              "y": 50,
+              "scale": 0.78,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 140,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "startMs": 8480,
+      "endMs": 10680,
+      "spokenAnchor": "khách",
+      "semanticIntent": "Hạ thẻ giá xuống để chuyển sự chú ý sang cơ chế",
+      "composition": "solo",
+      "exit": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 20,
+              "scale": 0.92,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.28,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "startMs": 10680,
+      "endMs": 13100,
+      "spokenAnchor": "đây",
+      "semanticIntent": "Phủ định việc khách mua một con số cao hơn",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.28,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -130,
+              "y": 0,
+              "scale": 1.08,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "not-number",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "KHÔNG CHỈ LÀ CON SỐ",
+          "role": "phủ định giả định",
+          "enterMs": 10680,
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 180,
+              "y": 0,
+              "scale": 0.82,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "startMs": 13100,
+      "endMs": 15500,
+      "spokenAnchor": "một",
+      "semanticIntent": "Đặt khoảng trống lý do cạnh sản phẩm",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -130,
+              "y": 0,
+              "scale": 1.08,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -170,
+              "y": 10,
+              "scale": 0.96,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "reason-space",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "LÝ DO ĐỂ CHỌN",
+          "role": "cơ chế ẩn",
+          "enterMs": 13100,
+          "motion": "stamp",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 160,
+              "y": 40,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 140,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "startMs": 15500,
+      "endMs": 17440,
+      "spokenAnchor": "do",
+      "semanticIntent": "Bắt đầu biến cùng chiếc ly qua các tình huống",
+      "composition": "solo",
+      "exit": "transform",
+      "camera": {
+        "mode": "follow",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -170,
+              "y": 10,
+              "scale": 0.96,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.18,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "startMs": 17440,
+      "endMs": 19860,
+      "spokenAnchor": "cho",
+      "semanticIntent": "Di chuyển ly sang tình huống cần nhanh",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "track",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.18,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -180,
+              "y": 20,
+              "scale": 0.98,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "fast-label",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "CẦN NHANH",
+          "role": "tình huống cơ bản",
+          "enterMs": 17440,
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 190,
+              "y": 20,
+              "scale": 0.8,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "startMs": 19860,
+      "endMs": 22160,
+      "spokenAnchor": "chọn",
+      "semanticIntent": "Giữ ly và bổ sung khác biệt thật",
+      "composition": "compare",
+      "exit": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -180,
+              "y": 20,
+              "scale": 0.98,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": -150,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "signature-cup",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "khác biệt nguyên liệu và phục vụ",
+          "enterMs": 19860,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 200,
+              "y": 30,
+              "scale": 0.75,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 160,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "startMs": 22160,
+      "endMs": 23960,
+      "spokenAnchor": "phục",
+      "semanticIntent": "Match-move trọng tâm từ ly cơ bản sang ly đặc trưng",
+      "composition": "compare",
+      "exit": "transform",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -150,
+              "y": 0,
+              "scale": 1.04,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -210,
+              "y": 20,
+              "scale": 0.82,
+              "rotation": -2,
+              "opacity": 0.55
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "signature-cup",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "ly đặc trưng",
+          "enterMs": 19860,
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 160,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 20,
+              "y": 0,
+              "scale": 1.22,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "startMs": 23960,
+      "endMs": 26820,
+      "spokenAnchor": "Gắn",
+      "semanticIntent": "Mở rộng cùng logic sang lựa chọn giới hạn",
+      "composition": "sequence",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -210,
+              "y": 20,
+              "scale": 0.82,
+              "rotation": -2,
+              "opacity": 0.55
+            },
+            "to": {
+              "x": -220,
+              "y": 30,
+              "scale": 0.72,
+              "rotation": -3,
+              "opacity": 0.65
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "signature-cup",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "ly đặc trưng",
+          "enterMs": 19860,
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 20,
+              "y": 0,
+              "scale": 1.22,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 10,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "occasion-cup",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "lựa chọn cho dịp cụ thể",
+          "enterMs": 23960,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 230,
+              "y": 40,
+              "scale": 0.68,
+              "rotation": 3,
+              "opacity": 0
+            },
+            "to": {
+              "x": 220,
+              "y": 20,
+              "scale": 0.9,
+              "rotation": 1,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "startMs": 26820,
+      "endMs": 28820,
+      "spokenAnchor": "giới",
+      "semanticIntent": "Giữ ba trạng thái trong cùng một sân khấu để bắt đầu chứng minh",
+      "composition": "sequence",
+      "exit": "transform",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -220,
+              "y": 30,
+              "scale": 0.72,
+              "rotation": -3,
+              "opacity": 0.65
+            },
+            "to": {
+              "x": -230,
+              "y": 0,
+              "scale": 0.78,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "signature-cup",
+          "kind": "asset",
+          "assetId": "A04",
+          "role": "ly đặc trưng",
+          "enterMs": 19860,
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 10,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 0.9,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "occasion-cup",
+          "kind": "asset",
+          "assetId": "A05",
+          "role": "ly giới hạn",
+          "enterMs": 23960,
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 220,
+              "y": 20,
+              "scale": 0.9,
+              "rotation": 1,
+              "opacity": 1
+            },
+            "to": {
+              "x": 230,
+              "y": 0,
+              "scale": 0.84,
+              "rotation": 2,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "startMs": 28820,
+      "endMs": 30680,
+      "spokenAnchor": "chỉ",
+      "semanticIntent": "Thu nhỏ thẻ giá để ba tình huống nổi lên",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -230,
+              "y": 0,
+              "scale": 0.78,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": -140,
+              "y": 0,
+              "scale": 0.98,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "not-price-only",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "KHÔNG CHỈ SO GIÁ",
+          "role": "phủ định khung so sánh cũ",
+          "enterMs": 28820,
+          "motion": "stamp",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 170,
+              "y": 30,
+              "scale": 0.78,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C17",
+      "startMs": 30680,
+      "endMs": 33060,
+      "spokenAnchor": "biệt",
+      "semanticIntent": "Nối sản phẩm với tình huống sử dụng",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "pan",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "track",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -140,
+              "y": 0,
+              "scale": 0.98,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 10,
+              "scale": 0.9,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "situations",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "NHANH · ĐẶC TRƯNG · DỊP RIÊNG",
+          "role": "ba tình huống sử dụng",
+          "enterMs": 30680,
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 170,
+              "y": 40,
+              "scale": 0.8,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 140,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C18",
+      "startMs": 33060,
+      "endMs": 35800,
+      "spokenAnchor": "giá",
+      "semanticIntent": "Đưa khác biệt thật về cạnh ly thay cho trang trí",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "follow",
+        "intensity": "medium"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 10,
+              "scale": 0.9,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "to": {
+              "x": -130,
+              "y": 0,
+              "scale": 1.06,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "real-difference",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "KHÁC BIỆT NHÌN THẤY ĐƯỢC",
+          "role": "bằng chứng giá trị",
+          "enterMs": 33060,
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 180,
+              "y": 40,
+              "scale": 0.75,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 0.96,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C19",
+      "startMs": 35800,
+      "endMs": 37860,
+      "spokenAnchor": "hợp",
+      "semanticIntent": "Chỉ gọi tên marketing sau khi cơ chế đã được nhìn thấy",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -130,
+              "y": 0,
+              "scale": 1.06,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -190,
+              "y": 20,
+              "scale": 0.88,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "marketing-term",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "ĐỊNH VỊ GIÁ",
+          "role": "tên nguyên lý",
+          "enterMs": 35800,
+          "motion": "stamp",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 180,
+              "y": 40,
+              "scale": 0.8,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C20",
+      "startMs": 37860,
+      "endMs": 40040,
+      "spokenAnchor": "giải",
+      "semanticIntent": "Biến nguyên lý thành cách khách so sánh",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -190,
+              "y": 20,
+              "scale": 0.88,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "to": {
+              "x": -150,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "comparison-design",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "THIẾT KẾ CÁCH SO SÁNH",
+          "role": "giải nghĩa nguyên lý",
+          "enterMs": 37860,
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 180,
+              "y": 50,
+              "scale": 0.78,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 0.96,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C21",
+      "startMs": 40040,
+      "endMs": 41680,
+      "spokenAnchor": "mới.",
+      "semanticIntent": "Đặt điều kiện để giá cao có ý nghĩa",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "static",
+        "intensity": "subtle"
+      },
+      "transition": "mask-reveal",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -150,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -170,
+              "y": 0,
+              "scale": 0.96,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "easing": "linear"
+          }
+        },
+        {
+          "id": "condition",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "GIÁ CAO CẦN KHÁC BIỆT THẬT",
+          "role": "bài học duy nhất",
+          "enterMs": 40040,
+          "motion": "reveal",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 170,
+              "y": 20,
+              "scale": 0.8,
+              "rotation": 1,
+              "opacity": 0
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C22",
+      "startMs": 41680,
+      "endMs": 43580,
+      "spokenAnchor": "được",
+      "semanticIntent": "Chốt rằng khác biệt phải tự được nhìn thấy",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "follow",
+        "intensity": "subtle"
+      },
+      "transition": "zoom-through",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -170,
+              "y": 0,
+              "scale": 0.96,
+              "rotation": -1,
+              "opacity": 1
+            },
+            "to": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.18,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "seen-first",
+          "kind": "code",
+          "codeTemplate": "label",
+          "text": "NHÌN THẤY TRƯỚC · GIẢI THÍCH SAU",
+          "role": "câu chốt bài học",
+          "enterMs": 41680,
+          "motion": "stamp",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 180,
+              "scale": 0.78,
+              "rotation": 0,
+              "opacity": 0
+            },
+            "to": {
+              "x": 0,
+              "y": 150,
+              "scale": 0.9,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C23",
+      "startMs": 43580,
+      "endMs": 45540,
+      "spokenAnchor": "định",
+      "semanticIntent": "Dẫn ly tới bài test bảng giá có nghĩa",
+      "composition": "code",
+      "exit": "carry",
+      "camera": {
+        "mode": "pan",
+        "intensity": "medium"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "track",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": 0,
+              "y": 0,
+              "scale": 1.18,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": -210,
+              "y": 20,
+              "scale": 0.76,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "pricing-test",
+          "kind": "code",
+          "codeTemplate": "price-board",
+          "text": "BẢNG GIÁ\nCƠ BẢN · ĐẶC TRƯNG · DỊP RIÊNG",
+          "role": "bằng chứng để người mới tự chọn",
+          "enterMs": 43580,
+          "motion": "reveal",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 220,
+              "y": 40,
+              "scale": 0.72,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 130,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C24",
+      "startMs": 45540,
+      "endMs": 46760,
+      "spokenAnchor": "đừng",
+      "semanticIntent": "Cho thấy tiêu chí pass fail của bài test",
+      "composition": "code",
+      "exit": "transform",
+      "camera": {
+        "mode": "push-in",
+        "intensity": "subtle"
+      },
+      "transition": "match-move",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -210,
+              "y": 20,
+              "scale": 0.76,
+              "rotation": -2,
+              "opacity": 1
+            },
+            "to": {
+              "x": -230,
+              "y": 30,
+              "scale": 0.68,
+              "rotation": -2,
+              "opacity": 0.8
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "pricing-test",
+          "kind": "code",
+          "codeTemplate": "price-board",
+          "text": "TỰ CHỈ RA KHÁC BIỆT?\nRÕ → GIỮ GIÁ\nCHƯA RÕ → ĐỪNG VỘI TĂNG",
+          "role": "kết quả bài test",
+          "enterMs": 43580,
+          "motion": "none",
+          "semanticRole": "evidence",
+          "transform": {
+            "from": {
+              "x": 130,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "to": {
+              "x": 80,
+              "y": 0,
+              "scale": 1.05,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        }
+      ]
+    },
+    {
+      "id": "C25",
+      "startMs": 46760,
+      "endMs": 49150,
+      "spokenAnchor": "Lưu",
+      "semanticIntent": "Khép bằng một CTA lưu và giữ sợi dây ly cà phê",
+      "composition": "code",
+      "exit": "replace",
+      "camera": {
+        "mode": "pull-out",
+        "intensity": "subtle"
+      },
+      "transition": "reframe",
+      "items": [
+        {
+          "id": "hero-cup",
+          "kind": "asset",
+          "assetId": "A03",
+          "role": "vật thể dẫn chuyện",
+          "enterMs": 0,
+          "motion": "none",
+          "semanticRole": "subject",
+          "transform": {
+            "from": {
+              "x": -230,
+              "y": 30,
+              "scale": 0.68,
+              "rotation": -2,
+              "opacity": 0.8
+            },
+            "to": {
+              "x": -120,
+              "y": 10,
+              "scale": 0.9,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "ease-out"
+          }
+        },
+        {
+          "id": "save-cta",
+          "kind": "code",
+          "codeTemplate": "button",
+          "text": "LƯU · THỬ VỚI BẢNG GIÁ",
+          "role": "CTA lưu",
+          "enterMs": 46760,
+          "motion": "stamp",
+          "semanticRole": "accent",
+          "transform": {
+            "from": {
+              "x": 180,
+              "y": 30,
+              "scale": 0.78,
+              "rotation": 2,
+              "opacity": 0
+            },
+            "to": {
+              "x": 150,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "spring"
+          }
+        }
+      ]
+    }
+  ]
+}

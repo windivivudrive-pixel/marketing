@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Generated video outputs & temporary frame directories
+output_videos/
+temp_*/
+
+# OS files
+.DS_Store
+._*
+
+# Logs
+*.log

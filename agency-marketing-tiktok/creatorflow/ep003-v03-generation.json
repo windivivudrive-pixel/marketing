@@ -1,0 +1,97 @@
+{
+  "episode": "ep003",
+  "version": "v03",
+  "identityLock": "Photoreal Vietnamese sticker source, matte and soft upper-left daylight, with a restrained hot-pink accent on the element and clean ink-black details. One complete crop-safe subject only on perfectly uniform chroma green #00FF00, at least 12% empty margin. In Remotion, its alpha silhouette—not a rectangle—gets a soft pastel-pink watercolor paper backing, irregular ripped-white contour, very soft paper shadow and hot-pink offset. No background, card, text, number, logo, watermark, fake UI, neon or glossy game-like 3D.",
+  "jobs": [
+    {
+      "id": "h01",
+      "slug": "affiliate-outcomes",
+      "assetIds": ["H01"],
+      "kind": "individual-complex",
+      "aspectRatio": "4:5",
+      "output": "public/ep003/v03/generated/h01-affiliate-outcomes-green-v02.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep003-v03-silhouette-paper-h01",
+      "prompt": "One adult Vietnamese small-shop operator, full upper-body crop-safe silhouette, holding a tidy forward-moving bundle of three sealed generic apparel orders in one arm and one returned parcel in the other; expression reads alert but not defeated. This is one integrated hero sticker, not a split screen, poster, collage, paper card or full scene. No brands, labels, words, numbers, logos, or interface."
+    },
+    {
+      "id": "a04",
+      "slug": "unbriefed-creators",
+      "assetIds": ["A04"],
+      "kind": "individual-complex",
+      "aspectRatio": "3:4",
+      "output": "public/ep003/v03/generated/a04-unbriefed-creators-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep003-v03-silhouette-paper-a04",
+      "prompt": "Five adult Vietnamese content creators standing as one crop-safe group, each holding a different blank sheet and looking in different directions, casual cream, denim-blue and pale-pink wardrobe, natural expressions, no stock-photo posing. No text or logos."
+    },
+    {
+      "id": "a06",
+      "slug": "disappointed-shopper",
+      "assetIds": ["A06"],
+      "kind": "individual-complex",
+      "aspectRatio": "3:4",
+      "output": "public/ep003/v03/generated/a06-disappointed-shopper-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep003-v03-silhouette-paper-a06",
+      "prompt": "Adult Vietnamese online shopper holding one closed plain parcel, subtle disappointed and confused expression, complete crop-safe hands and face, product generic and unbranded. No text or logos."
+    },
+    {
+      "id": "a08",
+      "slug": "product-sample",
+      "assetIds": ["A08"],
+      "kind": "individual-detail",
+      "aspectRatio": "3:4",
+      "output": "public/ep003/v03/generated/a08-product-sample-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep003-v03-silhouette-paper-a08",
+      "prompt": "One neatly packed unbranded apparel sample kit: folded black polo, cream tissue paper, pale-pink sample card with blank face, complete crop-safe silhouette, tactile matte materials. No readable text or logo."
+    },
+    {
+      "id": "a10",
+      "slug": "five-creators",
+      "assetIds": ["A10"],
+      "kind": "individual-complex",
+      "aspectRatio": "3:4",
+      "output": "public/ep003/v03/generated/a10-five-creators-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep003-v03-silhouette-paper-a10",
+      "prompt": "Exactly five adult Vietnamese creators arranged as a compact friendly pilot team, each visually distinct, holding blank phones or notebooks, coordinated cream, black, denim-blue and pale-pink wardrobe, honest natural energy. No sixth person, text or logos."
+    },
+    {
+      "id": "a14",
+      "slug": "retained-creator",
+      "assetIds": ["A14"],
+      "kind": "individual-complex",
+      "aspectRatio": "3:4",
+      "output": "public/ep003/v03/generated/a14-retained-creator-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep003-v03-silhouette-paper-a14",
+      "prompt": "One confident but approachable adult Vietnamese creator holding a sealed parcel and a blank performance card, natural three-quarter pose, cream top with restrained pale-pink detail, no exaggerated celebration. No text, number or logo."
+    },
+    {
+      "id": "s01",
+      "slug": "outcome-controls",
+      "assetIds": ["A01", "A02", "A03"],
+      "kind": "three-object-sheet",
+      "aspectRatio": "3:4",
+      "output": "public/ep003/v03/generated/s01-outcome-controls-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep003-v03-silhouette-paper-s01",
+      "prompt": "Exactly three simple isolated objects in three vertical zones with at least 18% clean green gutter between zones: top, a tidy stream of three sealed generic orders moving forward as one compact object; middle, one returned parcel with one small curved black marker arrow; bottom, one tactile commission control dial pushed near its upper limit with no numbers. No people, hands, paper backing, card, fourth subject, overlap, connected shadow or decorative filler."
+    },
+    {
+      "id": "s02",
+      "slug": "content-order",
+      "assetIds": ["A05", "A07", "A09"],
+      "kind": "three-object-sheet",
+      "aspectRatio": "3:4",
+      "output": "public/ep003/v03/generated/s02-content-order-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep003-v03-silhouette-paper-s02",
+      "prompt": "Exactly three simple isolated objects in three vertical zones with at least 18% clean green gutter between zones: top, an oversized pale-pink paper megaphone with one blank speech bubble; middle, one plain delivered apparel parcel with a small opened flap, no hands; bottom, one off-white script folder opening to blank structured pages with pale-pink tabs. No people, paper backing, card, fourth subject, overlap, connected shadow or decorative filler."
+    },
+    {
+      "id": "s03",
+      "slug": "measurement",
+      "assetIds": ["A11", "A12", "A13"],
+      "kind": "three-object-sheet",
+      "aspectRatio": "3:4",
+      "output": "public/ep003/v03/generated/s03-measurement-green-v01.png",
+      "idempotencyKey": "agency-marketing-tiktok-ep003-v03-silhouette-paper-s03",
+      "prompt": "Exactly three simple isolated objects in three vertical zones with at least 18% clean green gutter between zones: top, one sealed parcel beside one blank completed-order receipt and a tactile check badge; middle, three loose blank pale-pink commission tickets drifting as one compact object, no hand; bottom, one large clear magnifying glass examining two small blank result cards. No people, hands, paper backing, card, fourth subject, overlap, connected shadow or decorative filler."
+    }
+  ]
+}

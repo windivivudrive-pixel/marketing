@@ -1,0 +1,63 @@
+{
+  "episode": "EP008",
+  "version": "v01",
+  "model": "gem_pix_2",
+  "idempotencyPrefix": "agency-marketing-tiktok-ep008-v01-run1-",
+  "identityLock": "PHOTOREAL VIETNAMESE STICKER SOURCE ONLY. One complete crop-safe subject, matte finish, soft upper-left daylight, restrained hot-pink accent and clean ink-black details. BACKGROUND REQUIREMENT: every pixel outside the subject must be one identical solid RGB 0,255,0 chroma green #00FF00; perfectly flat, no lighting variation. Keep at least 12 percent empty green margin on every side. Do not create a scene, card, poster, collage, paper backing, torn edge, frame, border, floor, table, cast shadow, reflection, vignette, gradient, texture, green rim light, decorative sparkle, extra object, text, logo, watermark, neon or glossy 3D. Remotion alone adds the silhouette-backed watercolor paper, ripped-white contour, hot-pink offset, shadows, arrows and all readable copy.",
+  "jobs": [
+    {
+      "id": "A01",
+      "size": "1024x1024",
+      "output": "public/ep008/v01/generated/a01-unboxing-contrast-green-v01.png",
+      "prompt": "Two parcel shipping boxes side by side on uniform chroma green #00FF00 with 12% margin: on left, a messy cardboard box with peeling yellow tape placed near a trash bin; on right, a neat clean aesthetic brown kraft cardboard shipping box with a bright red pull strip held gently by human hands, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A02",
+      "size": "1024x1024",
+      "output": "public/ep008/v01/generated/a02-neat-box-red-strip-green-v01.png",
+      "prompt": "A single premium minimalist brown kraft cardboard shipping box with a prominent bright red tear strip zipper ribbon running horizontally across the front with a small pull tab on uniform chroma green #00FF00 with 12% margin, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A03",
+      "size": "1024x1024",
+      "output": "public/ep008/v01/generated/a03-taped-box-cutter-knife-green-v01.png",
+      "prompt": "Frustrating package opening scene on uniform chroma green #00FF00 with 12% margin: a cardboard parcel box messy wrapped in thick multi-layered yellow plastic packing tape, human hand holding a metal utility cutter knife struggling to slice through the tape, soft daylight, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A04",
+      "size": "1024x1024",
+      "output": "public/ep008/v01/generated/a04-tear-strip-action-green-v01.png",
+      "prompt": "Close-up of human fingers pulling and peeling a vibrant red tear strip ribbon across a brown kraft cardboard box on uniform chroma green #00FF00 with 12% margin, smoothly zipping open with clean paper edges and paper teeth, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A05",
+      "size": "1024x1024",
+      "output": "public/ep008/v01/generated/a05-box-blooming-open-green-v01.png",
+      "prompt": "A neat brown kraft shipping box beautifully blooming open with clean flaps folded back on uniform chroma green #00FF00 with 12% margin, revealing neatly wrapped white tissue paper and a clean gift seal inside, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A06",
+      "size": "1024x1024",
+      "output": "public/ep008/v01/generated/a06-customer-filming-unboxing-green-v01.png",
+      "prompt": "A happy young customer sitting at an aesthetic wooden table on uniform chroma green #00FF00 with 12% margin, filming a package unboxing video with a modern smartphone mounted on a mini desk tripod, smiling in excitement, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A07",
+      "size": "1024x1024",
+      "output": "public/ep008/v01/generated/a07-tactile-dopamine-concept-green-v01.png",
+      "prompt": "Conceptual illustration of tactile delight and sensory pleasure on uniform chroma green #00FF00 with 12% margin: a clean fingertip touch creating subtle harmonic pink and pastel ripple waves connected to a glowing reward star badge, soft daylight, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A08",
+      "size": "1024x1024",
+      "output": "public/ep008/v01/generated/a08-timer-box-audit-green-v01.png",
+      "prompt": "A classic stainless steel mechanical stopwatch displaying 00:05 seconds sitting next to a neat minimalist brown kraft parcel box on uniform chroma green #00FF00 with 12% margin, soft daylight from upper-left, clear sharp outline, isolated cutout, no gradient, texture, vignette, shadow."
+    },
+    {
+      "id": "A09",
+      "size": "1024x1024",
+      "output": "public/ep008/v01/generated/a09-d2c-brand-logos-green-v01.png",
+      "prompt": "Two aesthetic minimalist brand logo badges side by side on uniform chroma green #00FF00 with 12% margin: on left, the iconic chic Glossier lowercase typographic logo on a soft pastel pink paper badge; on right, the modern bold Coolmate typographic logo on a clean kraft paper badge, sharp clean outlines, photoreal paper sticker cutout, isolated cutout, no gradient, texture, vignette, shadow."
+    }
+  ]
+}

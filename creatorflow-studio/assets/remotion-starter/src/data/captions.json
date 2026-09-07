@@ -1,0 +1,6 @@
+[
+  {"text":"Same content, very different workload.","startMs":0,"endMs":4000,"timestampMs":0,"confidence":1},
+  {"text":"Save voice, style and approvals.","startMs":4000,"endMs":7200,"timestampMs":4000,"confidence":1},
+  {"text":"Reuse them as one system.","startMs":7200,"endMs":9000,"timestampMs":7200,"confidence":1},
+  {"text":"Fewer surprises. Start approved.","startMs":9000,"endMs":12000,"timestampMs":9000,"confidence":1}
+]

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "projectName": "Agency Marketing Series",
+  "language": "vi",
+  "channelName": "Agency Marketing Series",
+  "seriesLabel": "CHUYỆN BRANDING MỖI NGÀY",
+  "brand": {
+    "name": "Agency Marketing Series",
+    "promise": "Một góc nhìn dễ hiểu. Một việc làm ngay.",
+    "voice": "trẻ trung, giải trí nhẹ, thân thiện chuyên nghiệp",
+    "footerLeft": "MỘT CÂU CHUYỆN. MỘT BÀI HỌC.",
+    "footerRight": "BRANDING, DỄ HIỂU HƠN"
+  },
+  "style": {
+    "preset": "branding-story-paper-pink",
+    "vibe": "Vox style trẻ trung, photoreal cutout kết hợp editorial scrapbook trắng hồng"
+  },
+  "production": {"width": 1080, "height": 1920, "fps": 30, "captionTop": 1160}
+}

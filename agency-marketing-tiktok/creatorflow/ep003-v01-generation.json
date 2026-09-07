@@ -1,0 +1,74 @@
+{
+  "episode": "EP003",
+  "version": "v01",
+  "model": "gem_pix_2",
+  "reference": "../reference style/scene.png",
+  "idempotencyPrefix": "agency-marketing-tiktok-ep003-v01-",
+  "identityLock": "Final visual world is a bright Vietnamese Vox-style editorial collage: warm off-white lightly wrinkled paper, pale blush pink paper cards, deep mascot pink used only as a small accent, crisp black marker arrows, realistic Vietnamese people and commercial objects cut out cleanly, subtle matte photo grade, soft daylight from upper left, gentle natural shadow, tactile torn deckle edges, playful but precise composition, high mobile readability. No generated words, letters, numbers, logos, watermarks, fake social-media interface, neon, purple-blue gradient, dark SaaS UI, green clothing, or clutter. All readable copy, comments, charts, and labels are built later in Remotion.",
+  "jobs": [
+    {
+      "id": "s01-hook-thumbnail",
+      "mode": "hero",
+      "size": "1024x1792",
+      "output": "public/ep003/generated/s01-hook-thumbnail-green.png",
+      "crops": ["s01-hook-thumbnail.png"],
+      "prompt": "Create a high-impact vertical 9:16 hook collage sheet. Top: a premium sleek black shipping box labeled 'COOLMATE' surrounded by shiny pastel pink profit badges; Bottom: a crumpled red return shipping label with smoke fumes. Isolated objects with sharp tactile edges. Background perfectly uniform solid chroma key green #00FF00, flat and shadowless. No text on background, no watermark."
+    },
+    {
+      "id": "s02-commission-badge",
+      "mode": "sheet",
+      "size": "1024x1792",
+      "output": "public/ep003/generated/s02-commission-badge-green.png",
+      "crops": ["s02-commission-badge.png"],
+      "prompt": "Create one clean 3:4 studio cutout sheet. Center: a glossy paper-art badge sticker showing '30% COMMISSION' in bright pastel pink font with directional arrows pointing upward. Isolated studio object, crisp edges. Background perfectly uniform solid chroma key green #00FF00, flat and shadowless."
+    },
+    {
+      "id": "s03-clickbait-kit",
+      "mode": "sheet",
+      "size": "1024x1792",
+      "output": "public/ep003/generated/s03-clickbait-kit-green.png",
+      "crops": ["s03-a-megaphone-sale.png", "s03-b-fake-award.png"],
+      "prompt": "Create one clean 3:4 studio cutout sheet with two separate objects. Top: a floating 3D paper megaphone with a pink banner saying 'SALE 1K'. Bottom: a dramatic gold award badge with a red strike-through mark. Isolated objects. Background perfectly uniform solid chroma key green #00FF00, flat and shadowless."
+    },
+    {
+      "id": "s04-return-box",
+      "mode": "sheet",
+      "size": "1024x1792",
+      "output": "public/ep003/generated/s04-return-box-green.png",
+      "crops": ["s04-return-box.png"],
+      "prompt": "Create one clean 3:4 studio cutout sheet. Center: a sad, rejected cardboard delivery box stamped with a large red 'RETURNED' stamp and a frowning customer icon sticker. Isolated object. Background perfectly uniform solid chroma key green #00FF00, flat and shadowless."
+    },
+    {
+      "id": "s05-penalty-flag",
+      "mode": "sheet",
+      "size": "1024x1792",
+      "output": "public/ep003/generated/s05-penalty-flag-green.png",
+      "crops": ["s05-penalty-flag.png"],
+      "prompt": "Create one clean 3:4 studio cutout sheet. Center: a futuristic robot hand holding a bright red warning flag with an exclamation mark, isolated studio object. Background perfectly uniform solid chroma key green #00FF00, flat and shadowless."
+    },
+    {
+      "id": "s06-coolmate-box",
+      "mode": "sheet",
+      "size": "1024x1792",
+      "output": "public/ep003/generated/s06-coolmate-box-green.png",
+      "crops": ["s06-coolmate-box.png"],
+      "prompt": "Create one clean 3:4 studio cutout sheet. Center: an elegant open Coolmate gift box filled with neatly folded apparel and a pink ribbon. Background perfectly uniform solid chroma key green #00FF00, flat and shadowless."
+    },
+    {
+      "id": "s07-coolmate-kit",
+      "mode": "sheet",
+      "size": "1024x1792",
+      "output": "public/ep003/generated/s07-coolmate-kit-green.png",
+      "crops": ["s07-a-script-folder.png", "s07-b-coolmate-polo.png", "s07-c-verified-badge.png"],
+      "prompt": "Create one clean 3:4 studio cutout sheet with three separate objects. Top: a neat folder labeled 'SCRIPT BRIEF'. Middle: a folded premium black polo shirt. Bottom: a gold verified checkmark badge with a green ribbon. Isolated objects. Background perfectly uniform solid chroma key green #00FF00, flat and shadowless."
+    },
+    {
+      "id": "s08-partnership",
+      "mode": "sheet",
+      "size": "1024x1792",
+      "output": "public/ep003/generated/s08-partnership-green.png",
+      "crops": ["s08-partnership-handshake.png"],
+      "prompt": "Create one clean 3:4 studio cutout sheet. Center: two 3D paper-art hands shaking in agreement with floating pastel pink hearts and star icons around them. Isolated object. Background perfectly uniform solid chroma key green #00FF00, flat and shadowless."
+    }
+  ]
+}

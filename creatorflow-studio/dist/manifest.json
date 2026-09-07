@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "source": "/Users/win/Documents/marketing channel/creatorflow-studio",
+  "skills": [
+    "creatorflow-run",
+    "creatorflow-ideate",
+    "creatorflow-script",
+    "creatorflow-edit",
+    "creatorflow-providers"
+  ],
+  "adapters": {
+    "antigravity": "Native plugin plus absolute media MCP configuration",
+    "codex": "Native adapter plus absolute media MCP configuration",
+    "cherryStudio": "Generated system prompt + STDIO MCP configuration",
+    "generic": "Generated system prompt + standard MCP configuration"
+  }
+}

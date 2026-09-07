@@ -1,0 +1,20 @@
+[
+  {"text":"Same","startMs":0,"endMs":500,"timestampMs":0,"confidence":1},
+  {"text":"content","startMs":500,"endMs":1100,"timestampMs":500,"confidence":1},
+  {"text":"very","startMs":1200,"endMs":1750,"timestampMs":1200,"confidence":1},
+  {"text":"different","startMs":1800,"endMs":2400,"timestampMs":1800,"confidence":1},
+  {"text":"workload","startMs":2500,"endMs":3200,"timestampMs":2500,"confidence":1},
+  {"text":"changes","startMs":3200,"endMs":4000,"timestampMs":3200,"confidence":1},
+  {"text":"Save","startMs":4000,"endMs":4500,"timestampMs":4000,"confidence":1},
+  {"text":"voice","startMs":4500,"endMs":4700,"timestampMs":4500,"confidence":1},
+  {"text":"style","startMs":4700,"endMs":5400,"timestampMs":4700,"confidence":1},
+  {"text":"and","startMs":5600,"endMs":5900,"timestampMs":5600,"confidence":1},
+  {"text":"approvals","startMs":5900,"endMs":7200,"timestampMs":5900,"confidence":1},
+  {"text":"Reuse","startMs":7200,"endMs":7900,"timestampMs":7200,"confidence":1},
+  {"text":"them","startMs":7900,"endMs":8400,"timestampMs":7900,"confidence":1},
+  {"text":"system","startMs":8400,"endMs":9000,"timestampMs":8400,"confidence":1},
+  {"text":"Fewer","startMs":9000,"endMs":9600,"timestampMs":9000,"confidence":1},
+  {"text":"surprises","startMs":9600,"endMs":10400,"timestampMs":9600,"confidence":1},
+  {"text":"Start","startMs":10500,"endMs":11100,"timestampMs":10500,"confidence":1},
+  {"text":"approved","startMs":11100,"endMs":12000,"timestampMs":11100,"confidence":1}
+]

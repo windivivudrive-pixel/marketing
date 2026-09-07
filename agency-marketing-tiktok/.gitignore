@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Remotion build bundle
+build/
+
+# Remotion renders & preview frames
+out/
+visual-checks/
+
+# Remotion chrome & engine cache
+.remotion/
+.cache/
+
+# OS files
+.DS_Store
+._*
+
+# Logs & env
+*.log
+.env
+.env.local
+.env.*.local

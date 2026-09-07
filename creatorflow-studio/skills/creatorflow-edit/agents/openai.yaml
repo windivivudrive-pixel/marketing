@@ -1,0 +1,4 @@
+interface:
+  display_name: "CreatorFlow Edit"
+  short_description: "Render Flow-only alpha sticker videos"
+  default_prompt: "Use $creatorflow-edit to check Flow Agent, make clean alpha sticker sources there, and render my approved JSON with a thumbnail-quality hook."

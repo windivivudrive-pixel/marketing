@@ -1,0 +1,88 @@
+# ==========================================
+# Operating System & Cache Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# ==========================================
+# Dependencies & Package Managers
+# ==========================================
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# ==========================================
+# Build & Bundle Caches (Remotion / Webpack / Vite)
+# ==========================================
+build/
+**/build/
+.cache/
+**/.cache/
+.remotion/
+**/.remotion/
+.turbo/
+**/.turbo/
+
+# ==========================================
+# Render Outputs & Heavy Video/Check Assets
+# (Generated renders, previews, test exports)
+# ==========================================
+out/
+**/out/
+visual-checks/
+**/visual-checks/
+output_videos/
+**/output_videos/
+temp_*/
+**/temp_*/
+
+# ==========================================
+# Temporary Dump & Inspection Files
+# ==========================================
+*.log
+*.ndjson
+*.tmp
+*.temp
+
+# ==========================================
+# Python Caches & Virtual Environments
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# ==========================================
+# IDE & Editor Configurations
+# ==========================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace

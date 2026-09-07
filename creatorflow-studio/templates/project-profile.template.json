@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "projectName": "My CreatorFlow Channel",
+  "channelName": "",
+  "seriesLabel": "CHUYỆN BRANDING MỖI NGÀY",
+  "topicSpace": "",
+  "audience": "",
+  "language": "en",
+  "platform": "TikTok",
+  "brand": {
+    "name": "",
+    "promise": "",
+    "voice": "clear, human, useful",
+    "avoid": [],
+    "requiredPhrases": [],
+    "footerLeft": "MỘT CÂU CHUYỆN. MỘT BÀI HỌC.",
+    "footerRight": "BRANDING, DỄ HIỂU HƠN"
+  },
+  "style": {
+    "preset": "branding-story-paper-pink",
+    "vibe": "friendly white and pink torn-paper branding story",
+    "pace": "balanced",
+    "motion": "precise",
+    "captionStyle": "word-highlight-above-mascot"
+  },
+  "resources": {
+    "logo": "",
+    "character": "",
+    "voiceSample": "",
+    "referenceImages": [],
+    "fontFiles": [],
+    "music": "",
+    "soundEffects": []
+  },
+  "providers": {
+    "images": "flow-agent",
+    "flowAgent": {
+      "autoStart": false,
+      "startCwd": "",
+      "startCommand": ["npm", "run", "bridge:all"],
+      "checkTimeoutMs": 5000,
+      "startupTimeoutMs": 45000,
+      "pollIntervalMs": 2000
+    },
+    "voice": "provided-audio",
+    "research": "host-native",
+    "render": "remotion-local"
+  },
+  "production": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "targetSeconds": 45,
+    "maxSeconds": 60,
+    "captionTop": 1110
+  }
+}

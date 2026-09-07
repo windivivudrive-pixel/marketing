@@ -1,0 +1,4 @@
+interface:
+  display_name: "CreatorFlow Providers"
+  short_description: "Check and use shared image and voice providers"
+  default_prompt: "Use $creatorflow-providers to check Flow and Cartesia before production."
